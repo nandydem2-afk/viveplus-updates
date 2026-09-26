@@ -1,6 +1,6 @@
 {
-    "version":  17,
-    "url":  "viveplus-web-v17.zip",
-    "sha256":  "634dda960b8586835136169c0782ed6ef380edb4d5ef5380fe66157a67532212",
-    "notes":  "Corregir conflicto falso al recibir datos de Apple Watch"
+  "version": 18,
+  "url": "viveplus-web-v18.zip",
+  "sha256": "72bbeb8f31c117709b5eafc25636410ae15b5ca8137ae3fb3cf9b841b3e4f1f2",
+  "notes": "Notas atendidas, entrenamiento de 40 min y texto de actualización corregido"
 }
