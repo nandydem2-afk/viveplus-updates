@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "url": "viveplus-web-v13.zip",
-  "sha256": "ed1a4dabd10f41b30e95337c1fc584766610bdfe61a53a37eb9a07242e6e26f5",
-  "notes": "Rutina de fuerza de 3 días con guía por voz y cronómetro"
+  "version": 14,
+  "url": "viveplus-web-v14.zip",
+  "sha256": "1af7025cb9c23805745f45d79746e1c58fb414ce89d6ad1dbee94f490af91eb5",
+  "notes": "Menú semanal y corrección de notas"
 }
