@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "url": "viveplus-web-v14.zip",
-  "sha256": "1af7025cb9c23805745f45d79746e1c58fb414ce89d6ad1dbee94f490af91eb5",
-  "notes": "Menú semanal y corrección de notas"
+  "version": 15,
+  "url": "viveplus-web-v15.zip",
+  "sha256": "83b77a29d1bfbae1eaa7fd62dc5e93cb2e6f6666a7952c103e4de82bc5cf44d9",
+  "notes": "Separar la barra inferior de los botones de Android"
 }
