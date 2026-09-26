@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "url": "viveplus-web-v3.zip",
-  "sha256": "a2b493d35e5ab1f2eb43c188284c2e0560dd753792845c7aeeec217def4131d5",
-  "notes": "Aviso discreto de nuevas actualizaciones"
+  "version": 4,
+  "url": "viveplus-web-v4.zip",
+  "sha256": "133b8fb82f4b690e3d0661f8504b92f745e22375cdeccd11b68cd5bf796eb5d0",
+  "notes": "Comidas desglosadas por alimento y plan opcional"
 }
