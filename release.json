@@ -1,6 +1,6 @@
 {
-    "version":  16,
-    "url":  "viveplus-web-v16.zip",
-    "sha256":  "e86e40504fbd0bbcd691b2138a9b09623e0b158aeb6edf4d482212659881d03a",
-    "notes":  "Inicio con resumen de Apple Watch y ajustes de cadera y muñeca"
+    "version":  17,
+    "url":  "viveplus-web-v17.zip",
+    "sha256":  "634dda960b8586835136169c0782ed6ef380edb4d5ef5380fe66157a67532212",
+    "notes":  "Corregir conflicto falso al recibir datos de Apple Watch"
 }
