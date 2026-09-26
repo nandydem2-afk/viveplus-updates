@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "url": "viveplus-web-v11.zip",
-  "sha256": "fa0f2ddc703f87212c1059e63b057192f35a4ea3d823f37bedd7d01fa96542ea",
-  "notes": "Notas diarias de comidas y entrenamientos con guardado en Google Drive"
+  "version": 12,
+  "url": "viveplus-web-v12.zip",
+  "sha256": "11b8bc19f1bb23bd0fbd61c627e709e03aed33dca221c796daaac0f24ff7c208",
+  "notes": "Añadir bandeja de notas para la IA en Inicio"
 }
