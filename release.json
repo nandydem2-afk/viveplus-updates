@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "url": "viveplus-web-v15.zip",
-  "sha256": "83b77a29d1bfbae1eaa7fd62dc5e93cb2e6f6666a7952c103e4de82bc5cf44d9",
-  "notes": "Separar la barra inferior de los botones de Android"
+    "version":  16,
+    "url":  "viveplus-web-v16.zip",
+    "sha256":  "e86e40504fbd0bbcd691b2138a9b09623e0b158aeb6edf4d482212659881d03a",
+    "notes":  "Inicio con resumen de Apple Watch y ajustes de cadera y muñeca"
 }
