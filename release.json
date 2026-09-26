@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "url": "viveplus-web-v7.zip",
-  "sha256": "7850523a6453c6c887224e5a470e9a51df9ed3c0523b63ba7cbdadee14968978",
-  "notes": "Tres entrenamientos en casa con fotos e instrucciones; banco ajustable"
+  "version": 11,
+  "url": "viveplus-web-v11.zip",
+  "sha256": "fa0f2ddc703f87212c1059e63b057192f35a4ea3d823f37bedd7d01fa96542ea",
+  "notes": "Notas diarias de comidas y entrenamientos con guardado en Google Drive"
 }
