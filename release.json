@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "url": "viveplus-web-v5.zip",
-  "sha256": "1d361c6368b604cbdb9f4572158847ea26f502cf3d27a0dd016e291dda3071e6",
-  "notes": "Rutina de fuerza en casa A/B con mancuernas, adaptada al pie y la muñeca"
+  "version": 6,
+  "url": "viveplus-web-v6.zip",
+  "sha256": "213a9523ecb76565fa4905d484a2efec4a2c7d692d18960ce85e868a29c32486",
+  "notes": "Actualizar comidas con un toque y conservar el historial"
 }
