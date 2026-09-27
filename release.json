@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "url": "viveplus-web-v24.zip",
-  "sha256": "b578bcae0755a316f4318305d7efc9551355e1f05d6ce413d8c902e6a3281057",
-  "notes": "Corrige la descarga de la actualización y conserva las mejoras de kcal, pasos, sueño y entrenamientos guiados"
+  "version": 25,
+  "url": "viveplus-web-v25.zip",
+  "sha256": "5c134ea4f999ab40aceb01f6aeb5cf324d57ae3453ddd47cb3f9cdd9e1a7086e",
+  "notes": "Consulta semanas anteriores de pasos y sueño desde Inicio"
 }
