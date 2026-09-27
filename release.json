@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "url": "viveplus-web-v22.zip",
-  "sha256": "646e4cd11c5fbf565c17bd5439bdcf8fd4b43c818bd88048708a70dbbf597fe2",
-  "notes": "Comidas: tres días anteriores, hoy y tres próximos con notas y marcas por fecha"
+  "version": 23,
+  "url": "viveplus-web-v23.zip",
+  "sha256": "f82ec5850e2843ce7a378e75af6986319e3093caff81132bc67e6f4fa51e7665",
+  "notes": "Kcal totales, detalle semanal de pasos y sueño y entrenamientos guiados con movilidad y estiramientos"
 }
