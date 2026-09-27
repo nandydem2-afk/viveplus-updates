@@ -212,10 +212,10 @@ function importText(text){try{if(text.length>25_000_000)throw Error('El archivo 
 window.viveImportData=importText;
 window.viveUpdateStatus=(message)=>toast(updateStatusText(message));
 let updateAvailable=false;
-window.viveUpdateAvailability=(available)=>{updateAvailable=!!available;const button=document.querySelector('#updateIndicator');button.classList.toggle('available',updateAvailable);button.setAttribute('aria-label',updateAvailable?'Actualización disponible: instalar':'Comprobar actualizaciones');button.title=updateAvailable?'Instalar actualización de Vive+':'Comprobar actualizaciones'};
+window.viveUpdateAvailability=(available)=>{updateAvailable=!!available;const button=document.querySelector('#updateIndicator');if(!button)return;button.classList.toggle('available',updateAvailable);button.setAttribute('aria-label',updateAvailable?'Actualización disponible: instalar':'Comprobar actualizaciones');button.title=updateAvailable?'Instalar actualización de Vive+':'Comprobar actualizaciones'};
 function checkUpdate(notify=false){const url=(localStorage.getItem('vive-update-url')||DEFAULT_UPDATE_URL).trim();if(window.ViveNative&&typeof window.ViveNative.checkUpdateAvailability==='function')window.ViveNative.checkUpdateAvailability(url,notify);else if(window.ViveNative&&notify)window.ViveNative.checkForUpdates(url);else if(notify)toast('La actualización OTA estará disponible en la APK')}
 function installUpdate(){const url=(localStorage.getItem('vive-update-url')||DEFAULT_UPDATE_URL).trim();if(window.ViveNative)window.ViveNative.checkForUpdates(url);else toast('La actualización OTA estará disponible en la APK')}
-document.querySelector('#updateIndicator').addEventListener('click',()=>updateAvailable?installUpdate():checkUpdate(true));
+document.querySelector('#updateIndicator')?.addEventListener('click',()=>updateAvailable?installUpdate():checkUpdate(true));
 document.addEventListener('visibilitychange',()=>{if(!document.hidden){checkUpdate();refreshFromDrive()}});
 document.querySelector('#importFile').addEventListener('change',async e=>{const file=e.target.files[0];if(!file)return;try{importText(await file.text())}finally{e.target.value=''}});
 const hash=location.hash.slice(1);if(['hoy','comidas','entrenar','progreso','perfil'].includes(hash))view=hash;
