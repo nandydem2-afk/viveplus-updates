@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "url": "viveplus-web-v19.zip",
-  "sha256": "0d897bf733ecd7e168e4d2e8f3bbb85c97fa823f95ebf2f4291cb527188a3b4a",
-  "notes": "Rutinas de 40 min para todo el cuerpo con bandas, mancuernas, banco y dominadas asistidas"
+  "version": 20,
+  "url": "viveplus-web-v20.zip",
+  "sha256": "679720e6ef317d71261ebb2c126d516f3a1e3ddfa9c0b8b18a41b9446711af7e",
+  "notes": "Inicio más compacto, sin tarjeta de energía diaria; perfil con medicación y material; aviso de actualización corregido"
 }
