@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "url": "viveplus-web-v23.zip",
-  "sha256": "f82ec5850e2843ce7a378e75af6986319e3093caff81132bc67e6f4fa51e7665",
-  "notes": "Kcal totales, detalle semanal de pasos y sueño y entrenamientos guiados con movilidad y estiramientos"
+  "version": 24,
+  "url": "viveplus-web-v24.zip",
+  "sha256": "b578bcae0755a316f4318305d7efc9551355e1f05d6ce413d8c902e6a3281057",
+  "notes": "Corrige la descarga de la actualización y conserva las mejoras de kcal, pasos, sueño y entrenamientos guiados"
 }
