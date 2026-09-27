@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "url": "viveplus-web-v20.zip",
-  "sha256": "679720e6ef317d71261ebb2c126d516f3a1e3ddfa9c0b8b18a41b9446711af7e",
-  "notes": "Inicio más compacto, sin tarjeta de energía diaria; perfil con medicación y material; aviso de actualización corregido"
+  "version": 21,
+  "url": "viveplus-web-v21.zip",
+  "sha256": "db627e4b792b7c561c2ca59e43ae6252dad516d658814884670df032fe9108e3",
+  "notes": "Resumen personal de Inicio un 25 % más compacto y press inclinado en Casa B"
 }
