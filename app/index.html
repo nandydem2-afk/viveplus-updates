@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#102820">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Vive+">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <meta name="description" content="Tu alimentación, entrenamiento y progreso en un solo lugar.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>Vive+ · Salud y movimiento</title>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#hoy" aria-label="Ir a Hoy"><span class="brand-mark">✳</span> Vive<span class="brand-dot">+</span></a>
+      <div class="top-actions"><button class="avatar" id="profileShortcut" aria-label="Abrir perfil">F</button></div>
+    </header>
+    <main id="view" tabindex="-1"></main>
+    <nav class="bottom-nav" aria-label="Navegación principal">
+      <button data-view="hoy"><span class="nav-icon">⌂</span><span>Hoy</span></button>
+      <button data-view="comidas"><span class="nav-icon">◒</span><span>Comidas</span></button>
+      <button data-view="entrenar"><span class="nav-icon">↗</span><span>Entrenar</span></button>
+      <button data-view="progreso"><span class="nav-icon">▥</span><span>Progreso</span></button>
+      <button data-view="perfil"><span class="nav-icon">◎</span><span>Perfil</span></button>
+    </nav>
+  </div>
+  <dialog id="editor"><form method="dialog" id="editorForm"><div id="editorContent"></div></form></dialog>
+  <input id="importFile" type="file" accept=".json,application/json" hidden>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>
