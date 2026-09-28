@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "url": "viveplus-web-v25.zip",
-  "sha256": "5c134ea4f999ab40aceb01f6aeb5cf324d57ae3453ddd47cb3f9cdd9e1a7086e",
-  "notes": "Consulta semanas anteriores de pasos y sueño desde Inicio"
+  "version": 26,
+  "url": "viveplus-web-v26.zip",
+  "sha256": "edc67ad459fbb507cc8ea5990af3374176391c163219f523d8ce26ffd6029b4a",
+  "notes": "Actualización automática de Drive al abrir o volver a Vive+"
 }
