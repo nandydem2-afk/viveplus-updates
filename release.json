@@ -1,6 +1,6 @@
 {
-  "version": 34,
-  "url": "viveplus-web-v34.zip",
-  "sha256": "4ef5f5af55bb3df5685127a20d2c691c890e937f8777b833306237bc2c20bbf1",
-  "notes": "Mejoras de Vive+"
+  "version": 35,
+  "url": "viveplus-web-v35.zip",
+  "sha256": "5d975b2e9d6f9357d6aa44dfaf97e82848e528a56e83c711b790297944ddbb51",
+  "notes": "Guia automatica, pitidos, bandas por color y seguimiento de series anteriores"
 }
