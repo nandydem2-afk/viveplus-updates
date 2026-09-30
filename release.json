@@ -1,6 +1,6 @@
 {
-  "version": 41,
-  "url": "viveplus-web-v41.zip",
-  "sha256": "22b91b6cd4bbeaa36aa4918ada99a923f93643692c5302bc4d941331e994fd8e",
-  "notes": "Objetivo mensual en Inicio, ideas de comidas variadas y plan rotativo de fuerza y EMOM"
+    "version":  42,
+    "url":  "viveplus-web-v42.zip",
+    "sha256":  "6dfe7b27c4c4d359ae77ebfecfc300a5298a4f2ae4d7f20c67d5cd4d7ecd8bf2",
+    "notes":  "Recuperación de Android: pantalla en blanco y mejoras Vive+"
 }
