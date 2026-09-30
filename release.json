@@ -1,6 +1,6 @@
 {
-  "version": 47,
-  "url": "viveplus-web-v47.zip",
-  "sha256": "cd21722c4fd33e6a0d9d7778adb6e4168ac1f30ffcf9400bf3e5864d8a03bcf9",
-  "notes": "Sustituye marcha sentada por ejercicios de core en cuatro rutinas"
+  "version": 48,
+  "url": "viveplus-web-v48.zip",
+  "sha256": "dc8a3997b1c6e63503515a2e0e102504308a5dda4200dd4c3677f50efee8256c",
+  "notes": "Revisión local de registros y progresión gradual de rutinas en Android"
 }
