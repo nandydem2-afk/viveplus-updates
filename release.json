@@ -1,6 +1,6 @@
 {
-    "version":  43,
-    "url":  "viveplus-web-v43.zip",
-    "sha256":  "6f8c719b38adff3259f930212db9cc13dc03bb8bf67f61324cb423fce281417e",
-    "notes":  "Corrección del contador mensual: reconoce las sesiones guardadas aunque rote el plan semanal"
+  "version": 44,
+  "url": "viveplus-web-v44.zip",
+  "sha256": "842aba2476263f700f85addb2c546a525cbd07245c8af40f37271a96a5986530",
+  "notes": "Mejoras de Vive+"
 }
