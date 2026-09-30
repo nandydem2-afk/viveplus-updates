@@ -1,6 +1,6 @@
 {
-    "version":  53,
-    "url":  "viveplus-web-v53.zip",
-    "sha256":  "7e39e7bbb4c2a3a0b6c4f501ba85f3e72d80b2823eec823f066dc3149deccf00",
-    "notes":  "Reparación de sincronización de datos digestivos"
+    "version":  54,
+    "url":  "viveplus-web-v54.zip",
+    "sha256":  "4930ee2a47a5f809cd7801c94ebf7419ea2c26da3f3e420235164431a39ca14c",
+    "notes":  "Notas atendidas ordenadas por respuesta reciente"
 }
