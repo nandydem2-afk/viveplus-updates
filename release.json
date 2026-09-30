@@ -1,6 +1,6 @@
 {
-    "version":  52,
-    "url":  "viveplus-web-v52.zip",
-    "sha256":  "af763ded40445b900d87b4ccff9cfe4b60a372fe5c5909065b5f65a9ebf0284d",
-    "notes":  "Seguimiento digestivo diario y transición FODMAP guiada"
+    "version":  53,
+    "url":  "viveplus-web-v53.zip",
+    "sha256":  "7e39e7bbb4c2a3a0b6c4f501ba85f3e72d80b2823eec823f066dc3149deccf00",
+    "notes":  "Reparación de sincronización de datos digestivos"
 }
