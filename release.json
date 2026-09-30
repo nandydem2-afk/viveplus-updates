@@ -1,6 +1,6 @@
 {
-    "version":  50,
-    "url":  "viveplus-web-v50.zip",
-    "sha256":  "df305ec6f382319a0ba7661488a6b437f4b9664a98abbea4b91f689461efc1f5",
-    "notes":  "Cambio de día de entrenamiento y ejercicio de core con mancuerna"
+    "version":  51,
+    "url":  "viveplus-web-v51.zip",
+    "sha256":  "451fd52e942db4a54d4c23e32a4a3fbf46b172dbce89f76d6651bff0943c5789",
+    "notes":  "Notas para la IA con respuesta del NAS"
 }
