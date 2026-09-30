@@ -1,6 +1,6 @@
 {
-  "version": 45,
-  "url": "viveplus-web-v45.zip",
-  "sha256": "0d9de5b29951379f2861c2dcaf7caddf4cfb59897c81b41f5d46ef8880fdf6c3",
-  "notes": "Mejoras de Vive+"
+  "version": 46,
+  "url": "viveplus-web-v46.zip",
+  "sha256": "1953efcf44b0e9c5d8766e62881586e15201845a0a4a2c307ca8cdbb7d802768",
+  "notes": "Repara el progreso mensual contando las sesiones guardadas por fecha"
 }
