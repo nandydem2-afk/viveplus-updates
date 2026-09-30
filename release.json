@@ -1,6 +1,6 @@
 {
-    "version":  42,
-    "url":  "viveplus-web-v42.zip",
-    "sha256":  "6dfe7b27c4c4d359ae77ebfecfc300a5298a4f2ae4d7f20c67d5cd4d7ecd8bf2",
-    "notes":  "Recuperación de Android: pantalla en blanco y mejoras Vive+"
+    "version":  43,
+    "url":  "viveplus-web-v43.zip",
+    "sha256":  "6f8c719b38adff3259f930212db9cc13dc03bb8bf67f61324cb423fce281417e",
+    "notes":  "Corrección del contador mensual: reconoce las sesiones guardadas aunque rote el plan semanal"
 }
