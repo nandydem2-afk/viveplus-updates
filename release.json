@@ -1,6 +1,6 @@
 {
-    "version":  65,
-    "url":  "viveplus-web-v65.zip",
-    "sha256":  "23c2d236878ab313734a2697f22278038c32e625c0e4ad64df0e6e5b290bc38d",
-    "notes":  "Superseries reales: dos ejercicios visibles, una ronda de 60 s y descanso de 60 s"
+    "version":  66,
+    "url":  "viveplus-web-v66.zip",
+    "sha256":  "48f765c05d92815cfa610384ad357e2b836aa862d26b8c51702384967fe3fc46",
+    "notes":  "Vista compacta de superseries: ambos ejercicios y registros visibles, sin X"
 }
