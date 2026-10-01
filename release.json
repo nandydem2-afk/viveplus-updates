@@ -1,6 +1,6 @@
 {
-    "version":  60,
-    "url":  "viveplus-web-v60.zip",
-    "sha256":  "b61fe51407a03f17fa0cba0cac0424c84bb03642605b34c322118c5a7cd55a7f",
-    "notes":  "Documento editable, adjuntos y compatibilidad Android"
+    "version":  61,
+    "url":  "viveplus-web-v61.zip",
+    "sha256":  "a9dcbe18ca7c341d23fff47b9f156aecd5995c7365d3505dbae27c37edab907a",
+    "notes":  "Exportación editable y adjuntos en notas para la IA"
 }
