@@ -1,6 +1,6 @@
 {
-  "version": 57,
-  "url": "viveplus-web-v57.zip",
-  "sha256": "e6433347732597a31b14818bfa4b60abac11b13556c5e6425fba27b48105be0e",
-  "notes": "Mejoras de Vive+"
+    "version":  58,
+    "url":  "viveplus-web-v58.zip",
+    "sha256":  "bf1eee151d27fff1c33d06c7f82ec819ef5565aa89bb42c4f46578593bd6c7a8",
+    "notes":  "Documento editable y adjuntos seguros en notas"
 }
