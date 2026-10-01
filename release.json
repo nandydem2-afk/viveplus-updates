@@ -1,6 +1,6 @@
 {
-    "version":  54,
-    "url":  "viveplus-web-v54.zip",
-    "sha256":  "4930ee2a47a5f809cd7801c94ebf7419ea2c26da3f3e420235164431a39ca14c",
-    "notes":  "Notas atendidas ordenadas por respuesta reciente"
+  "version": 55,
+  "url": "viveplus-web-v55.zip",
+  "sha256": "7cefbc7acd208f0867765e33b43f924567c0f5b8d16d5f20ce643b04b267486b",
+  "notes": "Mejoras de Vive+"
 }
