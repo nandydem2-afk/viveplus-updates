@@ -1,6 +1,6 @@
 {
-  "version": 62,
-  "url": "viveplus-web-v62.zip",
-  "sha256": "16a00308560b25702532c9db540c54355d443c32e0d51127092d559aaa2a82b0",
-  "notes": "Retira el aviso de APK de Inicio; conserva Actualizaciones en Perfil."
+    "version":  63,
+    "url":  "viveplus-web-v63.zip",
+    "sha256":  "27084af1847056458d913ad6bacbc1f3a82c92f7fb748095fcfee56a2314ed17",
+    "notes":  "Rutinas combinadas, descanso de 60 s, avisos y cuenta atrás junto a cada serie"
 }
