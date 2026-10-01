@@ -1,6 +1,6 @@
 {
-    "version":  63,
-    "url":  "viveplus-web-v63.zip",
-    "sha256":  "27084af1847056458d913ad6bacbc1f3a82c92f7fb748095fcfee56a2314ed17",
-    "notes":  "Rutinas combinadas, descanso de 60 s, avisos y cuenta atrás junto a cada serie"
+    "version":  64,
+    "url":  "viveplus-web-v64.zip",
+    "sha256":  "e31beabba4dae762c1c1fa0ec1b780fcd3139c6a359e0a02a47bc5342e204fb5",
+    "notes":  "Superseries con dos recuadros de registro y más ejercicios con mancuernas"
 }
