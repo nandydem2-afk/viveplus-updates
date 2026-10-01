@@ -1,6 +1,6 @@
 {
-    "version":  61,
-    "url":  "viveplus-web-v61.zip",
-    "sha256":  "a9dcbe18ca7c341d23fff47b9f156aecd5995c7365d3505dbae27c37edab907a",
-    "notes":  "Exportación editable y adjuntos en notas para la IA"
+  "version": 62,
+  "url": "viveplus-web-v62.zip",
+  "sha256": "16a00308560b25702532c9db540c54355d443c32e0d51127092d559aaa2a82b0",
+  "notes": "Retira el aviso de APK de Inicio; conserva Actualizaciones en Perfil."
 }
