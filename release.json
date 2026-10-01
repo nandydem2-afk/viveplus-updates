@@ -1,6 +1,6 @@
 {
-    "version":  66,
-    "url":  "viveplus-web-v66.zip",
-    "sha256":  "48f765c05d92815cfa610384ad357e2b836aa862d26b8c51702384967fe3fc46",
-    "notes":  "Vista compacta de superseries: ambos ejercicios y registros visibles, sin X"
+  "version": 67,
+  "url": "viveplus-web-v67.zip",
+  "sha256": "498f978859b469f8d3c12d77ee17f51140e489581c975804069ae25686bc6b95",
+  "notes": "Explicaciones paso a paso visibles para ambos ejercicios de cada superserie"
 }
