@@ -1,6 +1,6 @@
 {
-  "version": 72,
-  "url": "viveplus-web-v72.zip",
-  "sha256": "14a8375042c109ea64292ca41be8ebc70c9246b30677f36fb85d59a53ef0ced9",
-  "notes": "Grafica mensual anual y total con todas las medidas"
+  "version": 73,
+  "url": "viveplus-web-v73.zip",
+  "sha256": "354287c5cec3ee0d2f4660de69818914417d033374a34dc5469c1285215d4c8d",
+  "notes": "Grafica mensual anual y total sin etiquetas montadas"
 }
