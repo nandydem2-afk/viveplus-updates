@@ -1,6 +1,6 @@
 {
-  "version": 79,
-  "url": "viveplus-web-v79.zip",
-  "sha256": "b9939cbbd712596cd28a04932a4e00dbe50460e621cc5ede1b7e2703d05ef144",
-  "notes": "Añade Noticias diarias de Cádiz y el mundo"
+  "version": 80,
+  "url": "viveplus-web-v80.zip",
+  "sha256": "bfbc26e122aae83d4f509e04e63c439c5cf7df3fe1262e4ec496808a3c0a97c5",
+  "notes": "Abre noticias en el navegador Android y actualiza Vive+ a 0.8.0"
 }
