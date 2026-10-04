@@ -1,6 +1,6 @@
 {
-  "version": 71,
-  "url": "viveplus-web-v71.zip",
-  "sha256": "14a2ad3e4ccc1f04d3b21c0329769ae773d19baf2c19fcca835112960ce8534d",
-  "notes": "Grafica peso y grasa con maximo cinco etiquetas totales"
+  "version": 72,
+  "url": "viveplus-web-v72.zip",
+  "sha256": "14a8375042c109ea64292ca41be8ebc70c9246b30677f36fb85d59a53ef0ced9",
+  "notes": "Grafica mensual anual y total con todas las medidas"
 }
