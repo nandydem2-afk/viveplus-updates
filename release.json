@@ -1,6 +1,6 @@
 {
-  "version": 70,
-  "url": "viveplus-web-v70.zip",
-  "sha256": "450cbffa6f207f795202ea2d58c2fa86bac8d7e27287e31d550cf32c0e55b9d2",
-  "notes": "Grafica de peso y grasa corporal"
+  "version": 71,
+  "url": "viveplus-web-v71.zip",
+  "sha256": "14a2ad3e4ccc1f04d3b21c0329769ae773d19baf2c19fcca835112960ce8534d",
+  "notes": "Grafica peso y grasa con maximo cinco etiquetas totales"
 }
