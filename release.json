@@ -1,6 +1,6 @@
 {
-  "version": 68,
-  "url": "viveplus-web-v68.zip",
-  "sha256": "592611bd754ab9217dd625380ab8035952caadde35826f9c55b2eb42125874db",
-  "notes": "Mejoras de Vive+"
+  "version": 69,
+  "url": "viveplus-web-v69.zip",
+  "sha256": "81a19cf81a95dbcb66f7b9026f1e4bef4219945cd2454fc5f5520d1e4df784aa",
+  "notes": "Mostrar grasa y activar editar/eliminar notas"
 }
