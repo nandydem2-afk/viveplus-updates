@@ -1,6 +1,6 @@
 {
-  "version": 77,
-  "url": "viveplus-web-v77.zip",
-  "sha256": "823051b175b83d7709576a1662f681048b8946be6b4a38e8b68596c0cb906cc2",
-  "notes": "Botones entre cabecera y fecha"
+  "version": 78,
+  "url": "viveplus-web-v78.zip",
+  "sha256": "fef9955b6255358888a7878231168d6b414fdd67c1f2aaafada223129690d66f",
+  "notes": "Una sola pareja de botones amarilla al detectar OTA"
 }
