@@ -1,6 +1,6 @@
 {
-  "version": 76,
-  "url": "viveplus-web-v76.zip",
-  "sha256": "ad04f18534c74653de7f60dcf0d2a91eace5db38e5634624ac0018924e5db7c7",
-  "notes": "Mejoras de Vive+"
+  "version": 77,
+  "url": "viveplus-web-v77.zip",
+  "sha256": "823051b175b83d7709576a1662f681048b8946be6b4a38e8b68596c0cb906cc2",
+  "notes": "Botones entre cabecera y fecha"
 }
