@@ -1,6 +1,6 @@
 {
-  "version": 81,
-  "url": "viveplus-web-v81.zip",
-  "sha256": "065016e011a5d1ac6c2472e1fcec36dbc9688fadb34322e8a37a9c9cee24dc1d",
-  "notes": "Abre noticias en el navegador Android y actualiza Vive+ a 0.8.0"
+  "version": 82,
+  "url": "viveplus-web-v82.zip",
+  "sha256": "508ac31a05f65d64c049e0a79291cb4da96ebbdf0d7ec941b9ed02c294c9946a",
+  "notes": "Control de cargas, recuperación, sincronización, versiones y seguimiento del plan"
 }
