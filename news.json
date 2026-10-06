@@ -1,168 +1,144 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T06:30+02:00",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T06:30+02:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Los sindicatos centran ahora sus reivindicaciones en el futuro de Airbus Cádiz - Diario de Cádiz",
-      "summary": "Los sindicatos centran sus reivindicaciones en el futuro de Airbus Cádiz.",
+      "title": "La empresa Fonsan logra la adjudicación del centro de salud del Mentidero de Cádiz - Diario de Cádiz",
+      "summary": "La empresa Fonsan ha obtenido la adjudicación del centro de salud del Mentidero, en Cádiz.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-05T06:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHMxd2NPYURyVVA4NkR3dVFFczlTTU1aZ2w5bXNQeE1fLVFpVHFZTlNZMF85N0R3REY3M0xEekUtSk1qUDQtS0c5SVptRWJ0Y2FnOFg1TWdKSGRZQXlqMXZhM25ib3JvUWZxeld3RmYtc21VamZyQ1E2WXdtcFF0X1Y5ejM3cFRLcEZSSUloZVppUjlzVHV2aF9IS0l2TUdkOFR4SzZUTnRuSnVFcTBEUXE3aFdwUjlxTzhqWUxCN3NZU2lpZEHSAcsBQVVfeXFMTWZ2aFBRaVkzRXlOUjRNbFB6V2c5Wnc2V1ppMjZ5RHJSUlU4LXo4WXNQM3RZVzJXVGxhU2xTRG5wcWo1REtZVjZ1UFJjR1VWR3JDMjAyd1Z6ZFVVdHlHbW83THhFMkNPcXRUTXlSeHlReDYwQmFaT3BrUDA2T2RLQ3lhbWNlbm5POHJVYXQtTHdEcFhobVpGU2RGNlBYdjdSQnJRaEZ2VjBFLXJIYm9zLTloQWxfQzRTMzRodEVMTkk2a0NmNWdCNlA0MDQ?oc=5"
+      "publishedAt": "2026-10-05T19:31+02:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlhfVVd5N2piUjhkdHp0ZXhIbVoyN3loOW9xOE5hMnl0V3VyTXF5SDRVY3Uzd3hBWE8wZ1BpaUJkLUpWTnljVlpNWjJubzRZUzVxczUyaWpHcV9IczZIS055YkJVUzNUWXFQb2c2enpTS0lIOW9qU2xWRnZKSF9YeGxua1VSR0UweVp4eFpQSHA4RW1GMnZn0gGcAUFVX3lxTFAzQWFCV3FnYUo4YUJzUms2SzMzMGdwd2o2UndEci1ULTNCV3NCRWttVjFSekFkMC1JR0xsYUIySW1tV21DZzJkME12RTFwWXJFRW9Wa1JEU2c3WF84SDl0YVA3bk00VldKUnFsMkk2ME10cE9SZTM4djMxTWExR1FqQi0zVWx5RUZCX19lWklVcGlLME02azVhakM4Zw?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "San Fernando sube su renta media hasta los 29.070 euros, según Hacienda - Diario de Cádiz",
-      "summary": "La renta media de San Fernando sube hasta los 29.070 euros, según Hacienda.",
+      "title": "Localizan una embarcación con 19 migrantes a punto de hundirse en aguas del Estrecho - Diario de Cádiz",
+      "summary": "Han localizado en aguas del Estrecho una embarcación con 19 migrantes que estaba a punto de hundirse.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-05T06:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2VCUVlkV010bWF3OW1DSkZ6SDV4SXFzWXZNTlRhOVFzYXJNNmxmbzJwd3hCeFlvWlRuOGNKTm9vanJUeFFFVmtZUktXQVZ4T0xXRHlkVTJCR1BJWG1BRWtaODc1ZlFxdnBmVUEtLVIwbXpXdTlOaW9ISWl5eWI3NVpPelJFaVFwaXJaQjhscXVuLU83NVFj0gGcAUFVX3lxTE14WU5QNXZZSXI2M05hUmJnUXJwSkEyeHlON3FoV2NQZ3pYeS16a2t1OXM0YTBxUENJZUh6VUpwaC03QnhhZzdzM0FEVUpnTUdxQWt0VXdDaWhtR1VDcm9KQVhKQ2RxWDNETnkxRVdya2pFYTVaM24tS3VMemdzdmNZWFlBa0Q3eHhqYmZtTEUzRHgwd0dxWlIyTTdGXw?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Un vehículo colisiona con el tranvía en Chiclana y ocasiona retrasos puntuales en el servicio - Diario de Cádiz",
-      "summary": "La colisión de un vehículo con el tranvía en Chiclana ocasionó retrasos puntuales en el servicio.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-04T21:04+02:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZG9ZVjJJUDc3VU1tUG1wZ1dYdWRtSzRMWWsySWdHM3FZVUxYR1h4THo1cHRHN2g0WDZTNW16OGZGYklPdzJvcnpLcXhSQ0toTUhxQVZPMkdGMmQweW56WFM2UUlEN2FQOS1fek1rczJTcHVtR0l3TDZjM21iNXpuX25zdEFKMDlCUy1PbjBRREVxNmcxb2VRM1NYRmQtd19GYjJMcEQtVVpNdnpXcWEwNVV4enRDb0XSAbwBQVVfeXFMUEt1ZWpsQ3l4aW1QQWM2REI3NjhvcW9hdHU4TnZjbEYxU3g4ZVlxYXkxeWVFOEpaOWlNWWFla3JtYWQ5Y1o4ZVFjOG9tZEliV0VMX21zbWdWOGM2Q3NhblgxTkNubC1xMTllbmg3RnVEakt1MThmbWdSMmpXUnl6dFU0aDRLSmFacC1RVUpZZXYycmh2cDhzMU1Qb0pKNUVva3NXNklyc0JaSDJZdll0Z21KWlZoRm1XN3J3bGY?oc=5"
+      "publishedAt": "2026-10-05T19:11+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmdJcm1uaGdVQkt0MXFCWlZpNHBKUXMweGR5cjlvZUdkeUJ6b3JvY0tNX2xzenl2cmpPWmdQWGtSeTB5Wk5QaG9HV1Z6U1VsZE5CSW9ncEVmWnJVUk9RNlQ5YUdYZ3hBTk9iQmNOaS1KcE5TRUNyRDZKT2NJbE5lLWNoYnc4dTJRSHlkMXJtWXhoQjlwQ3d4OVhTWU9CMTMxaVlzVE1kVXUwNnVaeVhKVjBnbWRjc29TTy1ZWjhRcjdFYm1aV09FV3hPVHVlSWd0T1HSAdcBQVVfeXFMT2JiN3NGUzExZHp5LUt3RW5YLW5kdWI5WTZmUUNtWVNBY3RsRDFuaE9OaExGUGRCYnVodWpzT183NGlZbmlhMlN6VF9SaDZRYUpTS3pfRWpjNzZTRmFYeHFEVG9sbTc0MVJHT1JNdU9GSmQ1RG1oV003a3lJOWJHUTRITVdhOFpQemFnYXRrWTVSdm9JZWVEVFVaRlhkTlRDRXJiNVFDdXEzQWthY2tIVzZPaWJHbzg5M1FndGtWZ0V3WHVxYVVkTldiUVA3RE5nVUdvYVRJM0U?oc=5"
     },
     {
       "section": "España",
-      "title": "Blackstone arranca un 'súpercontrato' estatal de gestión de vivienda mientras el Gobierno lo sitúa entre los \"fondos buitre\"",
-      "summary": "Blackstone ha cerrado con Sareb un contrato para gestionar miles de viviendas, incluidas viviendas sociales destinadas a la empresa estatal de vivienda.",
+      "title": "Sánchez ejecuta una última pirueta para sobrevivir aferrándose al 30% del voto: \"¡Somos más! ¡Sí se puede!\"",
+      "summary": "Sánchez ha activado un adelanto electoral ante las elecciones generales, con el respaldo mayoritario que, según la información publicada, encontró en el PSOE y el Gobierno.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-05T02:11+02:00",
-      "url": "https://www.elmundo.es/economia/2026/10/05/6ac2307be85ecee2298b457d.html"
+      "publishedAt": "2026-10-05T22:50+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3d070e4d4d810628b4575.html"
     },
     {
       "section": "España",
-      "title": "La CNMC ultima las primeras multas por el gran apagón bajo un resquicio legal que favorece a Red Eléctrica",
-      "summary": "La CNMC prepara las primeras multas por el gran apagón y quiere cerrar los expedientes antes de marzo. Una interpretación de la ley podría reducir la sanción a Red Eléctrica.",
+      "title": "El secretario de Estado de Sanidad asegura que van a \"acelerar\" para aprobar los reales decretos MIR y de Tabaco y los estatutos de la Agencia de Salud Pública",
+      "summary": "Sanidad quiere acelerar la aprobación de los decretos sobre el MIR y el tabaco y de los estatutos de la Agencia de Salud Pública. El adelanto electoral deja sin tramitar en el Parlamento las leyes del Estatuto Marco, Medicamentos y Pacientes.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-05T02:11+02:00",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/05/6ac22c2b21efa0d9188b45a0.html"
+      "publishedAt": "2026-10-06T01:59+02:00",
+      "url": "https://www.elmundo.es/salud/2026/10/06/6ac3ee38fdddff7f268b4596.html"
     },
     {
       "section": "España",
-      "title": "Conde-Pumpido se aviene a \"dulcificar\" sus críticas al Supremo en la amnistía a los líderes del 'procés'",
-      "summary": "El Pleno del Constitucional debatirá los amparos de Turull y Bassa en relación con la amnistía. La ponencia de Conde-Pumpido plantea suavizar sus críticas al Supremo.",
+      "title": "El adelanto electoral no frena las movilizaciones: miles de personas llaman en Barcelona a la huelga general por la vivienda",
+      "summary": "Miles de personas se manifestaron en Barcelona para reclamar una huelga general por la vivienda. La afluencia obligó a cambiar el recorrido previsto.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-05T02:11+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/05/6ac2624fe9cf4a74518b457e.html"
+      "publishedAt": "2026-10-05T23:47+02:00",
+      "url": "https://www.elmundo.es/cataluna/2026/10/05/6ac3c6b7e4d4d8f67a8b45af.html"
     },
     {
       "section": "España",
-      "title": "La banca augura un freno en hipotecas y precios más altos ante la escalada del Euríbor y nuevas subidas de tipos del BCE",
-      "summary": "La banca prevé menos hipotecas y precios más altos ante la subida del euríbor y posibles aumentos de tipos del BCE. El índice cerró septiembre en el 3,247%, con un encarecimiento mensual estimado de entre 115 y 201 euros para los hipotecados.",
+      "title": "El adelanto electoral retrasará la imputación del PSOE como persona jurídica en el caso de las cloacas de Ferraz",
+      "summary": "Según la información publicada, Anticorrupción aplazará hasta después de las elecciones generales la solicitud de investigar al PSOE como persona jurídica en el caso de las cloacas de Ferraz.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-04T22:43+02:00",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/10/04/6abf5d7ce85ece7d488b459f.html"
+      "publishedAt": "2026-10-05T22:43+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3f6fdfdddff4f438b458b.html"
     },
     {
       "section": "España",
-      "title": "La Junta declara la situación 1 de emergencia en Ávila por la situación de embalses - El Mundo",
-      "summary": "La Junta declara la situación 1 de emergencia en Ávila por el estado de los embalses.",
+      "title": "Así es el cambio \"profundo\" que promete Feijóo en impuestos, vivienda y con límites a Vox",
+      "summary": "Feijóo plantea cambios en impuestos y vivienda y promete fijar límites a Vox de cara a las elecciones generales.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-04T22:32+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lOVRST3daZ0ZIM0NEaTRieHd4dU1NcHZENElTcm9VaDZvWkVYSGYtSE1tcDJxT3hRWVhtbUNnSm5JRFllTjJnczFyNnRUV0FHQnpFSUI2SENrMkp1N2tHSUo5Q1BYUmlZd0FTWkwxY0x3RWphZmdTamlR0gF6QVVfeXFMTzVnaG5yMzNkQmdTU250Zk4zbFVqSEdRREVtdXpfemZmNnVVS002VkFMc1VtXzFSVXZlU1BNMGpreXdKXzU1NnIwWTNPSTJHeHRVMWs5T2RDQ1JMOVZOYk0zS3cxb29XakctSDhka3psODdxWHZxdnkwblE?oc=5"
+      "publishedAt": "2026-10-05T22:49+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac3ce2de85ecebc638b458e.html"
     },
     {
       "section": "España",
-      "title": "Alerta roja y envío de 'Es-Alert' en la provincia de Badajoz por intensas lluvias y granizos - El Mundo",
-      "summary": "La provincia de Badajoz está en alerta roja por lluvias intensas y granizo. Se ha enviado un aviso Es-Alert.",
+      "title": "Los jesuitas expulsan al sacerdote Francesc Peris por abusos sexuales a menores - El Mundo",
+      "summary": "Los jesuitas han expulsado al sacerdote Francesc Peris por abusos sexuales a menores.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-04T14:04+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WblBoMGhsWUFTYUdiUHV1ZXB4OHpxcnFRRlBDd0VCOUF6QWFVdTZ0WDlNMnFiYzFvYXpMRk9KTndZTGRMMHF4Y1htNkJXbmJzOHRDUVhqanZmWmFXdkVjRkszLW5VdVN1V0ZwWUU1SGR1YkZEOVJzZnJR0gF6QVVfeXFMUHNhQlgzR2Z4R2ZuRl83ZG9hSHlQR1AyYjRfd3lfLThnNGgzS2pwYXNpWEJuM2UxemJMZHhNMFZiMFlEckJhb1V0Sk5zT1JTSlR0ZzJiU29JekViSGV1M2UxZmRsekxWN3pVd0NVaXRzRE01SGJMQ3ZJaXc?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "La Policía Nacional inicia el desalojo del asentamiento de la playa del Trampolín en Ceuta - El Mundo",
-      "summary": "La Policía Nacional ha iniciado el desalojo del asentamiento de la playa del Trampolín, en Ceuta.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-04T14:18+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFRGk3Zndtd2NPMXFvaThJZnVzRl9JbTBxc3J2U2tBVjJHMXFldkxyR2x0a0JQY0ZleGdnc0FkX2dVT200eXFmemtiMHMzSXdpYkNnMm9zQkhNYTJ0Rkd4LTN3SmxHSW5vNDZaT1pXQmNmajFFcDNhMUdR0gF6QVVfeXFMT29LeFRrRXQ2XzY4YzFia2pGSDRqZXpPd25RcEs3alBxMERFc2M2aEFzTUd0VEIzWk9WTTdXaG12WjcwSldpbERhcl95UWhKUmtDOTJkTnRFYmJ6emEwN1NVd0lKb0p0dUhRM2xGSWQ4YzFwaVFjWVRCR1E?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Los partidos de Sumar anuncian que presentarán a su candidato a las elecciones el 17 de octubre y su proyecto llamado Frente Amplio - El Mundo",
-      "summary": "Los partidos de Sumar anuncian que presentarán el 17 de octubre a su candidato electoral y su proyecto, llamado Frente Amplio.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-04T15:12+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdFJOSXZYdTJjWXlxY1kycWlkUEQtRU9WalJhSGRKR1lLNWQ0UGp0ZzJJMHc2SHhCS0cyaW5FUHZRbnhadTJ6QlI3aFBrT2tjUkxZS0I4ZjZwYlpXM2NsVTBYVFF1eHJtaHcydUhuSlpCazJyeGJXOEV30gF6QVVfeXFMTWY4bWhkQmp6bHB1ZEY3Tkx2dDFLcE9VTGdld2xWN29OQndHWHBaQUI1bHFtWmFVbUJncWtnNVFZRDNqd3JSazkxc0hiRk5tMy1xSUJ6ZjhzS3lfNGo5NzJrbXQ5U0dQaEEwbTJQSGVzRnVLaTlWY0dhYUE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Los jóvenes ahogados en Guardamar eran una pareja de novios ucranianos: él no logró salvarla cuando fue arrastrada por las corrientes",
-      "summary": "Dos jóvenes ucranianos murieron ahogados en una playa de Guardamar del Segura. Según la información disponible, él intentó salvarla cuando la corriente la arrastró.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-04T19:45+02:00",
-      "url": "https://www.elmundo.es/comunidad-valenciana/alicante/2026/10/04/6ac25bafe4d4d873348b4585.html"
+      "publishedAt": "2026-10-05T17:37+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VjRpTVVORkdWYXZGTWJCLTBCRmNJRzVXM3hiRzNjRTRSQnhtM24tUjdaUm1lSEpwTUNxRV9zV1N3Y3BKdUNseTd5QjhIMS1Jc1ZsRXVrbGVTald0ZGphWENHalhFNnZKVTM5eDJ5WEx3MWNBdThjcTF30gF6QVVfeXFMT2VLYV91aERCczBpWTRCcjlhVEdLeHBUeF9mcDZfNng4c2ZJMXVVZjFSaEl0aE5mM1RqRWE5T0I3V2VIaHdvWHBZUTZkMmEyWG1CVTVXVUltMng0WHVUclFlOG1nM1FZQmlxbzFuQUlONWlqbWtMQ29Yemc?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada - BBC",
-      "summary": "Flávio Bolsonaro y Lula da Silva disputarán la segunda vuelta de las elecciones presidenciales de Brasil.",
+      "title": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC - BBC",
+      "summary": "El Pentágono ha dejado de utilizar las herramientas de inteligencia artificial de Anthropic tras incluir a la empresa en una lista negra, según la BBC.",
       "source": "BBC",
-      "publishedAt": "2026-10-05T05:24+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MkhzcEJpeGVHWF80YWRyYmhjc2lmdzJsaElOcGJjUG1JajF6SkRpZjhWWkwzS0o5QUhHMl9PeWRKZFFFbzdqRV9EZWxtdWozNnh5TGN5ZWF3b1BC0gFiQVVfeXFMTUgyY095R1dlYkhyb0VlWDVTamhRRzBPajNWYzB2dUJwMFBrcDNVU0tCXzhieC1JNXdJVG1PVmZnZ0JWT0UxdEtidDVvZXZWUDZUSGI3OGVyYS0yOGlsTjRHX1E?oc=5"
+      "publishedAt": "2026-10-06T05:29+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81WjdNelhnZ3JzNFhoZHIxMFFuYUM2ZHBRaUlXMmNRMGxtOGFoZHhENE9zcnItVnZJRTcxbGFwcGVSLWpmaHJrem51eGg0YzNhWE1zTXZxMXNHSTJm0gFiQVVfeXFMUFFHMHQ1V0YzSEhnbDRPRWxkM3JPWUoxTzBUU0FFM2VobnNoblF3aGZCbjY0TGo5eVRJTkd1NjlKVml4OVAybnBiTWZ2ZFpDWkJBMlJ0RUkycExnRG1hN1dMdnc?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "La Policía brasileña investiga una posible injerencia de EEUU en las elecciones presidenciales - Cadena SER",
-      "summary": "La Policía Federal de Brasil investiga una posible injerencia de Estados Unidos en las elecciones presidenciales.",
-      "source": "Cadena SER",
-      "publishedAt": "2026-10-04T18:52+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUmM0eWNJalZtVTVVSF9OcGhIMkt0RzVGYUlZOXpucjRQQkIyWmdoeEtpMVAzSXJYYTEyd2dQY3gyaWZnM3ZrUmJiM3hDcjdXUW0yeFZuUE10eFl6M19NWGNrRG5BekdiZjIzYWZjYnhUV1pmMXNEWlVOQUVaQUZqbTBhbmhNUnZQUFBOZjJJNWRNY204SEl4RUp6cGNzUmNRTXE5Vk14M0p4aHJZY01xSUtpdnh0Y1ZwaFRrQ1QyR0I5MjU0Vkh6cHNWVjA0MEJWMW9ZNVJRTVVoRjU5Mnoxc29R0gH2AUFVX3lxTE1yNG0zdVQyeVJOWFJNQ3NCSWwwQUxTOWt2TVd0U3FVSm9ZNW9RRVFZR1Iwa2QzblpIa1dTQTNEdWJMN2VpT1pKNjdNejhRT281OF9vYzBaTXV4dGhrVkhQb0VkVjVJRzJhRkIyNHVwRXdla191Qm84N0plc1V4SUowV05qVmgzRl9tTi1UemlLT014QXJWeWpWOUlBRGQ4ejFaUGFRUXJjMkZjbE1pZGdsd2VXQWJiSEV3YmtlMi1sTmhOd2FSdHRqc3pEc2Z3NjgxMThDUVN3QldlNVk0WmlPYUZWUk9sN3M2MWtndnBVZzZnMDdmUQ?oc=5"
+      "title": "EE. UU. retira bombarderos de base aérea del Reino Unido tras nuevas amenazas - The New York Times",
+      "summary": "Estados Unidos ha retirado bombarderos de una base aérea del Reino Unido tras nuevas amenazas.",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-06T04:47+02:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXlGaFc2TENkUGxDWTFuVWtoeWhYTjRUNVZlVGZLYjBUaGE4WEVSTURoVzd3LTA5OVZqV0Y2NHB6enJ2TXJ2a25zblZ6cWliWUcxamYzcU9SVExhOG1JS1Q5UmItMmNFX2NMNldYcC1LeUN3S3hfOUt1TGtqWmZKNEN2TFo0TmJ5Um5XZUZIcGJIM2sxeDJsZEpCWQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Terror en una fiesta de barrio en EE. UU.: dos muertos y 35 heridos en un tiroteo en Georgia - France 24",
-      "summary": "Un tiroteo durante una fiesta vecinal en Georgia, Estados Unidos, dejó al menos dos muertos y 35 heridos.",
-      "source": "France 24",
-      "publishedAt": "2026-10-05T01:42+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSTdCYWR3Q1VCYXplSzFGcHVMWmVaTmtiRTlIVnplSFZpbEhXeW5SY251RjhoVVlFV0dCZkNycXJyb1pMVFNnS3R3WVpPNGtDazVuZGFZM0N2TkV4TkVkSXZlZzNVWmxCNU9PUXVRLUI3WE1Qa2M1cmhqUFJNYVhVbnVjVmw2WGhNSXVXNkxPUzg0ejhWNm04c3dYbndNejhLcUlZd3V6ak1UZC1EM2s3MDc0c0J6ZDRORGI5M0t5SkpGMHRlS2ljbGlpbmFXZHpPNmJ5TkFPMVdvekZ3bWtj?oc=5"
+      "title": "Independentistas ganan elecciones en provincia canadiense de Quebec, según resultados preliminares - SWI swissinfo.ch",
+      "summary": "Los independentistas han ganado las elecciones provinciales en Quebec, según los resultados preliminares.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-10-06T04:22+02:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEpKUkgybExaakNPNW90SFQ5LU5acFhZODdVZ2ZtMlR0ZU5IbTVBVDU2T01oMWx6aFFqRjZveGQwY0otM3ZNd0V1bWlia1J3dmRKbXZ6TTNYWXRRbEtEb296Qm1wTlBseVpGeGJ3NHNMY2FKa2RhSzFmQzhJR3JzUEtxd0tjYk82Z1FaSDdSelJtMjltZmZydENfNTZoejczcWZySHV5Vjd0OFBzT1NkOFdzTnJ5RlV0dmwyUmlKeHA4bFBiZHY4?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "El Gobierno de Yemen anuncia \"una gran ofensiva\" militar para recuperar el territorio controlado por los hutíes - RTVE.es",
-      "summary": "El Gobierno de Yemen anuncia una ofensiva militar para recuperar los territorios bajo control de los hutíes.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-04T19:51+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcExKcUhKYkxrWHBHUlFmemt4RUNqNENwU1dxbURmYmNBeEhOeTNsTmlBOVotaTlNWkpRaXYxZk4tMHlMR1lGX1hNZ2d3WFNLRlc0MmY1UE1Jb3BqMHVTQVZZSFJCNGR3RmR2aERHS3RRVTdVSElTandMeG50OFNqcUtnVkJPNi1DQjBoekpDU2E3dV9kU2hrc0lrYUxQX2hDaXd4M3dsQUpCWXpYT1FPaEJUMG92TGkxQ0lDUC1nUmRoY0wzRFZaTW5lVjJaMlNucDRoY1V0cnJOYUxENmc?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista - ABC",
-      "summary": "Estados Unidos retira sus bombarderos de una base aérea británica señalada como objetivo de un presunto ataque terrorista.",
-      "source": "ABC",
-      "publishedAt": "2026-10-04T23:33+02:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG1TUkdrZGFUazNrODF6RjduRXJwOTFDeDhmUFFacDl3eWxWVTNtVWxwOVp1QmxIdXMwRFdDMWk4U2dpMEJ4dHpuTkhNbWlwb2I3NHpvSkpxRFFoQXFqR2VEdzhNNktiWjRxZVJIalUwYW5XR2VNQ1NxMjRmTm9QUlhneHpFYzVPTUNiNGdXcngzNnBhS0RpaXZIZGhwRjdWNjRfajlnTzNUZFY2ZFM40gG0AUFVX3lxTE9UcFBnRXRtREo0U2RnUWVaMkVfYUh3ZWxXaDFETG16X0dEZkhyQUVPcVpnNmV2UE9pemVNNVRQZE1vQzl6bUNaT3FkZXlaZkZWTC1fWUFPOVVKM2hyWUNLa2JNQ2ZVUS1nZnJFTGRCVUdGaWJzM1FXU1JJQ09yV2pKTk9oRGxEcnNPLUo1dS1fcWRRR19ndktkLVZlMl9ZNFBEMDBmVEZmNWVaLXBKbFFSZk5HTA?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Zelenski: Estados Unidos quiere nuevas negociaciones trilaterales con Rusia - DW.com",
-      "summary": "Zelenski afirma que Estados Unidos quiere organizar nuevas negociaciones trilaterales con Rusia y Ucrania en octubre.",
+      "title": "Hutíes dicen que atacaron aeropuerto de internacional de Riad - DW.com",
+      "summary": "Los hutíes afirman haber atacado el aeropuerto internacional de Riad.",
       "source": "DW.com",
-      "publishedAt": "2026-10-04T18:43+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2dEdXJiZU9TQkg5bFhkc0VjTHkxVEdWLXBxTV8xQVo2bHh1TlNtMExmTHAxbzlaOUVlN2NDSWhNV0ZaWHBXM2ZzYnJnREQwcDJFLTU3MDJVR2dfWXhvR25pZS1aZkUxSWxMeXFIdjJ5ak94ZktxaHRzSm5UQmpjQk1LVjlGc0tLb3g4QnVOVG12OWVEVVlKMkpHdTBLMlpZWm5kZFJjY3g2T3PSAasBQVVfeXFMUEdFd1RENUJKVjNkX1Y4d0kzRFhqbEJIbVRmRDFUOV94TGJmMnU0d2w0TEJvbDE1LXRFdG5DUkQ0bkZpbDY5Y0FRbTlyckVmaERxUTlWVEEtOWtERmMwR0EzYUtPRjQyWVVmZFlUQTlhdjU1SkpKUXpjdloxbkRjQXRxcU5LRmdzTDBlMjB5d3ROeUxhOFR2Nzd2MDRYa3h1UWdyZE9obnZLc1Bz?oc=5"
+      "publishedAt": "2026-10-06T01:52+02:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjhaZFB2dTdTTHZEVGV1b0JSUmtkeXZTdHdnblVhemRXMkoxOUc5T2NCR28yc2pvNVVrQTFBVVpwZHlCcU14cHpWbHlyVUZNMEZVQl84ZFBzamkxNVNxRFNmSkZPN2VCSkRTRnFVZlNhTXNEaXl4REJPOW9KQ0U2Yk9EZ1hPZEt5VlBvWWVZUDJlS2lENmxTQjB2WHpWaGdZ0gGgAUFVX3lxTE1jSmw0eExnX2JLckNGOUQ2N3ZxTG13ZDZaQ2d4M3poMDZRcHY4S2xZRHUxamFYUGpScjZGN3VoMVYzUjFFZUx3SlZkZWxWbnZ2ZHFWRnRLVFBheGlhVlZIU1oyaENpUExlZGFNclktSUQ4ejQ0NUM4b2sxZ0tZR3J4R1hfLXJIOTh1RDRsNEJldDZRYkF2WFpEMDV6VUNuenA?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Ejército de Etiopía patrulla las calles de la capital del Tigré - DW.com",
-      "summary": "El Ejército etíope patrulla la capital de Tigré en medio de un nuevo conflicto armado en el país.",
+      "title": "Arabia Saudita, Turquía y Pakistán activan pacto de defensa contra hutíes - DW.com",
+      "summary": "Arabia Saudí, Turquía y Pakistán han activado un pacto de defensa frente a los hutíes.",
       "source": "DW.com",
-      "publishedAt": "2026-10-04T22:14+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMG9FdkxsUE1SRW9fbjhyZGR5aEhDcnBEbnhuWW9kcVgwcnItNl9HS1hCSENuMzR1SG1RTWxVSGtHOU9JT2czY256NDU1RnhpbEd1LWZEbnZjUGRvOHZBTTVPRkxyRlhwQUt4RURuQ01EWlIzWDFGbm03U19ITHM1Z2xEckZyVUpnYnZscVpxM3Q0al9QWnNoLTdUOXREZHpHQ1pRRXdSWHZIU3dhZHFOMdIBsAFBVV95cUxQZnlJLWdiN0Q1RWg5NG9XWk9ERjI4T3JwSE1jbkxhM0NoQ2lnWHdOQ0dkOTNoZGx4WVQ4UVdneTFIMHk5bzJudVctYW55QmI4cUxubXFHNS1ncU5VdFpVTFlGaGJSaTl4N1NpTDViMFJsM0JnVEwxTXZsTTBOa09qTzBxaVJGRHNVd0Zld1JnMVo1ZTlzeWwyMzVqdnlvTWpBV25JUWJKcXlabm1lV1ZNYg?oc=5"
+      "publishedAt": "2026-10-06T00:09+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUmYxTDJnSFZ1d2Rab0dHWHoyMkdvbXNKTHFqYzdkV3pOdVY5N3dGeFpmM0NrOGdGZjNyaTNKN1lJNDJicEsyMVZxYlRMYndOcE1Hdm1tLVFXTm9jOXBOeW5TMVByTC1RMDZTRjFXZzBscUdpRHl2UFRZZFJldjZIMG1Lb1RwT2NvWVJSY1NHNlB1SXI1SjFxY1ZHbm9aWGxPLXJWSTlXR1dYbWd6aUZ4Q2NPZzUtalk3S3JrVFhHMVRMSk1EVlJrQ2gyeHR2Mm1jRExPa2lFUlpBaU95em53YzJtZXA2SnV3Qm4tTjhCN2RsNzZISWJabmYwZUfSAfwBQVVfeXFMTlhWNHdLSTdoQ2c0U0tla2dJYlhQMWJPcWs4dVdyVE5idExLQnphdV9wbGRJY0sxVmF6NDZvbnRLY0xqSlVHMjRZOG81VWh3ZmRqZk8zblVUMFNjWkJTbnBLYnJVSHJ5d0c3UzlmbzI2XzhmcmZDR3pEWmtZSlQzZEZ4R0FNckFHSnJMRnl3Zm5DNzk5WUVuUjFTdThhZzR3bGpVTjRoX1BuRl95WlBrS1pnUjgxNDNVRVRpSXk4RjRxVjFNY2ozQTU4eUxHNGtPZ1I1NTdtUjJMa2V5TnNtUnAtUWZYUjh0SjN4aHY2Nkx2c0JLbFdYUjJWQXNT?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Legislativas en Letonia: gana el partido proeuropeo del primer ministro y avanzan los populistas - France 24",
-      "summary": "El partido proeuropeo del primer ministro gana las elecciones legislativas de Letonia, mientras los populistas avanzan.",
-      "source": "France 24",
-      "publishedAt": "2026-10-04T15:39+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaF9zMU43TmZEbFRWVDZOWlFwcXdOX01kS19MNmdBMURwUXFQUzNBT2NHdEJMdFFQSmZvSERORlMyWGdmYVVaRWVMWVM4eWptdDBpRTNZTDNlakk4MXhUZGNhYW1SSjJuS3ZmV0hCRFNHR2tOT3NoSWRORHNORThobzFza2dWaUdpZHVoN0F2bERQYlB2MnU5Rmc2WlRzenF4U2hwYXBnWjJ6VkM2cF9DNG5rWEJ1dHNRQmkxT3B5V2h6cFZMb2dfOWUyT2o3dURoT3hFVGNB?oc=5"
+      "title": "Médicos Sin Fronteras advierte sobre posible colapso en centros antiébola en Kivu del Norte - DW.com",
+      "summary": "Médicos Sin Fronteras advierte de un posible colapso de los centros de atención contra el ébola en Kivu del Norte.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-05T23:46+02:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1FzNWNFTUF3bHVUOUFWWTllQjJ5RFM1UHdqUERmQmJOQU9keWNLRlVPcVVXYjFaeGVtbkNNYUdqQWFiQmVHajY4YWNqTE8zTWpSbTZTdk5hZU55b2dfaTJiSEpGd2swOEdtOFFaX2JVWENZdGpaSWNWM3Q5bWdlbURlT3FiVG5tUno3UVdMRnROeGpWeVdXYUpsd043a1FRVmtwTU5PbV8zbnQ2UTNxM2IzN0FXZE41T3llOGZxR2ZZancyTllPY2VmVnp5TU3SAc8BQVVfeXFMTXhMM195dXVoWkZJYmtrOU85VlFaNkxyU3Z0ZW15cjVKWFhYcFRIR293SmF0WTM3anF1WElkallUSE1lTXV1T1JmclBYX09mZFpFbTJMcTZWckxUWlp6VlQwSUZJYXlVX2lJTUxTNS1RYmxkZ212WE9aeUQ1UFhiQVZ6N2pTMTNHOTI3cUxuUlNRNUF3c0U3NUhhSXF5TmIwVnVZTnR4V0pOX1V1THNmQVIyc3hkS3Y2RXVsdVd2QXQ3eExKZktOcjZRUzFGZmhz?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Irak: Las autoridades deben garantizar un juicio justo para 5.700 personas detenidas y proteger los derechos de la infancia en juicios multitudinarios - amnistia.org.mx",
+      "summary": "Amnistía Internacional pide a Irak que garantice juicios justos para 5.700 personas detenidas y proteja los derechos de los menores en los procesos multitudinarios.",
+      "source": "amnistia.org.mx",
+      "publishedAt": "2026-10-06T01:14+02:00",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOOXh0cjRTRzA3Rm55RDVkd3JTT1N2ZDJwbG9xeExRaWJfbXdmaGdpc3M4WkxOQ29uaGZWQ0JrRi01dFBSTGVBcXc0aWs5NW9EWGJTdlIteGhURjVyQ3RSUW9sZXdOX0VBOUc2TDZYU25nTkVxMHFQWnRWeUpFTDM0NThkcGVha1ZSSDBIUk03RDFlamFqdWJsejI1Z041QlcxNUg5a0FTcGJIeC1WNThFUlh5SWpKdHVLNklEZW9IMl9BSFpRcFlHTTdHaGRDeXdfakU2V0pMX1NWM2ZSMXZjVjgtS1VsYklUWW43TEwwYW12SFV1Q0NYbjZ6aUdYdjdFYnp6YjNSVGxUUy04MnBSUWVBTDIwcDVsVTFLX0RUcw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Noruega se plantea prohibir gafas inteligentes con cámara en parques y colegios",
+      "summary": "El Gobierno de Noruega plantea llevar al Parlamento una ley para prohibir las gafas inteligentes con cámara en parques y colegios mientras se prepara una regulación permanente.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-05T20:55+02:00",
+      "url": "https://www.elmundo.es/tecnologia/2026/10/05/6ac3f28cfdddff80268b4597.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un vuelo de British Airways con destino a Chicago aterriza de emergencia en Londres tras perder más de 8.000 metros de altitud por un \"problema técnico\" - El Mundo",
+      "summary": "Un vuelo de British Airways con destino a Chicago aterrizó de emergencia en Londres tras perder más de 8.000 metros de altitud por un problema técnico.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-05T21:57+02:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXYXJEUEsyUGdmN2dyQTBsRnotMFpyT2VaTU42bk11TzVaN3V0djVNWG9CbUNOeVZOeHBSdmVTbDluS3E4TFQ4RDJTRkMtNTFlRl9zYUlHQXVpMW15Nkh1RDdxMXhTOHFIZ19NSjlITlc3RUNUNkhTWENwMEjSAXxBVV95cUxOcVloeGl0cGpKMVRnUHFQYVhkQ0lpdXp6UHFJbVA3SXdoSkZTU3lqQTAxcWdtOF9qLUQ3UWJOeEZmczlwU0tlWHNBRW5hU0FwdkhVRUlwajg5OUNGRlNrNzZveEhBYkxZVDluZ0Z3dS1uU0c4V2lmNDd0MVVI?oc=5"
     }
   ]
 }
