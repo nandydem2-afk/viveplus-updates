@@ -1,6 +1,6 @@
 {
-  "version": 86,
-  "url": "viveplus-web-v86.zip",
-  "sha256": "bfec9cbfbe559779069333d81c4ad3eb18ea4a93b3990393c0616c3c7fe75259",
-  "notes": "Fotos y consumo de comidas, seguimiento de recuperación, EMOM variados y validación de planes"
+  "version": 87,
+  "url": "viveplus-web-v87.zip",
+  "sha256": "e77e0e8d9341d6a69e30473dd20d7350041a4d0a7b951f2f15c8c5ac11cf7a7f",
+  "notes": "Guardado Android verificado, fotos compactas y revisiones NAS con reintentos controlados"
 }
