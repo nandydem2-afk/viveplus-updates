@@ -1,6 +1,6 @@
 {
-  "version": 85,
-  "url": "viveplus-web-v85.zip",
-  "sha256": "9b450ef3faf649f4dd8644f9e95c4e37acf2f73453d91f15764da4f82b3b617d",
-  "notes": "Mejoras de Vive+"
+  "version": 86,
+  "url": "viveplus-web-v86.zip",
+  "sha256": "bfec9cbfbe559779069333d81c4ad3eb18ea4a93b3990393c0616c3c7fe75259",
+  "notes": "Fotos y consumo de comidas, seguimiento de recuperación, EMOM variados y validación de planes"
 }
