@@ -1,6 +1,6 @@
 {
-  "version": 92,
-  "url": "viveplus-web-v92.zip",
-  "sha256": "ee07bdf38759d899d8d8c3654ab3019620c93b4aa782d5ea714f140df25c07b7",
+  "version": 93,
+  "url": "viveplus-web-v93.zip",
+  "sha256": "4ef83726fd8aec0854ab7ab5c3f5aed95042232cd971231bd0b5e6f57dd9b6bf",
   "notes": "Formulario digestivo: admite cero deposiciones y confirma el guardado correctamente"
 }
