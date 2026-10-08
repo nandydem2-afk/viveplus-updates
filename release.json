@@ -1,6 +1,6 @@
 {
-  "version": 87,
-  "url": "viveplus-web-v87.zip",
-  "sha256": "e77e0e8d9341d6a69e30473dd20d7350041a4d0a7b951f2f15c8c5ac11cf7a7f",
-  "notes": "Guardado Android verificado, fotos compactas y revisiones NAS con reintentos controlados"
+  "version": 88,
+  "url": "viveplus-web-v88.zip",
+  "sha256": "019b779555facd42c4dccc2b3371c97e8802e6b31638f20c6a7b1d2ca2dac6d8",
+  "notes": "Formulario digestivo: admite cero deposiciones y confirma el guardado correctamente"
 }
