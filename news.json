@@ -1,136 +1,168 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-08T06:30+02:00",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T06:30+02:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Ecologistas denuncian el \"desmoche salvaje\" de árboles en Zahara para facilitar el aparcamiento de camiones de la productora de 'Fair Cry' - Diario de Cádiz",
-      "summary": "Ecologistas denuncian una poda drástica de árboles en Zahara que, según afirman, se hizo para facilitar el aparcamiento de camiones de una productora audiovisual.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-07T23:49+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQW1BR3lHN1R3WjBSWTRJU1VsZFNpUUN5TFVZY0pnTlFCMnpkOGZGOGtNMFF0eXNPMTZvcjdUbllVMWpRWEhBeGdWN3pxaWs4ZXJETm5OejQzd2lkZW9mT2RqWFVsVk5waWJWdVhYbUIteTdOQmVfOVdWSXViNEYwVGhvVUVwTE9iQTJJMDV1UFQ2aVRKSm45SjlkUXBZVW1wcnRtSlFMNDBSTU1xbzY2QVVwSk4tX0FvV25CdFhmajJCT3fSAcgBQVVfeXFMTW1zLV9zV1hIQS1SdVhnSEMwOE50MFdlZ0l1MHVTTkNfN0dNd05CMFZXYzRBbWlzbjZIR25VcGdURmtoYjVmVDBENkNRNVYwbE9famtueTNIMVJKSUlBcEQ2dVEyeTJKTVdjMWV3dkRDcjlnNWtqRVZnaHpJSUNpaC1lSlhuS2ViZVNxWlZDbTBlSjViR0RfRlpMcHAzUWdoZHNka29uMGZVbTIxMWhBN2ZDWk9NQ2NJakZOd2VORVZYLVZsLUw3eGY?oc=5"
+      "title": "La amenaza de Landaluce al PP: apunta a una candidatura independiente tras la denuncia de una militante y pone en riesgo el poder popular en Cádiz",
+      "summary": "La dirección provincial del PP pide explicaciones al alcalde Landaluce tras una denuncia por acoso sexual. El grupo municipal está dividido ante un posible relevo, mientras él apunta a una candidatura independiente.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-09T01:52+02:00",
+      "url": "https://www.elmundo.es/andalucia/2026/10/09/6ac7c217e85eced7738b4595.html"
     },
     {
       "section": "Cádiz",
-      "title": "Todas las actividades de la Armada en San Fernando por el 12 de octubre, Día de la Fiesta Nacional - Diario de Cádiz",
-      "summary": "La Armada ha anunciado actividades en San Fernando con motivo de la Fiesta Nacional del 12 de octubre.",
+      "title": "Chiclana se queda a las puertas del European Green Leaf 2028 - Diario de Cádiz",
+      "summary": "Chiclana se ha quedado a las puertas de obtener el reconocimiento European Green Leaf 2028.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-08T06:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFk4QmpQM1RJUTBWM3dsLXpqWEpUVDhoTEdXTDBhc2N1Vk5ac1JjazU2T0NQWDAwbDVCOTBhUUtMSWFvUWt3dlRjdGswMTNOVndxamRFcS12aHV2Wi1SbW9UQ2tpN2w0c095Um9ZVjdzNU1nYXFWRFBqWHY5TlRZTDJXSmpDM1lFanZDZ2V1UkRWVkZYdGNyTzBXN05iYk9WWXVqajFnM1N6LXlpbG96Z05CdWRnQXhpNFR0enln0gHDAUFVX3lxTE1Vd1RNU0VMM3JKQ0lxSXNBWFpabVdMUzhESVdXX3dVeTBfYUN5YlMyWE1Tb0hpLUxsZ0xFYWdoUDNDbU5pQVZfN0RvdUJXT0s5S0ZzOGdPUVNwTEpuYnR6b3hVX3pOSzJuVmhCcWhfc2JfUTBpTlk3OHhzeTRlaE9VNVJnZy1rWnUwdVpMbmFMNE5VSDRVUnN5X3RMVWUwYU5CSXJTeEE2eTNod0QtTzlUaUN4U2NMckJCU01zd2RKSkxwaw?oc=5"
+      "publishedAt": "2026-10-08T23:04+02:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGpNTE9PUXJHeVBIOGUzVW96WHF3MmFzRHJVcjRZSnBfZmNxSXhvV24xakdmRkJBXzVkWW5OYUcwNFFWb3RweFF4VzBKMnhQYVVQRkd0aVJuUlpWSFk0WGZqYzVQbU9yUzhWUmsxcDJBemMtN1lja1ZmcnpyZUVMTEtiZnlKZ0ZWUm5RcENsSVpDNDZSQXVic9IBngFBVV95cUxNZDNJbFd4Z0ctTkI5RThCNzYxamFnRHFac1NFWjlrVWJMN3U0QnpEVEZaMVZRMWtCcnBwNFFfUlZXMTEyUlBGcTNmbUJmVkpyVTNHUFBqQXB1aG1vSmdYb3RhZ0FDcVozanAzQ0t2R3R5Tl9DTmpGN1ZOOWtpVEVfUmx6Unk1VGo2XzZKbHR0RENVcWJWX2p3Wm1rSW15Zw?oc=5"
     },
     {
       "section": "España",
-      "title": "\"El narco cada vez tiene más dinero, más medios y más armas. Se están incautando granadas y kalashnikovs\"",
-      "summary": "Una experta en narcotráfico advierte de que las mafias disponen de más dinero y armas y se expanden desde Marruecos y Suramérica. Pide refuerzos para las fuerzas de seguridad y la Justicia.",
+      "title": "Retirada preventiva de la oferta: ¿por qué los anuncios de alquiler bajaron con los 'decretos Maricarmen'?",
+      "summary": "Los primeros análisis registran una caída de los anuncios de alquiler de larga duración tras los llamados «decretos Maricarmen» y la relacionan con la incertidumbre entre propietarios.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-08T01:22+02:00",
-      "url": "https://www.elmundo.es/andalucia/2026/10/07/6aaa8583fc6c83f72c8b4592.html"
+      "publishedAt": "2026-10-09T01:52+02:00",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/09/6ac76cbbfc6c83be0d8b458a.html"
     },
     {
       "section": "España",
-      "title": "\"Estamos hartos, no aguantamos más\": el desalojo de El Trampolín agrava la presión sobre las barriadas de Ceuta",
-      "summary": "Tras el desalojo de El Trampolín en Ceuta, cientos de migrantes se distribuyen por la periferia y los montes. El último asentamiento de playa, El Guano, espera su desmantelamiento.",
+      "title": "Colau y Montero hablan directamente para desatascar la integración de Podemos en el Frente Amplio",
+      "summary": "Colau y Montero mantienen conversaciones directas para desbloquear la integración de Podemos en el Frente Amplio. Las primarias y la composición de las listas siguen pendientes.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-08T01:19+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/08/6ac6472dfdddff23758b4586.html"
+      "publishedAt": "2026-10-09T01:52+02:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac7d26cfdddffae308b459d.html"
     },
     {
       "section": "España",
-      "title": "Ponerle 'puertas' al Guadalquivir: el último invento de Marlaska para que las narcolanchas no lleguen hasta Sevilla",
-      "summary": "Interior pretende instalar tres barreras desplegables en el Guadalquivir para impedir que las narcolanchas lleguen a Sevilla. El objetivo es que funcionen en 2027, aunque el proyecto aún no arranca.",
+      "title": "Así fue el contagio mortal de Mpox en el mayor hospital de Gipuzkoa",
+      "summary": "Un paciente con cáncer contrajo mpox en el mayor hospital de Gipuzkoa tras compartir habitación con una persona infecciosa en tratamiento. El contagio fue mortal.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-07T23:13+02:00",
-      "url": "https://www.elmundo.es/andalucia/2026/10/07/6ab50509e85ece264d8b45ae.html"
+      "publishedAt": "2026-10-09T01:52+02:00",
+      "url": "https://www.elmundo.es/salud/2026/10/09/6ac7e444e9cf4a7c0b8b45c5.html"
     },
     {
       "section": "España",
-      "title": "La huelga abre una grieta en el mapa sindical: organizaciones que representan a más de medio millón de trabajadores rechazan la convocatoria de CCOO y UGT",
-      "summary": "CSIF, USO, Fetico y Valorian descartan sumarse a la huelga convocada por CCOO y UGT para el 11 de noviembre. Las organizaciones que rechazan el paro representan a más de medio millón de trabajadores.",
+      "title": "Cámaras con lectura de matrículas para combatir el fraude en los aparcamientos de residentes de Madrid",
+      "summary": "El Ayuntamiento de Madrid licita cámaras de lectura de matrículas para controlar el acceso a aparcamientos de residentes y evitar el alquiler de plazas. El plan comenzará en 50 instalaciones municipales.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-07T22:48+02:00",
-      "url": "https://www.elmundo.es/economia/2026/10/07/6ac63810fc6c8387528b4589.html"
+      "publishedAt": "2026-10-09T00:07+02:00",
+      "url": "https://www.elmundo.es/madrid/2026/10/09/6ac7c2d5e85ece903f8b458f.html"
     },
     {
       "section": "España",
-      "title": "Inmobiliarias internacionales cancelan firmas y visitas a pisos de alquiler en España: \"Anulada por la nueva normativa\"",
-      "summary": "Gestoras internacionales de viviendas en alquiler están cancelando firmas y visitas a pisos en España por la nueva normativa, según recoge la información.",
+      "title": "El Gobierno anunciará la subida de las pensiones el último día de la campaña electoral",
+      "summary": "El Gobierno anunciará la subida de las pensiones el último día de la campaña electoral. El dato adelantado de inflación de noviembre está previsto para el día anterior a la jornada de reflexión.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-07T22:48+02:00",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/10/07/6ac68846fdddff237e8b459f.html"
+      "publishedAt": "2026-10-08T22:41+02:00",
+      "url": "https://www.elmundo.es/economia/2026/10/08/6ac7778fe85ece903f8b4581.html"
     },
     {
       "section": "España",
-      "title": "Muere Maricarmen Abascal a los 87 años, dos semanas después del desahucio de su casa de Madrid",
-      "summary": "Maricarmen Abascal ha muerto a los 87 años, dos semanas después de ser desahuciada de su vivienda en Madrid. Tras el desalojo, fue trasladada al hospital Gregorio Marañón.",
+      "title": "La operación para \"eliminar\" a la juez Biedma se desplegó en dos vías: la conexión del \"club urbano\" a los Rocho",
+      "summary": "Según la información publicada, el grupo de Leire Díez encargó a miembros de una asociación local el espionaje a la jueza Biedma en Badajoz.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-07T21:59+02:00",
-      "url": "https://www.elmundo.es/madrid/2026/10/07/6ac68ee8fc6c8323468b4599.html"
+      "publishedAt": "2026-10-08T22:42+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/08/6ac7d2dafdddffbf348b457a.html"
+    },
+    {
+      "section": "España",
+      "title": "Bolaños advierte de que sin la 'ley de nietos' se irá a las elecciones con \"un censo alterado\" - El Mundo",
+      "summary": "El ministro Bolaños advierte de que, sin la llamada «ley de nietos», las elecciones se celebrarían con un censo que considera alterado.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-08T22:15+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNelZjQVdzR0lGN1FFdGw1VkJYb0xsRzdBTnZ5cGtTRVUxUGp4RmxoalRDNkdXc0hFV2RjMXIwNVVtd3RYZVdpWF9BeUdPVnN3VTV6andDaUdRYS1JQ0V3cmZRTXRPdTlsUFJSNzV0Mmp2ZFhKZEltU3dn0gF6QVVfeXFMTjdSSTlyeTU2dDBmRkN1d1BpeUxLb182em5NRC00SkRZeHpHTjlLVTJRX3ByQXVpYXZUbUdyMnVmZDhKaW9PWnUyWnVHNUtoaHJoc3FLbktRNWF1MXlqYlExWWJKMUJSUHRyNmVoUmNjLWNGeWFnS1hlZlE?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Pionera condena por usar la IA para desnudar a tres chicas: nueve meses de cárcel, tres años sin redes y un curso de educación sexual",
+      "summary": "Un juez de Sevilla impone nueve meses de cárcel, tres años sin redes sociales y un curso de educación sexual en una condena por usar inteligencia artificial para crear imágenes de desnudos de tres chicas. La sentencia aplica la agravante de género.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-08T18:11+02:00",
+      "url": "https://www.elmundo.es/andalucia/2026/10/08/6ac7aaeafdddffa4378b4581.html"
+    },
+    {
+      "section": "España",
+      "title": "El ministro Ángel Víctor Torres cifra los retornos de inmigrantes a Marruecos en 11.026, de los cuales 513 corresponden a expulsiones - El Mundo",
+      "summary": "El ministro Ángel Víctor Torres cifra en 11.026 los retornos de inmigrantes a Marruecos y señala que 513 de ellos fueron expulsiones.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-08T17:22+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GYmFOa1hGV29MVEJvWnJNVWRfaktXTTg2ZkhGUXFoaTd4c2FLVVRjWUZ6MUxlMEtwZFpQa0NodDRZMGxsSDZrUnpwaDRuQTlEejNiU1pZbklBZS1nUGFfNVhHOTFSbXZiSWNoVFdHMkxqbzFPTEtGNkVB0gF6QVVfeXFMTUZiYU5rWEZXb0xUQm9ack1VZF9qS1dNODZmSEZRcWhpN3hzYUtVVGNZRnoxTGUwS3BkWlBrQ2h0NFkwbGxINmtSenBoNG5BOUR6M2JTWlluSUFlLWdQYV81WEc5MVJtdmJJY2hUV0cyTGpvMU9MS0Y2RUE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Hutíes de Yemen atacan de nuevo aeropuerto en Arabia Saudita - DW.com",
-      "summary": "Los hutíes de Yemen han vuelto a atacar un aeropuerto en Arabia Saudí.",
+      "title": "Comisionado europeo de Comercio espera resultados \"concretos\" de reuniones en China - DW.com",
+      "summary": "El comisario europeo de Comercio espera resultados concretos de sus reuniones en China, en un contexto de negociaciones comerciales entre la UE y Pekín.",
       "source": "DW.com",
-      "publishedAt": "2026-10-08T06:07+02:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUhKVmtnNkdoeU1oSXVKM3NLNVhOVnRCbUNrQmk2NE9GTHJOenQxbnEzZkFBSlZHTW1FamdfQTZvOWhNWGV6b0MyQ0ZwVDBULUdVdjFfWS1Wd2ZaLUJYd1dGZjZfRnRkNmxIa0NLdDZxVDlhT2UzNzRxOXd3dm1BYnAtazBTcGZUQ1AtT0Q3WEJfNzVVbjUtZThYTWI1SUnSAZ8BQVVfeXFMTlhaSVVLT29NX1ZVTm9Gdl9kNGc0YWlZRWFvUTcwamJGcU83ZGRqaUNhaktLVjlsdFFXRzFKckZqUGFpNk54VmFGNmFXeXJnZEMtTEQ5VXNubThyXzBlamxCaHJtZGNwYzl6Z2pycjRUVE1rYktrSFNmQklYaXl2SXZ2RWNnUHhRNEF2RDFoWUFZUHl0R2ozbjRRaXE2RlNZ?oc=5"
+      "publishedAt": "2026-10-09T05:19+02:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObFFHSWFCNTdBOVhSMUV6Tm9paExncEJxMXowSW1kY25nZ3RoZFNDQ0ItWlBlVTdfUWY5bjhkbjJidmZxaUdDTmJieERKYXgtUmxvSWc3bGFFcWE1SXp3U01QOHlNVHdVZEVBMU0wZDdCRVpQVnI0ckxZVmx4SXRTT1ppZVNCcVVkdU10Y0tjODVrSGd2cUhVUTM5elVja0M2cmVoMi13M19jeXZLYjhnQ0d1QUzSAbQBQVVfeXFMT21xdWNaSGxMQW0xWHBuc2ZIcFc5NTg3ZkdhMUgwMDVCWVlJbzJOMjJPa1h5UTBiRTNuSzBqWDVkbjFlaERtV1Q3Yk1XdDZDQWNwc0o2SU00aWtRSGFuQWRZTTVUYmlPMkpOdGtQNE5FTXJjazJ2a3lNOWZUaThoM3RlUXNFcG9fRTVhdU1xNWkzd0hmQVRtOFRpU0RUckhhcFFwVGQ5SkRNSl90b05VbUx4eXVK?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Estados Unidos: Deportaciones a terceros países en África - Human Rights Watch",
-      "summary": "Human Rights Watch alerta sobre las deportaciones de Estados Unidos a terceros países africanos. Según el fragmento, más de 500 personas han sido enviadas a esos destinos.",
-      "source": "Human Rights Watch",
-      "publishedAt": "2026-10-08T06:01+02:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFpINkZrbmFFZjFmdHNNdmMtNXhjN0dWb2JMclVxSG8xYnhha0IwbEItemFGNGRmTlBkRjhZdmFPVG4xLTJSNTBZNHByeDd3TGR4V0k4YlZ5Sll3c1E1djY3UHNrbGNzOWx5TURKelRXay1KWWYzRjFvMTJVQnlEQWhNbG13Sms4Ykc5SWVucWZvdW1EZXNXZDNCSQ?oc=5"
+      "title": "Flávio Bolsonaro consigue el apoyo del tercer candidato con más votos de cara a la segunda vuelta de las elecciones - RTVE.es",
+      "summary": "Augusto Cury, tercer candidato más votado en la primera vuelta de las elecciones brasileñas, anuncia su apoyo a Flávio Bolsonaro para la segunda vuelta.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-10-09T04:56+02:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONFhMS1FuTWd0SGhsMlBGTExLQk1WajkxVk90RDdVTEIxcTRnNkx3bGRWMjlhSHhPTThNRHZjbVIwM21uYjN2Z2tIZEJNem5xSHhLM0VELURFeGlydFRBVHo2WlVUVkF3cVl0NWR4aWYxYk5qRmQ2QXgzX1lVeEU2X0NSVXFIRDNDd3ZUT3RRT0Ezdi1RV2NSZ1hUU29KeFJjYU5wVnhpYXFjc3lOUFg5Wk1n?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Francia busca reducir déficit público al 5% del PIB antes de las elecciones de abril de 2027 - DW.com",
-      "summary": "Francia busca reducir su déficit público al 5 % del PIB antes de las elecciones de abril de 2027.",
+      "title": "Las protestas estudiantiles se endurecen en Francia - DW.com",
+      "summary": "Las protestas estudiantiles se intensifican en Francia. Según la información disponible, universitarios se han sumado a las movilizaciones iniciadas por estudiantes de secundaria.",
       "source": "DW.com",
-      "publishedAt": "2026-10-08T03:15+02:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1hZWkdvTE1tMnZkclpieEJoV2R4R2JVMzEtWEwzMGptcUJYY1dUSTdMT19uT3E1TkRwYTNuRGxMYXdCa1VQa3FxX0N6djhQU3FyY2ppTWNNOERYUDJMbkRWWEo2ZGNSNUZsaGRzUWFrencyRmR3WFB4aUp6SFY5TzREM0lPVkhmb29EMW5JTEpJbXlIUTV3M0NQZVowcFlVQ25ISVVSRDR0ZkNTVE91LXVUT0lPU3pCX0F5MUpxY1AzUXphOEUxdGttb1luZ2PSAc8BQVVfeXFMTmt5NWRPOV9DWGRxOEF3T054RGh5b1J0OHZMSTljZHRmWWZTSWZkOHN6NGJncDl4RDBCbHhORGQ5ODNyZmFZVEdDY0l2RU1qbGFQREJmTjY4WjdPLUJuUFFwSGRNbXdnNnJpWW1RY3RMdkRrV3FMbXdBTDFKX19NNDJnaGQ3UzM1OVhZRmFQU0RvVXJ6d05yX1hBNmItbkl6Y0JyV1U3TTB1cFhVOTBSTFluR0hXNG5STDRTOFBZSVB3WEV3TEg4QmdnTmlqSzdR?oc=5"
+      "publishedAt": "2026-10-09T04:16+02:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMERVRXFqWVNiQzBNZ0RPSVZicnpyaEFaaVNGQ2NNRXh0VVZ5N1FHdi1YLThZSFNaMkRsblU5b0QzRmIxMWVMc2ZrOEtWM3VKNWgtODBEVEp5WTFmNDFQVjhua1VnNUdFemNjZDBRd2lEeU04RTh3dVN3a2V0ZzlsZDBiNGlLT2FUVXg5btIBjAFBVV95cUxPVnJIMGF1RUJtcWZrMEg4Smk0S2F6bExfTnNQZVNvRE9xVzA1bnV1ZzcyTXdSVGh4cFJqWWNnR0VncUU4dVFoc2ZEWUozZGxnV3BNcG1LWVNtdngyNXJpclVZNGJ4b2FPWTQyM3NJTjdFckg3SmZUN2J1TVJuSTZzS21TaWh6ekRrX1V4dQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Varios niños entre las víctimas de intensos ataques rusos en Ucrania - SWI swissinfo.ch",
-      "summary": "Intensos ataques rusos en Ucrania han causado víctimas, entre ellas varios niños. Los fragmentos también señalan daños en el sistema energético ucraniano.",
-      "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-10-07T19:06+02:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVcxMVdzcjhMeUJJcnNQMkpaaGE2ZHhyYTEyVzd3RHhkY0FsUmktM1lTQjJXUnc4SERZenVITXR2c091bjlSRl9wb2EwTWNUckdKaGRKTkxPNWxIUUJCbGZ2MTdUYXgxVDhSUUpuVTNDdFNVQXo4Mk40WjFfaHRFUm1WRDZQNTZ2a25ZbkE0TWtpOWh3blZqaTIyUWF1STUtNjZyZVVYNjNsNnVObGplUFppdkRqSmc?oc=5"
+      "title": "Más de 100 ONG afirman que el alto el fuego en Gaza existe \"solo sobre el papel\" - RTVE.es",
+      "summary": "Más de cien ONG afirman que el alto el fuego en Gaza existe «solo sobre el papel» y cuestionan su efecto sobre la situación en el territorio.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-10-09T01:07+02:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDE4WGluWE5RVGY3MjNlVzkxM3NaRFc5ZXJzXzZqcmFjOS1TQ1haT2ZzTjJTR3hQOEl5dUJvY2tvTnNSWFhhdmZOMU5Sb0psOEVYWlNxMWJSeWJZa28tWWUwODdVM3hZcFRKN2lHWFh0YWhzZjhrQkFXMWxRX28yUXNMeXhwNnB6UHJLMFViVTJnUll4NG9sUEVxTUJqUQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Imágenes por satélite muestran cómo las fuerzas israelíes han borrado localidades de Gaza - La Jornada",
-      "summary": "Imágenes por satélite muestran la destrucción de localidades de Gaza por las fuerzas israelíes.",
-      "source": "La Jornada",
-      "publishedAt": "2026-10-07T19:08+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNV9zdVFpbWpGZVJ5djJjWUQyeU9fbEFGYkp2YlZpdzVvbHNNOGk4eE9tUXZtWktRb3ZMcWFRZlJVbGhhbU1YTHhQYTR5bDlMMkVEbS14b0hPejNhb0M0MTdCbmVsb1VLMnlkY0xIcTFYSDN5ZzZnYUpNeE5YUUZuU2dyM05kdm1xUnYwU3V1cHdZU0E3N3hrVzc2SG55WERLMHhraThlSDg3MDF4TFhvVTlCTEIzNndGSFF0cTVqd3BaU2g0SjM4U1A5VVNoRnBiZnpuRjh6ZDc?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Los eurodiputados insisten en reclamar un presupuesto ambicioso para 2028-2034 | Noticias | Parlamento Europeo - European Parliament",
-      "summary": "Los eurodiputados reclaman un presupuesto ambicioso para la Unión Europea en el periodo 2028-2034, en medio del debate sobre posibles recortes.",
-      "source": "European Parliament",
-      "publishedAt": "2026-10-07T16:57+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWNLN3k4cjViUlhWZkZ6LVZad2J0VFl6UW0wR21EcVMtRUVpNnRVaDQ0SDVvOWRWYUNQOENvTWE2MUROXzUzbGZMWEtPdFd3ME9wTGNpdWdVcEZnQ2l4NFctSURVbDNmZnRJRWh3ejlqTG4zV0t6Y0FkekxQelZOV084X04wXzd1SFhCQWU0M01tTXkxVGxYTzV3VC15RTJOckt4T2MyaGlnNVp0ejNMU2ppYmJPZEhxM0ZLMWlrN3lpQmVqcm8zdGxRU1ZKN2pKTkJnWTJRcjA2TTU2Mnc?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Qué es el misterio de las asimetrías de la naturaleza por el que dos investigadores ganaron el Nobel de Química - BBC",
-      "summary": "Henri B. Kagan y Kenso Soai han recibido el Nobel de Química por sus hallazgos sobre reacciones relacionadas con la asimetría de las moléculas orgánicas, un campo útil para producir fármacos.",
+      "title": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU. - BBC",
+      "summary": "La fiscalía estadounidense presenta en Nueva York nuevos cargos contra Nicolás Maduro y su esposa por presuntas torturas a ciudadanos de Estados Unidos.",
       "source": "BBC",
-      "publishedAt": "2026-10-07T18:45+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bTd3bzlYUHFpbnE4cjh2MmUzQ3BiUTJnVjVTSG1DQm1XXy1remhlUF9FT1VCYlRsN0dtQkFnb0hoRUZQNHJIR3BqQ0hqanNfNnB3WDBnaFJVUHZK0gFiQVVfeXFMTktCTFUzUVdpU0xrWVJ6VG5PQ2FCQ1NnWXkyc0tvb2d3M1VpMkZjSXZ6U2tDWDZXX3RTbHlfa2VZcmRsNzdmQnZuaUxMZk1kSklhR2diczlOZ3RYdTRuUWpfOGc?oc=5"
+      "publishedAt": "2026-10-08T23:37+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMzJSZDA2SjFLOHFIaEtQSmZQUTZCOGpKNnQxWnJaWkgzcFRJcW1YYVBZTjJ5T1ByczJzTk1CN0FfM19PdllXams5Z084Z2VWd19oaV91Q3pTS29t0gFiQVVfeXFMUFFLdURvSDZSYUQ3Q0lnZ3VlaUFNcUNYOTd6N0VlMzNveC1wOGV2RFVlMGxULWpMa09zU0VKbkFxVnhtNzNYek9lWXM4dUpqZ3lCc0gtXy1YZXJDS195MEIyblE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "El Supremo analizará la revisión de la condena de Jair Bolsonaro tras las elecciones",
-      "summary": "El Supremo de Brasil analizará después de las elecciones la petición de Jair Bolsonaro para revisar su condena. Su defensa busca anularla y suspender la pena que cumple en prisión domiciliaria.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-08T00:20+02:00",
-      "url": "https://www.elmundo.es/internacional/2026/10/08/6ac6c2dbe85ecec0768b459b.html"
+      "title": "Trump anuncia que no habrá ataques contra Irán en octubre - DW.com",
+      "summary": "Trump anuncia que Estados Unidos no atacará Irán durante octubre.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-08T20:38+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0gzbjY4MkJZc0UwZl9udVFFUFBxdlpSRzNXdVk5M19xak04UVF0NlQtSHc1Q25VZlpPWUJzYjdzZTY4OVkyV3FQblJsejhYRUVoOFFKcmxteF91NzJtMUVEcFVVWkRRaVJXZGEwWUgwX1pVSm9Jbzl2S0x0YkNFZjROVGlPOTdjYnNZdjRXY0ZibEpuQTNXVHdzaE0wOHgxR1HSAaIBQVVfeXFMTWZ3eExlYUpRQXlFMUZhSnVyeVZLNGlVckw2MzBoaUQzMU5NbmF1OVZSQUtLUWFBQy1DcjBXaE54TFdCM0hLVXpqcjlkQkwtYU54Z3pxYVBQS25aVEJ4QTFiTnVrTHU4RUVLQ3pUcHhUVWNmLUdqOFhzMDFsb0QzOEVGZGpGMGNDRC0yM1ZTS0J4OFdaRllHNHhGbWN1UE9GcDhn?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Consulado británico en Jerusalén baja de nivel en medio de disputa con Israel - AP News",
+      "summary": "El consulado británico en Jerusalén reduce su nivel de actividad en medio de una disputa diplomática entre Reino Unido e Israel.",
+      "source": "AP News",
+      "publishedAt": "2026-10-08T20:13+02:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmNtOXNvM3NScDFxamtSYnhOdk5KNi1ZUkY2NEJtUTE1NWd4dmszMlBfcFBMU0Z2WjBxNlpDNkoxUTN1MmFzWWI2VjBLYlVtOVNHcU9JZk5xSFZWVGkweVFEU211Z3Z5NWdhR2Vkbk9nZ2N4aEVtOXo2c0tmYlpWTzd4b1o5SmMtVzhNam45VQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Trump suspende el acceso de Microsoft a un programa de visados por haber “sustituido” a estadounidenses por extranjeros - La Vanguardia",
+      "summary": "La Administración de Trump suspende el acceso de Microsoft a un programa de visados y alega que la empresa sustituyó a trabajadores estadounidenses por extranjeros.",
+      "source": "La Vanguardia",
+      "publishedAt": "2026-10-08T18:18+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWXdDNmpXYnF1eUVzUXYxelZNZ1R2QU02Qmthb1p6ZjQyV0hGZzNKN2l5TFhBY2FaemNMMVVxLW9IQU9RVDYxOGlmYThxOHZXZjVWUVpBNmtrX0xld1BCRFh6TkEwQlJlLWwzanNBb1dkSEdGa0JEV21LTnZ1ZDZYN05BZ29pSnFmRmZPY3pOdHJ0bWtNMk9MeTl4WGZzN3VJN0dMeXF0SUd6YmQzd250ekMzWVN2a0kybHFjTzZTdmpBY29zWjdJeWJtYk1qOXFZUjFJRHh6bFI5LTRBdG5aWklYZ1VDaGFiaVdzRUJ2UErSAfYBQVVfeXFMTUg3Sjk3VTNNVVI2aUtuUzlFWTFzZmczX1JNU1pTSURPZllQblNJLW1zRExzbnYwR0JBMjAtSzk3VnVub3NvdkdiNnJhQ0tnb3ZFS1BMRm05b29FeU02YlBpdWpvMnVBc3p4Q25GMWJXSTMwNlFJaXVFalVwbGw5T0h2R3VnVEVKaUpMYTJpSXNyRXQ0YUFJV0lIdVAxVUJ0TmdSYlRablNpNGQzZm52dGpiWHVqNl9pMnBRQzAtQlM4VFJkQmZTX3JCeEdhNDhnLVZCbVQ0OTh4dUJPY3V0Z0tudDlYX0xjemJNWWJtZ2tiNDhoNEZ3?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Casi 300.000 personas podrían vivir en zonas con riesgo de inundación en regiones cercanas al Himalaya - Science Media Centre España",
+      "summary": "Casi 300.000 personas podrían vivir en zonas expuestas a inundaciones en regiones próximas al Himalaya, según una información difundida por Science Media Centre España.",
+      "source": "Science Media Centre España",
+      "publishedAt": "2026-10-08T17:00+02:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3o3bkJIQ1kwREF1YktENkY5UWtUWVU0YTN0Yk45am1xRjFPeWsybHhVUktfbmJSakRpUjdZd1ZpUnQtMU9VTnh4TUFPc2gwWmxMVUY1a2Q2VjNjZ0RTNXhKX3BuNE9xbnVUNWRnWHpNQU9lUWkyVEd3VDFaWGdrZEYyeThQeXNhOGFmb20zQ09kQXh1anV5V3BwcXBFa2ZlaXl0OEVDNUQtVks3bXNLSmZNSVFZNkxwS3JTT0tNUQ?oc=5"
     }
   ]
 }
