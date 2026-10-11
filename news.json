@@ -1,168 +1,136 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-10",
-  "generatedAt": "2026-10-10T06:30+02:00",
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T06:30+02:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Más de 100.000 euros de multa por promover una asociación de huertos urbanos en El Puerto - Diario de Cádiz",
-      "summary": "Una multa de más de 100.000 euros por promover una asociación de huertos urbanos en El Puerto abre un conflicto en torno a esta iniciativa vecinal.",
+      "title": "29-N en Cádiz: Sólo un escaño en juego, pero más decisivo que nunca - Diario de Cádiz",
+      "summary": "En Cádiz, la disputa electoral del 29-N se concentra en un escaño que puede resultar decisivo.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-09T23:04+02:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTll4blIycVE3QkZBeUNsc0VjdWk4QVZoNl9RUVJoVjQ0c2lZUllSVkR6c0lMTXBFZlVGU2tlcUpicm5mcFhOQ3AtV01MZGM1cTkwclFoX1FhcHVRT2JJSTRJQ1lTSWlyX2g4aWg0Mk5OaElnbkNHa2Q1NTl4b2Y1ckxQemtxVE1tQm03RtIBkgFBVV95cUxNd3RlZWVmdFRJOWN4TFJPVDlBYmU2NVk0ZEtpRmZIMGpmdEdGMmVjbWNQTDJZRmRBRDB6cWY0NnF3X1k1OGtKZEJ4QVZhS2dMZTdua1BBbjN2emJ3QlY3SkVUbXVqb2tlWGFoRWs3U1ozTXhKTHdJWkE2bnZ6SU5Hd3JIQzVZQkhYTm1PRzliR1BnQQ?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "HLA Jerez Puerta del Sur acoge la ‘Jornada de Presentación de la Unidad de Cirugía Robótica’ de HLA en Cádiz - Diario de Cádiz",
-      "summary": "El hospital HLA Jerez Puerta del Sur acoge la presentación de una unidad de cirugía robótica de HLA en Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-10T05:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTRXOXZ0S2t2ZjVneUVGUlhsYm1yQlZ1ZkF1RWkxUDBPZmYydUVwRGl2ZFZMbms2N1JuSFFGbFVHNjlkMV9xTy1CcWhzR1ZVVDZQeE9IQ0ZtUkh4enhHS1JNazRLekVYX0VMTHUxWEpYTUNnWnJpR1R3MXJ5U3NlTk1sSE41cHhscHfSAY8BQVVfeXFMUHNMUW5kOFFBaDNMVzE0UE5RYWxXUEZPSU9jUGpKaEwxazk2ZE5GVUo1WWN4LTRyWTVKSDdubXRpRXRqX1dpMlFPbTEtMG5CZHViZE9Ic2NGdElqYTJUMGRaRWtZSGpfcUMwenk0WlFuY0h4Z0p2S3ZtT1dldWtRN2ctaVJtR2Yxbkx1UmJoMUE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Indicios \"de singular importancia\": Anticorrupción atribuye al PSOE cohecho y tráfico de influencias",
-      "summary": "Anticorrupción atribuye al PSOE indicios de cohecho y tráfico de influencias. También señala el descontrol con que actuaba Cerdán y la falta de explicaciones de la gerente del partido.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-10T01:10+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/10/6ac92eade85ece5a4d8b458f.html"
-    },
-    {
-      "section": "España",
-      "title": "Crece el déficit de construcción de vivienda en España: se inician 120.000 al año pero sólo se terminan 80.000",
-      "summary": "En España se inician unas 120.000 viviendas al año, pero solo se terminan 80.000. El Banco de España señala que la brecha entre obras iniciadas y casas entregadas está creciendo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-09T22:40+02:00",
-      "url": "https://www.elmundo.es/economia/2026/10/09/6ac91392e85ecee8178b457b.html"
-    },
-    {
-      "section": "España",
-      "title": "Sánchez lanza un 'frente popular' en el Senado para limitar las reformas del PP",
-      "summary": "PSOE y Frente Amplio negociarán una posible candidatura conjunta al Senado para impedir que la derecha alcance una mayoría de tres quintos, suficiente para renovar por sí sola un tercio del Tribunal Constitucional.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-09T22:41+02:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/09/6ac92e1621efa08c358b45b8.html"
-    },
-    {
-      "section": "España",
-      "title": "Guerra interna en el CGPJ por los nombramientos de las Salas más sensibles del Supremo y el reparto de comisiones del órgano",
-      "summary": "La negociación interna del CGPJ sobre nombramientos en el Supremo y el reparto de comisiones se ha roto, aunque se intenta reconducirla. Perelló ha incluido las plazas del alto tribunal en el pleno.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-09T22:39+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/09/6ac92f22e85ece355a8b45bb.html"
-    },
-    {
-      "section": "España",
-      "title": "Cuatro detenidos por captar en iglesias a inmigrantes ilegales para explotarlos como repartidores a domicilio: \"Cobraban 70 céntimos por paquete\"",
-      "summary": "Cuatro personas han sido detenidas por presuntamente captar a inmigrantes en iglesias para explotarlos como repartidores a domicilio. Se les acusa de organización criminal, explotación laboral y favorecimiento de la inmigración ilegal.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-10T00:02+02:00",
-      "url": "https://www.elmundo.es/madrid/2026/10/10/6ac8e87afdddff502d8b45c0.html"
-    },
-    {
-      "section": "España",
-      "title": "Un muerto y ocho heridos en un accidente de tres camiones y dos turismos en la A-62 a la altura de Tordesillas - El Mundo",
-      "summary": "Una colisión de tres camiones y dos turismos en la A-62, a la altura de Tordesillas, ha dejado una persona muerta y ocho heridas.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-09T18:30+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xdzlXVE9yVWhnbEROeXlHT01FVmdBX0JiZGdwdktaQWhaM1hpb0RxRE9kN3VrOEQ0VUhDTWlkdk1KajVmNjk1eGoxLThIYzNyaW16SW03bU45cGc2VjVRTnFFc0RDM1BOTVE0MF9uVngyQnFZanZEQ3pn?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Detenido en Mérida con 16 armas y explosivos tras la denuncia \"por miedo\" de sus padres - El Mundo",
-      "summary": "Una persona ha sido detenida en Mérida con 16 armas y explosivos tras una denuncia de sus padres, que dijeron tener miedo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-09T17:13+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbm82cWNUeGhWcERSbzBHbEpjblhSbzVlTzlmcGxWMlg0YklFU29mWGlSX2VGRGR5cXZ0Ung5UVVSYUJuc0hQUmVyMHRGT1FSMDRUWEl1end0UUNIanpTcExwRkVJc05IZDNOWmthWTNpZlE4LXZjNXBPT1hPcHNoNnlFRjM0cFJ4cHfSAYoBQVVfeXFMTVhkbWdVT2dmankzM3dlT3F4dmI0MFhuU3FHMXdHZUNEWHhkOTBnYjB1LTdTUWFOYjB3TGNvZWFUTVllOWU0RTJUVkhNb1NSWTNrWk5UaGVuQzh6Z2ZLMnBlcV9KcnY0eGNYSVpKNmxpNWpYb1FYeWdCdVpiRy1SUTB6OGJyTFZJeW9R?oc=5"
+      "publishedAt": "2026-10-11T05:59+02:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTFhLTVZYy02WDFaYW9fWU42bTJVOHVwaTRWZ2ROOV9YOTBtekNhdkRELXFjUUlKUEw1N1EtUGFaVi1TWUxZbk9uY1FkaGh3QXVaRjhZbU1lQ3NLSUpMeGNuLUpTcm1fRjNkSmhtS3ZOOENMMFZtWllQdzZaZVVQbXB6OTlYVFZ1aVBQc2d4ZmwxMnlfRHo0YkYtNNIBoAFBVV95cUxQaEtIcldNRkstRWNobHlOTEl2bGhNUW5aQ0EzZjBFaE94U0prWXkzTTBkNm54alIxaWpqNmtDWlNHUS13SF9kWFZVYThQd1pIek1pODB6SDliVjhGb0JYajl5dV9zOVM3N0VVZ29DT09iYy1feVJPd09jSHFQc3d1UURtQ2djWnJiakJrWjVIbVFHWXhzNWhYNmlWR0R2NnBR?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Un fuerte terremoto de magnitud 7,7 sacude Panamá y el presidente Mulino afirma que \"el desastre que estamos enfrentando es grande\" - BBC",
-      "summary": "Un terremoto de magnitud 7,7 ha sacudido Panamá y ha activado alertas de tsunami en varios puntos del Pacífico. El presidente panameño ha advertido de que el desastre es grande.",
-      "source": "BBC",
-      "publishedAt": "2026-10-10T04:51+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdTZVOXVuRlRUSUVZaVJWX0Q1OEZlejJYWUViMjlnaDkwUFZsVkNiQWJ1WDJmR1VHNEdIRGZvaF9pRkJvZFZvZmQ0TEhlMkhFOVM4MEJIVVRaamVE?oc=5"
+      "title": "12 muertos y más de 300 heridos en ataques de los rebeldes hutíes contra el aeropuerto de Riad - France 24",
+      "summary": "Un ataque atribuido a los hutíes contra el aeropuerto de Riad deja al menos 12 muertos y más de 300 heridos.",
+      "source": "France 24",
+      "publishedAt": "2026-10-11T03:53+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTWNVNVN6d1E4YWRBaHg0UjI5LXMzbUZFV0lmYjJveWUxS19lRVQtdmFOZjk1aExoTmtzODRoZFJ0TWF3WVVOVW9GeEhONU41eUlaMjh5N1BqS0Q4V1RZTmhxNzlGRFA2UnVPeVJ6Q1VySUFYVkNNWl9iYXhsQkcwd1VjR19OYWtoQ3pHcks3V3VPYjlVOU16Y1VTSXpEVTN6clVTSzEteDdPNVVGTUo5VVgyVEZIa2NzeGRTMDRjZXpyMUlYVmJHZm5RN0xkTUgyaHRnM2liRVRqZ1hkUFE5R3kxUV82VTRCMXBr?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Isaias deja más de 512.000 clientes sin electricidad tras tocar tierra en Florida - RTVE.es",
-      "summary": "El huracán Isaías ha tocado tierra en Florida y ha dejado a más de 512.000 clientes sin suministro eléctrico.",
+      "title": "EEUU ataca un buque comercial en el golfo de Omán que partió de un puerto iraní",
+      "summary": "El mando militar estadounidense asegura que atacó la popa de un buque comercial con bandera panameña en el golfo de Omán después de que ignorara advertencias e intentara eludir el bloqueo naval a Irán.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-11T03:05+02:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/11/6acae020e9cf4af93c8b4582.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Buque petrolero se incendia en el estrecho de Ormuz tras impacto de proyectil: Irán lo atribuye al choque con una mina - La Tercera",
+      "summary": "Un petrolero se incendia en el estrecho de Ormuz tras recibir el impacto de un proyectil. Irán atribuye el incidente al choque con una mina.",
+      "source": "La Tercera",
+      "publishedAt": "2026-10-11T02:10+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMDNxalBiSEItdElBY0FmdHRCVVN1dnNFeU9zc29EZHRmZlE2RmtabUtHdnQ0WjlpdXlOVTYxNWtJbGUxaEpIVi14bTktYlZUemdydlVscjJHc1JvS2E0MnJKZ2FxZnRYMnU0MmNhVnYwX0paTmJFWlM0UDg5WjVxeGMzOG1reTYxZGVnb2ZGWERZQUh5TVdEaXdjSHBUZ2tNcVI2eXV3Q1Zua1lqTnd2X0ZWd0VXaFJETHNMckJ1Mkk4MEdVZDJqazl0OVVKbHlsWkFvMkRUQ25hSnVHWHcyc3p4enlJVy1HUzdaYkFKTdIBkAJBVV95cUxOMGEwT201NnFOVVRNd1VBN0dDZVYwYjNoV3Y5cVVacWdDMjRDcTY0UkxkdXJKeWZVWXl3allEMUMzTVhXRE9KMGlONi1JN01xZy02VGk0OWlDNndfaVI3dnFGWGowMVVZdXRJTFZWZmRHV1UyWWgzU2NKa002eVo3aEk0M19BVXBSZ3lyZ0VLZmNBYVdZV05NSjhkNjY5VFM4V2NqYUMtS3pRWWx0cGxmOVhPbXFGLTFpYUxjdmM0Q2JvLXBWQV82R1pUTUJqVVZQMGVTenZtdElGMXJnNUo0MGtPN3Q5b1h6VmlRay1WZ2ZsSUJhWERHSGdUTm1val9LWXUxb2FpZ0h0OTlGdkk1Yw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Panameños afectados por el terremoto temen regresar a sus casas por daños y réplicas - SWI swissinfo.ch",
+      "summary": "Los daños y las réplicas impiden a algunos afectados por el terremoto en Panamá regresar a sus casas.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-10-11T01:37+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHZTbHJvT2ViS3FjXzg0SGhxRnhRYU81T3JFNzNWZVVucTRrakhtWEJlMDFwMzQtMF9TVXF4eXpuVm85S0RQWnlGNUEzUFNmb1FmMFZlOXJ4WnI5d09FcnRka2FhY0Q4M2EyZDd6TTFlc0dXTHFWelJHVFl1QmxaTTJLZzByYmoxV0IwbnBFU1lrM0QwNTVJcy1sRmhhcUJFUUctdnpNeWpyejJfRjNyd1RqS0Q5UnlaNHdUakJyVHBOdHNtWldKUkJ2NFlHQ3JJN3dN?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Israel mata 6 personas en Gaza a casi un año de alto el fuego - DW.com",
+      "summary": "Un ataque israelí en Gaza deja al menos seis muertos cuando se acerca el primer aniversario del alto el fuego.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-11T01:09+02:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUwwNExraHZUdEJPMkdTTnBmcWYtNEJVcjRweUJJdlpiQmJ4LTNDTm80WlFoUzFpUks5Wl9kT2pCY1czMm11djZUc0pCMHFKdTg5UklXYVdyV016WXdxMTVDTHEtZEJ2MmZ6NFVobE5wNEdrVUs2MTZ3a3dqLWIwTkp6d21ZWFdOQ29ad1dDUGdQTms0dEh2MGE0MHNmOWQw0gGgAUFVX3lxTE8zSUV0X3VtbGtzSjZwU0E1S29VRkdwY3B5Um9MX1FVN1N4SmE3c0luVmZjLTlaMy12emZtV29wZkd0NXhLaUJ2RjVuX081UmsyRExickRJazFqeTB5U1prd1Y3NGVSc0dNR2UyTHBYS3l2T3pxbGJDUW1ORlJFZG5kY094YktUSHhfYkdOUFp5SUt6RTRUeDFMVGxELXVoSjI?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La ONU pide a India que libere a los más de mil detenidos en las protestas de Nueva Delhi - RTVE.es",
+      "summary": "La ONU pide a India que libere a más de mil personas detenidas durante las protestas en Nueva Delhi.",
       "source": "RTVE.es",
-      "publishedAt": "2026-10-10T06:05+02:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemF6OTVwTTZWRnNiZ1RRRDk0eE9ReURZc3BqSTlBN3VMaDhoMXRSdF91VE92TXRnVF8tZlZvR0w5cWZud1l3c2Z6cHJCQXJGNzZuRGF0X2oweUw2bktVRVRCUFdvR19OdnVGdk8tdjhFZUN3WWRWNGwtM2ZLNWNpODYyWTd4OENXc3QyVFdHSTA1Nk81SDNZSXVsb3UwUXBXRldIWW92VWhfbWZuMTcwZ1g4TFhWdFpJZmZxdV9rblZmdm5tWHc?oc=5"
+      "publishedAt": "2026-10-10T21:24+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWJUbWlSVWhNcHRiR1daRWtwRGVjVDB1WE1KZmE2dFNpSklTX0xJMGVjYzRwTFFvNDJFU0NYZHRKdldYSEVIelpBM1N2ZGxPMjZsV1ZkdDJOQVdXX3FER1BldS1xWXhNSVhGMm1pSWFXTUpmNTluMGdLTk9FZlN0V3B5eUhvaERSRjRsaVNtMmN1Q0VTa0R5aW5Tc3NLYnl4LTV3TC11Z0RQazMtbWlpeEtrNkg0T1dsVmc?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "MIles de hutíes protestan en Saná contra Arabia Saudí en medio de una escalada - ABC",
-      "summary": "Miles de hutíes han protestado en Saná contra Arabia Saudí en medio de una escalada. Según los titulares recogidos, un ataque hutí contra el aeropuerto de Riad ha causado tres muertos.",
-      "source": "ABC",
-      "publishedAt": "2026-10-09T21:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDJLa1R6SmljamVxcGhtQWdTRFZBcWFNTE8ybjY1aXRNZ0MtMGI2M3FCX1BURTJxU2NfUDdSZXdxcHVlOTVwTHd6a1phcUdjdXpMblU5SWVGRjVwV3ZhTmk2ZFF0UE13Zkp0S1M3UkRsZ0RNUlcwVkgwSzdYOWpwQW9ESlh1bmFfVk01cDA2ZGs3VnVBclhoSjlYdllKLWdZd2l4dA?oc=5"
+      "title": "La presidencia irlandesa del Consejo de la UE plantea un recorte del 8% en el próximo presupuesto europeo - El Confidencial",
+      "summary": "La presidencia irlandesa del Consejo de la UE propone reducir un 8 % el próximo presupuesto europeo.",
+      "source": "El Confidencial",
+      "publishedAt": "2026-10-10T17:48+02:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDVhdURIMjZpOTM5Q29BOUhIX3RxRnplRXBpbk1IeTVReUdKa0ZkOWxaelhrN0NkY3VaVXdncDdiWDVyZTV3X1dJbmUtZEY5Ql9ld1JxTzhLXzdsT1I2VU1mei1rSXNUOTJpSnlIaHEyTmI5WGN6bjFQRVlTUk40RXNhRDFESzE4SEZrd3V1cmlDTkVkb2pHTU1VRkhXcE1ZMVhWdkJDMFBRNWtYdjlybg?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "El atacante del vuelo de FlyDubai pretendía estrellarse contra un aeropuerto israelí, dijeron los emiratíes - The New York Times",
-      "summary": "Según la Fiscalía de Emiratos Árabes Unidos, el copiloto de un vuelo de Flydubai planeaba estrellar el avión contra una terminal del aeropuerto de Tel Aviv.",
-      "source": "The New York Times",
-      "publishedAt": "2026-10-10T01:25+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnk5eDVfQXpaNTgtSHFfQ2lVZzlfd0wzemhTV2pqT0NMYmpsaXBKd29XWWF3eHh3MXltLXJjMEF6bWc4R3Z4a1Jod25KZ1FlNmxoYUFSa2xwR01yNUhqcUFQREEyeHZiaXR2UDJYVTlKWjV0ODJya3BXeW9XZ0JIb0xpMktPM3pu?oc=5"
+      "title": "Ucrania reporta once muertos en ataque ruso en región de Zaporiyia - DW.com",
+      "summary": "Ucrania informa de once muertos por un ataque ruso en la región de Zaporiyia.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-10T14:54+02:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEhQTXh6NXlJUm1EUlB4X3VSbU1LMkpHWUFCWGF4ZjZYYUE2QTNSZk5YYUhWQjRSbjM2ejV4WDJkSTd5b0hZdURmQmFNY21pMlFQQlduQUtYVGRMMHVsbFVEV3hHbW5tRVhuSWotcFR1M3ZqZWNMcnBZQkx1Yk5tSXZ2eGNNMkpMNU1OTHFQV2JYdjNIWldDVlhlSG15dXhsWmZSblV6WdIBpwFBVV95cUxNWXlzLU9FcXhFV28xVGgxRVZiV21Ra1dpMGpNS24yOGJYSzIxN2F1YU5xbjlNMHNOeWg1R2U2U0hDa3MtVzRvMEJMLVN5RjZFc2VDeUFSdzhJNTc5dEJOckJwT1pCN0tWYmxJdXVsM2VKTXdabGdyYm94aGx3RG9wM2lkdDI0QnByZnZ3VXVmMmlGUy01dnJGWWl5UnZrUkRaeER6aDU5dw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "China y la UE acuerdan rebajar la entrada de híbridos chinos - RTVE.es",
-      "summary": "La UE y China han alcanzado un acuerdo para reducir la entrada de coches híbridos chinos en el mercado europeo.",
+      "title": "Abás aplaza las elecciones legislativas en Palestina, que se celebrarán con las presidenciales en septiembre de 2027 - RTVE.es",
+      "summary": "Abás aplaza las elecciones legislativas palestinas y las sitúa junto a las presidenciales en septiembre de 2027.",
       "source": "RTVE.es",
-      "publishedAt": "2026-10-09T18:15+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR1NhcUF3NndQcXY1aWFWNktvWDJkOHllMF9MSmltUU1XcEYxcXZzYzJBd214VnpuaEhPWDhDSW4tWGFMUXRCTEZSelZybjlQMXV4UXdPVXNwM2pSTzJhcjdpVDJfS3BUOGpPbjFZTDRIOHR3UUxnYnpwUVRHMHNWNzJfalc1V3hVQk9hc3Ayc2w5RHdjbkNfTUowbmxNWTFUanpfRFFXal9za1RmcElQU3Z0cW4tUGpvTFFMb1VwT3p5YVQyTzZvenpaSDJfNDVkc051Zw?oc=5"
+      "publishedAt": "2026-10-10T14:21+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlFwWENaVk4xUGF3bnVEak9RYnBaT1pUWXhjT19RUlo0dG0xTVF5bmJRcHRyTjBlbkwtVDRraG11MncxWERBamtpdERHVmdhVEx1ZWJKN0g4LUs0TGRVem11OXpqcEN2UWI2NnVaRFlEazlwamhCNGhUY3Nsemtra3l5Y1lQN2Q1Yk5EMkIxdWZuVUVNbmFZckswVUlRd3d3UGVlMVhMTV9WdDFMTzZaMFlKcTdJRzNZN0NQVE9NUXVqM3RVbG4zUDhoZjlfbVhFYjZUa05pNHloa2ltaXNmbw?oc=5"
     },
     {
-      "section": "Mundo",
-      "title": "Trump anuncia que Putin se comprometió a suministrar diésel a EE.UU. - DW.com",
-      "summary": "Trump afirma que Putin se ha comprometido a suministrar diésel ruso a Estados Unidos.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-10T00:27+02:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHAtS2JsN2tWRXpsMWtfRXhsNXdFUmZkYldIbHhzUGlfVXNSbUhVM2xRNUtMQU9KSDJ4S1FjZHZRTHdJMnc2NkRPb1A4WWFlTUxMUjdFTXlQVTlBUTV4cXZPaVRsWmRBU2tKb1NMQVl3M284WF9mSDIxN0hKUHNVUGVQN3lkbGlZUTViSXFLU2RyNllBNE12ejltQ0o3ak9lOWU1ZFFsb3czSGw2UkHSAa4BQVVfeXFMTlR1Z2xwN083VmNMbnByUmE3eE9GbHJvQVRZS0J1QVpjOEJLYWxWTGhsY2wyZ01JOG1FN0xDMllkc1lSc1RmWGhRVWs3X2N4QlZMVFh4T21NR051V2RESFhGVjBaclRPZ0h6eVVrYlFHTWZUMEw5WlNEbGhyMUh5N1B4REoybC04NXdzUjFvX2s3bnN1YzBvaVAxc2pyTGF1My1naUlrU2h2eHdrZnZ3?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Estados Unidos impone sanciones a la Corte Penal Internacional luego del Nobel a exjueza Navi Pillay - DW.com",
-      "summary": "Estados Unidos ha impuesto sanciones a la Corte Penal Internacional después de que la exjueza Navi Pillay recibiera el Nobel de la Paz.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-09T23:19+02:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1FhMHZiTE9kajI1dzJMU09KT05NMWEyYUJLOWptV3pWb09CVEdkemQ1ODM3RWRfV0NWdTFBUlhPZEhLRWk5enRaWUd3YmRhR2N6Z2d4THBZeE1jRURtZXdsVk1qMW00QjY5c1BuQk9uUVBDcEVIYlVnLTk0cnIyaW52TDZSNVNtd2lVWlA1NGJEbHY5LWhFcEJYY2xLVGM2Zk5QMVNHYXc0MnJuX2U4aG9tX1hxeW8tb2ZsUjQybmNxN2JfYWhVNXpxY3ItUdIBzgFBVV95cUxPc2lVVy1naVZ0TDM0czl3Ulp1U3k2ZldDZ2lZaHNXRUJ4SHplN3JkLS1Pdm1SZndQRHhNYTQybHF0b041TmoxLW4xNHJFb3dtOF9wSVl3OTRacjJaVFRGbmExRk1SajE4a01lZjQxUmJ4WXpoV3dGYno2WE5wVjN1NTdYUHlVVjJaTVBYaGZjZFYyUUtCX2RoNVJRRDVlYWZlUG1ub2UzN1pOZUZNcmoxZURtRmkybWV2RlBDNmlLd3NvMjFWa0M2TVFFTGVYZw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Más de cien detenidos dejan protestas en Bélgica - DW.com",
-      "summary": "Las protestas en Bélgica contra los ajustes económicos del Gobierno han dejado más de cien detenidos. En Bruselas se han registrado disturbios y se ha planteado una huelga general.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-10T03:40+02:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkMzdmpKYjRobHRZYmdBSUFMTlNhNUg5QU1ZSERtUWxFbXhnNGtaSGVHYkFIVU5TSl9ta21tUmVJUm9VN052VmEtdHhabjNOODR0dmdVNXlCSFU2eFd4SjZJSWZ3LW56MVdEUkJHSm5vbndRSzZ2RUY0S3ZNdzJvTXBKSm5Bb2FXSTVsQTZFWXZSeUVXTHfSAZYBQVVfeXFMT0tZdEpHNXZoZlpYdnJYNUkxOE9paWRXMWJfT1lac1RXTWE0RVg2NkVSc1ZvUFBVbk54QlZDZTVNY202Mms0NmpLcU1aLUxObEFmdm5rVzI1b0VWS3BadGR5ZkpydDdRMkxXQzJKVTdUQVBUZDJSdjV4dlZManliRkNaY3pNU1BHNTFodDFNd2dZUC15NHlB?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Trump sigue empeñado en echar a Cook de la Fed: anuncia un comité para investigarla y justificar su orden de despido - El Economista",
-      "summary": "Trump ha anunciado un comité para investigar a Lisa Cook, gobernadora de la Reserva Federal a la que intenta destituir.",
-      "source": "El Economista",
-      "publishedAt": "2026-10-09T16:39+02:00",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUDc1OFMtM1pFeTZtTWxGVU44cGdXaWRRZ25ILVJEeHhPMXdocENucDJLNmhwQU84VXZ6NXlhMTBGWExlcVBfR00wMmg2R2NzUkw3OWd6d1JPdEttc094OWhFdnNKX0RuOGlyQXBPZ3pLVHk4VmVBRVJBR3NUVmxGeE5qbHpzQlloNE9yMGtUdzdVZFRUSnljYmVWZFhSZGRZcEk1SWlqSDBNM0pBOUw2Rmd4cm1rY3FSZ1BzTmctOFJDVDhvaGJWaXRaaktYV05BdXlsNk1wb08zX3EzUnBwS0xiZk9IbmdiTTZyQlBrT1dDb001QWpScFhQZzFZZDJfb1N4bjliYnZSTjZGdVpkSWVHNS1ydWZNSDhoa2Q2WdIBigJBVV95cUxPMW81TDU2cVBTYmI1b09wYkpYRjFWbUtTMW04TUkzUkZ0bkQwa2RfMG1Lb214RXMxcWdGQzQyTU00emRtdG03S09FRTBHeFlTS1UtTW9iMUNYN3pkY3lSY3JFVGRfRXI2VG05LWQybnFqVVZ4VDF0alBncVNxeTc3V3hiTGd0bkctUVhraUpab1JHUWFhbVVPdkhDOVE5V3M0dElIMmczZEdUMlNYbnlicFR1MDhHVGtiaVB0V0R4MEZJYXRnLTNDajdqLXN1aFdEdmxfRVZycW9ROHBOdUpQQm5CRjkxNzBxV1AyV3lrb2lVWlk3UHFGVXM0aXhLZFJLODVBcm9tSEpKUQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Gaza cumple un año de alto el fuego entre bombas y escombros - ABC",
-      "summary": "Gaza cumple un año de alto el fuego entre destrucción y denuncias de que continúan los ataques. Un centenar de ONG sostiene que Israel vulnera la tregua a diario.",
-      "source": "ABC",
-      "publishedAt": "2026-10-10T00:53+02:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlJXNWhKZDRCQ0x5ZDI3SktabDhORWF0dEJERkJTbVFhYnQ1WHNUUWhPVnlmOUxWeFB6VDU5UHVxMS1kRGt0XzU4dXByUWNBcm01ZmhFRld1RlotN3JZUTFjNXZjSnEzTlQ2WlhldEs5MzVYc3pQVlRHcEk0cE5tdjd3b1R4dGt1M2RKZzl1MGZMekxNdFRXdjdsdkxmd9IBowFBVV95cUxNU0d3LXYtSGM2TUlEYzQ5UzdHY2tlZENXNk5HaUdtU2Z1MVE0VFhLcWhIaEo3aDViZ2xBZXIzVjdoakJNWWpUcEE3aVczREd2aVNfLXk2X3Vhcnh3UkhYZXc1bVdFSjdtVDVrUU9ETUw3NGNrUzdrLWlISzRnX0w4MDJRUTB6bHZFeE9pamZnN1NRa09rcDJwdldxa1N2d2VCeF93?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Los chorros de los agujeros negros podrían 'matar' a sus galaxias",
-      "summary": "Un estudio sugiere que los chorros de los agujeros negros pueden impedir que una galaxia forme nuevas estrellas.",
+      "section": "España",
+      "title": "Devoluciones forzosas y bajo engaño de Ceuta a Marruecos: testimonios de inmigrantes confirman que el Gobierno ampara retornos sin garantías",
+      "summary": "Migrantes desalojados en Ceuta relatan que fueron trasladados a Marruecos bajo engaño y sin garantías, y que después la gendarmería marroquí los llevó en autobús lejos de sus casas.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-10T00:56+02:00",
-      "url": "https://www.elmundo.es/ciencia/2026/10/10/6ac7bb47e85ece60158b4592.html"
+      "publishedAt": "2026-10-11T02:06+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/11/6aca28e121efa0457e8b459e.html"
+    },
+    {
+      "section": "España",
+      "title": "Correos se hunde en pleno auge del comercio online: 1.160 millones en pérdidas, menos plantilla y 13 días para que llegue una carta de Valencia a Madrid",
+      "summary": "Correos acumula 1.160 millones de euros en pérdidas y reparte menos de la mitad de envíos que en 2019. El texto también señala una reducción de plantilla y demoras en la entrega de cartas.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-10T22:54+02:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac922d5e9cf4a980b8b4598.html"
+    },
+    {
+      "section": "España",
+      "title": "Sánchez fuerza un plan millonario de ayudas para la mitad de los electores el 29-N en un intento de recuperar el apoyo de jóvenes y mujeres",
+      "summary": "El Gobierno impulsa medidas de vivienda, adelanta el anuncio de la subida del salario mínimo y prevé comunicar la revalorización de las pensiones al cierre de la campaña del 29-N.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-10T22:55+02:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca5362fc6c83446c8b45bf.html"
+    },
+    {
+      "section": "España",
+      "title": "\"La lactancia materna se está llevando mi cabello\": qué dice la ciencia sobre la pérdida de pelo tras dar a luz",
+      "summary": "La caída del cabello después del parto se relaciona con cambios hormonales, no con la lactancia. Según el texto, es un proceso reversible que puede afectar hasta a la mitad de las mujeres.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-11T02:06+02:00",
+      "url": "https://www.elmundo.es/salud/2026/10/11/6ac8c7acfc6c83fa5b8b4581.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Campaña de Lula denuncia a Meta de \"interferir” en elecciones - DW.com",
+      "summary": "La campaña de Lula acusa a Meta de una supuesta interferencia en las elecciones brasileñas a favor de Bolsonaro.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-11T02:43+02:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUpHX0t2eDhjaVBoSnZnZGxnNmJKSDBUd0FXcDk4RlFseW5JUTVwQ3A0TDZxUUpYUGZFZF9rcGRfZEZ0ZTM5ZDgxcFlVcU9rY0dOUDNSZzdvdGVnemRhT0JTcWk2c0d0cjJzOTNvYVIyckZRNkdxdEU5Uk5ObUxPSHRXNDVmdVdpWDR5czZSX3hXNkxsQmdWZVpEMXRXQdIBngFBVV95cUxQUGY2TkJ1bWZiV1NTN3B5VC13MkpMNEpLcnQzeE94MXVLUXc2U3Z3NVhpSmN0dXhrQUhyXzQxa3ZUU0Nna3cyOGp0ZGRuclo5U2UwUWZQN294Q05iOEMzdXFFVWdrd0ozS0ZrT2hRNGVPYWJMMTBSZ095UzdHVVJNdnBUYVd4TExUaXpqM1dEWm9OYUhpampqSVFRVFFmZw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un tiroteo en Pensilvania (EEUU) deja al menos nueve muertos - Cadena SER",
+      "summary": "Un tiroteo en Pensilvania deja al menos nueve muertos, según el titular de la Cadena SER.",
+      "source": "Cadena SER",
+      "publishedAt": "2026-10-10T20:23+02:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmgxaG9DczB5ZEQ0OURZYzI1S1B6MXA4VmVrODNhOTZ3S3prcVhXMzl1SndrMDVhb1lfTC1waGQ4Uk9jcVp3b2dzS1NFOEhMM2tvcHBYTi1UdlRyTUhobTV4a3Vpek1tUXROZXZuT0ZBU2JKejBqSTIxNG1FTUkwQ29WSFI5WEtUcDJVT2d4Y1NybG41Q05wbWxVVFlhRFN3engxSVY4WThMVXkwOERDU0lB0gHGAUFVX3lxTFBhdUZ5STlyX1FnU3hvUXRfVWVDcV9NSERUU0J4bWZ5MnQwOWN6SE9TOUNENnp0aGVqR0Z5Ym1VQ0JnRUlIdGdYdHBOaVkzWllfYk1NdTQ0OEhreUVqaG1EX0FzVFJCZjVyQ1ZMTnVwaWRlNWJBdFlBRUUxNnZQMHB6ZXNSS0dSeGdkbkJZN1F6ODRKdXVhcW1La2pTbm5xbEtweC1Fdkl4M0dKc1BIMk03R0hadzZsOVA5X0ptTnZSczFsQzR3UQ?oc=5"
     }
   ]
 }
