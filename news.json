@@ -1,136 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T06:30+02:00",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T06:30+02:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "29-N en Cádiz: Sólo un escaño en juego, pero más decisivo que nunca - Diario de Cádiz",
-      "summary": "En Cádiz, la disputa electoral del 29-N se concentra en un escaño que puede resultar decisivo.",
+      "title": "Cerrado el paseo del Baluarte - Diario de Cádiz",
+      "summary": "El paseo del Baluarte está cerrado. La información disponible no precisa el motivo ni la duración del cierre.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-11T05:59+02:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTFhLTVZYy02WDFaYW9fWU42bTJVOHVwaTRWZ2ROOV9YOTBtekNhdkRELXFjUUlKUEw1N1EtUGFaVi1TWUxZbk9uY1FkaGh3QXVaRjhZbU1lQ3NLSUpMeGNuLUpTcm1fRjNkSmhtS3ZOOENMMFZtWllQdzZaZVVQbXB6OTlYVFZ1aVBQc2d4ZmwxMnlfRHo0YkYtNNIBoAFBVV95cUxQaEtIcldNRkstRWNobHlOTEl2bGhNUW5aQ0EzZjBFaE94U0prWXkzTTBkNm54alIxaWpqNmtDWlNHUS13SF9kWFZVYThQd1pIek1pODB6SDliVjhGb0JYajl5dV9zOVM3N0VVZ29DT09iYy1feVJPd09jSHFQc3d1UURtQ2djWnJiakJrWjVIbVFHWXhzNWhYNmlWR0R2NnBR?oc=5"
+      "publishedAt": "2026-10-12T04:59+02:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVBzX2s4Uzhxbi1FU245QTN2bFNDSUdQYTVxT21WSjVUR2ZSMlJSdGQySnFRZG5faXZXNUxpNUxmNkNuTmlHYkZvQThwVk9QS0R6Mk53dU1Gbm1JMGpCN3hyRkNGZ0d5djhhOTZQMWtTVnVOV2thalhGV3RSR21wUjZ4YjdqNjR3bThTWkVGMWJUQdIBlwFBVV95cUxOd1JIZlRGT0RheTZOVkN0Um94WjFiX0tpNndwODlyd3Y3S19xQm85Tkd3aHAwUWNOYm9XUGFraFR5OHlSRTlkN1RsZmVtby1BSHF4SENFUkZ1ZElVZmxpMUkxY21NQUtzLVlvVVlQYTd0eHE5YmVDUmRuS1JJNFktV2VCZW15MVp1a1B3ZmUtUTNKWGxYLTdJ?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "75 aniversario de la coronación del Carmen en San Fernando: horarios e itinerarios de los actos de un 12 de octubre extraordinario - Diario de Cádiz",
+      "summary": "San Fernando celebra actos por el 75.º aniversario de la coronación del Carmen este 12 de octubre, con horarios e itinerarios previstos.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-10-12T05:59+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNamY1SThSaFBSQlpVcUNaZFZvUWpvejN1WVNROWF6OUpORkY3X01fS3dNdFJiWHZhc2ZJY3ZGOURQcjZfZ0s0QnlSelZGSUVScDlRREVDSE1RSDhDT0pLNGlrOTlIWG5GOUdBc3JkNkJwNzQzeGFCU0FOdWlWSnlPTGwxZ3ByWmFWdkNPUFdhTjFaeVR4Y1VDUVFpZ1Z3SGJVbThxaUdhMi1iN3lyWGc1bnB6VGEzbGdlWlB4Y2pDNWw1X195VFlSN2ttUdIB0AFBVV95cUxNeUhpOURGUlUzbWJ5cDl5VmdBRWo0N003VFZmb242eC1VT21SckFqYnVrVnJFeUF4Tm9FR2lxdmUzOV95SU4zU2lLcG13aDdqMVhua2wtbmY0LW5IYUpxMC1TUzFrS1RvQUNpODNabWlGZURjVV9IQWlyZDJGblRpN2xFbjZZa0lUSWZwNEt2Y19MWUNGOXp3SXl4VkcyX1VtQ1JaWWk1SU1uQldab0dFRVc2dWY0eUtzVVpoejdFVWFqRkg1Nl9kSnVlRHhNOVAy?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "El Gobierno admite \"efectos negativos en la oferta de alquiler\" de su decreto pero no \"apreciables\", porque podía haber sido más intervencionista",
+      "summary": "Un informe remitido al Congreso reconoce posibles efectos negativos del decreto del Gobierno sobre la oferta de alquiler, aunque los considera poco apreciables.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-12T02:15+02:00",
+      "url": "https://www.elmundo.es/economia/2026/10/12/6acb6caefc6c830e5c8b4573.html"
+    },
+    {
+      "section": "España",
+      "title": "El Gobierno crea otras 500 plazas de jueces y 200 de fiscales en plena precampaña del 29-N",
+      "summary": "El Consejo de Ministros prevé aprobar la tramitación urgente de 500 nuevas plazas de jueces y 200 de fiscales para 2027.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-12T02:10+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6acb808de9cf4aa30e8b4583.html"
+    },
+    {
+      "section": "España",
+      "title": "\"Tengo miedo, no salgo de casa para nada\": Ceuta espera a los Reyes ya sin asentamientos pero con barrios en pánico",
+      "summary": "Ceuta espera la visita de Felipe VI y Letizia tras el desalojo de asentamientos. El relato describe centros de acogida saturados, migrantes durmiendo a la intemperie y preocupación entre vecinos.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-12T02:15+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6ac7ab35fc6c8366298b458e.html"
     },
     {
       "section": "Mundo",
-      "title": "12 muertos y más de 300 heridos en ataques de los rebeldes hutíes contra el aeropuerto de Riad - France 24",
-      "summary": "Un ataque atribuido a los hutíes contra el aeropuerto de Riad deja al menos 12 muertos y más de 300 heridos.",
+      "title": "Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania - BBC",
+      "summary": "Trump ha anunciado una tregua inmediata sobre los ataques a instalaciones energéticas entre Rusia y Ucrania.",
+      "source": "BBC",
+      "publishedAt": "2026-10-12T02:39+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoclktcUJJeHJrbk9uVnZhZG9TVDk2bW9zUkR2cXZub2NsNHdKdDJOd2hRY0xDbS05eEV4am1FbXI0YmFWSjZMcEhmTl9XNDNwR2JRNGF0a2duazlx0gFiQVVfeXFMTzdqVk9PMWJHcmdGdVNhVUFwalhzT0FKaWZRQ3p1ZTVQdlZtenFOdWdEZkRHVktZRVBkNkl6bloyWERXQUJEMlFQVzlrQnRQY1lhcHN1cHhyYm14YV84YW9zZ1E?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un nuevo ataque de hutíes contra el aeropuerto de Riad deja un muerto y 11 heridos tras la muerte ayer de 12 personas",
+      "summary": "Un nuevo ataque hutí contra el aeropuerto de Riad ha causado un muerto y 11 heridos. El aeropuerto ha suspendido sus operaciones hasta nuevo aviso.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-12T01:48+02:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/11/6acb5c33e4d4d89f188b459d.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Continúan los ataques a petroleros en Ormuz: el último incendió un buque que intentaba cruzar el estrecho - LaSexta",
+      "summary": "Un ataque contra un petrolero que cruzaba el estrecho de Ormuz provocó un incendio a bordo. Se enmarca en una sucesión de ataques a buques en esa ruta.",
+      "source": "LaSexta",
+      "publishedAt": "2026-10-11T18:58+02:00",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSUpfWFJ2V3ZudG1EMGFKYmN4ZFFBeFNMejM2Q2cwSVVEMmxISGMzTWZVbExFSkVOWFpNTlpJd3BDdk5wRkhwTjBzZGRsay1lcThYSC1HZHBvNnpaeFZLUFV1dWljQ1lYbXBDOEVqWFB5dzlvMzhZU0ZxNDgxUDllRUJxa0ZUcThwUHBxdmNxSUFPWGVHSmlpbWd2ZUFVVTFsRVFNR3ZKOWViVGNKakJvUmw5TjhIVnl1YmRhNkNfSmxqOGdhRHlBUWNLSkRpNXBoTVBXMkQyaUc3R2FxdWI3OFh4LXJfT3NuYmxsNXl5ejRLcWcxTmswV1pkZ3I0emR30gGAAkFVX3lxTE55aVhmRTZoMTdRaUtKTXl5TE5fcldENXM0TUc3Vm1ZME43Z3pQVzR4OHR4WU9yQURuRHVDVndWY3I4YjJabXdOMm9oVzdnMmhiNjVoS194Z0I0TThReDh1QXhvaXMtclF2R2dKaUdMUXRKdkUxampMb3FXbkFjME5PajNXd0I3SWJ1a0R6WTJzSWpJdW03Qm9panZvZlptTmJCVjlOLUFjTE9EcmNTYnFQRWZrVEY4aDJvalRCbjA5ZWpQc2pzYjBSVzg4Q2FjVVVMQTNya1dNb0NEVzNCaUxxVm1MNk1xLU1iVzNZUTl6NHdULUhUczFMblJVc1JpNzc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Al menos 139 inmigrantes mueren tras naufragar su embarcación frente a las costas de Yibuti - RTVE.es",
+      "summary": "Al menos 139 migrantes han muerto en el naufragio de una embarcación frente a las costas de Yibuti.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-10-11T20:57+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTd2bGNpalhTaUhMa2RiRW1acV9VYXRieUpVejhPalpFQ0o4RGs5aEtnYkRWZ0FVdkt3b3A5dXNKejdGeGJSXzBqUlFic0FtQWROR25JdFZNMkk4ZmVXVzBhR181U1BUWExYdkFqUHlGVUFHYTBCbVVWNU1ZMGQtUDgxTU83cDZacFFJNmI0YktSTUQ4WmtkTVpfVjk0NUFKYUc1Z1pyOVZyRFZCUzVOdlRYY0VTTnl4b1hRMkhKdTVNWm90MmlDcVFHdE9JMGtOUEY3N2t4VGZYSXpjdEstZmhJUzBISjQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Mientras acampan, afectados por terremoto en Panamá continúan a la espera de ayuda humanitaria - ABC",
+      "summary": "Personas afectadas por el terremoto en Panamá permanecen acampadas mientras esperan ayuda humanitaria. El seísmo dejó heridos y daños en centenares de edificios, según la información reunida en el feed.",
+      "source": "ABC",
+      "publishedAt": "2026-10-12T02:00+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUtFUklPdHNBaDJ3dUJqZlA3d2YwNFFCa0VPMUZEMkxlQTB3S2dSbEprRUlJSWhqTUo4SFVIY3l2a240T1VkaUs2QnVCSlhXYjdjQWMxTkRSX1U2bFVVc2pma0NLdnR6TlNGN2RWZjVqV3g2OUl0Y0ozLUdOVWRUb3I2Ukxsa0NfSGg0QV9RNzFWc3M1MjN3ZG5za2xkeU1xMnEtRkFoQkxRUQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Corea del Norte lanza misiles balísticos al mar de Japón - DW.com",
+      "summary": "Corea del Norte ha lanzado varios misiles balísticos al mar de Japón. La Unión Europea ha pedido evitar un aumento de la tensión.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-12T05:00+02:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWFVN3REREhQbGp3dWJzaEg5X0xWMUtweXltY3A0eU8xLV9pOWJzanZCdDZ6SE9rMGxlU0YyS0otTXJvTGo1OE12MUJrWkRsanlJczZZR1dCQVVHOVdickdEY0gwTi1EWGV1d2dLdFdKTUNGQV9FblRBbmtlZHBkdVdIbVZ6Wld4QWJuMDR6bE0tcXM5NUZHRUFuRlJkLWN00gGgAUFVX3lxTE5EWW5VRTNKUEhYd3RaTHRmQWdFZWJlN1FJN2w5MmRoZUVTT0RncHRTamR6NHJ1YWhndDhuM1IydWxpeWFmUHcxc1ppOS1JNUFtNGtrWi1aQnF2Y2NRX0tFclhHV0VGc1ZJRTg4OXpUZDZaLWtFQUM2RVUxdGZmSXRjMmFHLTM3MDVGNzYyTTM0TmtKRU1qLUxaRUcxVlF6RUE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Francia pide a la Autoridad Palestina que rectifique decisión de aplazar las elecciones - DW.com",
+      "summary": "Francia ha pedido a la Autoridad Palestina que rectifique el aplazamiento de las elecciones previstas. Los comicios legislativos pasarían a celebrarse junto con los presidenciales en septiembre de 2027.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-12T03:33+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVl6eGJPdXRXVFV2SEx5Ui12M2Y4OUZ6SGYyV21pZFJodlR2U0JSZG1ZUG93YkI5SUJ6Y3l4V19md284QUh0Vld4QS1OZmVoOEh0dVFEVUExZEVsY0ttZlpKbnBLRUNjZU9fa0pMbERQZUtqLVVhdlRvSkhHSDl2eDFCeURVQlcyU3dEYTVIbmg1a0psaV9LVWdMMUllejhZVFotZUdvT0dPMUVSWjYxUHVEOVU3QWQ5akRjWGltS3I1eDTSAcMBQVVfeXFMTTN4aldySkEtN1A1WUJMYm9GZGh2OWpjWWVwaWhKS2ItSGNMLXdPdW9kbUhQN1BKZy1nYUl1QzhLcVNkUXI4UHZUQzBLN1VjUEFueERZVjJLNktUMmJ6ZVhSREh1ZHlyLVlEQ2FCQU5DcERKeWlwdE04MXNjTU1pTkFIbmtCcEtfdThRMHhPWE5KUTF4U0c4WFlRQnpWMmFvM3ZObkNpcmI2bUt1cUhXcHpVeDdEQkxzUHRKR1JobkRjMUN3?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un detenido en Polonia por presunto plan para asesinar al primer ministro - DW.com",
+      "summary": "La policía polaca ha detenido a una persona por un presunto plan para asesinar al primer ministro. Las autoridades investigan la posible amenaza.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-12T00:25+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVkdKTFBKN0VvbVZrX1FnTDJwV3N5UjNEbi11N3E1SW12emNyZ1h5ZW5iNUJxVTVWNGZJU0VuR3Yya2MzZDlyQXFpMFJ4ck5YMkR4TjdQNmJXRXJkd1NtcHprWExnMnVvcERCSkhqZnhaekRBQ09jMUR0U1d6MnVOM3MzV3o0N2hYdTRYVzAzbWM5SkxoSjJKMWg2MDRvdzBOOHhxNmtNTDlpQdIBqgFBVV95cUxNcElWX0FRODU3STV4bGJjbEljY1pNdVFKeFpMWnhKdUxXRVhPT1J1aFZUMXJObjRZWlBJWXdFNHczSjV2TzlrWmZBUGFaZGtMU0padk1SeEVBVDVja3YySDhTNVV0Ry1PeGVsbkxMOTdvREZyUEhmTlJTOXFUbWJZNWVHM2ZTOGhhTmdaR2V5U05oTVFYdFZlNnYyeERBMEFxN3IybzIzaFB4Zw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Jueza ordena al gobierno de Trump cancelar anuncios de TV pagados con fondos de contribuyentes - AP News",
+      "summary": "Una jueza ha ordenado al Gobierno estadounidense retirar anuncios de televisión pagados con fondos públicos.",
+      "source": "AP News",
+      "publishedAt": "2026-10-12T02:28+02:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQy1LYkZLcHhwajFUd3ZwVWJrdWNFX1dULUhQV2k4ZlI2b1NXVEhCSURkS2tSMHBYUnlTMkFlSmZqTHNQQXlGdDB6Wk5YQ1poMF9JaVBIOWJ6aHBrdUhFLUFUVVM5UTNLaHVtUnVVTWpsWlBfMWIxN1dITHplNk9yZzI5dzRDcW44NElEX1JIekxzd1lxV2lkOFY1ckk3Mzhja1o0R2wxamsxZC02?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Una tormenta y un huracán traen riesgos de inundación a México y el suroeste de EE. UU. - The New York Times",
+      "summary": "Una tormenta y un huracán elevan el riesgo de inundaciones en México y el suroeste de Estados Unidos.",
+      "source": "The New York Times",
+      "publishedAt": "2026-10-11T19:56+02:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRkg1Ti1Fa2RBQWFUb1M3U2RWakdRRS1DY256RThCclhvUzk0VHVHSmFDQmdJT1NNQ1N1aFUzM1NlR1R3M3hvcGoyTHJnS3hGdVNoRS03MUZtUXh5VnJOcUlSZ00yTTN5Z2hQb2k0WkJDeGpJRnFhNzNLekRlZGhscE1DbXo2UkwwY1lsZTZLdWdpUjIyVWY4S3hJbE9YRjkwMmxDc04xWQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El escándalo por la detención de su antiguo jefe sacude a los servicios secretos alemanes: \"Es una puñalada en el corazón\" - elDiario.es",
+      "summary": "La detención de un antiguo jefe de los servicios secretos alemanes ha provocado un escándalo en el organismo.",
+      "source": "elDiario.es",
+      "publishedAt": "2026-10-11T18:57+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUFqMHJmWEo2MnNST0xnemQ4d1FaWXZDSGJtdkJ1TC1OWDlrdXNlSXJaT1BqdTVnNnJqaHBraUtmN1BqejRQT3R1Y3Q4QzZBcW5iMTN0X0FzaUNuOFdna2VVWHkyMWZqMVl4cDRQTEhBVmR1bUdYVG9CWF9jajdwWEF5bVg4VnhHTnFsWHYxNFprdEo5OEhxalhsajF6blJ1MUlzLUtZLWpuQnU2b3BWck5iSXZCbkhhTnlJQ1U4QnFOQTFPMmJDMzkwaTBFUm83bTk2RGN6WjNpTjhCUnBMS3VSci3SAeoBQVVfeXFMUGVfN1RSbkVZYUUxa1BxblJBWllBdHJtZWJZeV9xZGthZzZXWXlsQXRfclVCa1l3Yk13ZF9iVTFxRW9VTUxqa1lIXzhKa1U4eE1CTHoyZWJQbUt1LTZzZ2RXaWVyZWdaTTdlYksxWG5IS3lfVjVRSkZ0T0Jaam5rYzZRY044WEdHcjhWQWNrTXdFbFVsd3hGQ1Z5eG1IOC1wNXRvTVVnMVJ6LTRQdU9OZGUzUmg1bGM2cUVkTXZyLTNDbWlBQnpxZmlDWWhRT2ZzcHJhN2dsb3JSOGJJQkV2WWZfSmQ4SEhJNVZR?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "India: liberan a los líderes de las \"cucarachas\" y convocan nuevas manifestaciones - France 24",
+      "summary": "En India han sido liberados dirigentes del movimiento de protesta conocido como las «cucarachas», que ha convocado nuevas manifestaciones.",
       "source": "France 24",
-      "publishedAt": "2026-10-11T03:53+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTWNVNVN6d1E4YWRBaHg0UjI5LXMzbUZFV0lmYjJveWUxS19lRVQtdmFOZjk1aExoTmtzODRoZFJ0TWF3WVVOVW9GeEhONU41eUlaMjh5N1BqS0Q4V1RZTmhxNzlGRFA2UnVPeVJ6Q1VySUFYVkNNWl9iYXhsQkcwd1VjR19OYWtoQ3pHcks3V3VPYjlVOU16Y1VTSXpEVTN6clVTSzEteDdPNVVGTUo5VVgyVEZIa2NzeGRTMDRjZXpyMUlYVmJHZm5RN0xkTUgyaHRnM2liRVRqZ1hkUFE5R3kxUV82VTRCMXBr?oc=5"
+      "publishedAt": "2026-10-11T14:39+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3NQUWl6QjRxU3FPV2dCOU1ZeFY2TV9ycnJBQk9PQTVnbjJnZ2xwSFo3UnhRS1VRQURSaV90anozV1pSMXJrWFFQalRpNXVjY3hzdHN3cWdRZTl1RnhWU2ZZS1ZxcWFZNmc4OE5xR1RTQzRBaVF0ckh6eGRoMlduZFpPNU1pSXpMQkdLYXpqai1meEVobFB3TEZSdUIxMS0zeThhUXpLRUhTTFo3VGE0SGotOE1mT1NweldiODdYTjhPWHgwNzExbzJHeGxOb0Q0V3BMZy1xMA?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "EEUU ataca un buque comercial en el golfo de Omán que partió de un puerto iraní",
-      "summary": "El mando militar estadounidense asegura que atacó la popa de un buque comercial con bandera panameña en el golfo de Omán después de que ignorara advertencias e intentara eludir el bloqueo naval a Irán.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-11T03:05+02:00",
-      "url": "https://www.elmundo.es/internacional/2026/10/11/6acae020e9cf4af93c8b4582.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Buque petrolero se incendia en el estrecho de Ormuz tras impacto de proyectil: Irán lo atribuye al choque con una mina - La Tercera",
-      "summary": "Un petrolero se incendia en el estrecho de Ormuz tras recibir el impacto de un proyectil. Irán atribuye el incidente al choque con una mina.",
-      "source": "La Tercera",
-      "publishedAt": "2026-10-11T02:10+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMDNxalBiSEItdElBY0FmdHRCVVN1dnNFeU9zc29EZHRmZlE2RmtabUtHdnQ0WjlpdXlOVTYxNWtJbGUxaEpIVi14bTktYlZUemdydlVscjJHc1JvS2E0MnJKZ2FxZnRYMnU0MmNhVnYwX0paTmJFWlM0UDg5WjVxeGMzOG1reTYxZGVnb2ZGWERZQUh5TVdEaXdjSHBUZ2tNcVI2eXV3Q1Zua1lqTnd2X0ZWd0VXaFJETHNMckJ1Mkk4MEdVZDJqazl0OVVKbHlsWkFvMkRUQ25hSnVHWHcyc3p4enlJVy1HUzdaYkFKTdIBkAJBVV95cUxOMGEwT201NnFOVVRNd1VBN0dDZVYwYjNoV3Y5cVVacWdDMjRDcTY0UkxkdXJKeWZVWXl3allEMUMzTVhXRE9KMGlONi1JN01xZy02VGk0OWlDNndfaVI3dnFGWGowMVVZdXRJTFZWZmRHV1UyWWgzU2NKa002eVo3aEk0M19BVXBSZ3lyZ0VLZmNBYVdZV05NSjhkNjY5VFM4V2NqYUMtS3pRWWx0cGxmOVhPbXFGLTFpYUxjdmM0Q2JvLXBWQV82R1pUTUJqVVZQMGVTenZtdElGMXJnNUo0MGtPN3Q5b1h6VmlRay1WZ2ZsSUJhWERHSGdUTm1val9LWXUxb2FpZ0h0OTlGdkk1Yw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Panameños afectados por el terremoto temen regresar a sus casas por daños y réplicas - SWI swissinfo.ch",
-      "summary": "Los daños y las réplicas impiden a algunos afectados por el terremoto en Panamá regresar a sus casas.",
-      "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-10-11T01:37+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHZTbHJvT2ViS3FjXzg0SGhxRnhRYU81T3JFNzNWZVVucTRrakhtWEJlMDFwMzQtMF9TVXF4eXpuVm85S0RQWnlGNUEzUFNmb1FmMFZlOXJ4WnI5d09FcnRka2FhY0Q4M2EyZDd6TTFlc0dXTHFWelJHVFl1QmxaTTJLZzByYmoxV0IwbnBFU1lrM0QwNTVJcy1sRmhhcUJFUUctdnpNeWpyejJfRjNyd1RqS0Q5UnlaNHdUakJyVHBOdHNtWldKUkJ2NFlHQ3JJN3dN?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Israel mata 6 personas en Gaza a casi un año de alto el fuego - DW.com",
-      "summary": "Un ataque israelí en Gaza deja al menos seis muertos cuando se acerca el primer aniversario del alto el fuego.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-11T01:09+02:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUwwNExraHZUdEJPMkdTTnBmcWYtNEJVcjRweUJJdlpiQmJ4LTNDTm80WlFoUzFpUks5Wl9kT2pCY1czMm11djZUc0pCMHFKdTg5UklXYVdyV016WXdxMTVDTHEtZEJ2MmZ6NFVobE5wNEdrVUs2MTZ3a3dqLWIwTkp6d21ZWFdOQ29ad1dDUGdQTms0dEh2MGE0MHNmOWQw0gGgAUFVX3lxTE8zSUV0X3VtbGtzSjZwU0E1S29VRkdwY3B5Um9MX1FVN1N4SmE3c0luVmZjLTlaMy12emZtV29wZkd0NXhLaUJ2RjVuX081UmsyRExickRJazFqeTB5U1prd1Y3NGVSc0dNR2UyTHBYS3l2T3pxbGJDUW1ORlJFZG5kY094YktUSHhfYkdOUFp5SUt6RTRUeDFMVGxELXVoSjI?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La ONU pide a India que libere a los más de mil detenidos en las protestas de Nueva Delhi - RTVE.es",
-      "summary": "La ONU pide a India que libere a más de mil personas detenidas durante las protestas en Nueva Delhi.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-10T21:24+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWJUbWlSVWhNcHRiR1daRWtwRGVjVDB1WE1KZmE2dFNpSklTX0xJMGVjYzRwTFFvNDJFU0NYZHRKdldYSEVIelpBM1N2ZGxPMjZsV1ZkdDJOQVdXX3FER1BldS1xWXhNSVhGMm1pSWFXTUpmNTluMGdLTk9FZlN0V3B5eUhvaERSRjRsaVNtMmN1Q0VTa0R5aW5Tc3NLYnl4LTV3TC11Z0RQazMtbWlpeEtrNkg0T1dsVmc?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La presidencia irlandesa del Consejo de la UE plantea un recorte del 8% en el próximo presupuesto europeo - El Confidencial",
-      "summary": "La presidencia irlandesa del Consejo de la UE propone reducir un 8 % el próximo presupuesto europeo.",
-      "source": "El Confidencial",
-      "publishedAt": "2026-10-10T17:48+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDVhdURIMjZpOTM5Q29BOUhIX3RxRnplRXBpbk1IeTVReUdKa0ZkOWxaelhrN0NkY3VaVXdncDdiWDVyZTV3X1dJbmUtZEY5Ql9ld1JxTzhLXzdsT1I2VU1mei1rSXNUOTJpSnlIaHEyTmI5WGN6bjFQRVlTUk40RXNhRDFESzE4SEZrd3V1cmlDTkVkb2pHTU1VRkhXcE1ZMVhWdkJDMFBRNWtYdjlybg?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Ucrania reporta once muertos en ataque ruso en región de Zaporiyia - DW.com",
-      "summary": "Ucrania informa de once muertos por un ataque ruso en la región de Zaporiyia.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-10T14:54+02:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeEhQTXh6NXlJUm1EUlB4X3VSbU1LMkpHWUFCWGF4ZjZYYUE2QTNSZk5YYUhWQjRSbjM2ejV4WDJkSTd5b0hZdURmQmFNY21pMlFQQlduQUtYVGRMMHVsbFVEV3hHbW5tRVhuSWotcFR1M3ZqZWNMcnBZQkx1Yk5tSXZ2eGNNMkpMNU1OTHFQV2JYdjNIWldDVlhlSG15dXhsWmZSblV6WdIBpwFBVV95cUxNWXlzLU9FcXhFV28xVGgxRVZiV21Ra1dpMGpNS24yOGJYSzIxN2F1YU5xbjlNMHNOeWg1R2U2U0hDa3MtVzRvMEJMLVN5RjZFc2VDeUFSdzhJNTc5dEJOckJwT1pCN0tWYmxJdXVsM2VKTXdabGdyYm94aGx3RG9wM2lkdDI0QnByZnZ3VXVmMmlGUy01dnJGWWl5UnZrUkRaeER6aDU5dw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Abás aplaza las elecciones legislativas en Palestina, que se celebrarán con las presidenciales en septiembre de 2027 - RTVE.es",
-      "summary": "Abás aplaza las elecciones legislativas palestinas y las sitúa junto a las presidenciales en septiembre de 2027.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-10T14:21+02:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlFwWENaVk4xUGF3bnVEak9RYnBaT1pUWXhjT19RUlo0dG0xTVF5bmJRcHRyTjBlbkwtVDRraG11MncxWERBamtpdERHVmdhVEx1ZWJKN0g4LUs0TGRVem11OXpqcEN2UWI2NnVaRFlEazlwamhCNGhUY3Nsemtra3l5Y1lQN2Q1Yk5EMkIxdWZuVUVNbmFZckswVUlRd3d3UGVlMVhMTV9WdDFMTzZaMFlKcTdJRzNZN0NQVE9NUXVqM3RVbG4zUDhoZjlfbVhFYjZUa05pNHloa2ltaXNmbw?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Devoluciones forzosas y bajo engaño de Ceuta a Marruecos: testimonios de inmigrantes confirman que el Gobierno ampara retornos sin garantías",
-      "summary": "Migrantes desalojados en Ceuta relatan que fueron trasladados a Marruecos bajo engaño y sin garantías, y que después la gendarmería marroquí los llevó en autobús lejos de sus casas.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-11T02:06+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/11/6aca28e121efa0457e8b459e.html"
-    },
-    {
-      "section": "España",
-      "title": "Correos se hunde en pleno auge del comercio online: 1.160 millones en pérdidas, menos plantilla y 13 días para que llegue una carta de Valencia a Madrid",
-      "summary": "Correos acumula 1.160 millones de euros en pérdidas y reparte menos de la mitad de envíos que en 2019. El texto también señala una reducción de plantilla y demoras en la entrega de cartas.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-10T22:54+02:00",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac922d5e9cf4a980b8b4598.html"
-    },
-    {
-      "section": "España",
-      "title": "Sánchez fuerza un plan millonario de ayudas para la mitad de los electores el 29-N en un intento de recuperar el apoyo de jóvenes y mujeres",
-      "summary": "El Gobierno impulsa medidas de vivienda, adelanta el anuncio de la subida del salario mínimo y prevé comunicar la revalorización de las pensiones al cierre de la campaña del 29-N.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-10T22:55+02:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca5362fc6c83446c8b45bf.html"
-    },
-    {
-      "section": "España",
-      "title": "\"La lactancia materna se está llevando mi cabello\": qué dice la ciencia sobre la pérdida de pelo tras dar a luz",
-      "summary": "La caída del cabello después del parto se relaciona con cambios hormonales, no con la lactancia. Según el texto, es un proceso reversible que puede afectar hasta a la mitad de las mujeres.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-11T02:06+02:00",
-      "url": "https://www.elmundo.es/salud/2026/10/11/6ac8c7acfc6c83fa5b8b4581.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Campaña de Lula denuncia a Meta de \"interferir” en elecciones - DW.com",
-      "summary": "La campaña de Lula acusa a Meta de una supuesta interferencia en las elecciones brasileñas a favor de Bolsonaro.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-11T02:43+02:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUpHX0t2eDhjaVBoSnZnZGxnNmJKSDBUd0FXcDk4RlFseW5JUTVwQ3A0TDZxUUpYUGZFZF9rcGRfZEZ0ZTM5ZDgxcFlVcU9rY0dOUDNSZzdvdGVnemRhT0JTcWk2c0d0cjJzOTNvYVIyckZRNkdxdEU5Uk5ObUxPSHRXNDVmdVdpWDR5czZSX3hXNkxsQmdWZVpEMXRXQdIBngFBVV95cUxQUGY2TkJ1bWZiV1NTN3B5VC13MkpMNEpLcnQzeE94MXVLUXc2U3Z3NVhpSmN0dXhrQUhyXzQxa3ZUU0Nna3cyOGp0ZGRuclo5U2UwUWZQN294Q05iOEMzdXFFVWdrd0ozS0ZrT2hRNGVPYWJMMTBSZ095UzdHVVJNdnBUYVd4TExUaXpqM1dEWm9OYUhpampqSVFRVFFmZw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Un tiroteo en Pensilvania (EEUU) deja al menos nueve muertos - Cadena SER",
-      "summary": "Un tiroteo en Pensilvania deja al menos nueve muertos, según el titular de la Cadena SER.",
-      "source": "Cadena SER",
-      "publishedAt": "2026-10-10T20:23+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmgxaG9DczB5ZEQ0OURZYzI1S1B6MXA4VmVrODNhOTZ3S3prcVhXMzl1SndrMDVhb1lfTC1waGQ4Uk9jcVp3b2dzS1NFOEhMM2tvcHBYTi1UdlRyTUhobTV4a3Vpek1tUXROZXZuT0ZBU2JKejBqSTIxNG1FTUkwQ29WSFI5WEtUcDJVT2d4Y1NybG41Q05wbWxVVFlhRFN3engxSVY4WThMVXkwOERDU0lB0gHGAUFVX3lxTFBhdUZ5STlyX1FnU3hvUXRfVWVDcV9NSERUU0J4bWZ5MnQwOWN6SE9TOUNENnp0aGVqR0Z5Ym1VQ0JnRUlIdGdYdHBOaVkzWllfYk1NdTQ0OEhreUVqaG1EX0FzVFJCZjVyQ1ZMTnVwaWRlNWJBdFlBRUUxNnZQMHB6ZXNSS0dSeGdkbkJZN1F6ODRKdXVhcW1La2pTbm5xbEtweC1Fdkl4M0dKc1BIMk03R0hadzZsOVA5X0ptTnZSczFsQzR3UQ?oc=5"
+      "title": "Las monumentales construcciones escondidas en la Amazonía recién descubiertas por científicos - BBC",
+      "summary": "Científicos han descubierto construcciones monumentales ocultas en la Amazonía. El hallazgo aporta nuevas pistas sobre las poblaciones que habitaron la región.",
+      "source": "BBC",
+      "publishedAt": "2026-10-11T13:56+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14bE9WNkN6d1hGYzlmeXdUZFFtSkh2ZTVyemcyaUJLNmdaVm1JVzVLbkpEZjEyMnloMUlqV19zVHE2TGxoVW5tRm43dVkyWUdxZnJRYTd0c1ZGay1X0gFiQVVfeXFMT25RUWZTeE1HUlY2c2JOOE95MVZQbjhLU0FDRnN6eTRoTHNvYVI2ckhoTkprMGVxeVNCMk1ldlI3TUFLTFJNYjRrVXBuNEJBN3BqNloyNmlLT0VlUHF3V1BOY1E?oc=5"
     }
   ]
 }
