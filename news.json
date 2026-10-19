@@ -1,160 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T06:30+02:00",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T06:30+02:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Cavada pide a Defensa el traslado definitivo del campo de tiro de Camposoto - Diario de Cádiz",
-      "summary": "Cavada pide al Ministerio de Defensa el traslado definitivo del campo de tiro de Camposoto.",
+      "title": "La Junta pide la vuelta de OCON-Sur - Diario de Cádiz",
+      "summary": "La Junta pide que vuelva OCON-Sur. El titular no concreta los motivos de la petición.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-18T06:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSFdoZU5Xem9uN1hBUkFzR2pLWkxscnR0OXJkSk02bmhIOWs3ZXdNM01HVzBIbVl4LURLLXJDaEFGUEJmb09aQWI3OWkyVEZvcy0tUFlJYTViYW5JM1NtR1k2Tjg4QmJJbzhDOVJIdndVTWoyeEQxcmxzMlJoUEJXZzRlbnpHVFBheEx2SFhYeUVNR0NGazYzTTV6aHBlVmhaa0dnVFFR0gGrAUFVX3lxTE1uamNHd0xJUFRZelpmWDEzdXhka0pvX05UMnREOFZjUmhJeDU3ZG9vUlk1TWtWekhZd25KQUhGNjEzUkxvaURBSnBaY21VUC0wS1dkenVaOE9ySExtSU84djZWQndjd0RSMFhKeVpFcWw2X0RGampxb1g1UnBQZVhMdnl2aUtiSDlGTkEya2IzUXdHVThJVHlUWU83ckthWjlIek4wTlJ1a2xmVQ?oc=5"
+      "publishedAt": "2026-10-19T03:06+02:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUdmQ2dvejhNa0FraXB1QVZnR0xsRzFhV3U0WmVrb25iLTNQaUdUa05Sc2k4OWl1akllRl9EakxMNExTWnlNZ0dZMjVtTGJ6elR4VUstX243OHZXSjZmeWFzaURGQkUzdDhEM1FFUHJ2WDVsWml4b0x2NjVvVENQdXNrQnQtTnFwSVNNUnVIbng0bmdGWmc?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "El caso Landaluce descompensa el empate de PP y PSOE en la Diputación - Diario de Cádiz",
-      "summary": "El caso Landaluce altera el equilibrio entre PP y PSOE en la Diputación de Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-17T19:04+02:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWx0dlk1d25wRHhNSE1WSjctRnY2NVpSbXBHSGxYWXdMQmxaNGFmbHFVR0NxMDBFZ2hveWZjMmZISnlfcjM1OXlzc21BTk9NeHJuWm9FM05aMHNCT3BhNkpGUDg5Y2c0Y2FkMlJXQkZkRm9pa2k0eFJXUDlFWmpDUXBjTXBHeGlCT1BURk02RmctMkNkMVV4ZlRwLWJZWXZ6aG1DM0VEbl81cl9E0gGyAUFVX3lxTE5kQ3psdTZOUTVIY013UVB0RzZlZVhMNTVMVFVUbExnMGl0VVZzdk93UUZWNHRlT3BqRzF1SFEtOTZBVVpfeEF0aV9UQW9BTHZSRXJybXV1MEs5N2t3bGdhMW9TV0ktRDZkX2xqREZaNkdtOXNsdU15dlBuY3Y1azFIT0wyczBQaXl1Vlo5MzdYREJCdUQ0RnlxYnNhb0V3cFM0Q0MwWEg1RmxneFQ1dy0zR0E?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "La Costa Noroeste abandera en Sevilla la rebelión de los estuarios contra los vertidos mineros - Diario de Cádiz",
-      "summary": "La Costa Noroeste lleva a Sevilla su oposición a los vertidos mineros en los estuarios.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-17T18:49+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFpWbEVYM0lWTHNCbEJWWHBIbXFCbWpHMlo1cVRVczJ4SmtPUTY0cGNWNU1vQkVWRlpsRTBMcW8xU1F6Z2dZSWtZRWtFMzVFaFNzcFA3dFdiVVp3WTdZN1NySi1KS0F1dmFiTkZ1cGlydDVydGE1RE5tX1VBdGRPQ25IVW91a0pxMWZ3dE1KYXRfaTJfUFp1UnJJalZZUTh3U3oxNGxSeUNnR0QzNENpa3dR0gG3AUFVX3lxTE5HUGVGbXZROVMtXzJXbk1qeWdMLXN6T2lUWV9xeHlBa1pRRnE1aDg5UDYzNFRRSVdCYzJjVDNYWF81RmxQZGtkbUJsbTAxbXRXMXF5WlNhaUdIM1g5V2g3cEg5aXVOamFsMTM2TEtHX3NTNUZuaDg3NHFDWndnd0k4d1lqQzhMSndyOWk3cTBYbXhzTElGOWZIMFJpR1dEeXFqWFhnQ0NTcUdCZXpWTU9jeU5KWGV6NA?oc=5"
+      "title": "Emma Thompson o Jeremy Irons tienen los suyos: los bolsos de La Portegna son ligerísimos y se hacen a mano en Ubrique entre grandes firmas",
+      "summary": "La firma de bolsos La Portegna fabrica a mano en Ubrique y afirma crecer un 15 % anual, con producciones de 300 unidades por diseño.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-19T00:04+02:00",
+      "url": "https://www.elmundo.es/yodona/moda/2026/10/19/6ab3c74ae4d4d801738b45a1.html"
     },
     {
       "section": "España",
-      "title": "Defensa cambia los protocolos tras la incursión de buques marroquíes el 30 de julio en Ceuta: \"Ya no esperamos para actuar\"",
-      "summary": "Defensa ha cambiado sus protocolos y la Armada ha aumentado la vigilancia tras las incursiones de buques marroquíes registradas este verano en Ceuta.",
+      "title": "Exteriores ve \"imposible\" cumplir al 100% la orden del Supremo sobre la suspensión del voto de la 'ley de nietos'",
+      "summary": "Exteriores considera imposible cumplir íntegramente la orden del Supremo sobre la suspensión del voto de la llamada «ley de nietos». El ponente del Constitucional propone inadmitir el recurso del Defensor del Pueblo.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-18T01:18+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad39e44e4d4d8a1748b4580.html"
+      "publishedAt": "2026-10-19T01:28+02:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad51e63e85eceb80e8b458c.html"
     },
     {
       "section": "España",
-      "title": "La dana Adam deja decenas de incidentes en Almería, parte de la Comunidad Valenciana y Cataluña, en alerta roja por fuertes lluvias y tormentas",
-      "summary": "La dana Adam ha provocado decenas de incidencias en Almería, especialmente en El Ejido. Parte de la Comunidad Valenciana y Cataluña permanece en alerta roja por lluvias y tormentas.",
+      "title": "La Ertzaintza no compartió con Policía y Guardia Civil el hallazgo de datos de sus agentes en la agenda de dos radicales vascos y un disidente del IRA",
+      "summary": "La Ertzaintza no compartió con la Policía y la Guardia Civil el hallazgo de datos de agentes en la agenda de dos radicales vascos y un disidente del IRA. Hay dos detenidos y el sospechoso irlandés sigue en paradero desconocido.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-17T20:26+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3bc7be9cf4a77518b45a0.html"
+      "publishedAt": "2026-10-19T01:05+02:00",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/19/6ad4f28afc6c8390178b4589.html"
     },
     {
       "section": "España",
-      "title": "El bloqueo de Exteriores a los datos de la 'ley de nietos' abocará a impugnaciones masivas del voto tras las elecciones",
-      "summary": "La demora de Exteriores en recopilar datos relacionados con la llamada «ley de nietos» amenaza con provocar impugnaciones del voto tras las elecciones.",
+      "title": "Cuenta atrás para el IVA de los pisos turísticos, una \"medida de escaparate\" que 'sale a devolver' a los propietarios",
+      "summary": "El Gobierno plantea aplicar el IVA a los pisos turísticos para frenar su proliferación en las ciudades, aunque expertos citados cuestionan el alcance de la medida.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-17T22:59+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3c675fdddff332c8b456d.html"
+      "publishedAt": "2026-10-19T00:57+02:00",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/19/6ad2072c21efa0481e8b457c.html"
     },
     {
       "section": "España",
-      "title": "La Ertzaintza detiene por terrorismo a dos radicales 'abertzales' con datos de guardias civiles destinados en Euskadi",
-      "summary": "La Ertzaintza ha detenido por terrorismo a dos miembros de Jardun que tenían datos de guardias civiles destinados en Euskadi.",
+      "title": "Tres muertos y seis traslados al Hospital del primer cayuco que arribó en la pasada madrugada a El Hierro - El Mundo",
+      "summary": "Tres personas murieron y otras seis fueron trasladadas al hospital tras la llegada de un cayuco a El Hierro.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-17T23:38+02:00",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/17/6ad3e8bbe9cf4afa078b4587.html"
+      "publishedAt": "2026-10-18T21:31+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRNjZDRF9OZ1YzazZGbVJCRjJjVFdIZXRES2NCOFlhWEtOZVlNUHFLcGlmMXZObGNPamVwTDNxb09aUkQwSmhpUklZTFRqU0dOSFRyZ1prd2tjSnZtUnR1bEN3cURXSkZXRjdiT2NmZnlkdXJGNVgyOWRR0gF6QVVfeXFMUFE2NkNEX05nVjNrNkZtUkJGMmNUV0hldERLY0I4WWFYS05lWU1QcUtwaWYxdk5sY09qZXBMM3FvT1pSRDBKaGlSSVlMVGpTR05IVHJnWmt3a2NKdm1SdHVsQ3dxRFdKRldGN2JPY2ZmeWR1ckY1WDI5ZFE?oc=5"
     },
     {
       "section": "España",
-      "title": "Las incógnitas del crimen de una anciana en Burgos a manos de dos adolescentes: la Policía busca a más implicados en el robo que acabó en muerte",
-      "summary": "La Policía busca a posibles implicados adicionales en el robo en Burgos que terminó con la muerte de una mujer de 83 años. Hay dos adolescentes detenidos.",
+      "title": "Hallan el cuerpo sin vida de una mujer que había desaparecido en la playa de Sagunto",
+      "summary": "Hallan sin vida a una mujer desaparecida en la playa de Sagunto. Las lluvias dejaron registros de más de 200 litros por metro cuadrado en localidades de la comarca valenciana de la Safor.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-18T01:06+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3be9b21efa0481e8b45ac.html"
+      "publishedAt": "2026-10-18T23:09+02:00",
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/18/6ad4adf2fc6c8311138b4583.html"
     },
     {
       "section": "España",
-      "title": "La estación de Sol reabre tras constatarse que las condiciones de seguridad y salud necesarias se han restablecido",
-      "summary": "La estación de Sol ha reabierto después de que se restablecieran las condiciones necesarias de seguridad y salud. Los trabajos de limpieza incluyeron ventilación y toma de muestras para su análisis.",
+      "title": "Cáritas atiende a la petición de las víctimas y endurece las exigencias para acoger a etarras en sus programas de acción social - El Mundo",
+      "summary": "Cáritas endurece los requisitos para admitir a miembros de ETA en sus programas de acción social tras una petición de víctimas del terrorismo.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-17T22:22+02:00",
-      "url": "https://www.elmundo.es/madrid/2026/10/17/6ad3c66be9cf4a2c7a8b456d.html"
-    },
-    {
-      "section": "España",
-      "title": "Así ha pasado la alta velocidad del \"mejor momento de la historia del tren\" a ser la sospechosa habitual de todos los retrasos",
-      "summary": "La liberalización de la alta velocidad ha abaratado los billetes y extendido su uso, pero el aumento de tráfico ha desbordado la infraestructura y perjudicado la puntualidad, según el artículo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-17T22:58+02:00",
-      "url": "https://www.elmundo.es/economia/2026/10/17/6ad3b8b0e9cf4abe208b4580.html"
+      "publishedAt": "2026-10-19T01:28+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xUlJNY0xnUFI4RjZRV05HdXV5c0lMREgtTDFRMEZsN3hFQjg4N2pNNV9wLWpjcE9SanVyM0ZSc0d1Sk1PMGJ0bnhpSk1sdnp0UnJld1FwUXJxZndYcEowZWFkeGVZNHNWX2FaSlJCV1EwUVg0MVROYl9n0gF6QVVfeXFMTjFSUk1jTGdQUjhGNlFXTkd1dXlzSUxESC1MMVEwRmw3eEVCODg3ak01X3AtamNwT1JqdXIzRlJzR3VKTU8wYnRueGlKTWx2enRScmV3UXBRcnFmd1hwSjBlYWR4ZVk0c1ZfYVpKUkJXUTBRWDQxVE5iX2c?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Primer ministro de Canadá informa sobre incendio por \"incidente grave\" en base militar de Alberta - AP News",
-      "summary": "Un incendio relacionado con un incidente grave en una base militar de Alberta, Canadá, ha causado muertos y heridos, según la información recogida en el feed.",
-      "source": "AP News",
-      "publishedAt": "2026-10-18T04:20+02:00",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFIzVWlEcVJLU3l0NXpsZHNBeFB2dEdvbk5uaHNPV1FRRXhMT25fYml0Ri1SUDBoV2dPMmNIMXU1U0MzOEJwQU1Ha2dZZFdIZGZERHZHY0p3N2Z6UGwyWnFkUnRaVlZxRC11RTdHcmNYdlNnakIyYVF3OWJ0cUlEMjdfRXVlbWxJZVZFQjU1b1gxTGNvZFVhYVNZalFZcWlqUGdwQnVR?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Colonos israelíes atacan a comitiva de diplomáticos europeos en Cisjordania - DW.com",
-      "summary": "Colonos israelíes han atacado a una comitiva de diplomáticos europeos en Cisjordania durante la cosecha de la aceituna.",
+      "title": "Canadá identifica a cuatro militares fallecidos en incendio ocurrido durante un entrenamiento en Alberta - DW.com",
+      "summary": "Cuatro militares murieron en un incendio durante un entrenamiento en una base de Alberta, Canadá. El primer ministro canadiense también confirmó decenas de heridos graves.",
       "source": "DW.com",
-      "publishedAt": "2026-10-18T04:19+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUtlUW82YW1Vb1g2Y0RnTWtacmg5bE8xdld6WTd1S2lQMnJlX1R0Sm5FUVd6S3V3cnk1N3QwLU5jTmdIUHFURVFKR2hTY3d3ZE1ka1FTbHlCV1Y3MV9waHhMMEZWVVlHQTU3UEcyRWRfM0N1VWtLSFlTanM5ZE9rNDFyMGNtLWI1eE9hZ1l5QUJJQXQ0Vl9MN1JoZzhPNU5CS1VqVzlQRk9LNGFyMDZwb1EtTmdJdWdEZVHSAboBQVVfeXFMTUJ3bl83SkJlei1RbmZoTlljSmo0b2dGVHo4Qmt1U0tRLU5Ob2Q0MVZSX09iQWZlM2haQmRXSTVwWFhRa0FPeEduUDk3QW5jYUF6RHRHTWJ6NVlxTjV2elc0U3pWS2otNVdtZDlRR2dhb2E0QS1KaTlpUm5vZXV6aWZyNjA5TTgzaHBkNFM5Q2N4ZXFzNzl3QkpJY1l5NmFzeHBJQnFZYmF4UWNtanZKVVlTUHNDMHVwcnRB?oc=5"
+      "publishedAt": "2026-10-19T04:12+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTW5vRjNoVjhham9RWnJlU1pBenZVT0ZkZkxaMnZmUmtyLU9uVnVMNVI2amxnbWhjU0JRZ2FsdzIxU0Y0QnJweW9NTmE1bHc2SERaanBvN0hoblNVbzJDYWNHd3k5TVE1eUxEaVNIRzI4TG4wV2VXbV9HUFlQOTRmQUgzcmF0TDhRR1NnNWRuNDZOcHBvNTZfWGthcWptbUQ3SlRNa0V6bGRpTGlKdVRNbnY1bG9aYVB5dHRiNDBoVmxYYmxDQUNZTHhtMWVmWDBJajlQcjBRNEFpd9IB2gFBVV95cUxNa2x3aWpfOWZJUzlzeEtWNzVtLTZwSHQ1TkpSdWp6WUR0Y3YxRDB4Z0k3U05qOUtwTTdwbmdrWGVpVEthME8zZzFpS1d0QnZLd0hXRnIwbzJpZWdCQ1NLcmFDczNDRW5hTEUwaHBpWWlpak1hcTRwbEVKZXh0NEtER3paMHBGZDdmMEpRU180dDVLMDRLekxkdUc2U2FUWHI5V0h4YkUxR0p5MjFUMHZMbDhjYnpFcVF1eHV5Ml84QWMwNEl2TzZ5QklxbGlMektDRDNVNHFaLVFrUQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky - BBC",
-      "summary": "Trump ha suspendido temporalmente sanciones contra Rusia alegando interés nacional, una decisión criticada por Zelenski que agrava su disputa.",
-      "source": "BBC",
-      "publishedAt": "2026-10-18T04:15+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hV1Q3R1dXQjI1ekhlMmFnVlotUnRzenJlNzllYmpOVTNGazBBc1F1Q0VObTlEVE9WX1BxQUkwelFkUTRtY2dRMzBRWUZ3UEJRYjgwY0dIdTdrRkhP0gFiQVVfeXFMUHItSDZZcjBQd3BBczU1OWs1dEJrWUQ1SDB2Q0w5bmQ4a0pXUWluM0ZnSm1lX1ZhQjdBZHpycFNOS1hVRTRBQnhaNlFERTFjM1lNQWtKZjl6cjBtVExENEFRbHc?oc=5"
+      "title": "Alberta vota hoy en un referéndum sobre la independencia en medio de la crisis de Canadá por su identidad",
+      "summary": "Alberta celebra un referéndum no vinculante sobre su independencia de Canadá. Según las encuestas citadas, el 70 % de sus habitantes se opone a la secesión.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-19T00:57+02:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/19/6ad3b2cee85eceb80e8b4575.html"
     },
     {
       "section": "Mundo",
-      "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios - DW.com",
-      "summary": "Las protestas en Francia han reunido a medio millón de personas. Unos 1.200 manifestantes han sido detenidos en medio de los disturbios.",
+      "title": "Oposición de Venezuela ratifica a María Corina Machado como su líder - DW.com",
+      "summary": "La oposición venezolana ratifica a María Corina Machado como líder y plantea una transición basada en la negociación y en elecciones libres.",
       "source": "DW.com",
-      "publishedAt": "2026-10-18T00:19+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5"
+      "publishedAt": "2026-10-19T00:24+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlNEcHB5amlHd3lQWHBQMFI1a0U4ZlY0VVUwZDQzSXRIVy0zYk9Jemc0ako4cVd1X05UMHMzejF2VkNUYTlfVDNUbE1tVWVzZlBzN3JXQm0weUVnNjdFY01DVG00Y2JFWkxCT1RESHZ5QUZYY2NjU2ZQOC1aSXE2YzZham9xT3BxekJKQ2QySDI4ZjNybTNHYmpCQUlxZUdEblJPQVJkTjBLMFFEUVpVMDE3bVVQT2RqNlhHU2ZKcWt0SVNfVDdpa1lFanZmNXlYNGw1dDhVWktFd9IB2gFBVV95cUxPY1RiYlNqNXYzR3BnVXhYSUtVci1zZVRUX2dtMTM3YmdDRXpVb0dHYU9nX29kam44OHdWU3k4WVZzcGRRVVFBaHJqTnVPRW5FdG91M1B3ZDJWbmdUNlBsTW95NndrbFh5cWdjWGFhNzgwX3JTMHU3OTJ1MjVhbFY3MUpuMzJmM0FONTdSOWNwLXdOYWUwVHEwWm9adGxHLTJzdlMtSG1EOUdKOTJINHg2S2ZfNlE0emhiQzM0Z21YZUxhR2pRLXpVMGhFakpmY0wzNGhSQXNicXV3dw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Dos cazas de Rumanía derriban dos drones sobre sus aguas territoriales en el mar Negro - RTVE.es",
-      "summary": "Cazas rumanos han derribado dos drones sobre aguas territoriales de Rumanía en el mar Negro.",
+      "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año - CNN en Español",
+      "summary": "Ucrania lanza contra Rusia uno de sus mayores ataques con drones de este año.",
+      "source": "CNN en Español",
+      "publishedAt": "2026-10-19T00:58+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Macron, tras los disturbios en Francia: \"Los que han intentado hacer caer la República tendrán que responder por ello\" - RTVE.es",
+      "summary": "Tras los disturbios en Francia, Macron advierte de que quienes intentaron «hacer caer la República» deberán responder por ello.",
       "source": "RTVE.es",
-      "publishedAt": "2026-10-17T20:25+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTRNdEFmRTZvTFJmWW5NU1BKTDNqam9MSTRLRFZYYS00a3hUZTZfSEtJX2hkRW03eVJBM0duY0V0a1FnY3VVcGszU21yejdPdGtnU1ZBU0gyclRRNmExbjF2MzZUZU9VcnNUTTFnWUYxYTRxVG55TTg1ckJJempnMlFXM2Z1dVVIOWtKVUlGQmZPd2xOYmQ0TFVlTXdzRjRyVDFYRGRqcm4?oc=5"
+      "publishedAt": "2026-10-18T20:15+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYk9UWXFTSENyYVJRcUJGVnRBOEJDR3o2NnF2anhGWmpQTjJJRXdjOXZIRFF0R0ZpVi1LbFN0UXMwSVpqRHJzb1NrcU9JeE4xUE01aEloeDhTWEdGZ1hVcW5ZdzZ5OEV2VGM3R1IwQ1RJVEFlRkdQN3pqdkJYeEhVcVRlTjlLODhnYU9Oa0VNc1dtekpDRVI3ZTl4and6bkFXZzhMd1Zma0MzSnlOT004THY2eHp1N2p0ak5ROTVBckxYQjMxendmWEhpQXZJWTlIaVdpbzE3Y2l4Zlp5ZkE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Arabia Saudita intercepta cuatro drones sobre Riad y otras zonas del país - DW.com",
-      "summary": "Arabia Saudí ha interceptado cuatro drones sobre Riad y otras zonas del país.",
+      "title": "Estados Unidos \"muy consternado\" por agresiones de colonos en Cisjordania, pide medidas - SWI swissinfo.ch",
+      "summary": "Estados Unidos expresa su consternación por agresiones de colonos en Cisjordania y pide medidas a Israel.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-10-18T16:25+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmtzTXROX0QxRDliN0dNb3RYUmYwdDZrWXZBVzlXRkg2eEJjU3NlTDBSOHFjVl8tM3paN0lrS2JWa3lRVmVpY2ZyWkx0MWtuczdQNzZEeXg4NjlLMTFDVjlfc3VYeE9HbHFzODBGZUlZNmpCdGV0NE9RTW1Gd1hwclB3MU1ob0VYOHJmLW9jZmtnVEZPS2dsMFNmcWk3eGxOeHhMR0wwN19iQjNLeXBQbVl2TjZqSklROGtJQjN2MER5LUpvaVZmWi1QQQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un avión de Austrian Airlines con ruta Tel Aviv a Viena aterriza en Sofía tras una amenaza de bomba",
+      "summary": "Un avión de Austrian Airlines que viajaba de Tel Aviv a Viena aterrizó en Sofía tras una amenaza de bomba. A bordo iban 51 pasajeros y seis tripulantes.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-19T00:33+02:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/19/6ad548e0fdddff24288b4587.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "La presencia de un dron pone en alerta a Lituania - DW.com",
+      "summary": "La presencia de un dron activó alertas en Lituania y Letonia. Según los titulares recogidos, el aparato se estrelló en territorio lituano.",
       "source": "DW.com",
-      "publishedAt": "2026-10-18T02:39+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFNvd2dRZUthaHZsOHRGUnIxRklJTnBXZFVqQUM1bW54eldUeElVd3J0MWFBbHB4ZUZGUWVob3RGSDJFOG5nV1lubXFLdHRVakliQXBMZjM5eFR0YmdtdnNqcGRJZUdqMUxsSWZhVTJzSTBKTHlXQk91cHVjRi1lOS0xaWcwUy1DTnpGem92LXdGSldEVUw5d3BaRlpnMDJQRDd6TFYzb0M2Z9IBqgFBVV95cUxNeWFYZVcyM2xFUHNiMXBMeGZ5TC05V0lCMjJkNHdod0hQZGlMbXFQT3JTR3BCQmZvVzhVMGhUTjVLOURmbEQ3aGZ3NU52eXRSa0YzVEZhTWR2ZUhRVkM0cjZvUVA4TnVVTWpjVFlBc0ZVa09RN3dfYkQwdy1uU2Z1ME1YSHpTc3NZNEc4UmZnM1k5TEJJZlRhVW80Qm91bkk2RDdVbW1tVE9HQQ?oc=5"
+      "publishedAt": "2026-10-18T13:14+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkk2S3Z1ZElBSTNRSmtJTzExaFMwQ1FWSThuZzE0dmJzemtrNlgzdzEyNnZwRkFWQ1Z5cFhiSm5YcHFXNXRZb0ZvUDhuVGxpdjFNQU9SM1FtRVVNazRfRklQaU9JNFdUcHRSaXM3dHZoeUVTdnpqT3FHQXVKQ3FxWEtESnpuSWpNTGfSAYoBQVVfeXFMUEdJYkJJSlVFMXRMTFl3QVpGdFVnTGdScFVHTlJmZmc0Zmo4SnEyMXNXS3JwOVJaZTJvQlNCWUlOS1J6UU4xamdFU0xNVVhIMnR5bXU0bndEQzZwZDczYkZvUWp0a0dBNU9KNTNvOWtySjlQaUIzYXQzNGhnQWpVOUxPcmQ1WndfNDlB?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Explosión en un petrolero tras chocar con una mina en Ormuz - DW.com",
-      "summary": "Un petrolero ha sufrido una explosión tras chocar con una mina en el estrecho de Ormuz.",
+      "title": "Venezuela anuncia una inversión de casi 76.000 millones de dólares para relanzar su industria petrolera - El Economista",
+      "summary": "Venezuela anuncia una inversión de casi 76.000 millones de dólares para relanzar su industria petrolera.",
+      "source": "El Economista",
+      "publishedAt": "2026-10-18T08:01+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUy1zOWpSam8zcnNrOHI4UHNXZ2FYZXZqWTJWckd4dEdmS1QwRUFHaDh2UXdBa1VjM3IxQ21vaDNQMnE5NWlxT3Njbmh0OFVJX2pzTnBfUGtLWll4SzAycmY4VDFXS25remtfYTAyWFV1NXdJMl9YcXBRYTNUMGEwRHRWU0pyelgzTGRVbE1vdHVUZGRzcmdza0NZSk55bGF0ZGpidHRIUEhaWnBtQW5ycGo3ckIzWHVVNnlMcDZMUm1hMDZUNWVXeHZLc01vLTgxY3AzTlczQ0hFNzFxZ2YwMlJLQjhaU0tyTFJOb1NpX0JhVHFXTWFURDUwRdIB5gFBVV95cUxQOGhSd281T0xxU3JaX20tMGVJYklnVk1wSlY3Rnp0RWcyOWRETG1lNUxaY1NBS0xIeHFPZHVlVk1zeDU4SVZROFBTa1RuRm84bThPX3pzNlRaLVBiYVpEQmdDa0pHSTFNMUhoSnFUMW9KazV4OWZ6VERHeUJublRCd2FTLTNPaDJrMXV5TEkySEFzdEZEamZ0MVZqMmFpTnZ6NmtRajZyejBsRnZfbExESEh4Mm40V0FBancteUZjbXFydEZVVFFtc0JaaTk1UVhubklTT2UxUmFmRk5QTTVYaGE5SWtHQQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un camión mata a 13 personas tras arrollarlas durante un festival hindú en India - DW.com",
+      "summary": "Un camión arrolló a asistentes a un festival hindú en India y causó al menos 13 muertos, según el titular principal.",
       "source": "DW.com",
-      "publishedAt": "2026-10-17T10:19+02:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlc0SU5uR3J5aVhmVTAxdExJNGhGZTN3WjM5ZkIwcVJSMUNuQlVmQmJVV3hvcno2VHJ6b1hlWGdJdlJ5UFpwdG5mbW5qR2xJRDh2SlRzcjBkQ2xKWU5ibmxIX0t5SGYyN0VRQVVlS3VaUkpJUlVIUktRTmQxdFJfYzhSdkVmSnFNUjBZQ01nOTBTS1ZOX2NBUWNWVkpmUdIBngFBVV95cUxOd2hpeWhveHowODhYQjl5SDFyX3RieEV6SXVtRWlKUHAyNV9DOUo3ZWtEWThiOE5vZ2ItRzU4Uzl5cktWcnB4U0RscUQxV0JscERyTGF4M2NlSkU3d0plbkVxaEVydHhyTlZkZUdFbUtKWnp0cGVBQ0dsSFBqR2hSVEZiMWRjd3JFRS04T0NsSjM5U2Z4SGxDUGVZT0xaZw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Francia y Alemania pactan normas de motores para 2035 \"made in Europe\" - Euronews.com",
-      "summary": "Francia y Alemania han pactado una posición sobre las normas europeas de motores para 2035 que busca flexibilizar el abandono de los coches de combustión.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-10-17T12:55+02:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmRtY2pQN3F5RnBrWnVtOTNlTzduVzQzdkszQi0yV0lycm1SSXRhSnFMYS1UdHctSThsVktyTHpoUTlDTW5RdDVTUWc5R3pyb284dlVlTjRqQXFLcnlvdzRWNnZITURyeHVqclhCVG5mSk1IbmJBWWFrY29jZ1hRUmhJUmp6WTR5aVBaWF9CUWpkQWRyaXNjTFh2M2t1WXg4MFp6aENsb19TeDhfZjVSVk01VUZCYjNUdGRGeQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "El calentamiento de los océanos amenaza de extinción al 44 % de los arrecifes de coral - dw.com",
-      "summary": "El calentamiento de los océanos amenaza con la extinción al 44 % de los corales que forman arrecifes, según la información recogida en el feed.",
-      "source": "dw.com",
-      "publishedAt": "2026-10-17T12:21+02:00",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV0hNMEVNZFJ4QlB3N3pIS05KWE5EVnM1SDcteW1vRVdIYnVQUE1mOWZfb3BUNjJ5eGQ0MndsaUxLcnpMbFhBMEhxRjIzcmQ2dkdKX0hfMEVhTnkzelVueHdKQVZNOGRabkJsQkR3QTNOaTU5OW8tdEhQY1hSRnRtVERZTEtidG5BOS0wWF9qNmhNbnVrSFdRLWt1LXlaVmpRczVRZ0pjQXJadkhTcFNrY1hjWGxpYTZpX1owZ0JGMTJyOU43T3ZaWHdyQ2wxU0NaQVFLUU4tc1c5NThBMlVnandsNW9xeGdDRlI3SVpTeFotdjk3Mm83ekhmWUVjbWN1NTZqN2RqaC1EX2xobGxn0gGPAkFVX3lxTE43R2FJcEh6YzRFWEVxempfdVpPamFZWnVYMTVXSmxMT2pvNDEybTlOdExGem9VekgwdnNOMTBKWUZXOFJWanFRVWdWYUJPWXJYemZWanJQWXAwaXg1VnZWTmRkMHVUcUhGRXpJZmVDRklsZEFqRTZpWms4ZDU3X25LUnhCR245TFNIRVJjdjlvUXZjSTlra2hMWTdJM0lCLTlkTzRDWWEzUWk3REZtc0FqUmlLZEcwZTRuR1l2Y20zcl9qbTRYTm1UTlY4Q2RiWk5oay1EZ2tyNENWUllGMUZkczhPeG91MHNGbFRvbTlpUVBXSzBac0JvdDY2U0c1NmYtV18wVG52QXkzRDRXc00?oc=5"
+      "publishedAt": "2026-10-18T10:14+02:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPel85T0VjMUhzcXQ4Mkx2V3k3TzlYRFpLQVJNbkpPLTlCNG02NEo0SE52VENncWtCQm5jME1oUzBLaUdTckY4alFrdklzdjF1TDBIeXFOejhUNFdmemZlZkJfdnMtNHZ6Qld5Qy1TLTA3RmNGREdWYVFVaEhSaDFsMFRXbzczZURRVDY4UnpuRGlXUU9vSEw3MEdpenVHMWdiRk5fVUZEOGltS0hlXzQyRnNRdFhlR2VpRVBMalBpeEhiMlRRU2lVNXpqOGxGQk9E0gHQAUFVX3lxTE96MWdCUWxDQU50VFE0dHBSMU9qUUNXWFdYQm9WQ1NzcFNCMjQySFUxM3lfbUxsWVV6bE5NS0g2VU1lbnN1cHB6V3NDWk1vQ2h6cHVYNkprSHlQdlpmMUJGa21tMWo3U0dEWU4xOEdQVXJnRkdCd1BjRUY0aHdUYk1TTTIyUmVQS0JhSDU5WmV0bkp0V2F6VVFtTFhFVWZPdW1HMDVPNlVERW8yeGp1SVFIRHJWS2FFbzNwV29tdmdOOHJpSHJwTFgzaExCR0RqSVk?oc=5"
     }
   ]
 }
