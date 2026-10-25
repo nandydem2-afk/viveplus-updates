@@ -1,152 +1,144 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T06:30+02:00",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "La línea entre San Fernando y Cádiz se refuerza con un autobús más a primera hora - Diario de Cádiz",
-      "summary": "La línea de autobús entre San Fernando y Cádiz contará con un vehículo adicional a primera hora.",
+      "title": "El asidonense Pablo Ariza Moreno, subcampeón de España - Diario de Cádiz",
+      "summary": "Pablo Ariza Moreno, de Medina Sidonia, ha quedado subcampeón de España. El titular no precisa la disciplina.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-22T18:58+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ29xcmJhNEt5RkxBQm4wbkdzdDZmWEt1Qk9ob1NJRUV0M0pTaW1DaXNIZGpaMS1LZF9CWGRiajEtcHVfMm44Y3I5ZGp1Tm5NQzRuaXE0anRMNzhySkNjcjVubUpDM2w0MlBvSk1NRWllaVlYSG93Xy1LQVg0WEdER29HUEFPSGRrVDdTREVRNG0zOEU5a2Fxay1Hd2QxRFVzUmfSAacBQVVfeXFMUG9YNk1IZm1UYzI1aEJRdFpmbC1aaC0tYUlUQW1rU0NrOXFRYnlIOU1MVlJNZ0U3OXk3S3k5Mm5rSTYxVE5Nc21yd0FmcEVhd3U5SlJwTzZmNkYzVlNiSkdfRlpLRlFNaUluNFNQUmx4WUhmd19XVjJuRHUweEVCWUJlYXFOS0dtSm8xRVU1SktKd2NBNEppeVlrT01iZDlJWHpmWG9jQXc?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Procasa presenta a inquilinos del parque municipal de viviendas de Cádiz el II Plan de Rehabilitación Interior - Diario de Cádiz",
-      "summary": "Procasa ha presentado a los inquilinos de viviendas municipales de Cádiz su segundo plan de rehabilitación interior.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-22T18:11+02:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTl3ZUZWUU1hUUFUMDRCUThNX0R3ZmFRZkl0M2hqVHFUM0RidER3Tm15aWVaREVDazl0TDRtMXNPNFhJaTVIczBuYXVNSHQ5aDN0SElpS2VhY2NOenBXMi0yM3lwWkJUQXg3Tnc3MURKWERwRUJFZm5OOU9JU3dfTnZaajNmYWFVdDNrazBBZ0l6clMteWVJNThZT1o0QdIBowFBVV95cUxPNTRQalR1MkI1OWdRSjhVMlZybnZIaHZ4WkNUYm41SUkySlg5S3VlVFJzeFB6blliNERLWlFQWWVUVnp3M0xZdEJEV1JZak0yd2k5RF9mTWJOcjl1VzNZLVhKZVQ5NHNyQUpYV0ZPbC1QUkh5X1EyeDN1VGJENDlvY3BLc3V1c3UtVzgyVF9ndkZjeV9QS01SS0FoN0pvdnFVeTNn?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "El POU de Chiclana cumple diez meses a la espera del informe ambiental de la Junta - Diario de Cádiz",
-      "summary": "El plan de ordenación urbana de Chiclana lleva diez meses pendiente del informe ambiental de la Junta.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-22T18:00+02:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmtpRHRNTHl2R3I5b05lSm5CekVPbUZTTmpSOEc3SlB6VHpFVTk2ZWQyUEdyb2JWVnZHb01uMC13ZTFTTHpXMzREcTduRHMtZy1tb2pBakZLVVBGbHNnZHlkUmtlNG45eVZlTTVHZFI0MTJTMXYxT3Z6THlMMll2a0dmc2NfdmJuZUlETXNna9IBlAFBVV95cUxQUlc5TnJCS2ZVNEtPZnNyVjM2YXBrVFo4RGYzeWx6MS1jWGtrdlVqNW5Zdk1GY1hWTGNvRzVyZ0t4Sm12QTlYT2puMUp0a3RpWEhKck9SMEhyd1JGc2U3R2w3M0dtd3ZROUp1WG5YNHotNmFJQnJqYW10WHJGb1ZZX0lDSnRQVFBKeGhacDNrcTRXRTVq?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Varios guardias civiles resultan heridos tras ser embestidos por una narcolancha en el Guadalquivir - Diario de Cádiz",
-      "summary": "Varios guardias civiles han resultado heridos después de que una narcolancha los embistiera en el Guadalquivir.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-22T20:30+02:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2tHQmIyRnpIcTFZT3FMalJMS2Q4dU9FNUJMVEZhVWlva0tLaEJOU3pISmxwcEwtUWYtZVNkZDZBV2pTdnBlSzlWdlUzWXZwQnVhNHl4cV83dnljYWpZOVdMQ0VzMzByVHJMWlhXR1paSkxWaU5zNHpIZ1gtS3FXeU9rMGRIRTFFTGdjbVJnZ0ROVFNxR1Azc1AwdWRud1paSDNJS3NoNUNPbC1MYV84M0QweENkUnptMWl3NGR0Tnc2bXF1dHBsNzFtRm_SAdIBQVVfeXFMTXJjUjRQUTZaTDZHS0tTMEZfdElDdlYtR2VnLVdtcEh6cTFOVEp0bF91SFZJd1hiWHRqc0JnbloxU0FSOXlmV2JJbnJWTEdHTjllUGlVbVlUUEFlMFZKYlRlNVhtTEw2Ry1jYTQ5eUlsYVR1WHFmZktRRHpEUnNIcGhxYnBUdWdmWHBUV0F0bXRMOGlIUlVrTjJMU3NLakI5dnNwZ1JSVFd0aDZqWWc1dTdlaUZvMHotS0F6bkxtVGN2cy1WNmlTWXRfaGlvVElTNFl3?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Borja Jiménez ya es, de forma oficial, nuevo entrenador del Cádiz CF - Diario de Cádiz",
-      "summary": "El Cádiz CF ha hecho oficial el nombramiento de Borja Jiménez como nuevo entrenador.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-22T22:09+02:00",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd19Ea1RJckxEblpLNlRDVk83cUJCYzl6a2E0eUlFaVh4V3J0X1BqUHVWTHh5ajFPUnE1TDYtY294UGdpbEZIX1I5LUhWNFNEV1hyMndHekR3TXdleFVuTWVTUmRnOEJNTnFjQmtCRUxOWkNBdE9wSlhnaEtOTFVsN0trTW9abnA0QTUyeThzXy1JZw?oc=5"
+      "publishedAt": "2026-10-25T02:29+02:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDdvUVVCRmp4dXpBVnUtUEZaaktYUThVREMwT1ExR3RweHNLQVFPNG4zZ0JkYldDellGMHRORFV3cGY1NlViLWYxS0JieDRRZ0ZMTFFMaTlXQjNFalFoeHpTMVI5NDV0ekNSQVJwMVVmRWE2akpfYmsyWFhNdHVNcjdwMzlTMDkyR212TEEtcTFBNTNTR2w3ZW9fZEo?oc=5"
     },
     {
       "section": "España",
-      "title": "El calor extremo bate un récord histórico en Europa con más de 50.300 muertes en un solo verano",
-      "summary": "Un estudio cifra en más de 50.300 las muertes asociadas al calor extremo en Europa durante un solo verano, una cifra récord. Atribuye más de 5.200 fallecimientos evitables en España al cambio climático causado por la actividad humana.",
+      "title": "El Tribunal de Cuentas abre diligencias para la recuperación de 400.000 euros pagados irregularmente al hermano de Sánchez y su amigo en Badajoz",
+      "summary": "El Tribunal de Cuentas ha abierto diligencias para reclamar 400.000 euros que, según la información publicada, se pagaron irregularmente al hermano de Pedro Sánchez y a un amigo suyo en Badajoz. La Diputación se opone a esta primera fase del procedimiento.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-23T01:01+02:00",
-      "url": "https://www.elmundo.es/salud/2026/10/23/6ada5bb9e9cf4a6b638b456d.html"
+      "publishedAt": "2026-10-25T01:27+02:00",
+      "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html"
     },
     {
       "section": "España",
-      "title": "La UCO detecta la desaparición de facturas en la contabilidad del PSOE al rastrear la financiación ilegal",
-      "summary": "La UCO ha detectado facturas desaparecidas en la contabilidad del PSOE durante la investigación sobre presunta financiación ilegal. La Audiencia Nacional aprecia descuadres al comparar los datos del partido con los del Tribunal de Cuentas.",
+      "title": "El FMI sitúa a España como líder de las economías avanzadas en aumento de gasto de la Administración desde 2018",
+      "summary": "El FMI sitúa a España a la cabeza de las economías avanzadas en crecimiento del gasto de la Administración desde 2018. Prevé que el consumo público siga aumentando este año y el próximo.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-22T23:31+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/22/6ada535cfdddff545b8b45a9.html"
+      "publishedAt": "2026-10-25T01:27+02:00",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/25/6ada3edbe9cf4a4d178b4595.html"
     },
     {
       "section": "España",
-      "title": "El ceutí de la 'casa de los horrores' ganaba 1.000 euros al día con 74 inmigrantes hacinados, les esclavizaba en obras bajo su control y dormía con una de ellas",
-      "summary": "La Policía ha detenido en Ceuta a un hombre acusado de hacinar a 74 migrantes, entre ellos diez menores, y de explotar a varios de ellos.",
+      "title": "Las carreteras españolas se llenan de 'curvas' peligrosas: de ser la envidia de Europa a un déficit en conservación récord de 13.500 millones de euros",
+      "summary": "La conservación de las carreteras españolas acumula un déficit estimado de 13.500 millones de euros. Su estado se ha agravado por la climatología adversa y el aumento del tráfico pesado.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-22T22:45+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/22/6ada3357e4d4d892618b4574.html"
+      "publishedAt": "2026-10-24T22:51+02:00",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/24/6adc89e6e85ecec82f8b457a.html"
     },
     {
       "section": "España",
-      "title": "Vox pide al PP que se aparte en dos provincias a cambio de su retirada en circunscripciones clave para el Senado",
-      "summary": "Vox plantea al PP que se retire en dos provincias a cambio de apartarse de circunscripciones decisivas para el Senado. Según la información publicada, ambos partidos buscan un acuerdo.",
+      "title": "La revolución contra el cáncer que ya está aquí: vacunas contra el que usan la tecnología del covid y combinaciones de fármacos",
+      "summary": "Nuevos tratamientos contra el cáncer incluyen vacunas de ARNm y combinaciones de fármacos. La información disponible señala una reducción del 42 % en las recaídas del cáncer de piel con el uso de ARNm y avances en cáncer de pulmón microcítico.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-22T22:46+02:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada5d77fc6c836b4a8b456d.html"
+      "publishedAt": "2026-10-24T22:50+02:00",
+      "url": "https://www.elmundo.es/salud/2026/10/24/6adba5a5e4d4d882258b45a2.html"
     },
     {
       "section": "España",
-      "title": "Garamendi propone vetar en CEOE a patronales afiliadas a organizaciones rivales en plena guerra por la representación",
-      "summary": "Garamendi propone impedir que las patronales integradas en la CEOE pertenezcan también a organizaciones rivales. La comisión interna estudiará si la medida es viable.",
+      "title": "Disturbios, saqueos y destrozos en el centro de Barcelona tras una protesta juvenil violenta con un centenar de detenidos",
+      "summary": "Una protesta juvenil convocada por redes sociales acabó con disturbios, saqueos y destrozos en el centro de Barcelona. Hubo alrededor de un centenar de detenidos.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-23T01:15+02:00",
-      "url": "https://www.elmundo.es/economia/2026/10/23/6ada15c8e85eceac408b458c.html"
+      "publishedAt": "2026-10-24T20:08+02:00",
+      "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html"
+    },
+    {
+      "section": "España",
+      "title": "Entramos en el temible barrio de El Príncipe: \"Hay gente sacando tajada\" del asalto masivo a Ceuta",
+      "summary": "Tres meses después del asalto a la frontera de Ceuta, un reportaje describe la proliferación de viviendas hacinadas y la explotación sexual y laboral de inmigrantes en el barrio de El Príncipe.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-25T01:27+02:00",
+      "url": "https://www.elmundo.es/cronica/2026/10/25/6add19aee9cf4a3f358b4572.html"
     },
     {
       "section": "Mundo",
-      "title": "Putin dice que Rusia está lista para negociar la paz definitiva - DW.com",
-      "summary": "Putin afirma que Rusia está dispuesta a negociar un acuerdo de paz sobre Ucrania y a celebrar otra ronda de conversaciones con Estados Unidos y Ucrania.",
+      "title": "Ucrania restablece su conexión al sistema Starlink de SpaceX - DW.com",
+      "summary": "Ucrania ha recuperado la conexión con Starlink. Según el Gobierno ucraniano, el servicio vuelve a funcionar sin restricciones.",
       "source": "DW.com",
-      "publishedAt": "2026-10-23T04:33+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEVPUlRBMEJzbGdDZ1dudnpPN2lyVUdIYkVTZFoxXzY0V3V2ZjRHTE82M2dLdFRENzMwTl82YkRqLU5oRkw1VjVCNTR5X3d2ZkpLbFJwVkxBZy1oakowek5lZzVGQ3hsZHR0TS1FYzZRMDZLYUNsQkxHX2ZyeHRNQ3pyZ05sUHllWXpNN1BESXZaWTVkb1B3VC1BZjJCaUxROGdj0gGjAUFVX3lxTE5zM244Ri05THBSYkEtaGR3aVM3LVQyUVFGSDg0ZFpiV29CamRwanNiM0dZV3l0TzhxWUJ3cHFmWnhmNUNabEVXTzVUdmJQeXlRdnYwX1lDeVBrUkFhUFlhQy14dVJRNlFmbUc4S2tpdWV4LUMybnRjSHRwOU9wVkdaQUowR2lXc0xvNTFrWDZyZmNFZFZxT1RaYTNOa19nTXp1WVU?oc=5"
+      "publishedAt": "2026-10-25T05:37+01:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUtrd3hfYko1ZHZPM2FDS1gwZEoxU3V2cVZ4eWU1RlhOcDFlbTdBMDJ2R0lYYnNRbEk0T2lYS2ZRTnU2cXF1S1ZicU5la0ZTd201UTBTejlRLVFZc3Z5dG9BalQwNDdXcXBndGs0SWV2STZOSnFwNXJXMzMyeXBXWHU5ZjhEcVMyeVpqMmhHc3BqcHVXZ0xDbGJSZmRMX2PSAZ8BQVVfeXFMUC1FajJRUEFxaFhBZW1mcTZub1k4bWZuNG05aHRIeVBpb240ZVlKUGo4U2p6eWk0WjQxZlFfbnFhVnA5VjJPNFQ2M1RzOXJRWHB0WUFCVklqdHFCU2FrMVVJRWJuR19EME5KWG0xQl8tNDlqTi1QS2xXdkcyZ2Z1eDNEVXI5T2tEZWpreHp6blVuYnVnVUpSRHNuS2tod2Fr?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Un terremoto de magnitud 7 en el Tíbet chino deja al menos 16 muertos, 32 heridos y derrumba cientos de viviendas",
-      "summary": "Un terremoto de magnitud 7 en el Tíbet chino ha dejado al menos 16 muertos y 32 heridos. Los equipos de rescate siguen trabajando tras el derrumbe de cientos de viviendas.",
+      "title": "La Casa Blanca abre una batalla legal en Alaska ante la posibilidad de una derrota republicana - RTVE.es",
+      "summary": "La Casa Blanca ha iniciado una batalla legal sobre los resultados electorales en Alaska ante la posibilidad de una derrota republicana. El Gobierno de Trump pide bloquearlos si pierde el senador de su partido.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-10-25T05:22+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGV4TDhTcnFZdWoyNWFUMFNFMWZxVDFpdVZqT0M4ZEJxNnhrUF9BMlJoNHItRUN0dld5ZVltdTU5dGI5cGtBM0VNdVdQb19OQklXb3Q4N3BHU0NFNWlrVy1SWFhQTVZyd0xPOTAyUUhVMk1GUWd2TnhyUWFSM3I2b1Q4ZGQxODdySWFRNkh2YjBSVkZ6UVd0SldHVGVqclBja0lCVFRHX0owY2hlYWhpZlZ6UjZsdmk3RXVHRjEzR1ljR0RIaUE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Elecciones en Brasil: dos ideas de país para la gran potencia de América Latina",
+      "summary": "Las elecciones en Brasil enfrentan las propuestas de Flávio Bolsonaro, centradas en endurecer la respuesta a la delincuencia, y las de Lula, orientadas a mejorar la situación de los sectores más desfavorecidos.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-22T22:49+02:00",
-      "url": "https://www.elmundo.es/internacional/2026/10/22/6ada74f5fdddffbf5e8b459b.html"
+      "publishedAt": "2026-10-25T01:27+02:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html"
     },
     {
       "section": "Mundo",
-      "title": "Amnistía Internacional denuncia asesinatos, torturas y arrestos en El Fasher: \"Todo el mundo está aterrorizado\" - RTVE.es",
-      "summary": "Amnistía Internacional denuncia asesinatos, torturas y detenciones en El Fasher, Sudán, y alerta de la situación que vive la población civil.",
+      "title": "Casi 1.000 personas son detenidas en nuevas protestas en Francia - DW.com",
+      "summary": "Casi 1.000 personas han sido detenidas durante una nueva jornada de protestas en Francia, marcada por la tensión política y episodios de violencia.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-25T00:47+02:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC11dmtJdDBpTG4tajBkcDM3aldnZWlsdG1UZHc5WXVNc2VSY25KdUM5RUFCbmJ6M1htQ1JZYV9DZVowZ05oVDBjcjJIUTZFYml2bXVsUll1ZVJQbl9xVlhfYzNHWktJcnotOHE4Z3l6M1NPS2czaC1jdWNsWUsxeUVJSURzMVNSbi10T1lseFFqNGhRNVZteFYtUnfSAZwBQVVfeXFMTkR1eXZzUXRQcmMxVHktbzBWMkpYNjVsa2hCT1ZaV05RVFhuVkcybTdQd2hIQ2NHSTlPY0tSQTlrclZ1a0JGLThHTE1UaEVSUzNlamJ6S3IyT0RmTFhIbEhhR2Q4cHpxTUdDOFBGUm5MdDExcUwwQ0hEVGdYa295NEN0SHhSY2xTcW5jamNFMHM0azA0SmRuUVc4eGNr?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Hutíes de Yemen atacan Arabia Saudita y la ciudad yemení de Adén - DW.com",
+      "summary": "Los hutíes de Yemen han atacado Arabia Saudí y la ciudad yemení de Adén. También han reivindicado ataques contra infraestructuras civiles y energéticas saudíes.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-24T23:28+02:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzVGcXVlLWkzT2UzYWJDS21rY1YtMWF5RTVJMENLYkRPSVpJaXNuU3FoRU5JdWt2ZEx5Nm9rVXFCM3ppeUFtZ2JCUW1mbGs1NFlQcUNHc19KUDc4U091S1VxeWNNMzB1cS1LRk5PYTU0eU1wdF9oUjQwVDNSeHRnUXNtY180MHVOakFNUWZFUU8tbHhxVS1SYjhzOTlZa01FSGd6QkdWdE9JcVI3ZVBBQk5n0gGyAUFVX3lxTE5IVnpjbHNUT19aSDhHVGl6NW1CMmpBeGJ0UEtlMXR2SnNjSlpjV1dDR0UzTGxVbW1EYlRvbXF0T3RCeXdhTm9OdDV2Ty1tQUNpWmJhZEJXMk1DYl9CN29jeUZ4S3RRTHBnd3JIbWlTTmNGcHZnNW02b2hWSnJIcHVoaHJWb1E4dVRVeEFvOW9sUkhnMUpGd3VjN0IzWHdIdVBDLXdyeTNZbHhDUGItMnZZSEE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El Ejército israelí detiene a 40 personas en una operación en 400 puntos de Cisjordania - RTVE.es",
+      "summary": "El Ejército israelí ha detenido a 40 personas en una operación desplegada en 400 puntos de Cisjordania.",
       "source": "RTVE.es",
-      "publishedAt": "2026-10-23T00:01+02:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGlhUU1DV0VyZmRrb0ZSM1ZWZWJEaFRIYVFqSTVJVDNZM2VBQWkxSGpDNXU0cHJNVHo1SHFLT0V2bHlGVzJJNXk0Sm1mUUN1UkZFYVlSVDJKaW04UmRERkFkX0R0bWFvTXVDZVl4VEN6UXdrTmxEcExNUkNRNy10dXd1Z1Vwa29NOWlZV2YwdTRaUVlBRkJmX1Iycks1VWVCOE1tRlo5bVhUMlBCekhWc19nRnc?oc=5"
+      "publishedAt": "2026-10-24T22:32+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEpzN0JXX3dvcjlNS2Z1QnYyd1d0cE9jLWM0dXBwYW5RWTlWRTNqcUgxenBQbXVFWXhSbWZfMTM3cWhrZVdseVQ0a3NtbEpBcVZJSERZeVJhWVVlLTFUZFdjaVBjZ09yeGdCZnRqVC1RbTNKekp1bDFWcG5UMURrWlpJZzA1Q2llLWRRSEM1bTREWEwxaS1Ub2NvRUVjZ19CYllFWU1nYzRIY2xuUUpuMjdQSzVvbHBKUk9uelFpdEJXQQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Macron anuncia restricciones a manifestaciones en Francia y convoca un Consejo de Defensa - RTVE.es",
-      "summary": "Macron ha anunciado restricciones a las manifestaciones en Francia y ha convocado un Consejo de Defensa.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-22T17:26+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHUxS0tTRHJWN185WEJvRUpCYV9FNk1ud0ZWeEF1ODh6ZzlTUnFXT0JyanVhelhNZjdvRm1kV1c0c3hnd1o2Tm5SeWhJeXJsWjUxdGdxajlfM3ZtMFhhY0tiR04tRXhPMDI1dDRhbFZ3bHA5M1VzZklaeld4b0Jjc3B1UlhSWGtIdVMxVU9sLUt5d3pGZmlqcTZ3dWxoZnZKdnZqM2lhNko1M1BYX2NOZGNxLXZFSzdLWmMtTTI0TnE1SjBkUFdRZw?oc=5"
+      "title": "Aumenta a nueve el número de muertos por ataque contra iglesia en Jordania - DW.com",
+      "summary": "El número de muertos por un ataque contra una iglesia en Jordania ha aumentado a nueve.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-24T20:01+02:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pjc014ZVIzbXowUzNuYjVNRmhDYkMzWFE2Z1ZzQ0xic3VWT1lBTEtmckFiSXNEM3J5VnRER1QtQldna0ZQU3JtOV9XQjJONjA2SzNkcUVEd0J3bHZ5T0tZdnJvNkVPRGdfTk5KRDZnaFEyck1hd1dNeXRWOUFIbW5uVkFNdFlCS1RUd3VfSXIxd3o0ZGY2N2gtc3lLVW1WWHlWU2xyM1ZnVGlqODd4YkRR0gGyAUFVX3lxTFBfUlZydHNGWWdwTFQ3YjM0YkdWeG9aWUZ1Nk9IY3JmQTJ3MnV1aGhENUJCR2xmbVZCUGt0SFRrNlBmZmVDX0pmX3pkbUI3NE9WVkFzMXhaSzZaM1d5WG45clpJZjk1RGNvOEFhSHpMOW1yakJEQXBOY09tN3c1NkFvOVNza0lONjhvaGlHcnkzeU5tNGVkZmh3SUhrWmMzUVFzdVlYVEpBdjhtUEt5dDlDM1E?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Casi todos los arrecifes de coral corren riesgo de colapso en 50 años, advierte estudio - AP News",
-      "summary": "Un estudio advierte de que casi todos los arrecifes de coral podrían correr riesgo de colapso en los próximos 50 años.",
-      "source": "AP News",
-      "publishedAt": "2026-10-22T23:37+02:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmNwdHdWSFduRFRELVU5eWUtQTRmVklwNVItX3RnMHZEMFVFSUlHUUpaMEJ6dGRrRGo5eV9uaEtPbFBjZUlLbWhiXzhwQ25BQ0ZGVS1iVFg2aDdTREszOU0xSXRwZ05veWlVTHBjRGFoSi1CcHRaem1FblZVZDc4X2JLTHJnOGdtZ2JiekI3Y0RCelVNbGNsdm15WWlsYlE?oc=5"
+      "title": "Vucic afronta en Serbia una posibilidad real de derrota electoral ante una candidatura creada por universitarios - ABC",
+      "summary": "Aleksandar Vučić afronta unas elecciones en Serbia en las que una candidatura surgida entre universitarios podría disputarle el poder. Los estudiantes presentan su proyecto como una vía para combatir la corrupción.",
+      "source": "ABC",
+      "publishedAt": "2026-10-24T19:18+02:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkJPWW5DMzJneVV0YjBKWDZZelZSMkpCbS02S0owX1RhWXpYamdfMnZOcThfTmJ5Tm0tczl3WXpMUzRlU0ZYc1oyUGhXczFfdlVmMEQ0UmlCWl9IZzhwMEZVQmF1Ri1WaW9mcDdsaXFOeVlvVURBTTRhR2RxenlZYmwzTVh3LWE3eEhaSkVuSExQbU4wTzRQOEZSMW5zb3JZUy1NN0tMSkp4b0lP?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Trump recurre a una ley de la Guerra Fría para impulsar la producción de petróleo en EE.UU. - RTVE.es",
-      "summary": "Trump ha recurrido a la Ley de Producción de Defensa de Estados Unidos para impulsar la producción de petróleo.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-23T00:59+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONllVXzBsRHozYWlCRWxpR0xmamtMTXpaVXk2VDFUTnJyTHZmLXoyalpZOVZTLU94OHN2UkNneXlYWEVVY0JaVUtTVldJMUNwSXZsY1hLb1RVSC1RSmNJZTFJd0tTWDNweENzNTIwb1A1WFF6N2FWMzcxa0pfb2NtbE9vX0drQUQydERLQjVkMWIyYWVQb09NVl9tR2s4amRHM0NyYVZGd2Roa0RkQ0lvamJwOXFpd1dNM1pYN1dXUWM?oc=5"
+      "title": "Melania Trump logra un alto al fuego en ciudad ucraniana de Oleshki - DW.com",
+      "summary": "Se ha anunciado un alto el fuego local en Oleshki, ciudad ucraniana ocupada por Rusia. La Casa Blanca atribuye a Melania Trump un papel en el acuerdo.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-24T17:43+02:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXdwd09kZXhFQkVoejZ5b0ZRWWtZZnJQcUxsNjJpTFlJOER1SnJhcl9oS3NsMGs4Z2ZmLUZiM0JjUEdFY0ZVQUNRX3hSanktM2xNMHBQN2tMNEY3VGV1bTJOWWM2bmNYOWFjZzFja3hNdVdUVWMyOEQzOVhXNVA5T0RhNUNRcWo2Sk1MZWdYbXJ5eWJTcXR2MF9QS2JoaXBFSXfSAaIBQVVfeXFMTUllcDk4TUlWYlQzQmMwcnNRVExpb05KY0YtWmVxNDA5OWd5ei04ZHlRU2tOWW9sT1hTUVJmX2VlLVdBWjVHN0JtVEpYUC1oTDRoclg5RmR5WmxJdHRHWVdkNktIRVliSk5iODlSeGRmVG11ZG1nWEtOMU5uN2JfcGJNelVJeC1yWUlwelVWenpybXVSYmk1a1ZoZldVNUNmNFl3?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Los anfitriones de Airbnb ya no pueden exigir a los huéspedes que quiten las sábanas ni que laven los platos - BBC",
-      "summary": "Airbnb ha cambiado sus normas: los anfitriones ya no pueden exigir a los huéspedes que retiren las sábanas o laven los platos.",
-      "source": "BBC",
-      "publishedAt": "2026-10-23T00:08+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55enQtY2JvbUhubkk2emhIcXd2M3UtV2t3RXk2Sk9aXzhGektlTGFUemoxTnRfS05iV0d5cUhkTlppbmFnZEU3cVc2ZGZfRmZYR2UtTmd5ck9mS2800gFiQVVfeXFMT3JQcTVzVDc1MzF6NlJwcHdwcVpfQURTTGI0ZzB1NHFVdldjRU5Zd0RONXRoUU91MHVrcHdaMlYtUDRmUkdPbmJmQzhlUWgzOUpxVGhmS2VTVEtOQ29BVFdrSkE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La detención de la ex candidata presidencial izquierdista desata una batalla entre Noboa y Petro, que se acusan de dictadores y narcos",
-      "summary": "La detención de una excandidata presidencial de izquierdas ha provocado un enfrentamiento entre los presidentes de Ecuador y Colombia, Noboa y Petro.",
+      "title": "Calculan el color de las estrellas enanas blancas: algunas son verdes",
+      "summary": "Un estudio sobre el color de las enanas blancas concluye que algunas pueden verse verdes y cuestiona que el color de una estrella dependa únicamente de su temperatura.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-23T00:19+02:00",
-      "url": "https://www.elmundo.es/internacional/2026/10/23/6ada8ad8fdddfff6678b45ae.html"
+      "publishedAt": "2026-10-25T01:26+02:00",
+      "url": "https://www.elmundo.es/ciencia/2026/10/25/6ad64e17fdddffea3b8b45b7.html"
     }
   ]
 }
