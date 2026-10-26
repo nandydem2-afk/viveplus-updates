@@ -1,144 +1,136 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T06:30+01:00",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
-      "section": "Cádiz",
-      "title": "El asidonense Pablo Ariza Moreno, subcampeón de España - Diario de Cádiz",
-      "summary": "Pablo Ariza Moreno, de Medina Sidonia, ha quedado subcampeón de España. El titular no precisa la disciplina.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-10-25T02:29+02:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDdvUVVCRmp4dXpBVnUtUEZaaktYUThVREMwT1ExR3RweHNLQVFPNG4zZ0JkYldDellGMHRORFV3cGY1NlViLWYxS0JieDRRZ0ZMTFFMaTlXQjNFalFoeHpTMVI5NDV0ekNSQVJwMVVmRWE2akpfYmsyWFhNdHVNcjdwMzlTMDkyR212TEEtcTFBNTNTR2w3ZW9fZEo?oc=5"
+      "section": "España",
+      "title": "El Estado paga 50.000 euros al mes desde hace un año a medio centenar de funcionarios que no trabajan porque no tienen plaza",
+      "summary": "Una promoción de inspectores de Trabajo lleva casi dos años esperando destino tras aprobar la oposición y completar su formación. Según la información publicada, el Estado paga 50.000 euros al mes a medio centenar de funcionarios sin plaza.",
+      "source": "El Mundo",
+      "publishedAt": "2026-10-26T01:45+01:00",
+      "url": "https://www.elmundo.es/economia/2026/10/25/6adb4876fc6c83db3e8b45ab.html"
     },
     {
       "section": "España",
-      "title": "El Tribunal de Cuentas abre diligencias para la recuperación de 400.000 euros pagados irregularmente al hermano de Sánchez y su amigo en Badajoz",
-      "summary": "El Tribunal de Cuentas ha abierto diligencias para reclamar 400.000 euros que, según la información publicada, se pagaron irregularmente al hermano de Pedro Sánchez y a un amigo suyo en Badajoz. La Diputación se opone a esta primera fase del procedimiento.",
+      "title": "El delegado del Gobierno en Madrid dimite tras la acampada de Sol y no ser incluido en las listas electorales del PSOE: \"Nos han puesto palos en las ruedas\" - El Mundo",
+      "summary": "El delegado del Gobierno en Madrid ha dimitido tras la acampada de Sol y después de quedar fuera de las listas electorales del PSOE.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-25T01:27+02:00",
-      "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html"
+      "publishedAt": "2026-10-25T18:10+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1URUw2RjF4OFJiYnBPQk5sYkUxYWNIRF92Y0lTYW5YV2Rsak5mX0V1bjF4SzdNQ0NRZmtxX05XSXRDZjVVUmpBbzBJU0V6T1FJcEMwVUh2a2R5ZXJmZWlfUW9SY19QR1dRbmJGQ0UwZ2FNdlk1MlY1UzZn0gF6QVVfeXFMT3QzN0tFbXFSdzdQR3U5RWp0bzJnN3pTd1RwZ3lKSEdBckRCdUhrU1ljNkJEUkwtVGFNZlg3NEhVY2ZDbUFHNFF0UWZLZTMtNTFEZk9rcWVCUnotTGJpbEJ2RDhzd2hOak4xNWdGUGlPV0drTFM1bWVINmc?oc=5"
     },
     {
       "section": "España",
-      "title": "El FMI sitúa a España como líder de las economías avanzadas en aumento de gasto de la Administración desde 2018",
-      "summary": "El FMI sitúa a España a la cabeza de las economías avanzadas en crecimiento del gasto de la Administración desde 2018. Prevé que el consumo público siga aumentando este año y el próximo.",
+      "title": "\"¿Cómo podéis vivir aquí?\": la lucha de los vecinos de As Conchas por su embalse, que sigue contaminado pese a la sentencia que les da la razón - El Mundo",
+      "summary": "Los vecinos de As Conchas denuncian que el embalse sigue contaminado pese a una sentencia favorable a sus reclamaciones.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-25T01:27+02:00",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/25/6ada3edbe9cf4a4d178b4595.html"
+      "publishedAt": "2026-10-26T00:02+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55a081OGpMWWlyZUp3TmhoQjlWd0tmdl9aRWJDaW9jdE5kcUZDRWhhX1hNUUZ0dDFzSElEb3hVN2Yzanhqc2hyVG1YM3puNFdfRm9ScUJyUUZMS1FDUk53bG5MQ0hBT1hVUkVlZjNFNUI5WV9xamRKVElR0gF6QVVfeXFMTnlrTzU4akxZaXJlSndOaGhCOVZ3S2Z2X1pFYkNpb2N0TmRxRkNFaGFfWE1RRnR0MXNISURveFU3ZjNqeGpzaHJUbVgzem40V19Gb1JxQnJRRkxLUUNSTndsbkxDSEFPWFVSRWVmM0U1QjlZX3FqZEpUSVE?oc=5"
     },
     {
       "section": "España",
-      "title": "Las carreteras españolas se llenan de 'curvas' peligrosas: de ser la envidia de Europa a un déficit en conservación récord de 13.500 millones de euros",
-      "summary": "La conservación de las carreteras españolas acumula un déficit estimado de 13.500 millones de euros. Su estado se ha agravado por la climatología adversa y el aumento del tráfico pesado.",
+      "title": "Ochenta y tres heridos, siete de ellos en estado grave, tras precipitarse un autobús por un terraplén de 20 metros en el Montseny",
+      "summary": "Un autobús se precipitó por un terraplén de 20 metros en el Montseny y dejó numerosos heridos, varios de ellos graves. El titular y el fragmento ofrecen cifras distintas de afectados.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-24T22:51+02:00",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/24/6adc89e6e85ecec82f8b457a.html"
+      "publishedAt": "2026-10-25T20:41+01:00",
+      "url": "https://www.elmundo.es/cataluna/2026/10/25/6ade3c5121efa08a518b4592.html"
     },
     {
       "section": "España",
-      "title": "La revolución contra el cáncer que ya está aquí: vacunas contra el que usan la tecnología del covid y combinaciones de fármacos",
-      "summary": "Nuevos tratamientos contra el cáncer incluyen vacunas de ARNm y combinaciones de fármacos. La información disponible señala una reducción del 42 % en las recaídas del cáncer de piel con el uso de ARNm y avances en cáncer de pulmón microcítico.",
+      "title": "Juan Francisco Jimeno, presidente del Consejo de la Productividad de España: \"A este ritmo tardaremos 40 años en llegar a la renta media europea\"",
+      "summary": "El presidente del Consejo de la Productividad de España advierte de que, tras la revisión del INE, la productividad crece un 0,4 %. Sostiene que, a ese ritmo, el país tardaría 40 años en alcanzar la renta media europea.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-24T22:50+02:00",
-      "url": "https://www.elmundo.es/salud/2026/10/24/6adba5a5e4d4d882258b45a2.html"
+      "publishedAt": "2026-10-25T22:42+01:00",
+      "url": "https://www.elmundo.es/economia/2026/10/25/6addd98be4d4d863138b4588.html"
     },
     {
       "section": "España",
-      "title": "Disturbios, saqueos y destrozos en el centro de Barcelona tras una protesta juvenil violenta con un centenar de detenidos",
-      "summary": "Una protesta juvenil convocada por redes sociales acabó con disturbios, saqueos y destrozos en el centro de Barcelona. Hubo alrededor de un centenar de detenidos.",
+      "title": "Muere un motorista y la pasajera resulta herida crítica al chocar con un jabalí en Maçanet (Girona)",
+      "summary": "Un motorista murió y su pasajera resultó herida crítica al chocar con un jabalí en la carretera C-35, en Maçanet de la Selva (Girona).",
       "source": "El Mundo",
-      "publishedAt": "2026-10-24T20:08+02:00",
-      "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html"
-    },
-    {
-      "section": "España",
-      "title": "Entramos en el temible barrio de El Príncipe: \"Hay gente sacando tajada\" del asalto masivo a Ceuta",
-      "summary": "Tres meses después del asalto a la frontera de Ceuta, un reportaje describe la proliferación de viviendas hacinadas y la explotación sexual y laboral de inmigrantes en el barrio de El Príncipe.",
-      "source": "El Mundo",
-      "publishedAt": "2026-10-25T01:27+02:00",
-      "url": "https://www.elmundo.es/cronica/2026/10/25/6add19aee9cf4a3f358b4572.html"
+      "publishedAt": "2026-10-25T21:17+01:00",
+      "url": "https://www.elmundo.es/cataluna/2026/10/25/6ade622e21efa0f7618b4579.html"
     },
     {
       "section": "Mundo",
-      "title": "Ucrania restablece su conexión al sistema Starlink de SpaceX - DW.com",
-      "summary": "Ucrania ha recuperado la conexión con Starlink. Según el Gobierno ucraniano, el servicio vuelve a funcionar sin restricciones.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-25T05:37+01:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUtrd3hfYko1ZHZPM2FDS1gwZEoxU3V2cVZ4eWU1RlhOcDFlbTdBMDJ2R0lYYnNRbEk0T2lYS2ZRTnU2cXF1S1ZicU5la0ZTd201UTBTejlRLVFZc3Z5dG9BalQwNDdXcXBndGs0SWV2STZOSnFwNXJXMzMyeXBXWHU5ZjhEcVMyeVpqMmhHc3BqcHVXZ0xDbGJSZmRMX2PSAZ8BQVVfeXFMUC1FajJRUEFxaFhBZW1mcTZub1k4bWZuNG05aHRIeVBpb240ZVlKUGo4U2p6eWk0WjQxZlFfbnFhVnA5VjJPNFQ2M1RzOXJRWHB0WUFCVklqdHFCU2FrMVVJRWJuR19EME5KWG0xQl8tNDlqTi1QS2xXdkcyZ2Z1eDNEVXI5T2tEZWpreHp6blVuYnVnVUpSRHNuS2tod2Fr?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La Casa Blanca abre una batalla legal en Alaska ante la posibilidad de una derrota republicana - RTVE.es",
-      "summary": "La Casa Blanca ha iniciado una batalla legal sobre los resultados electorales en Alaska ante la posibilidad de una derrota republicana. El Gobierno de Trump pide bloquearlos si pierde el senador de su partido.",
+      "title": "Trump expulsa a los soldados trans del Ejército de EE.UU: \"Es injusto, solo queremos servir a nuestro país\" - RTVE.es",
+      "summary": "La expulsión de militares trans del Ejército estadounidense impulsada por Trump afecta a personas que, según recoge la información, reivindican su voluntad de seguir sirviendo.",
       "source": "RTVE.es",
-      "publishedAt": "2026-10-25T05:22+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGV4TDhTcnFZdWoyNWFUMFNFMWZxVDFpdVZqT0M4ZEJxNnhrUF9BMlJoNHItRUN0dld5ZVltdTU5dGI5cGtBM0VNdVdQb19OQklXb3Q4N3BHU0NFNWlrVy1SWFhQTVZyd0xPOTAyUUhVMk1GUWd2TnhyUWFSM3I2b1Q4ZGQxODdySWFRNkh2YjBSVkZ6UVd0SldHVGVqclBja0lCVFRHX0owY2hlYWhpZlZ6UjZsdmk3RXVHRjEzR1ljR0RIaUE?oc=5"
+      "publishedAt": "2026-10-26T06:17+01:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkd4cUZ4RXhhTGpKUmxabE9IbDZBZmN5TEJLaWRoR1FoLWVvdm5SaURKUVNuZkNjdVBvaTNnNzJKNEpVMmRocmdhODFUT0g4WXg4OXJWUWxEdHk4ckVaRGhBVFJhZkVCRldTMXBPdXV2UzBsMmZaWi1XQWdrdkY2czMxU1duZE03cEdMT2NjZDlVZ2p5U2stZHB4WQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Elecciones en Brasil: dos ideas de país para la gran potencia de América Latina",
-      "summary": "Las elecciones en Brasil enfrentan las propuestas de Flávio Bolsonaro, centradas en endurecer la respuesta a la delincuencia, y las de Lula, orientadas a mejorar la situación de los sectores más desfavorecidos.",
+      "title": "Hutíes lanzan misil contra aeropuerto internacional de Riad - DW.com",
+      "summary": "Los hutíes anunciaron el lanzamiento de un misil contra el aeropuerto internacional de Riad, en Arabia Saudí.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-26T06:03+01:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlRZVE1tN05FQTR4LWlKSVNkQ1E4andMV0hQT3RlZHU5a0tfa1FGY0NkNmJ4dXd6RXI2alhjaDN6X0p1Zy1waVV6VHJYdUU1QllvaFY4MmJJaThVOTAwY245QmZKVDFzbGhRSkVVOEVKTDk4Y0JOY0pUMmhpWXpuYnM0LWQwa2w5OTN2dGpBdmxtYjkzODVPZWtocVgwd9IBngFBVV95cUxOUTBRb3BqQUlTUU9GWDJlNHdCWmZVbENLVENhcUtzajYzRHUxSkpMZEZqUUZYUXZSVEJpeWt0ZmdlMjBOejlSRVFRek81ajJvR3hTUDFIZkJJZ0RIOGdURDZ4TDUtNVQ0QXlHQXdONzdaeVdMLWxFM1loTUQyZjZyaGlkLW0zb2E3RC1SMFo2b3M2c3QxN0FLNjV4Y3dxdw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El veterano gobernante de Serbia, Aleksandar Vucic, reconoce la derrota electoral ante un movimiento de protesta liderado por estudiantes - BBC",
+      "summary": "Aleksandar Vucic reconoció la derrota electoral en Serbia ante un movimiento de protesta liderado por estudiantes.",
+      "source": "BBC",
+      "publishedAt": "2026-10-26T01:16+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NOXBqREdwLUJzbnJIWWIzOG9QdDZIWnpzTDAyNTdDblNiNmtnTEdiaEQzRzl6dGlSUktLQnRVSUxyMUhNcnFFd0hIX1kxVk8xX2hBUmVKRkxJZmlp0gFiQVVfeXFMT2p2aFZCZWs4OTZGdnhtNk04ZllXUFpGV1Ayb1Z3c0pyQ0x4Q3lHalpaVzJ5Wjduc0ZvaWlIb3QxN3NGMEE3Q3NsZ0ZYcHpJeEU2WWh0NTdFQ0tMT2hhOVM2MGc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Zelenski anuncia que habrá reunión entre Ucrania, Rusia y EEUU en noviembre - DW.com",
+      "summary": "Zelenski anunció una reunión entre Ucrania, Rusia y Estados Unidos prevista para noviembre.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-26T01:07+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUxqU00zckl3aFlUcUdnTTFId2tZdzdHZTQ3RHZFdktTc2hzM19YZVVKWF9IamZEeE92ZXFWTmVOVEtkMVJ2N3hqaERJQ0pEdXVuZDVIck5MVklldWtzbGZfeHBwVVBybXlHQk5hYmg4MHMwMk43YWpuOS05MVFuS3o1RU5rcldKSkpLY1hzMk16U3ZveEpodU91S1BKakRnSEJtcmVlQUwyMVI3TUxEaC11RzN6Znl00gG4AUFVX3lxTE5fNUVIT3h2ZExsV0dna25SNTNpalZTVWpJZU9VYW5wT1dMd1hOTXliekpuanBvVE9IYmw0Y0d6WWY1S2E2OFdkRGRrd2JrREYteUNPN0xFbFp1aG9RTnBwaUd6OW4yeHlEeUdSRzNkUEVtd1JXTENmX1dXanJzQWV4YmtzMzVVUTV6UVA5NzhBbmxzTl9SNVl0aDZEWThrOEUyUHZaWjVENVhjZkppSTFfam9JVmpLUHk?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Lula logra una victoria inédita en Brasil y derrota al bolsonarismo",
+      "summary": "Lula derrotó al bolsonarismo en las elecciones de Brasil. La ampliación del horario de votación por el mal tiempo y los problemas de transporte podría dar lugar a impugnaciones de la segunda vuelta.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-25T01:27+02:00",
-      "url": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html"
+      "publishedAt": "2026-10-26T01:39+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/10/26/6ade9b3be4d4d8d04c8b458a.html"
     },
     {
       "section": "Mundo",
-      "title": "Casi 1.000 personas son detenidas en nuevas protestas en Francia - DW.com",
-      "summary": "Casi 1.000 personas han sido detenidas durante una nueva jornada de protestas en Francia, marcada por la tensión política y episodios de violencia.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-25T00:47+02:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC11dmtJdDBpTG4tajBkcDM3aldnZWlsdG1UZHc5WXVNc2VSY25KdUM5RUFCbmJ6M1htQ1JZYV9DZVowZ05oVDBjcjJIUTZFYml2bXVsUll1ZVJQbl9xVlhfYzNHWktJcnotOHE4Z3l6M1NPS2czaC1jdWNsWUsxeUVJSURzMVNSbi10T1lseFFqNGhRNVZteFYtUnfSAZwBQVVfeXFMTkR1eXZzUXRQcmMxVHktbzBWMkpYNjVsa2hCT1ZaV05RVFhuVkcybTdQd2hIQ2NHSTlPY0tSQTlrclZ1a0JGLThHTE1UaEVSUzNlamJ6S3IyT0RmTFhIbEhhR2Q4cHpxTUdDOFBGUm5MdDExcUwwQ0hEVGdYa295NEN0SHhSY2xTcW5jamNFMHM0azA0SmRuUVc4eGNr?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Hutíes de Yemen atacan Arabia Saudita y la ciudad yemení de Adén - DW.com",
-      "summary": "Los hutíes de Yemen han atacado Arabia Saudí y la ciudad yemení de Adén. También han reivindicado ataques contra infraestructuras civiles y energéticas saudíes.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-24T23:28+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzVGcXVlLWkzT2UzYWJDS21rY1YtMWF5RTVJMENLYkRPSVpJaXNuU3FoRU5JdWt2ZEx5Nm9rVXFCM3ppeUFtZ2JCUW1mbGs1NFlQcUNHc19KUDc4U091S1VxeWNNMzB1cS1LRk5PYTU0eU1wdF9oUjQwVDNSeHRnUXNtY180MHVOakFNUWZFUU8tbHhxVS1SYjhzOTlZa01FSGd6QkdWdE9JcVI3ZVBBQk5n0gGyAUFVX3lxTE5IVnpjbHNUT19aSDhHVGl6NW1CMmpBeGJ0UEtlMXR2SnNjSlpjV1dDR0UzTGxVbW1EYlRvbXF0T3RCeXdhTm9OdDV2Ty1tQUNpWmJhZEJXMk1DYl9CN29jeUZ4S3RRTHBnd3JIbWlTTmNGcHZnNW02b2hWSnJIcHVoaHJWb1E4dVRVeEFvOW9sUkhnMUpGd3VjN0IzWHdIdVBDLXdyeTNZbHhDUGItMnZZSEE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "El Ejército israelí detiene a 40 personas en una operación en 400 puntos de Cisjordania - RTVE.es",
-      "summary": "El Ejército israelí ha detenido a 40 personas en una operación desplegada en 400 puntos de Cisjordania.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-10-24T22:32+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEpzN0JXX3dvcjlNS2Z1QnYyd1d0cE9jLWM0dXBwYW5RWTlWRTNqcUgxenBQbXVFWXhSbWZfMTM3cWhrZVdseVQ0a3NtbEpBcVZJSERZeVJhWVVlLTFUZFdjaVBjZ09yeGdCZnRqVC1RbTNKekp1bDFWcG5UMURrWlpJZzA1Q2llLWRRSEM1bTREWEwxaS1Ub2NvRUVjZ19CYllFWU1nYzRIY2xuUUpuMjdQSzVvbHBKUk9uelFpdEJXQQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Aumenta a nueve el número de muertos por ataque contra iglesia en Jordania - DW.com",
-      "summary": "El número de muertos por un ataque contra una iglesia en Jordania ha aumentado a nueve.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-24T20:01+02:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pjc014ZVIzbXowUzNuYjVNRmhDYkMzWFE2Z1ZzQ0xic3VWT1lBTEtmckFiSXNEM3J5VnRER1QtQldna0ZQU3JtOV9XQjJONjA2SzNkcUVEd0J3bHZ5T0tZdnJvNkVPRGdfTk5KRDZnaFEyck1hd1dNeXRWOUFIbW5uVkFNdFlCS1RUd3VfSXIxd3o0ZGY2N2gtc3lLVW1WWHlWU2xyM1ZnVGlqODd4YkRR0gGyAUFVX3lxTFBfUlZydHNGWWdwTFQ3YjM0YkdWeG9aWUZ1Nk9IY3JmQTJ3MnV1aGhENUJCR2xmbVZCUGt0SFRrNlBmZmVDX0pmX3pkbUI3NE9WVkFzMXhaSzZaM1d5WG45clpJZjk1RGNvOEFhSHpMOW1yakJEQXBOY09tN3c1NkFvOVNza0lONjhvaGlHcnkzeU5tNGVkZmh3SUhrWmMzUVFzdVlYVEpBdjhtUEt5dDlDM1E?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Vucic afronta en Serbia una posibilidad real de derrota electoral ante una candidatura creada por universitarios - ABC",
-      "summary": "Aleksandar Vučić afronta unas elecciones en Serbia en las que una candidatura surgida entre universitarios podría disputarle el poder. Los estudiantes presentan su proyecto como una vía para combatir la corrupción.",
-      "source": "ABC",
-      "publishedAt": "2026-10-24T19:18+02:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkJPWW5DMzJneVV0YjBKWDZZelZSMkpCbS02S0owX1RhWXpYamdfMnZOcThfTmJ5Tm0tczl3WXpMUzRlU0ZYc1oyUGhXczFfdlVmMEQ0UmlCWl9IZzhwMEZVQmF1Ri1WaW9mcDdsaXFOeVlvVURBTTRhR2RxenlZYmwzTVh3LWE3eEhaSkVuSExQbU4wTzRQOEZSMW5zb3JZUy1NN0tMSkp4b0lP?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Melania Trump logra un alto al fuego en ciudad ucraniana de Oleshki - DW.com",
-      "summary": "Se ha anunciado un alto el fuego local en Oleshki, ciudad ucraniana ocupada por Rusia. La Casa Blanca atribuye a Melania Trump un papel en el acuerdo.",
-      "source": "DW.com",
-      "publishedAt": "2026-10-24T17:43+02:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXdwd09kZXhFQkVoejZ5b0ZRWWtZZnJQcUxsNjJpTFlJOER1SnJhcl9oS3NsMGs4Z2ZmLUZiM0JjUEdFY0ZVQUNRX3hSanktM2xNMHBQN2tMNEY3VGV1bTJOWWM2bmNYOWFjZzFja3hNdVdUVWMyOEQzOVhXNVA5T0RhNUNRcWo2Sk1MZWdYbXJ5eWJTcXR2MF9QS2JoaXBFSXfSAaIBQVVfeXFMTUllcDk4TUlWYlQzQmMwcnNRVExpb05KY0YtWmVxNDA5OWd5ei04ZHlRU2tOWW9sT1hTUVJmX2VlLVdBWjVHN0JtVEpYUC1oTDRoclg5RmR5WmxJdHRHWVdkNktIRVliSk5iODlSeGRmVG11ZG1nWEtOMU5uN2JfcGJNelVJeC1yWUlwelVWenpybXVSYmk1a1ZoZldVNUNmNFl3?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Calculan el color de las estrellas enanas blancas: algunas son verdes",
-      "summary": "Un estudio sobre el color de las enanas blancas concluye que algunas pueden verse verdes y cuestiona que el color de una estrella dependa únicamente de su temperatura.",
+      "title": "Londres subirá los impuestos a la banca para financiar ayudas a hogares con rentas bajas y pymes por los costes energéticos",
+      "summary": "Londres prevé subir los impuestos a la banca para financiar ayudas a hogares de rentas bajas y pequeñas y medianas empresas por los costes energéticos.",
       "source": "El Mundo",
-      "publishedAt": "2026-10-25T01:26+02:00",
-      "url": "https://www.elmundo.es/ciencia/2026/10/25/6ad64e17fdddffea3b8b45b7.html"
+      "publishedAt": "2026-10-26T01:45+01:00",
+      "url": "https://www.elmundo.es/economia/2026/10/26/6adce493fdddffb1398b4575.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Ucrania: atendemos a las víctimas de un nuevo ataque ruso contra infraestructuras civiles en Dnipropetrovsk - Médicos Sin Fronteras (MSF)",
+      "summary": "Médicos Sin Fronteras atiende a víctimas de un nuevo ataque ruso contra infraestructuras civiles en la región ucraniana de Dnipropetrovsk.",
+      "source": "Médicos Sin Fronteras (MSF)",
+      "publishedAt": "2026-10-25T18:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0xhQ0xySEZaRUd6Q3AtZHVjN2hmQ1RWRkVxWlY1MDFhRGFIekxrNFZIQTBSbE9zdjFoODhyd2txTHJWa2JHdlJFblRkZ1k5dG50Rm96MHVGaWNQRVhQUldRYkhYeGNZX2dlbFRGS01jVFAwUnpEclM0ZERkV2ZkbEFvdkRhYkpXcXpLNmt2OVdGQllyaGp4Rk1PUWU2VW1DenFCYTJZXzd2RG82Y1NKNDRvcW9qQQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Irán bombardea una base del grupo opositor Komala en el Kurdistán iraquí - DW.com",
+      "summary": "Irán bombardeó una base del grupo opositor Komala en el Kurdistán iraquí.",
+      "source": "DW.com",
+      "publishedAt": "2026-10-25T15:54+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdy16Y21zWDhNNXNhX0Q1Nm40dFVRc2k1czRxbzR6WGg3WlVJN25iU1FqQWxXaGRlRUx1RVlpQzI1Z1VHaHM1VDJYZFRQb2NiaGpVMGpxdHh6SExEMkJPRjFKbmtmVDFLSlFuSEpOYklXRFRGUThNQUhMbjRrVTFzMzVxMmpuVFZXdTBKeVR4eEFvOGxhN2w2bmFldUNvelZvem9NZTdEUDlQc0ZZ0gGsAUFVX3lxTE1jUmVqOXZSVmpWZU1rekpRVGxkaDhBR016bVZleU5LYUMwY1E4RWRGTEpNOHFobW9xNkRPRm1qVWhfX0x3eUQ4X2tFQjg0UWRpM0dLU0Q3MW93SndfM3MyUVBNNzNiUXBGV2Y0Y1gxM1g5VHlQNXhFZ3lzVlNlU1k2cmlEbC1pNlJ2MGZyejJ1Q1BiNkVERi1pN21fV3FreFJtM1R4Y1dBYXFRczQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños secuestrados - BBC",
+      "summary": "La fuerza internacional contra las pandillas en Haití halló restos que podrían pertenecer a cuatro soldados salvadoreños secuestrados. Su identidad aún no está confirmada.",
+      "source": "BBC",
+      "publishedAt": "2026-10-25T17:54+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZHhJWnMxWlBHZDg1UUNzdFhJam9lX1NIOWdObUtiTmNGNTRRbnZBZ0JMT3M0MnBxb29VTHN1djdVUk5ndllMLWlsZld0WnVaRXpIUk56b1o4VUtO0gFiQVVfeXFMTW9oWjNCUHA4R0lxR1FuLU01V0hyTFhoREhfNmM1NWw4RTMwd3VxaW5CSFBsUWd6TUZCOE9UekpaaWxOcTlxYnFBRVRmX0NiUnhFcjJsYWlWSDMxcUpuYXFqaUE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "VÍDEO: María Corina Machado llega a Venezuela entre aplausos y gritos - Euronews",
+      "summary": "María Corina Machado regresó a Venezuela y fue recibida por una multitud entre aplausos y gritos.",
+      "source": "Euronews",
+      "publishedAt": "2026-10-25T16:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDItUElhUzdsSm8tdFVKeXFyTVRFSXZwRk51WUNISjlEcGNreUhEczEzYU5VSGp3b1hKa2c4dlpXUThmN3RQcVlvOHR5WUd0OTIzVEhkQU92Rk1oMUVvbGExNnZHQlhrVFZKdGJjYklqZjRFM2xRMUtLQTFjY3FLU0VjWlMtRnVFTll0UHR5UUNJbTEzSFZv?oc=5"
     }
   ]
 }
