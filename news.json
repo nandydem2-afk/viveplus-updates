@@ -1,152 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:30+01:00",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
-      "section": "Mundo",
-      "title": "Los demócratas recuperan el control total del Congreso tras ganar Texas, Kansas, Iowa y Ohio",
-      "summary": "Los demócratas recuperan el control de ambas cámaras del Congreso estadounidense tras ganar en Texas, Kansas, Iowa y Ohio, según los primeros resultados.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T04:06+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Trump se lava las manos y culpa a sus candidatos de la derrota: \"yo no estaba en la papeleta\"",
-      "summary": "Trump atribuye a sus candidatos las derrotas electorales y afirma que aceptará los resultados y trabajará con los demócratas.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T06:09+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/04/6aeabb5b21efa020538b4585.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Texas y Georgia hacen historia con la elección como gobernadoras de Gina Hinojosa y Keisha Lance Bottoms",
-      "summary": "Gina Hinojosa y Keisha Lance Bottoms han sido elegidas gobernadoras de Texas y Georgia. Bottoms será la primera gobernadora negra de Estados Unidos.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T05:54+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/04/6aeab391e4d4d866128b45af.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Eisenkot acelera las negociaciones para desbancar a Netanyahu - DW.com",
-      "summary": "La oposición israelí acelera las negociaciones en torno a Eisenkot para intentar formar un gobierno que sustituya al de Netanyahu.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-04T03:15+01:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWlRMHR1bjFaekJING9oaHctRWlicGdHelFyQ3ljNFRkZHcxZ3Nqbzd3SlpzYlo2aVM0SmQ3LXdPb056ZE5FeHhwLXBOelA3dldkMV84aG9JWmFkdVg0OWZmM3BrdXZyRng0QW1Ob2hacXl4aWl6bHNxRWtpaFdNWFRFTXI3b1Z6Wnc1SVBqX0hWajVWVVgtYnBVQXVkc2o0bFJ1X1ZnSU93d2xfN092WWk5VlDSAbQBQVVfeXFMTU10RHoyUkViTlpUb2tGMkYyWXFzN3lzNy0tMEppUzZmYkRoVzgxRmtOTkR1bl9iUE9GcWZTQXhUTUMtaVJkUmgtbG9vLWNUTndkbURSdnQyM3hva1NpRGpKcGY2a0o5eHZCaFpjbzVOaFBvUFpFV1ZhYjhOTE9ncUtiS3ZsOFFOQTZGVVlobnJhT2l6VUhwcjJjbUdPRU0zbEJVVDFkVWZ1UERCM1dXb0pWTlkx?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Senado de Brasil aprueba reforma de seguridad impulsada por Lula - DW.com",
-      "summary": "El Senado brasileño aprueba una reforma constitucional impulsada por Lula que amplía el papel del Gobierno federal en seguridad.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-04T03:03+01:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFFPZFQyY3BnRVo0WHBlT2ZGUk9YVFc5dnI0ejFNVEpPSGxsQ25VTkhmeW5RNi1KZ1dfc2hRZ2dIaDJVclJGeDQyMWQxVnQ5blhweThrYmp1enNVS0ozZ3dpSlFWcVU3ZWFKVjBzMHA4ejlITi1nT0phZnFtZktVb0JaVWdob3NBM1VMc3BWWFNsTlN3bjdINzhXR0FBd9IBngFBVV95cUxOWDJ5amo5a2pxV2Excm1UaVhXSTZBaTljTVpBLXJLOEhaVjFvYjJOdThUd1U2Rjh3S1dIdmF0YzlNQzZZMS1jNGxWZ1VUcFN5aVh0TEVQTV9xNk1zd0NBMGZacEtHZVNIZGlfZGpMa1ZnRFlUbW93MEJMOWFPUFZWNEJGbVMyVVZHTU9YTmttakZGd3M4SGlDSjF3RzVTZw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Trump confirma ataque contra una instalación antiaérea en Irán - DW.com",
-      "summary": "Trump confirma un ataque estadounidense contra una instalación antiaérea en Irán.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-03T21:51+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3N2NVhJdUVHQV80TGlEcFo0N1RIZDgtU194RWhOMnFVa1hUeU1IYTluZnlTanZtRi1JbzNzNU9YRnkyeU1DdDZpT2ZpenA2X2NzN2VYa1gwYVVVVVVRSzNLSHZWT2hfRTE1Z0lEY3lXX0hLOXdiREwzZnNnVFYwbzRTYnpzbVVxNTlnTUhGU3FCY0JvbmlOZ2wtaUFQY21pRnY1dGZUVl8tUnRmRFE4bXpTY9IBswFBVV95cUxQMmFmZ1ZJYzJEakdibDIyc2k2NWlsbUFMUnZ0cWZ0eWdSc0lFaUZNMVZEaG91bURkRW1lRDUwd1RoZVF0czdxXzJJa1Q1RUtCZGp0TDZPa3hQM2k0M0F1ZURaeXBDNEZLenJyVnlyQjlQSWN2anN6bUd1bjdWM21mRmZpVzljeG4zVUhWamdwZEN2NGp0RFZVWlV3Ym82MXE3U29TbUdGR0VoRFA1blNyV3hXaw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Amenazas de bomba obligan a interrumpir vuelos en Europa; no se encontraron artefactos explosivos - CNN en Español",
-      "summary": "Varias amenazas de bomba interrumpieron vuelos en Europa y activaron protocolos de seguridad aeroportuaria. No se encontraron explosivos.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-04T00:21+01:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUkQzRzlVaFdHTUxGNFJGMU9HR0gwZS11cU9HSWpMWU95elNaOVJicWdhcDVocm1MamNIR3NielVTaDRqQ2p2T0V3U3FjNzJyZHN3NGc1VXQ4S1pCTmhybThKZzNpQUNPekRBTGRYR2l1d0lmSzZhUUpDUW1lc1hzb0hCTQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Merz garantiza a Zelenski apoyo hasta el final de la guerra y más ayuda para el invierno - DW.com",
-      "summary": "El canciller alemán Merz promete a Zelenski mantener el apoyo a Ucrania hasta el final de la guerra y ofrecer más ayuda durante el invierno.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-03T21:36+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2tXYWxXUXh0a3hsZmR2cV9pU3pWX1dYbVF4cnZBR21lYzYwZVkzUDgzM2F6V1hMTE0yM1NRR1N0eWJ3VmFPNWExV1d1S2NqRmNvUmpTcS1fb2FEZDl2NU9xSWphN1lYYl9uSnlnQmtLYktzMVdQRWg4MkdiZkpvdUJCLUpqZlRsVHVhbkJVTTRaWU52NDRQWTRTclJ2Zm9jU3Q2RkpTRVJpZ21GcGs3ME5kdDRYQ2FnaXh4emRsZkRsYm5X0gHEAUFVX3lxTE1jd2QwODYyNzdpX2VON3hWLTRYdVJJbW9JQXdDMlY2NGFaSFZjUUtwRmVFVTIyRnljS0E5ZFpxXzJrVFZ5T0REdU9HTDgyeXlPcjFVU20zRmM1UXEta1Q2SWVxRVFPVVUyeUxycWljVkp5NVluM1dNbTlqaHN6SjIxV25UcFlOZUVaTkg4SVE1SWpSVU5pd09iU21DX0ZGekpMbkhDbDMzR0tCbW9qaVFQeWFicVlmZHFUczkyajdDODVnQUU?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Italia celebra reuniones de emergencia por los ciberataques a frigoríficos en supermercados europeos - Euronews.com",
-      "summary": "Italia celebra reuniones de emergencia por ciberataques que afectan a frigoríficos de supermercados europeos.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-11-03T21:24+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFVYak5HdWdTSnl3a3N6TU9SWjRsTHVMN2M4QmlOWWpXT001VUU3SUtCWjRaeXo3YzFmdDhpbFNwYUdnUEozaFdOUDRVVDhtdlNybTQ5Qzh2bVFnTzVUbkg2YlV2LTNzaWNpUl9nT2tfbU5LM2RHZkpZVE9Qempaa3NjNlR4R0tyNzZhVDl5Q0pHeTFwd2lWTFp6ME1sZk5wUmhCcjJ6TG9LSXEwTXJ4ZDAzS1BKeEVTRmtIMTJnU0pxZlk?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "La dimisión fulminante de Puente deja huérfano a Sánchez ante el 29-N: \"No tenía otra opción\"",
-      "summary": "Óscar Puente dimite como ministro de Transportes y renuncia a figurar en las listas del PSOE para las próximas elecciones.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T01:57+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aea22ccfdddfffe538b45a9.html"
-    },
-    {
-      "section": "España",
-      "title": "Puente recibió 12 avisos de un sistema \"al límite\" entre la tragedia de Adamuz y la de Urda: \"Propician el error humano\"",
-      "summary": "Puente, Adif y la Agencia de Seguridad recibieron 12 avisos documentados de trabajadores y sindicatos sobre la fatiga de las plantillas ferroviarias entre los accidentes de Adamuz y Urda.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-03T22:55+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/03/6ae9b47ce85eceb5658b4572.html"
-    },
-    {
-      "section": "España",
-      "title": "España rompe la barrera de los 10 millones de habitantes por encima de los 65 años y añade presión sobre sus pensiones: \"Es un desafío estructural\"",
-      "summary": "España superó los diez millones de habitantes de 65 años o más: eran 10.178.625 a comienzos de 2025, el 20,7 % de la población. El envejecimiento añade presión al sistema de pensiones.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T00:29+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/04/6aea1c33e9cf4aba1e8b459e.html"
-    },
-    {
-      "section": "España",
-      "title": "Cristina Fernández Cubas, maestra de los relatos fantásticos, gana el Premio Cervantes",
-      "summary": "La escritora Cristina Fernández Cubas gana el Premio Cervantes y se convierte en la sexta mujer que lo recibe desde 1976.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-03T20:15+01:00",
-      "url": "https://www.elmundo.es/cultura/literatura/2026/11/03/6aea262521efa0c3758b45a8.html"
-    },
-    {
-      "section": "España",
-      "title": "Herido grave uno de los acampados de Sol tras ser golpeado dentro de su tienda por una máquina del Selur",
-      "summary": "Un hombre acampado en la Puerta del Sol resulta herido grave al ser golpeado dentro de su tienda por una máquina del servicio de limpieza Selur. Fue trasladado al hospital con un traumatismo torácico.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T01:36+01:00",
-      "url": "https://www.elmundo.es/madrid/2026/11/04/6aea7a82e85ece4d638b459c.html"
-    },
-    {
-      "section": "España",
-      "title": "La juez imputa a otras dos empleadas de la guardería Pecas por las agresiones a niños de uno a tres años",
-      "summary": "Una jueza imputa a otras dos empleadas de la guardería Pecas por presuntas agresiones a niños de uno a tres años. La investigación alcanza ya a nueve trabajadoras del centro.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T01:38+01:00",
-      "url": "https://www.elmundo.es/madrid/2026/11/04/6aea236d21efa0b5778b45a1.html"
-    },
-    {
-      "section": "España",
-      "title": "Vinos, cuchillas de afeitar y comida para mascotas: los comercios españoles pierden ocho millones de euros al día por los hurtos",
-      "summary": "Los comercios españoles pierden ocho millones de euros diarios por hurtos, según la información publicada.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T01:16+01:00",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/04/6aea0aa5e4d4d87f2e8b4581.html"
-    },
-    {
-      "section": "España",
-      "title": "El plantón de Lula y Sheinbaum deja a Sánchez sin un balón de oxígeno cuando más lo necesita",
-      "summary": "Lula y Sheinbaum no asistirán a la Cumbre Iberoamericana, en la que su presencia era una apuesta del presidente Sánchez.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-04T00:44+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/04/6aea2359fdddff40058b45c0.html"
+      "section": "Cádiz",
+      "title": "La reconstrucción de la barriada Manuel de Falla en Cádiz arrancará en 2027 - Diario de Cádiz",
+      "summary": "La reconstrucción de la barriada Manuel de Falla, en Cádiz, está prevista para comenzar en 2027.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-05T05:48+01:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjREbWlXOXVCQ0J1cTA5SkRzNGU4NDAzMUJtSk1QdHIxS2t4LUpZZWdURk0wVTIxa1VqbW1vVkpHZFRRMzd5dkhpYVBUdHQ2a2dHWFJCY3lVMkZvU3hCXzJHeHVHOVp4TW00bGJmMWlsajJMY2dnc1hpclEzUTNJSmJIcm5wVGE4M2RvY0NnbFVvbTF6SzI4M18wb9IBoAFBVV95cUxPX1cwSnFNOHlyN1Q0RDdVUEFGR1FjWGlBcE0zQTBETGxyN1h4MXg4d3RTT01vUFNOdnItdzRTcVp0RGdFc09icnY1Y1VvZWNmZ2ZPdDcyQ1lfR0poYjVHbG9ocGVPLVlBZnQ3Wk1iZTN5Q0RaYXZubjBDcUltaTYyU21OaVhRNFlwaW5tYmFBNFdKWktoaTJ0bkM4RVluWXpC?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "Mágico González vuelve a conquistar Cádiz: el Falla se rinde a su leyenda en el South Festival - Diario de Cádiz",
-      "summary": "Mágico González regresó a Cádiz durante el South Festival y recibió el reconocimiento del público en el Teatro Falla.",
+      "title": "Muere el hombre corneado en el pecho en el Toro del Barrio Bajo de Arcos - Diario de Cádiz",
+      "summary": "Ha fallecido el hombre que sufrió una cornada en el pecho durante el Toro del Barrio Bajo de Arcos.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-03T22:04+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU5ESjhrUV90bUdtTEVUNWIzWF9KOUtKbklmRWdiUFVXRlNIYzNIMUV5RlowaXdGWFFXQ3EwOE5ycGlNUEw0cUw5M2RoSlFybFl2cjM0M2dtMG1kMFM3RGlNNFR5OGdZX1lPYVFiMExUODJVMC0zVHk1aVlhWmVwMFdVakRSRTN1RXFlb1RBM0RfQzZNRmlJ0gGcAUFVX3lxTFB0bjdfOHVyQ3dQeFhLME50QTZiZVM3SVh2Y2toY0RCWTEzV3Rub0N5NTRsaV8zd3FxbnRUbXFHRmx5amZNZ2JpejFoQzZNLWZnNExxWnQ3MG50RzU5YmFHbEZuQU1GN3lzOE5aZExiajNOXy01NERDOWdyU2pOV3pYNDAySTZaYTkyc1VFSWF0bGdvb2R6dkx5UUc5eA?oc=5"
+      "publishedAt": "2026-11-04T23:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR21FTUMwamhDV1N1dnI0ZTAwd0tUbWgxbEZNMGlJdDMtZVBqOS1WNnhDWXE3MDh3UzRtVW5kc3RmSkloYlJNM1N5aEZuUy1SVnFWenV0b0UxZHR5Uk8wOW1hQ21Tak1Gb3RsNlNTLXBPZFJWNWdNMksxNXFLa21PWHN6YkVGS2pTb00zb1lQOFdwQVFhUDUyeUZMMHcwYVotbjdrZDM2bUbSAa4BQVVfeXFMUFl0U0NuOFltN0MxMllOY0NHU1BJN0Ixc0FDQWxjVDNLU1luVUowNklnSlB2NGgtY1NhRjIwRlh5ZkRBd2EySlRJTF95cmhpNkZtdU01akJ5SUlsNFZlMHJMSG90ZzlMTTl3aWs4d3hCY2Z4NFRSSFRQWUdmTHNRd0s4MWl1Z1ZRY2pkc25jMWhmREhfaUk1blZ0RDFrc24zMTdYX2RxSlBHam9YaHBR?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "Arranca en San Fernando la campaña navideña 'Ningún niño sin juguete 2026' - Diario de Cádiz",
+      "summary": "San Fernando ha puesto en marcha la campaña navideña «Ningún niño sin juguete 2026».",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-05T05:59+01:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczUxeFBtVnNFOGJwa2JMY1RiZnlLVHBEMUxra2IzeG4tRGNaWFhyQWhfYXMzY2hEOTFISHNFVWFjbmhjVWY4a2hqS1FYZTk0THFKMU5mYi11UHdaOVNRRHVHV1RCX2NrQTU1dlBoRFVsX1o3X1ExZWNzN2RpZGxBSUxUcFhCVE45UVZKVXJ2NmVVbDRQTEh2VXhUZU5SRW5PdFpoVUs5NGtpREZFeDdUak1B0gG3AUFVX3lxTFBNSWtLZGtvZFhYckUtTVoxTUFpR1c2aFJjOURaMWpBSTlKXy1MbVo1SzJTbFBnQmZNRkNBdDNZMnk4UEZmZm1aSVY5TUc2bC1Oakl2Qm9BeTdMWnZLUmU3cWt2YjJvVm0yTVNTZU5UQVZqWW9RWUoxRlhpZzJieXczMWJCejFIMmdHQW5XQ3hMN1NfSk90azM1U3dXY0gwVW1mdzVtR2FxTTRXbFVGMDBlVzc4MVptVQ?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Adif prevé un grave deterioro de la \"fiabilidad\" de los trenes hasta 2030",
+      "summary": "Adif prevé que la fiabilidad ferroviaria empeore hasta 2030: pronostica un 20 % más de incidencias que afecten al tráfico y reconoce que no cumplirá sus planes anuales de mantenimiento.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T22:42+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/04/6aeb8622e4d4d84d628b45a2.html"
+    },
+    {
+      "section": "España",
+      "title": "Los 2.000 bomberos despedidos al terminar la campaña: \"Cada vez somos menos, cada vez hay más abandono profesional\"",
+      "summary": "Unos 2.000 bomberos han sido despedidos al terminar la campaña, según el titular. Los sindicatos creen que la cifra puede ser mayor y denuncian la precariedad del sector.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-05T01:38+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/05/6aeb6e1c21efa04f758b45b6.html"
+    },
+    {
+      "section": "España",
+      "title": "Los maquinistas reclamaron la \"intervención de la UE\" para \"proteger la vida\" de los usuarios del AVE: \"Existe un deterioro de las condiciones de seguridad\"",
+      "summary": "Los maquinistas pidieron en marzo la intervención del Parlamento Europeo por el deterioro que, según denunciaron, sufren las condiciones de seguridad del AVE.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T22:41+01:00",
+      "url": "https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html"
+    },
+    {
+      "section": "España",
+      "title": "La brecha entre la creación de empleo y la caída del paro se dispara al máximo desde la regularización de Zapatero: hacen falta 37 afiliados para sacar a una persona del desempleo",
+      "summary": "La distancia entre el aumento de afiliados y la reducción del paro alcanza su máximo desde la regularización de Zapatero: el artículo cifra en 37 los nuevos afiliados por cada persona que sale del desempleo.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T22:41+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/04/6aeb2a3d21efa0fc068b4582.html"
+    },
+    {
+      "section": "España",
+      "title": "El Supremo da 15 días a Ábalos, Koldo y Aldama para pagar 647.000 euros por la condena del 'caso Mascarillas' - El Mundo",
+      "summary": "El Tribunal Supremo ha dado 15 días a Ábalos, Koldo y Aldama para pagar 647.000 euros por la condena del caso Mascarillas.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T16:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsZi1rT21vUm9sNEJDUUpQTXlwajNCRjdBVDYxTDAxZ3R4OUxhTXRLUXQtWnR1aFNjbmI0ZHlucUpYZVdaMkluMjJkYVVqNnlubHRVY25tcXBOcERWdGxLTE5wZThpTUw2MlMtQktHWDJ6S09mdlN4Z2N30gF6QVVfeXFMTS1CNFlJODd4a0ZLbEt1NEV2WWdUVk15T09WNGRfSUs2Z2ppcW5YRjd2ZGJtb1d5ZXEtSjRwVW1HRGZvNDZSRFhvMFA2Z3BLVV9MY01vMHI3WWxhVVYzbmRQVlFvaFl2YncxY1V0TE96WmZtS0FXUGJ5b0E?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Tres personas muertas en una fosa de purines de una granja de Pitillas (Navarra) - El Mundo",
+      "summary": "Tres personas han muerto en una fosa de purines de una granja de Pitillas, en Navarra.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T16:26+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tNllkbTJ2eDNyNGJ1SXFvaFhINXBINnJadXFJRDlGMjg3YVlJNTZHcEFZTmpaZDAwb0pqcEZzd19TS0NNRjBwdndreHNKYlFzWnJsVlo3a1FlY0dfZlJDcEZPaFNrU293SGx4NmxxSzUxOEc2Y2lFWjBn0gF6QVVfeXFMUG5aQ3VaazdCamsza25mUFg0NVhCMmRWU2tyYmdDLTI3NXZlWEVsam16NVJkNkwzZnJReXhMdHVEYW1icDczU25taHBwMmJGc1ZZY2NFamswcGNCZWJNNktzeWlkUE9CRDk3clotcXplZGhTVkVIc3dVa0E?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Detenida una mujer por vender a cuatro hijos en Badajoz para obtener dinero para drogarse - El Mundo",
+      "summary": "Una mujer ha sido detenida en Badajoz, acusada de vender a cuatro de sus hijos para obtener dinero con el que comprar drogas.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T17:51+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2ZwVzM1M0lBbUwxWGNsWVhJNk1aM2RiTDJPdndtOVI3bkZkaUN0Y1NOdjBLcVhhYVYzYWt6bmZZYTRoME5qdWs4cnZUblhwd0VIOUkwUEJKekJfb0dCMDE2S1A5YndKSi0tMkNwNS1NdmJnR0pyM09kYTRBU2FlYjE3cVlqVGZMM0HSAYoBQVVfeXFMTS1nbkVtai1rTllDWnJzQVBQZnZFMGpIanR1MjAxMlFJaG9fTVQ1VFhTSGhFTTZmdDhMaVkxQnN4dFBMeU9WdjV0OGFCMWpQTlFIaWk1c2hiOUdvQUFRTDMyOVhxX3p0dGh6ZGtMX181bERxLTlITzJNR2k5QTR2NTBXTXZQMUZQWEtn?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "El PSOE transforma la dimisión de Puente en una oportunidad de recuperar el pulso electoral: \"Ahora podemos salir a la calle con dignidad, estábamos muy jodidos\"",
+      "summary": "La dimisión de Puente ha provocado alivio en sectores del PSOE y del Gobierno, que la ven como una oportunidad para recuperar impulso electoral.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T22:41+01:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb8641e4d4d8fb618b458f.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Zelenski llega a España por sorpresa en el marco de la XXX Cumbre Iberoamericana - DW.com",
+      "summary": "Zelenski ha llegado a España por sorpresa durante la Cumbre Iberoamericana. Está previsto que mantenga encuentros de alto nivel.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-05T02:39+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2ZuNE1sNFlxRUM4MURocGVjYXhnV3RYV1BZRXh5T2FydnVITDQ1WWZIWkw3OHVrYjFDT0REYzBhWXJOQTIzLXRKaUt4MDZrRl9VMG1TM1pTdjRSMGtfanYyYnQxNENFcUFQMy1aNnNmc2xBaG14UTdHS2NHa2RfSWRBc251SGJoVEdWaFlFbDVBaE14Q2RCNW9IZmM4VGNSbGR0OUVQYWVVQ2FWVFRyM3FMdVd5dWRBX3fSAboBQVVfeXFMT2diZllLeFJWN3cxYWJ1T2pxRnFOWmxXVEUyWWJqclE2Y3B0QjQ3MVdaSVVndzhmYl9XNWo3VHI1WjZTZ1NpeXVZYndXUkxfNVFjY0dZMHMzay1oN3hDYkhmS0Roa2s2amhwVTVGeC05dThwaWJaZjFBVWp3d3M4RDI1a3hxZG9MdkxvZVBXTzNKTjk2Q2hzWmNkTXJuR0dlWmgyUFpHbGJDVWdRdFktR0YtSnk0T196UEtn?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Corea del Sur apoyará a mantener abierto Ormuz con misión militar - DW.com",
+      "summary": "Corea del Sur prevé acercar una misión naval al estrecho de Ormuz para contribuir a mantenerlo abierto.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-05T04:13+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcW4xTmlVNUFFenIzWkx5bEhDaF9Rc0lRcXAxZDlfQWFRRzJ5WjZyVS1EeVFJZ25BV1V6QVlncVF6NEM0S3FPX0JmQUNHQVJwRmpTOFlXY19sM1FKWkV3Zl9ucU5SWkVIV0p4dGRlVS1sWEpJaEp0WVNwcnpEdzNvUldqajJWVDJvZnVoTHhuajVZaGNFNkdRZTQ0aTE4ei1NMWtXcTNDSHhEU3J60gGsAUFVX3lxTE5xbXFEUlgwWDFqZkFldnZfVFdpV3lUZ1RveVBxc0ZjZkpWejNSREE4NjgxSzFfOWx1bE1MSXV4ZkpjaGFGVzk0VV9VTFdOOTRQRG9XNGcwRU95aEppSjQzRzhmOTZTc3Y1SF92RlVMZzhDaXFoc0ozcllpamhocGpRbnBJMVRLaEpHblJvemNGaWlWV21na1ZoS1Z3YzJzVHdVNFdiY3BJUkdzb2M?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Grupo de diputados solicita juicio político al presidente de Paraguay - DW.com",
+      "summary": "Un grupo de diputados ha solicitado un juicio político contra el presidente de Paraguay.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-05T03:29+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlpxLVgtbV9NU2xRMHVITkRTYS1QTS03RnBvdUwzSG5kTl9EVFFfOTZHMEdlRjRNMWcyUDdSWng1TVhxYTJlR0hMWkNZUmhkTVZTZXVTaWhxZ1dZRlBxT1hELWlRZHpqMGFiYWVJR1U4cnppcE0zS3pGOEtiU1hrYWJ1R2d5QjB4TkY1c0I1Q0lLWWlyOE9IYVRSRW9CWExiNGhacEIzSG1FdDTSAasBQVVfeXFMTXhVYlFLZXpWT1R2UmJ1Tm54NllDYTRLdVFMYktSWlJ6U3NTUTdvWXVMTTFkVUlMdFhic0tOSTg2M0NOMGxvRXNVMlpMY2hwWGxRRE9nX2xKcUNxR3ZTMkFQdU9rXzFfckFiZmFHcG92aHdGcW9UTl9zYlNRSmNwdmYwNTRWZV9OcFVfdmEtSUZoNFFwYjdReldXbmdfZXUwTDRWaVk1N3dwR2NF?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Rabat refrenda su compromiso con la paz en el Sáhara tras la salida de la ONU - La Voz de Galicia",
+      "summary": "Marruecos reafirma su compromiso con la paz en el Sáhara tras la salida de la misión de la ONU, que deja abierto el futuro del conflicto.",
+      "source": "La Voz de Galicia",
+      "publishedAt": "2026-11-04T21:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2NGc3FWdEdjbHZIdFNVbGY4UGYxeEJuOHI4WW5DVnJxTmcwVWxUZnFqWW9pcjFZWWtJUWVjVTZhUDJ3aFFkWDFrbVBtN3ZTempRRTYwS3h5bE5EdXhLTjZWVm9MNmVkM3hZTEZqYW03VEJ5aFlqSmZLa2Q5OFE1ajF4Sm44el83ek1vWm5xTjVaQmRIa2lwWjA5VV94dXcxMFlpNl9mVnBLQXJzMTJrZWlibkZPNDRpZnR6MTFHRUtOcVQ5bWRqTHhKQWxIenFqS2l2ZkVMR1VNSFU?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El presidente de Israel pide \"valentía\" a los partidos para formar Gobierno - ABC",
+      "summary": "El presidente de Israel ha instado a los partidos a formar Gobierno tras las elecciones.",
+      "source": "ABC",
+      "publishedAt": "2026-11-04T17:07+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVk4OTdmcFRzN1plTHI3amxySHZ5MDBDcnNUbGljQUJfdjBpUUNWTzJweW5OMWNKVWNlRGFTU0xOVGh0am5tYVg0Tjd5YmM0Wjhud211ZVl5VTZ1MXVTYTdMX0RMTU5lQjJVRzdBLU5uY3RUeEY2M1J3TUlBbURXNlpMQU5TTjNGSnRGR2ZlNkE3bjdKWFJnQ3otXzFxQnl5ZWY5MWNnSFLSAa4BQVVfeXFMTzlWOUxENUlULWI5bFU0Q3ZJNXNXS1FPUGdmQkxFTFQ0bnRrMmxXVmV2WGtoanA4aUplRjJvTEJ5eE8zdFZZMC1WbGZ4VGVxUmtDTklLdHFKQUNvOTFXZi1jVFYwTWlldFp0YTRkY09aSlZNVzRMYUpLX2ttTDZUXzBabTFjUGYxcVloZDBXYnFpVWxCQnlhRnFoWGFzQkJBNWlhcG1KN2xWNnVrbU13?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El poder quebrado de Trump: el tsunami azul pone fin al mito de su invulnerabilidad",
+      "summary": "Los resultados de las elecciones de medio mandato en Estados Unidos han dejado a Trump sin mayorías, según el artículo, que vincula el revés al coste de la vida y a las acusaciones de corrupción.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-04T22:41+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/11/04/6aeb8f31fdddff8b458b4593.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Pedro Sánchez inaugura en Madrid la 30 Cumbre Iberoamericana y pide \"que América Latina y el Caribe estrechen sus lazos con Europa\" - elDiario.es",
+      "summary": "Pedro Sánchez ha inaugurado en Madrid la Cumbre Iberoamericana con un llamamiento a reforzar los vínculos entre América Latina, el Caribe y Europa.",
+      "source": "elDiario.es",
+      "publishedAt": "2026-11-04T19:57+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk1vMzdMNVpDZ05IZXMzd1VFZkFkY1FQWk1YNVZORDR1VGRxMW8zTmpBUnF2LW01SG4yU2NCdXNCZE51bnAyLV8tQkozT2FXUDBTWER1Qk05cHhlTndweGRFcFJ2emgtd1VPdTNqYUhnMkJ0WGljLTJ6ZjN3MzZHMXo3OEhva3dHdE1PbHMxX2dOcTFSN1N2UWZSQUFON3U0WFpTdWhtY19ZcTJkenVV0gG0AUFVX3lxTFB1NG80V0U1OEVOVlhtYUQzMktQS2lBeUhDQmxrdmNLOER4MWJTM1FVM2o1WmFFenRhZXBqdlY2UjVrNW40MzVCUFZsS19rZGR1bmFHUzVkZFJ3T1lwbnZfeGVzWU1nYnQxUW9RbkZBdTNnb29JMjdLZUM4eG5Cd2Z2bWRZRk1DeHA5c2c2WUVuU28wWGFZU2c3Z0xYY0pUQk5rUjN2azhHd1o1WUlMWFNMcDZqMA?oc=5"
     }
   ]
 }
