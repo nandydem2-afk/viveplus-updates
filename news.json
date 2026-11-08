@@ -1,168 +1,120 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T06:30+01:00",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
-      "section": "Cádiz",
-      "title": "El centro de San Fernando afronta la reordenación de las plazas tras la desaparición de la zona azul - Diario de Cádiz",
-      "summary": "El centro de San Fernando afronta una reorganización de las plazas de aparcamiento tras la desaparición de la zona azul.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-06T06:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc09saHlHNFp2UDQyTjV0S2V0VEhTcDFtUVBiVjRnN2hLckVqcHhzckwyc2tacXlrZEpYQXlqdEtIM3A5MkJYZzg4QmJLaF9ka2FKcC1MMlZSOUxKRTh3a19lQ1ZMRFZsbVdDV2NRNnZDdkk2STd1bFQ5T2NhRDBRRXlnMHo4REJ4a0MycWlqM1RSYW1PY05pNkxldDM0U1RlaFNKRHY3d3Rhb0JSNDRzM3hHa2hEdzDSAbwBQVVfeXFMTnVCYmRlNzlUN21HVG5fTjNFQ0FrNFo1c3BodlZuYk1rMlZBVGZuVWxoeXdOSjBPV3Z5WkJYaE5fVVAtM1JFUzNUTUNaZXg1Q3lwa3lOd2p0dEVYQi1mdDBiMXlOc3NHaFluNElmOVg2bTB6X1BCLWNUVl92dFhabHNGSXhDU3ZsejRsMy0tZ3NCajRMSDdiZ2NsTGprYXhlbXE3cmNqN1R0V1N1YWxMMFdsZ1FCdUV6NVI2R1A?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "La Diputación de Cádiz lamenta la \"incomunicación\" de la provincia - Diario de Cádiz",
-      "summary": "La Diputación de Cádiz denuncia la situación de incomunicación de la provincia.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-06T05:59+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWJRWE5xczRFUDUtN2FYUVJSR1BZTjZZTkFUN0kxdjc0bnNfdng4dHBIbmI5eEZVaFVUUmNtZ014UzY4Uk1xMlRmNHpFVjFXNndVUGoxWnhKNklQMW5Sckd1YWJZcUVHTnJLX0JHc2FlaEFsc2M0UTRBZm9hakNxS0NJeGlkSkpXSUxtNF84dGVBLUhjUDN2VmtULU1vdHNoSlZWLXdNWTlJbHVTaFg1ZUk5azgxU0tIMS1OWFRR0gHDAUFVX3lxTE5BZnN3SGs5bU95Ym9WLXBFZkRucVd3eEMtTXppUndWSS10WlVkNkd6Y0xOR1RhZjJKdmMwcFVJNFI1akVON3lsb0Z3M090VTNNOWVBMVdTMFBBTENXdTZyOEhvejJkakVwZy1iS1lNcjVpY1VuVGZZTlkyRzNlb0YxYTY0SWR1MFNkM3I4YXBoV2ladHJoWEV5WE5pY0FIQTBlb0hrU2k3b0xWR2hlY0E4TzI0eW5tZ2E2SFdGQlZURktWMA?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "El Ayuntamiento reducirá los días de apertura de la carpa para combatir el botellón en el Carnaval de Cádiz 2027 - Diario de Cádiz",
-      "summary": "El Ayuntamiento de Cádiz reducirá los días de apertura de la carpa del Carnaval de 2027 con el objetivo de combatir el botellón.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-05T20:02+01:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWV0Y1NqWWRQZ0RnN0ZxNWl6WTVNUjRMamc3U3luXzRoS2ZSUmpxYzVZTnJiTldIRmIyTWhtTUdwajhqSmVuX0pCVFZLb3VMdVJJZmtQVUZxb0xRMTBNN2xhM0xUX0JGYWJQMkhKVjRwMGVjUmtQNEFJQ0hPUk9MT0p2bVVhWmF0cm4wR0FPdmtWTW4tZ2N5WFIxbmo1MzN0Y3ZrV2hFWdIBrAFBVV95cUxQQWFuVFhuUE5KTGtxSmIyU1hPRGYwUjVLMHNDNXByb2xHaFZMWXMtQ2R0SFNJZ0VLY2xPNUZzcGJLZXFYWk9icU5KdWFvNG9lVHoyNHRBbkIyVXdBMXZ6SElMeGFyZWNQbU52U1N6NzRLSWxBZ05WQVhhNVo5bEY5VUdDWHByZEJ2enBKN0dITDEwa1kzMFEyd0xyT2lQdGhSLXprWEwyck1YdUZ1?oc=5"
+      "section": "España",
+      "title": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
+      "summary": "La caja negra del tren Iryo arrollado en Urda recoge que la maquinista intentó contactar con Atocha tres o cuatro veces sin recibir respuesta antes del choque. Los datos indican que el impacto del AVE desplazó el tren a 47 km/h en tres segundos.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-07T22:49+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html"
     },
     {
       "section": "España",
-      "title": "El PP promete \"movilizar\" 20.000 millones al año en infraestructuras con \"prioridad\" para el mantenimiento ferroviario",
-      "summary": "El programa electoral del PP propone movilizar 20.000 millones de euros anuales para infraestructuras, con prioridad para el mantenimiento ferroviario y un plan de atención urgente a los viajeros.",
+      "title": "El Cabildo de El Hierro declara la emergencia migratoria tras la llegada de cayucos con más de 8.000 personas en cinco semanas - El Mundo",
+      "summary": "El Cabildo de El Hierro ha declarado la emergencia migratoria tras la llegada en cayucos de más de 8.000 personas durante cinco semanas.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-06T01:22+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aecda3cfc6c836c1c8b459e.html"
+      "publishedAt": "2026-11-07T12:56+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNTNxZzBJVlpNZ0hFak11Y2M4cnNoSS1RcmFKMy1qUjJPVkxGQUozZzM5QlRkd1dKV0FsbTNMLTN0S2JSMWtNUFY0aFkybmU5UmtPZ2ZQaDZGYVpHdThld0k0VGQyRkM0VHNXZnAzSEhjQjFELUhnMWtR0gF6QVVfeXFMUG5SZmpDcnpCTFJnQURHNHRkZ1ZRbTA3R0RrYnRTLUtzVnNqRlJWUTk2TjE2d1pvRmo0NEljaGlsRExPR1RxakpVeUlLNURjUjdZQzhMRk9qeXhQNE1xd1Eyb3hOUXg4SGlHb2MxVDVUMlVTdkNJSl9HblE?oc=5"
     },
     {
       "section": "España",
-      "title": "Del pelotazo de las mascarillas a las mordidas por obras: 11 adjudicaciones bajo sospecha valoradas en 900 millones",
-      "summary": "Una investigación vinculada al caso Koldo examina 11 adjudicaciones valoradas en 900 millones de euros. La operación del jueves se desarrolló en una pieza separada abierta a partir de datos aportados al Supremo.",
+      "title": "Sánchez convoca de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de inmigrantes a la isla de El Hierro - El Mundo",
+      "summary": "Sánchez ha convocado de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de personas migrantes a El Hierro.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-06T01:21+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/06/6aecd9d1fc6c8362578b4572.html"
+      "publishedAt": "2026-11-07T19:02+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TNXo3VzM2ZFZ0WWI4dXBHY0lKVk5NS1dkdWo4b1ZhOWJVYXRlbkhaVzQ1NENrU052eTVwUGd3X2R4UVo0N0NpbTVCamdxTE5kTDI4RkRiNjd4Z3AzbGNfbWJqSldhNHgtWXY1N0lRelk2WmFkTWhqZ3dn0gF6QVVfeXFMUGpldldhRmxlQTFvQWw4dnViSWlWQXR2NVI5NXNQNG1ULUpvTkE2OFVIaUJya0VJbDRjWTZ6dmU1T2RkeGJxUlhTc05qS3RJcjd6OU5pQ3lPSkM5dDRfWmVBUEV4LUdNZ2thYWNSeVdtbmxjSGRlRFF1TVE?oc=5"
     },
     {
       "section": "España",
-      "title": "La AIReF advierte: los costes laborales subirán cada año un 3% hasta 2030 con \"crecimiento cero\" de la productividad",
-      "summary": "La AIReF prevé que los costes laborales suban un 3% anual hasta 2030 sin crecimiento de la productividad. También espera un aumento del 6,2% de la masa salarial de los empleados públicos en 2027.",
+      "title": "El Cabildo de Gran Canaria ordena suspender toda actividad pública o privada que reúna a personas este domingo por la borrasca Bruna",
+      "summary": "El Cabildo de Gran Canaria ha ordenado suspender este domingo las actividades públicas y privadas que reúnan a personas ante la borrasca Bruna.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-06T01:07+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/06/6aeca2b9e85ece98598b458c.html"
+      "publishedAt": "2026-11-07T21:54+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/07/6aeedb32e85ece55528b4595.html"
     },
     {
       "section": "España",
-      "title": "Los sindicatos rechazan firmar la subida del SMI en plena campaña electoral y valoran plantar a Díaz por primera vez en siete años",
-      "summary": "CCOO y UGT rechazan firmar la subida del salario mínimo planteada durante la campaña electoral. Reclaman un aumento del 7%, cambios en el tratamiento de los pluses y que quienes cobran el SMI no paguen IRPF.",
+      "title": "La paradoja de la sanidad española: máximo gasto sanitario y mínimos de satisfacción",
+      "summary": "La satisfacción con la sanidad pública española cae a mínimos pese al aumento del gasto. El artículo señala las listas de espera y las carencias en Atención Primaria entre los problemas del sistema.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-05T22:50+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/05/6aec5d4ce4d4d8e1138b458e.html"
-    },
-    {
-      "section": "España",
-      "title": "Sólo tres investigadores para 115 muertos en dos tragedias",
-      "summary": "La AITAT cuenta con tres investigadores para esclarecer dos tragedias que dejaron 115 muertos. Según la información disponible, carece de especialistas para abordar ambos casos.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-05T22:51+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/05/6aecf99ae4d4d854408b458b.html"
-    },
-    {
-      "section": "España",
-      "title": "Alerta por el temporal de lluvias en Canarias y la Península desde mañana hasta al menos el martes - El Mundo",
-      "summary": "Hay una alerta por un temporal de lluvias que afectará a Canarias y a la Península desde el 6 de noviembre hasta, al menos, el martes.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-05T19:35+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41S0RqTHp5bkxENTBQbjQzcUJnbXNxZzJORFRYR2JvUzJJQzEweEhDNHVqWjBYaDYxTXU5SXFqYXdGeUlCaW9ycDkyZTVtUF9UakRIemJiTEtKM1IxQXJCWnVha0I0NndjcTI5aDExZktkQUpCbEktVzV30gF6QVVfeXFMUHptUjBHT29SZzlIYXhqbkhWbEV5MlJXZjh1WnhqNF9YSFZvNndhNWU2ZFFzWmlxb2tBeDFiaS13TWNpLUFBVWdBOWlsd1BmRkFLdkx2cjIwdmlXd054RXBXNm10SkdiQUNPdXluVWQtck9QbF8yUmNJa2c?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "\"Estamos en el límite y cuando oímos hablar de los decretos del alquiler, temblamos\": los propietarios huyen del mercado y la oferta se desploma",
-      "summary": "Los anuncios de alquiler en portales inmobiliarios han caído un 19% en un mes. El Congreso tiene previsto votar la convalidación de los decretos sobre alquiler el 12 de noviembre.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-05T22:50+01:00",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/11/05/6aec79fbe4d4d804488b4579.html"
+      "publishedAt": "2026-11-08T01:32+01:00",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/07/6aef0a5ae9cf4a4e038b45ab.html"
     },
     {
       "section": "Mundo",
-      "title": "El gobernador Gavin Newsom conmuta la condena a 548 personas que estaban en el corredor de la muerte en California - BBC",
-      "summary": "El gobernador de California, Gavin Newsom, ha conmutado las condenas a muerte de 548 personas.",
-      "source": "BBC",
-      "publishedAt": "2026-11-06T00:11+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVm9QRmxWWk92WTd5blRsMGlpUVpwb0tocm55X2c4MWgxSlJ0SnRIb051Q2ZWMk1Sdld5RnhudVh2dTlGbmdFeXN1aTZsdjZ1RHByV3pqSUhXMnFR0gFiQVVfeXFMTl9oSjRicTVfWFVOay1ma1hBYWVoV3VIZUJ3LXhYa0ZXX0dXNmdjU3dvS0hveTZBcGJfcFJzTUlpWkJlZjdWM2RVYWNkOEliY1NwaHFsWl9JTmxGUm4xd19YLVE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "EL MUNDO llega a Komyshuavakha tras la masacre rusa con bombas de 3.000 kilos: \"Es un asesinato masivo\"",
-      "summary": "Un bombardeo ruso contra un colegio subterráneo que alojaba a desplazados en Komyshuavakha causó la muerte de alrededor de un centenar de ucranianos, según la información publicada.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-05T22:50+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/05/6aec9641e85ece75678b4584.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Misión de paz de la ONU en el Sáhara Occidental comenzará a repatriar personal - AP News",
-      "summary": "La misión de paz de la ONU en el Sáhara Occidental comenzará a repatriar a parte de su personal.",
-      "source": "AP News",
-      "publishedAt": "2026-11-05T16:29+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFMtX2kwT0o0cFg0Zl9NV2pmcm54Sk9yM18wc1E4MTFReEF1dG01eld2S2RBZTF6ckYtbXBrWmVsNXVaOWlUR2tJS0pZMFl6Y0V4RXZJLXM4VWR2ZU1Sd1RrYWg1eldvOS1ERXpvQy1VMF82NlEyZ3lzbEdOZFFxbHh3ZTBVS0k4?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay - BBC",
-      "summary": "Santiago Peña ha renunciado a la presidencia de Paraguay en medio de una crisis relacionada con Ueno Bank.",
-      "source": "BBC",
-      "publishedAt": "2026-11-05T19:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mam9hdWhVOGtUOWllUm1famRRM01peTMwdXJtV1pPRjNMalVBcDQxRlVoS29FYjdYUmRWbnFxM0c4UVBHcHMyYlA2d1NfYV9MQVVwOVd1d0diVHN50gFiQVVfeXFMTXRBa1RFa3BockwtUW1vY0Q1c3JjamlVTHN4NDNVZmVQX2xSY2tLeHI1X0FFLUFleTdZQ0diZUVKYmFndTc0UDNWa1Zvemhacmw1VTVpRnZRWWtmOHlGYkxNcFE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "El presidente de Israel termina las consultas con los partidos y pedirá el domingo a un candidato formar Gobierno - RTVE.es",
-      "summary": "El presidente de Israel ha concluido sus consultas con los partidos y prevé encargar el domingo a un candidato la formación de Gobierno.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-11-05T21:36+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTEJsRnRnYml2akw0blhXYVFrSU43eWUyOWVURk1FZklYX2pBVXRrMzBZVDNhNW00RER0ckZwNXV3bWJMMldDalk1VXBoYVEyTkNiSm9UNjNLMUZlYjhwN042R1BQUFg3VFJldkxXQ1V5TFpnUG4wVDByTE0wVkNKN3lMZjhwTjdYaEQ4TGFmdkF1ZmxBeWxDbHVZaDN1Q1dFbzVvZUE5bnBkR2NyUWppajB4b2VzUXYwQVcwbjVSbExXQlp5bmJhemZrdzgzb2F4LWt6aA?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Francia reporta al menos 448 arrestos y 53 policías heridos en protestas - DW.com",
-      "summary": "Las protestas en Francia han dejado al menos 448 detenidos y 53 policías heridos, según las cifras difundidas. La jornada incluyó una huelga general y manifestaciones.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-06T02:38+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1V3eURLM1ROSzZQTklLZDZwUkNzNms5TXhHT3RUSXNxMWNvTGthUWFyOVdNVEg4LTU3eTBZTC15dE45TVBMWFdwbG1PbzE3UGNQNEt6QmJhejJJU0xIcDVma2xQRXgyQzJKQlZINi1mY0gwdERvaWVSVlAwR0JSRUVJd3FBOHYyVDdQdUk0U1d6MFYxUWFsTms1VFJES3c0eEdISUNCaVM4R3hITUx30gGvAUFVX3lxTE5ycXE3OHlDanJpZmxMVjNuUnluX1h6d2hVRFlKUXBoTHFjTkdMX3hFY3BraUtnS05EcnhWSHcwb1U5SHhhT1VXV0FUNDJ4UFg0dWlDRVlSUG1XUEt2R213dmVfM3hqM1pxUFQ1MmlyWmJ3Mk01Nk1lZWNSd3R3bWp0TjBnRVdnTE9tLWpDY2ZKREJxTlNLMV9ZVTZ3Rm1pRWJiYjBWSFVOZFctVTd0S1k?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Trump se reúne con el enviado de Putin mientras EE. UU. anuncia nuevas conversaciones de paz para Ucrania - France 24",
-      "summary": "Trump se ha reunido con un enviado de Putin mientras Estados Unidos anuncia nuevas conversaciones de paz para Ucrania.",
+      "title": "¿Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel? - France 24",
+      "summary": "El presidente de Israel ha encargado al líder opositor Gadi Eisenkot, general retirado, la formación de un gobierno.",
       "source": "France 24",
-      "publishedAt": "2026-11-06T02:02+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS0MtdVlBazhrdXhjMWdJc2IzNUdjVDRGUTlsUlRrNGNacnRVNVM5OF9Ra1RSMGxVYnczTjFDY0JNYi1PSzRfYV92NjROM0lLWHJob3k2SUlTVDZiandxZ01SUTJFVF9hb2gtRWVxYWk2MWJBU3E5ZUNBcjk2Tk1VMTRZTmxJUXdEWWlqS3ZTejR2UTZDN0N2VGFETUkwazB0YTZuMEFqT254Sm5jWVB1ZEotRGhBV3dKMGQzRTNwbEhtaEpObk5hTk9nREJvd0lRNHdmOHRYTGRkZTRPUGdENGNFUzdxcUVhbndCMHl0cEdLZm1wZkZfZg?oc=5"
+      "publishedAt": "2026-11-08T02:22+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUJLcGhRX0FhWEJRbnJvU3VoS05OQXRHbUxodlhKRGN0UkNSaVVxdFJwUzRCdjllR3J3UWZxRlI2SVR2UzlFWjM0UzhybFBWc0RvY0pfOXRsa2dXZXAzZnpJeVdrazlpUTVYZEVacnFQVHpDM0VjcnRUdkdxNXFYYVVBQ3R5LXpKM2lnZmsyMlg4aFc4N29ISjBnOVg4c0JUenh0LU5KOEZzUEhYQ1VHcUdDNktJUWhHNllsOUdteGhTbHgzeEF0OEhMQVBJZGFpV2Q4?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Seis muertos y nueve heridos tras un aparatoso incendio en Nueva York - El Confidencial",
-      "summary": "Un incendio en Brooklyn, Nueva York, ha causado seis muertos y nueve heridos.",
-      "source": "El Confidencial",
-      "publishedAt": "2026-11-06T01:20+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGFlbThVSjhaSjgybkNrRjFjaVBhUk5UMVlKeTVpVzdRRUhPLXVhVXlMVk5jaHd2MmpzQmNtbDNfTk4zcW9tUzZVeUF2UkxNcXZyTzlKSkpjSWpObElZWmJXVkR3V0NkUnZlOW0yVU85NTJVSTltQTVoZXRNTjY0QUJmLW5WODBuT0dfTGtQckd6UVNpWW5V?oc=5"
+      "title": "Un juez de Paraguay ordena prisión preventiva para el expresidente Peña por el caso Ueno Bank - BBC",
+      "summary": "Un juez de Paraguay ha ordenado prisión preventiva para el expresidente Santiago Peña por el caso Ueno Bank.",
+      "source": "BBC",
+      "publishedAt": "2026-11-08T02:56+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "¿Vandalismo o 'guerra híbrida'? El extraño caso de las 35 amenazas de bomba falsas contra aviones europeos en tres días - El Mundo",
-      "summary": "Una oleada de 35 amenazas de bomba falsas contra aviones europeos en tres días ha alterado el transporte aéreo.",
+      "title": "Tres militares muertos y 16 heridos por ataque con drones en Colombia - DW.com",
+      "summary": "Un ataque con drones contra una unidad militar en Colombia ha causado la muerte de tres militares y ha dejado 16 heridos, según DW.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-08T04:36+01:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQm9PN0hPWEdrSnM2c1d0MXhpY09RWERPMmtCbXZvWEhnWFkzTDU3aXpNRkFRbFJfSmtWY2gxblRscl9SZ0loRnFUTS1wTC1fU0xpQkxmNE5mNjNUa180NjRIeTBHTDVCVklCUFFtX3pFdG11Tm40M19jcXRFNEtHdXhsem5PUjVSbWZza1BtM0hNT1VyWVJURFNrM3d5Z0dfV0NzSdIBpAFBVV95cUxNeEVoSndyYjV0SnBzb2dZVXVubDhFc2ZhT1JsQmdvLUNFZ0hBMkZYNmxOMS1pWkQ3T0hQS1I5bllQaGs1aVFzZVZScERrOGVwVXQ5cFphVlVuYTRDbnp5bVBTZHRwa3JhaVlMMEI2RFdETmNzM3dycDNVM2F3MmRudmNuWjc5RHVJT18takp3SHBHZVk2dHo4LTdCVXRmMTBYVng2Vg?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un terremoto de magnitud 5,7 sacude el centro de Japón y deja al menos una veintena de heridos",
+      "summary": "Un terremoto de magnitud 5,7 ha sacudido el centro de Japón y ha dejado al menos una veintena de heridos. El temblor alcanzó el nivel 5 de la escala sísmica japonesa en zonas de cuatro prefecturas.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-06T00:07+01:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTV3SE5meUM3cldrVFhHWmcyR1FXeHZPZ083VGtESlhoeHNhSTYyUTVfaTB3ZlVhOEVzWUU2RG1hclpIVU5rUGpqS0hCbGJnQlJuTlN5b25vdFMwUjM4Q3diWlEzOHdvMmctYTB2ZWIxd1N1SklDbV92ejNmeC1qWE9Qb9IBgwFBVV95cUxNbEhZX1Q5Z0E3VGRDYkRUQ1YtX2pUM0dodWc0d2JHNWtLV01PQUpXZlNSUDQxVVhZODItQ1RCR3JJa0lLOXZhQTNKWV9nNXJjZG1BZlRGRzhmRlRZZkQwMUZJTTVmQklCMldvT0VPMjU2cnhHMWplN1FTUmRKaW43bjRhbw?oc=5"
+      "publishedAt": "2026-11-08T03:07+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/11/08/6aefd976fc6c8311118b4571.html"
     },
     {
       "section": "Mundo",
-      "title": "Los jinetes nómadas de la estepa siberiana ya consumían cannabis para sus ceremonias hace 2.800 años - elDiario.es",
-      "summary": "El hallazgo de restos de cannabis en cabellos de una tumba siberiana apunta a su consumo en ceremonias hace 2.800 años.",
-      "source": "elDiario.es",
-      "publishedAt": "2026-11-05T20:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNi1hYnlJYnZIS1hFci1MbGdacVQwd3BKTzZGeXJUV0t6c3JwR1FCLTVSTHV5REtacGo2T1FWaVF1VjZ1aW9OS3pfclgzTm1GSVItWmlhOFI2QlRRc2QwQUNraVBOcjViVVJ2OGtDSDd0TjdJRkUxVmU0ZXptM2JIeEhqRzBHNTRUQVp5YUJ6dUNXVU1udC1IVXFpMFFweFlIWS03eVZ5dHluMFhSV3RRQXgxNGNrUEw2MWZLaTR2d9IBxAFBVV95cUxNSUNOWXhhaXlZY0I5MlY4MkVxUFFvR2l4Y0JYM0xjWDdTUmpDQjdJbWhqaUNjUVROUGtaR3pWSmlWNXRId1MxdlhfZURncmN6aTB3T0M2RHo1RlVXRGEwa09LVGFKazNkWlVOdGpJUVhscWdXcDNJMk9adDFWQVBMcDBsWk9ENzJJc1RpN0poMnhnQnp1VjIzdE56OERGaG9Dbkg4ZHliQXE0ejhpV3Q3MExEajlXSm1kNU1uR290UFRUNDZx?oc=5"
+      "title": "Suman 33 muertos en bombardeos sauditas en Yemen, según hutíes - DW.com",
+      "summary": "Los hutíes elevan a 33 los muertos por bombardeos saudíes en Yemen. La cifra procede de ese grupo y aparece atribuida en la información disponible.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-08T03:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnhUZTN1OExjQkRtZ2JtbzlNM0JfQXZRaTlySEE1VVM3NWhXWl9WTkF4dmZGWXZKbGVEb2Rua0NUX1JQVk54Z0VaczNuZTk3SS0wR2x5czU3ZlVGRk1SQWFCS053UTZvQVdlbDZtOHY3WmxKNHg0LTA0V3h4NG9FOVlJeTlBenpodTdfMlpNSXFnODFHNlFjQlZ2dm4taWtPZk5uanhPM3Q5blo40gGsAUFVX3lxTE1taE9BSmsxUGFGNmRHVDJXQTh0Z2V0TmN2Y2ZHUTl4N0c3Rkl3QlJlbGZSYkR3bmwzdjVBN1FRM0FKbVJ3ZVpaYmxYUDZTWGJkVXlROWhrSlRhSF9OSWlMVGJjZkUxSEwwRUVKbmM3Y2NpdzFvc2tVNWtxNzA0cWR3M29DU2pFck5rZWk2azU4T3BWTFNBQms2X1lmT2p6WWFuR0Fnd2FET19jQmY?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Al menos seis muertos en un tiroteo en el centro de Cracovia - La Voz de Galicia",
+      "summary": "Un tiroteo en el centro de Cracovia ha dejado al menos seis muertos. La Policía investiga los motivos y las circunstancias del ataque.",
+      "source": "La Voz de Galicia",
+      "publishedAt": "2026-11-07T23:22+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVJMT3BXbmp5Sl9qLUFBZUxHcWhWZklCYVlLc3dmRFhLbmExZGhjaUlvR0h2bkotZnBDbzdsTEs1MEJYSm5oUW1nblVNM0hnN1JMVVcxcTZLZHk0SVBjU2pEZFdVS1JFY3ZISDhKOW1ENWdvWUhSdFhqc0RCY1gwa3E5WVgtaEhMaWJCR2ZieXJkM2JDZnhscW1kSmRKQS1razRVOEZOMGh0OVJsNVlUX1VJMng2T0Iwcjc0ZWpOQWZnT1F1Z1BR0gHjAUFVX3lxTE10UTRybjk2bUNua0JXOURlN0JLRFdZQmllak5URmZaVTBCa0FtdjkzZ0RldXExcG9CV1g3TElieDBiWTNISmMwejJaZ3NQWWdwSmRkVHpBc0gtVDhyWjFRUExEWW5pU1hPOUJSdnZRbXQycXVuVWFBUHg5ckFxQVNzN19ycnpCYUFkSm9xZG9YSmM5MjNOZDFfUDhQQlFiUjBqaUctWHVkTFNmYmZ5ZlVUc0RGZmNRcWl5VmdQd2lySms4RnVja0JRd25YdEF1T3FLMG45dkprX1ZNeXVfdVk2azk0?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Las inundaciones en la Franja de Gaza dejan unas 70.000 tiendas de desplazados palestinos anegadas - RTVE.es",
+      "summary": "Las inundaciones en Gaza han anegado unas 70.000 tiendas de personas palestinas desplazadas, según RTVE.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-07T22:05+01:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWwweUVMMndhMjROd0d3N1pCNHUtYVVzQmhDNnVJMGNwVzJfbFlGRGFOeHY1b1BnLVc4M0YyY2QtZl92cnZHbldvRkl0Zk03ZkxsQVloWUxDaFhrUmduUmNyVWdJLWEzMXZhdW52bkJRc2h6RkZBVFJXRHAyMXZTbVBucm9JV1lWZGsyV2JhYnp1LVZnbkNwRXFWOXFnMmpUZVlYMll2d1JzOGJXMVhCOC1UMVg2Zjd1STgzM2xhYlZURmNtU3VjNGxVYkZlUmM?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra - El Correo",
+      "summary": "Turquía acoge la cumbre del clima COP31 en un contexto de tensiones geopolíticas y sin grandes acuerdos a la vista.",
+      "source": "El Correo",
+      "publishedAt": "2026-11-08T00:08+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjdfbGstM0JtZFF1MzhTc1BzNTBiTUVHQTlRM25RdFZfbjZBNUhSZUFpZjdkbENJSDVWUXcycmpRS0xJdnBnNkR3WW0xaGN0TjNXYzZpaDU2Q3hHUGplaHFScUNnU1ljaTdrQXNmVzNFN0ZlWlh3RWh5SXZrZ1hjSzRiSTlVZVVMR01wVUdpRVNpcWd0TU01ZU5BQUNLclpaNk5rRFBUR1hkYkJB0gGyAUFVX3lxTE00cW1HTjAxRDFhcU1CdVl0QVZYbkowaGVBNWxNOWN2Z1RQbldxekhmWjhBNkdxaE1rS0IxYzI1d05wcmc1T2NjUllTRnE0OFI4d1F2VHBzcGlIQlVxb1o1Q1ZxcmYzTXRLaDduNnprdm11ZFBMRUVrWmtoNC1MNXB0Q0VkeXA1NHZUVHAzQ2JUV21nbnVqZjBUb2lXUnZvSV9DX1poUklUWDV0cXAyQmRpNVE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Protestas en Francia: se reduce la movilización, pero hay nuevo llamado a manifestaciones el martes - France 24",
+      "summary": "La movilización en las protestas de Francia se ha reducido, pero se ha convocado una nueva jornada de manifestaciones para el martes.",
+      "source": "France 24",
+      "publishedAt": "2026-11-07T22:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ3BxQnBYMWNzdWYxUVl0WW5VcDZ3TUNsYkNJd2lyWWt2ZXJRM0xnX3dack5hNGZUMUlDZXR5T2Ria3F5Y3JMdmlodkhEd203Zi1xMWtob2FsVklGc2JmWlZxTC11OHdGU1Y3RkNvSEFLX2RIZkxvYlE5eXpMd2gxanVpMERfZWtnZWVabTFYSnJVRWI5X2RxbWF2VlVVSVVTZ25GWE91Z3NHWUk3LU1TSUFRYmdzOWlXcFRaNW5xT2dDYmlZaHV4UGJhVk5FNjZYWjhZSktRZ3FxWllNaXU3aQ?oc=5"
     }
   ]
 }
