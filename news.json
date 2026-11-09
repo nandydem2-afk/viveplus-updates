@@ -1,120 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T06:30+01:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
-      "section": "España",
-      "title": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
-      "summary": "La caja negra del tren Iryo arrollado en Urda recoge que la maquinista intentó contactar con Atocha tres o cuatro veces sin recibir respuesta antes del choque. Los datos indican que el impacto del AVE desplazó el tren a 47 km/h en tres segundos.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-07T22:49+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html"
+      "section": "Cádiz",
+      "title": "El Ayuntamiento de San Fernando pide una reunión a Carreteras para tratar los problemas del acceso por Janer - Diario de Cádiz",
+      "summary": "El Ayuntamiento de San Fernando ha solicitado una reunión con Carreteras para abordar los problemas del acceso a la ciudad por Janer.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-09T06:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVd4SG0wYXlsbEgyQjBPdExBdmRzYTdsUXl6STRJaXNOdURNbUhRMXNRaXBoMXoxbnJsZE0xc3YzWURmTFZ5UHJjTXNUUWtRalB3S0ZubnNZeVRINnZCV3ZYcGxYZDdLSkFyYnZSWkw5eEZ6cnhudUJSM0xUSEU4M3pVV0tsN1gwdlpUWXREcmJpVm9EeUg0UDNqWEtPckFoV0RZQnhkWW9CYVh6em1XVDRjMmFtWGxyaFNLWlhR0gHDAUFVX3lxTE83emtGRFpra3ZldXg5c0VPYlhxZkRlRy1EZkw1WGVoRThpNDFDQ0JydVpkNk1HSVplTEdHNDRkSUhfOWYyS05FR3R1Rjl5bXlhZ3ZmTUl2eDlyWXpfemwtdUpBVHYzT0EyTC13WjlNSFQ4Ujd3SW1yeUVzTzVjU1V6WUZfOE9sXzQzWVU2aExFQnBlMmlXdlluVEJ4SjNBbWRfSTRraGF2LU9nY1A1Y1ZvWTJPZ3pIZGZLY0FTLU5qeXJEOA?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "El coro de Luis Rivero y la comparsa de Jona abrirán el COAC 2027 del Carnaval de Cádiz - Diario de Cádiz",
+      "summary": "El coro de Luis Rivero y la comparsa de Jona serán las primeras agrupaciones en actuar en el COAC 2027 del Carnaval de Cádiz.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-08T16:51+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMHBES0JxMlYzdG83U2owV2kxZUpRYTMtUXZBYjRaNEIwdlk0UU05cTBnMnZqVlRKVkVOLVZpSmFIVG1oOHVWYjJUNmphelJHckJsUjZpSERIWHo0SXA1TW1Da2t4VFUxMndXM2lHOFUzZGpLcHlTVEFhMk1SVnhyZmpfc3BWZER0LUV3NkNKY0ZqODJuTVZ1ZjlRMklfVmZ1elpqQUlnV3lPZFo4c3NKQ2pZd9IBuAFBVV95cUxQRktXLUVxUkdUR0xHT1l2U2FuejFuVk1ycDNwRENXQkRnUjVWSEJuUFBBcDNDeXF3MlFUM2JnVlBDUjMzcEVtOTJWVkdkai01aDAtY0JWOElZOWtGQjRZNkVTaWdPOGFSNFkwX0JWYTE4dnB6Nk4xRjZkaGZOeDVKZTZVaGZPYWJUdDdJeXpzeUh6WmV0V2dSYlF4SXZFeFhScFVWMVZrV2NQNFVncFNNMjJsNEJHdVNQ?oc=5"
     },
     {
       "section": "España",
-      "title": "El Cabildo de El Hierro declara la emergencia migratoria tras la llegada de cayucos con más de 8.000 personas en cinco semanas - El Mundo",
-      "summary": "El Cabildo de El Hierro ha declarado la emergencia migratoria tras la llegada en cayucos de más de 8.000 personas durante cinco semanas.",
+      "title": "El jefe antinarco de Segovia que se 'vendió' a una red",
+      "summary": "Asuntos Internos de la Guardia Civil atribuye al jefe antinarco detenido en Segovia influencia en una red criminal.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-07T12:56+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNTNxZzBJVlpNZ0hFak11Y2M4cnNoSS1RcmFKMy1qUjJPVkxGQUozZzM5QlRkd1dKV0FsbTNMLTN0S2JSMWtNUFY0aFkybmU5UmtPZ2ZQaDZGYVpHdThld0k0VGQyRkM0VHNXZnAzSEhjQjFELUhnMWtR0gF6QVVfeXFMUG5SZmpDcnpCTFJnQURHNHRkZ1ZRbTA3R0RrYnRTLUtzVnNqRlJWUTk2TjE2d1pvRmo0NEljaGlsRExPR1RxakpVeUlLNURjUjdZQzhMRk9qeXhQNE1xd1Eyb3hOUXg4SGlHb2MxVDVUMlVTdkNJSl9HblE?oc=5"
+      "publishedAt": "2026-11-09T02:19+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html"
     },
     {
       "section": "España",
-      "title": "Sánchez convoca de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de inmigrantes a la isla de El Hierro - El Mundo",
-      "summary": "Sánchez ha convocado de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de personas migrantes a El Hierro.",
+      "title": "El Tribunal de Cuentas inicia la instrucción para recuperar el dinero de concursos amañados de Adif",
+      "summary": "El Tribunal de Cuentas ha abierto una instrucción para recuperar dinero de contratos presuntamente amañados en Adif.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-07T19:02+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TNXo3VzM2ZFZ0WWI4dXBHY0lKVk5NS1dkdWo4b1ZhOWJVYXRlbkhaVzQ1NENrU052eTVwUGd3X2R4UVo0N0NpbTVCamdxTE5kTDI4RkRiNjd4Z3AzbGNfbWJqSldhNHgtWXY1N0lRelk2WmFkTWhqZ3dn0gF6QVVfeXFMUGpldldhRmxlQTFvQWw4dnViSWlWQXR2NVI5NXNQNG1ULUpvTkE2OFVIaUJya0VJbDRjWTZ6dmU1T2RkeGJxUlhTc05qS3RJcjd6OU5pQ3lPSkM5dDRfWmVBUEV4LUdNZ2thYWNSeVdtbmxjSGRlRFF1TVE?oc=5"
+      "publishedAt": "2026-11-09T01:05+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af0a574fc6c83f83b8b457c.html"
     },
     {
       "section": "España",
-      "title": "El Cabildo de Gran Canaria ordena suspender toda actividad pública o privada que reúna a personas este domingo por la borrasca Bruna",
-      "summary": "El Cabildo de Gran Canaria ha ordenado suspender este domingo las actividades públicas y privadas que reúnan a personas ante la borrasca Bruna.",
+      "title": "La factura millonaria del último año de Puente: 100 millones menos en billetes, pérdidas históricas en Adif y un plan de seguridad sin presupuesto",
+      "summary": "La crisis ferroviaria ha reducido en 3,4 millones los viajeros de alta velocidad en seis meses y un 20 % los ingresos de Adif, según los datos citados. La financiación de ocho medidas del plan de seguridad sigue sin conocerse.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-07T21:54+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/07/6aeedb32e85ece55528b4595.html"
+      "publishedAt": "2026-11-08T22:43+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/08/6aeda249fdddffd7708b4585.html"
     },
     {
       "section": "España",
-      "title": "La paradoja de la sanidad española: máximo gasto sanitario y mínimos de satisfacción",
-      "summary": "La satisfacción con la sanidad pública española cae a mínimos pese al aumento del gasto. El artículo señala las listas de espera y las carencias en Atención Primaria entre los problemas del sistema.",
+      "title": "El Gobierno bate récords este año de manipulación presupuestaria al modificar ya 40.000 millones en las cuentas prorrogadas",
+      "summary": "El Gobierno ha modificado ya 40.000 millones de euros en las cuentas prorrogadas. La AIReF advierte de falta de transparencia en esas modificaciones.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-08T01:32+01:00",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/07/6aef0a5ae9cf4a4e038b45ab.html"
+      "publishedAt": "2026-11-09T00:50+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/09/6af0a741e9cf4a21328b456d.html"
+    },
+    {
+      "section": "España",
+      "title": "Más de 600 personas en cuatro cayucos desembarcan en El Hierro este domingo, en un fin de semana en el que han llegado a las costas canarias más de 1.300 - El Mundo",
+      "summary": "Más de 600 personas llegaron en cuatro cayucos a El Hierro el domingo. Durante el fin de semana, las llegadas a las costas canarias superaron las 1.300.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-08T19:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hM09MMW01bE5STlZqdllRSDR1dllkTi1lNktnbWxmZ2ZyS3A3dnQxMnVxX09mVXpYVVVWWk1kdGxNUHV0TDlGZWZYa29kOWMzUDdpYTFfTzhMWnFGRzUtNl8wTFZhNjJNYWpfblVwMWVRaGZWZldQU3NB0gF6QVVfeXFMTS0zbmRxTzk5Z2FfVFhXS0htQWZ6bmY4eEZiX25tSGVzcVh3bTgwQkI1ZFlIYXlPcUR5czhtMVVRMWw4b21oZnFhSmFvM3Y3VWszRkdsWDFkeER4bS1Zd0lwUFN0amxEZnpRMWhVT3RRZ2p5WWh0V05aZlE?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Sánchez se compromete a blindar en la Constitución la subida de las pensiones conforme al IPC - El Mundo",
+      "summary": "Pedro Sánchez se ha comprometido a incluir en la Constitución la revalorización de las pensiones conforme al IPC.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-08T14:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU25mX2JEeG1GS01ZQV9yem1TQnRZN1VKYXBQYk1qOVNuSXBpVXp3UmhnNzFEbDBHWUpaZVlTSGhnN3c5QVBGMWN4eEkyVWVhRnc1U1h5eGFQdmc4V21HWWlabmwxcXVYaWc3bENkVTRKM1BmQU1tS1lZOFA1bDZwemF30gGCAUFVX3lxTE4ybjVuRDNXUzJlZ2ticF9qdWc1QXJicEtFdFFuempuVWJhRE1Pb3diaGpOdnNvUjRPMm45eUhER2dkTjNiZzFzVXRMajZ2MWFfN2FEVkltNFlHNVJHUEN6SEVtV1JNWWJrdm1GV3FTSEVrTE0teTYyWGV5ZERMLTk4OVE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "¿Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel? - France 24",
-      "summary": "El presidente de Israel ha encargado al líder opositor Gadi Eisenkot, general retirado, la formación de un gobierno.",
+      "title": "Las tormentas agravan la pesadilla de los desplazados en Gaza: más de 70.000 tiendas destrozadas y millón y medio de personas están afectadas - LaSexta",
+      "summary": "Las tormentas han destrozado más de 70.000 tiendas de desplazados en Gaza y afectan a cerca de un millón y medio de personas.",
+      "source": "LaSexta",
+      "publishedAt": "2026-11-08T21:17+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNFM5NnA2X0p1M0lEZ3d1bElXT3JJZ3ZhUU00T3g1cWozcUppZGIycWNudm9XdUtMVm9tRU9kTHJXdXNDazBQa1B3aDFXZUpUR0xIRG82ZDFNYUxMS3NtTkI2SHlXNnMwLXhIUHd0LUdDZDdYOG9MY3VCLVV4YnNZbVlGZlliU3F5NVVmbWpKelJScC1QajNnWG96X1F3cm02dHgtMHowQ01TbW84V0RTb1A1eFM2TlFsRkNkaE9qTTZKeENZYXFzRVpSZ0pDSmUtSXJFbDZwd0xkLXN1a19LVEhCcG1PVXFQRmx3YkdoeUNtTkhWNTJ5UVI5R1c3SGhzNThPZlVFOE8wemJqdHRlYjZHejd1UU9WbDR5c3NEZXMyN0nSAaMCQVVfeXFMUFRyUDhRZ3JnM0dGRnlNUkgxMk1hZjhDOERQX1gwaUFDVXBZN1FMRXpNYzBxOGFTc3hSbUtOdC1KSVFBQVNYa3VOQW42cU1WTmtoQjVmbDdzcEphZUc2VjVQdlRtR25oMndiSGJNc2c5VkRNWVF6LVRUX2RaUTl3N2ZaNXhYUVRTRmRHMl9oSWFyR0dOZTRXNXlQQTBjWFQ5eThHVmpTRThKaWFnMmVtUGxDcFNlbXlYTms0eTMxSm1fbVg1SjZWbEJZc1F5VjE2TGhUSEVjVHhmT3UzcThMU3JGTHdvV3FOa0JDYTVnRy0xNHZkbmdZampzS0pqbEhPSXhFeGRZWS16dmdTajI1SWhNdTdKTnVmQ1BXeXRBUWpYRV9Z?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La central nuclear de Zaporiyia, en manos de Rusia, activa sus generadores de emergencia tras perder el suministro eléctrico - El Economista",
+      "summary": "La central nuclear de Zaporiyia, bajo control ruso, ha activado sus generadores de emergencia tras perder el suministro eléctrico externo.",
+      "source": "El Economista",
+      "publishedAt": "2026-11-08T14:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTlk5YjRQUDZEZ2tSXzRFM0JCM2hIQjRZU0dKMnc4cDI4Y0ZhSnpTemZqNWhqRG9rWkRzZGpob0xTeDh3YVlUZFptVTlKSW5CTUJqb3BTSHl0d3NaZjNOdndqOG1mb1VaVGEzMTl6dkF2ZUhCVldpUUtpdXhxSVFPNVdoZGR5ZU1hY1cxTEJzZFdhd3J3RFlvWHgtN3RpUmJRQjFRN3Qxd2xUSFJoR1QxZGFiaVE0ajJUcW1mVklPVDhvVG5JX0JtS09sdkk0aXJaRG5naTFXQ3kwQ2Y1eS1SYnlKLWIxdG9mcXFaLW9LZFhjM0dEclJTSFdXZndZdTVrME9SekVWQW9ZMm9CdDlxX1hsam1rUdIBgAJBVV95cUxOMW5JUk5nVWFYcjV6SXd4S01BSWdVWXhKcmVmNTktaXBsa29VUVFfZl8wZ05zUlBzZUZiNjk2ZDViejZtUmlUNGJLZFp6Rjc0N0VJSldGWG9sSFVUaVRBaTR0cDRsV1FueE8zdlowU1drclBLeGJ5VklaaThCWVdPVW5OMm1BamF1VHQ0U3dIODR1TUhVbUlabjZFdGhMUzFIWWNodm9EVE0wVTd3LU1zT3VTRTJWRkF4UFhJWm14UV8yMDZKbGJzWHF1dnZvWXpNVGFsZmZVX1UtREtIQTB6dGowQ3NaeVZZMzNNal9yMVg5UnNQNU1KaWxsLS1Va3Fk?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Los hutíes atacan un edificio de Aramco en Riad y agravan la escalada bélica entre Arabia Saudita y Yemen - France 24",
+      "summary": "Un proyectil lanzado por los hutíes ha causado daños en un edificio de Saudi Aramco en Riad, en medio de la escalada entre Arabia Saudí y Yemen.",
       "source": "France 24",
-      "publishedAt": "2026-11-08T02:22+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUJLcGhRX0FhWEJRbnJvU3VoS05OQXRHbUxodlhKRGN0UkNSaVVxdFJwUzRCdjllR3J3UWZxRlI2SVR2UzlFWjM0UzhybFBWc0RvY0pfOXRsa2dXZXAzZnpJeVdrazlpUTVYZEVacnFQVHpDM0VjcnRUdkdxNXFYYVVBQ3R5LXpKM2lnZmsyMlg4aFc4N29ISjBnOVg4c0JUenh0LU5KOEZzUEhYQ1VHcUdDNktJUWhHNllsOUdteGhTbHgzeEF0OEhMQVBJZGFpV2Q4?oc=5"
+      "publishedAt": "2026-11-08T19:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVDQtYTZVbDZOUVlTX2tqYi1peFZBX3pKcXVOTXZKa3RiZUtVZ0MtN2NLLXA4a3R0QVhNMFRod2lodUJjMzBxdHdYX2pDRlpkekJIaGxva1ZydVpzTTJSbTJQaVg1cFRnVVVKRjVCWndtMklUakNtUEZWVy00R005MjVOb2dZRHhkQkxfcG9kVVZ5d3lDRVZJcG9obTZLZzVhbmRXbUI2czNONkg0TFBGcUlzUkJ6dFZ5aHlWQlo4ZFRVTU9tR0dmME15Z0NoUEJlcHFlWk5uN2xsV1BUeVVxZXA1em5PTU9HMEFROHJxX2xxTG1U?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Un juez de Paraguay ordena prisión preventiva para el expresidente Peña por el caso Ueno Bank - BBC",
-      "summary": "Un juez de Paraguay ha ordenado prisión preventiva para el expresidente Santiago Peña por el caso Ueno Bank.",
-      "source": "BBC",
-      "publishedAt": "2026-11-08T02:56+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5"
+      "title": "Al menos siete muertos y 112 heridos tras descarrilar un tren en Guiza, Egipto - ABC",
+      "summary": "Polonia ha calificado de ataque terrorista el tiroteo ocurrido en Cracovia.",
+      "source": "ABC",
+      "publishedAt": "2026-11-08T16:39+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFB4X1BfVzd0emdLRHd0d2hjUzFKd1RpRlQyWi1VRV8zOVJlSEt0UmxCRmpMYXRxN25lUml2SjQ2WEg2bkxhbHkyZEFvU2VaWDFhYzZ4c0dEQll1M2cxUUdOdW5VYUR4aV9sMmcxS0xqY0Qxa25oaWtWRXhiSzgxa2c3Ti1kTUpWZlhXMDJVbFN2Q3dXLXlEb3pydWEwdm1pVW5jMVU5OTRhZ9IBrwFBVV95cUxPcWxwNkxEdkd4cmMweTAzcmJVVUJmWU5EcHhkOW1STTRWMzdlc2VHWjlLdXhyTFg4ZkZKWVhJV09GUFRicE9nUUduVVA0QWRZVlVCRmEzWGFid1plQUF2YWk1MVVQVjFJbGpOMzJraE1VM09DV18xVnh5WDVKUk15WkdrcXY3MlhWb2RIUlgybzVZNXZPWU9xczBLRWxhWmNkZzRjVWlLRXVDbzNzbUZR?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Tres militares muertos y 16 heridos por ataque con drones en Colombia - DW.com",
-      "summary": "Un ataque con drones contra una unidad militar en Colombia ha causado la muerte de tres militares y ha dejado 16 heridos, según DW.",
+      "title": "La Justicia de Paraguay ordena prisión preventiva para el expresidente Santiago Peña por el caso Ueno Bank - Euronews.com",
+      "summary": "La Justicia paraguaya ha ordenado prisión preventiva para el expresidente Santiago Peña en el caso Ueno Bank.",
+      "source": "Euronews.com",
+      "publishedAt": "2026-11-08T11:50+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxQ3lKQVFheUZPVFNUUlVLNFlMTGFYRmlFal9XQkwtUWNTYmFHR3BidE5rWHdSaUMxWlRaVzJYMGVOSzJjOWkybnAza0FmeDZ3MkltVXdlYmRkM2R6S08zTjJDZW5ibVQ5ZlVXYnV6M1dCQk5Kc3Z4elU5dF90OF8wNWE4V0Zmb2Z6RHJ5NnMtRTRuVWc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Irán ejecuta a otros tres hombres en relación con las protestas antigubernamentales - DW.com",
+      "summary": "Irán ha ejecutado a otros tres hombres en relación con las protestas antigubernamentales.",
       "source": "DW.com",
-      "publishedAt": "2026-11-08T04:36+01:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQm9PN0hPWEdrSnM2c1d0MXhpY09RWERPMmtCbXZvWEhnWFkzTDU3aXpNRkFRbFJfSmtWY2gxblRscl9SZ0loRnFUTS1wTC1fU0xpQkxmNE5mNjNUa180NjRIeTBHTDVCVklCUFFtX3pFdG11Tm40M19jcXRFNEtHdXhsem5PUjVSbWZza1BtM0hNT1VyWVJURFNrM3d5Z0dfV0NzSdIBpAFBVV95cUxNeEVoSndyYjV0SnBzb2dZVXVubDhFc2ZhT1JsQmdvLUNFZ0hBMkZYNmxOMS1pWkQ3T0hQS1I5bllQaGs1aVFzZVZScERrOGVwVXQ5cFphVlVuYTRDbnp5bVBTZHRwa3JhaVlMMEI2RFdETmNzM3dycDNVM2F3MmRudmNuWjc5RHVJT18takp3SHBHZVk2dHo4LTdCVXRmMTBYVng2Vg?oc=5"
+      "publishedAt": "2026-11-08T12:09+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVJQdENnbnJISzRhbTRyU2tSM2FyY3pCb0kwdFIxX2hDYjd5S0FUb1lycUstdEdPMDN3dWVuazFHby1sTXRNSi1helYwUU5PMFBTMmVGSVlKSTUxcUd4SkhnX3NQdlhSaUNTbjVtS1UzNEZlaEtEUjBrVjlpZmYwTHdMaW9IRFhob20tYldXaDA4eVhPc084WExvYU1ydjJNZ1FqTUhWaUd0bDZUMGYyZ3Z4YlJ3NXVMMm9Qd0tFWHZGY1NZ0gHEAUFVX3lxTFA2Y294YjFIX00wVjZkWVJaTG5FLUkyVHVWZWwzQUI4dFZfZEhCUno1WGZnT0J5VGxzZFhqc3dheE5QbmFLaG5fZEdoVTVyYWJXcTM2VzdVenN1azNHdXVqMGFUWlVtODJpV2FMWE9COWI4NjZaVkRINUtuWE1nRVlHcnBSQnZMRjk2b0g5YTI0bTBCZVY0ZHR6aTRXYzJ0MjBUWTI1ZkF4T1hUNXFIZFBjX3pwSDFWM01Qd251WUNKRlFBb1o?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Un terremoto de magnitud 5,7 sacude el centro de Japón y deja al menos una veintena de heridos",
-      "summary": "Un terremoto de magnitud 5,7 ha sacudido el centro de Japón y ha dejado al menos una veintena de heridos. El temblor alcanzó el nivel 5 de la escala sísmica japonesa en zonas de cuatro prefecturas.",
+      "title": "El partido de Mandela, el Congreso Nacional Africano, enfrenta sus peores resultados electorales - DW.com",
+      "summary": "El Congreso Nacional Africano afronta sus peores resultados electorales en las elecciones municipales de Sudáfrica.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-09T02:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXJwVmtGbTduYXZXZDJIQXNaMF8xcE5fUVFicEM5M2trRkNOdEwyRVJ6OFE5Yy03RlZFS2U4ZklDNThNU1BiSHVXX2d3VmFwXzc5RkRzZW5qQkxQZkVRYWZ5Z3RxUU9wVWx4ZHh6bW1uT3BKUVJJMDZJdld5cldHbjUwRXJzUUVySloxYTVLZ3VyT0FJTTM0SEE0VkpFM0lRNEYzVDRxU2V4SW5YVnhVU01kYVNSLUJubmU0U0VpRFlNbWlLOENzd295Z1U1YVZkVkFtZVAwQmFteHo4Q2fSAd4BQVVfeXFMUFFNNmMwdV9lanNkYTc0LTA2V1RSaFYwZ1hyNkpoMXg1OElmZ19tdjZMS2VnZzBFWmVGU3RweVBOU2x3eXJaZXpDM1ZzZldrLXl2SEIwaGVTcmJOdlpuZU93all6RlRXd21zYi12QlZ5YVAtX1VZUGNBcnZ3Yk5MMjdWZTJqV1UzRUdrQ3NKNjBCSTlTaVQ5YlZQdEtpVjJjYTdzWTBuX1pjTmhQOV9KWXoxUjZhWGE4cjh1VTZQZTVhem42WUlNWHBScmhVNU1DS0FUNXVlUlhKbjNOa3BB?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Trump admite que su política de deportaciones fue \"demasiado dura\" - DW.com",
+      "summary": "Donald Trump ha reconocido que su política de deportaciones fue demasiado dura y perjudicó a los republicanos.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-09T02:41+01:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2NIZG5lalhwcWE1bU1SQTVtS2wzM3RNWG1PQWtsdS1JN281cEloZTZ0WE92dWk0WWFMaE1kaTdTYXZTOE42aE1hZkVtdjg2Z1YyWjZ2WWRHS0FyNTZBU1hTTnZndWRmNVRQSUR0Rjgtd0ZUamtkTTAxbEhWR2FmSDZSZGhqMVBPekt3eC1YQVJRc1VDdUdNWUYyOVdMSFpJdlhRRtIBpAFBVV95cUxQc1NsUC1GMG9YUkpIUkFEN3VEV05pMnBURy1FaWpwd0RlRzQ4b191V2d5ZFJMWHVaOTg4VS04dWk0MmkzT3hXNDZvS0J3SWdHQm5SNlh0azdDWURCaHgyUW5Md0VUb0dkLU5wWldCMXNWOFZ6el9kU205eUM0X3ZQZmZZYWFNOWN3bjZ4dE5uMy1DMWJzU1BQUndpQlhUS3JzSUdlbg?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Donald Trump considera “altamente improbable” que se reanude la guerra con Irán - DW.com",
+      "summary": "Donald Trump considera muy improbable que se reanude la guerra con Irán si avanzan las negociaciones.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-09T00:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0JCa3YzRTA5X2Q3NFdzWUhKYjFvNkdMZlFtcHpja2JpQzBaWmtzVU53SF9sWFotZkgxMkM0cWNoN2tMRjgzTWYyUzVlVFA3N2lnQXZZMkRmLTZ3ZmVpZ2R3dEtONy1rQlpxN0xvUnRXMDRqLTAyVHJiQ3QzQTFiWUhKVVNuYTNEM2hnY0Q3aWJnaGlJWWlJTzNQdnVCNkFIcjFGYTJ1SlNhc0hK0gGsAUFVX3lxTE1WZ2ZIaFFhclBwSmI0TWhXWXNPZndVVmZ5QnZVbFVuM0xKVnkxcThjTjFFNnVmblpza1o4cW9GWUlDaXRLQVFpcEdiaTdWSExXYmRQQUZnak9fQXl5Q3plNFNHLWxIc2lnSE5yRUotXzZpLXNyTEplWWx0bmtQWG5hN2I5M1Z3dTFxR25PdWJSSlVGam5BajR0eUVkb3g4aW9rdXktZGlJRThRamg?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La guerra de los petroestados y los electroestados en la cumbre del clima de Antalya",
+      "summary": "Cerca de 200 países participarán en la cumbre climática COP31 en Antalya, con el papel de los países productores de petróleo y de los que impulsan la electrificación como eje de debate.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-08T03:07+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/08/6aefd976fc6c8311118b4571.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Suman 33 muertos en bombardeos sauditas en Yemen, según hutíes - DW.com",
-      "summary": "Los hutíes elevan a 33 los muertos por bombardeos saudíes en Yemen. La cifra procede de ese grupo y aparece atribuida en la información disponible.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-08T03:46+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnhUZTN1OExjQkRtZ2JtbzlNM0JfQXZRaTlySEE1VVM3NWhXWl9WTkF4dmZGWXZKbGVEb2Rua0NUX1JQVk54Z0VaczNuZTk3SS0wR2x5czU3ZlVGRk1SQWFCS053UTZvQVdlbDZtOHY3WmxKNHg0LTA0V3h4NG9FOVlJeTlBenpodTdfMlpNSXFnODFHNlFjQlZ2dm4taWtPZk5uanhPM3Q5blo40gGsAUFVX3lxTE1taE9BSmsxUGFGNmRHVDJXQTh0Z2V0TmN2Y2ZHUTl4N0c3Rkl3QlJlbGZSYkR3bmwzdjVBN1FRM0FKbVJ3ZVpaYmxYUDZTWGJkVXlROWhrSlRhSF9OSWlMVGJjZkUxSEwwRUVKbmM3Y2NpdzFvc2tVNWtxNzA0cWR3M29DU2pFck5rZWk2azU4T3BWTFNBQms2X1lmT2p6WWFuR0Fnd2FET19jQmY?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Al menos seis muertos en un tiroteo en el centro de Cracovia - La Voz de Galicia",
-      "summary": "Un tiroteo en el centro de Cracovia ha dejado al menos seis muertos. La Policía investiga los motivos y las circunstancias del ataque.",
-      "source": "La Voz de Galicia",
-      "publishedAt": "2026-11-07T23:22+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVJMT3BXbmp5Sl9qLUFBZUxHcWhWZklCYVlLc3dmRFhLbmExZGhjaUlvR0h2bkotZnBDbzdsTEs1MEJYSm5oUW1nblVNM0hnN1JMVVcxcTZLZHk0SVBjU2pEZFdVS1JFY3ZISDhKOW1ENWdvWUhSdFhqc0RCY1gwa3E5WVgtaEhMaWJCR2ZieXJkM2JDZnhscW1kSmRKQS1razRVOEZOMGh0OVJsNVlUX1VJMng2T0Iwcjc0ZWpOQWZnT1F1Z1BR0gHjAUFVX3lxTE10UTRybjk2bUNua0JXOURlN0JLRFdZQmllak5URmZaVTBCa0FtdjkzZ0RldXExcG9CV1g3TElieDBiWTNISmMwejJaZ3NQWWdwSmRkVHpBc0gtVDhyWjFRUExEWW5pU1hPOUJSdnZRbXQycXVuVWFBUHg5ckFxQVNzN19ycnpCYUFkSm9xZG9YSmM5MjNOZDFfUDhQQlFiUjBqaUctWHVkTFNmYmZ5ZlVUc0RGZmNRcWl5VmdQd2lySms4RnVja0JRd25YdEF1T3FLMG45dkprX1ZNeXVfdVk2azk0?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Las inundaciones en la Franja de Gaza dejan unas 70.000 tiendas de desplazados palestinos anegadas - RTVE.es",
-      "summary": "Las inundaciones en Gaza han anegado unas 70.000 tiendas de personas palestinas desplazadas, según RTVE.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-11-07T22:05+01:00",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWwweUVMMndhMjROd0d3N1pCNHUtYVVzQmhDNnVJMGNwVzJfbFlGRGFOeHY1b1BnLVc4M0YyY2QtZl92cnZHbldvRkl0Zk03ZkxsQVloWUxDaFhrUmduUmNyVWdJLWEzMXZhdW52bkJRc2h6RkZBVFJXRHAyMXZTbVBucm9JV1lWZGsyV2JhYnp1LVZnbkNwRXFWOXFnMmpUZVlYMll2d1JzOGJXMVhCOC1UMVg2Zjd1STgzM2xhYlZURmNtU3VjNGxVYkZlUmM?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra - El Correo",
-      "summary": "Turquía acoge la cumbre del clima COP31 en un contexto de tensiones geopolíticas y sin grandes acuerdos a la vista.",
-      "source": "El Correo",
-      "publishedAt": "2026-11-08T00:08+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjdfbGstM0JtZFF1MzhTc1BzNTBiTUVHQTlRM25RdFZfbjZBNUhSZUFpZjdkbENJSDVWUXcycmpRS0xJdnBnNkR3WW0xaGN0TjNXYzZpaDU2Q3hHUGplaHFScUNnU1ljaTdrQXNmVzNFN0ZlWlh3RWh5SXZrZ1hjSzRiSTlVZVVMR01wVUdpRVNpcWd0TU01ZU5BQUNLclpaNk5rRFBUR1hkYkJB0gGyAUFVX3lxTE00cW1HTjAxRDFhcU1CdVl0QVZYbkowaGVBNWxNOWN2Z1RQbldxekhmWjhBNkdxaE1rS0IxYzI1d05wcmc1T2NjUllTRnE0OFI4d1F2VHBzcGlIQlVxb1o1Q1ZxcmYzTXRLaDduNnprdm11ZFBMRUVrWmtoNC1MNXB0Q0VkeXA1NHZUVHAzQ2JUV21nbnVqZjBUb2lXUnZvSV9DX1poUklUWDV0cXAyQmRpNVE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Protestas en Francia: se reduce la movilización, pero hay nuevo llamado a manifestaciones el martes - France 24",
-      "summary": "La movilización en las protestas de Francia se ha reducido, pero se ha convocado una nueva jornada de manifestaciones para el martes.",
-      "source": "France 24",
-      "publishedAt": "2026-11-07T22:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ3BxQnBYMWNzdWYxUVl0WW5VcDZ3TUNsYkNJd2lyWWt2ZXJRM0xnX3dack5hNGZUMUlDZXR5T2Ria3F5Y3JMdmlodkhEd203Zi1xMWtob2FsVklGc2JmWlZxTC11OHdGU1Y3RkNvSEFLX2RIZkxvYlE5eXpMd2gxanVpMERfZWtnZWVabTFYSnJVRWI5X2RxbWF2VlVVSVVTZ25GWE91Z3NHWUk3LU1TSUFRYmdzOWlXcFRaNW5xT2dDYmlZaHV4UGJhVk5FNjZYWjhZSktRZ3FxWllNaXU3aQ?oc=5"
+      "publishedAt": "2026-11-09T00:50+01:00",
+      "url": "https://www.elmundo.es/ciencia/2026/11/09/6af0703bfc6c83d8528b4577.html"
     }
   ]
 }
