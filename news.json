@@ -1,152 +1,168 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T06:30+01:00",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "El Ayuntamiento de San Fernando pide una reunión a Carreteras para tratar los problemas del acceso por Janer - Diario de Cádiz",
-      "summary": "El Ayuntamiento de San Fernando ha solicitado una reunión con Carreteras para abordar los problemas del acceso a la ciudad por Janer.",
+      "title": "Aviso especial de la AEMET en Cádiz por el impacto de las borrascas Bruna y Charles con lluvia, viento y temporal marítimo - Diario de Cádiz",
+      "summary": "La AEMET ha emitido un aviso especial para Cádiz por el impacto de las borrascas Bruna y Charles, con previsión de lluvia, viento y temporal marítimo.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-09T06:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVd4SG0wYXlsbEgyQjBPdExBdmRzYTdsUXl6STRJaXNOdURNbUhRMXNRaXBoMXoxbnJsZE0xc3YzWURmTFZ5UHJjTXNUUWtRalB3S0ZubnNZeVRINnZCV3ZYcGxYZDdLSkFyYnZSWkw5eEZ6cnhudUJSM0xUSEU4M3pVV0tsN1gwdlpUWXREcmJpVm9EeUg0UDNqWEtPckFoV0RZQnhkWW9CYVh6em1XVDRjMmFtWGxyaFNLWlhR0gHDAUFVX3lxTE83emtGRFpra3ZldXg5c0VPYlhxZkRlRy1EZkw1WGVoRThpNDFDQ0JydVpkNk1HSVplTEdHNDRkSUhfOWYyS05FR3R1Rjl5bXlhZ3ZmTUl2eDlyWXpfemwtdUpBVHYzT0EyTC13WjlNSFQ4Ujd3SW1yeUVzTzVjU1V6WUZfOE9sXzQzWVU2aExFQnBlMmlXdlluVEJ4SjNBbWRfSTRraGF2LU9nY1A1Y1ZvWTJPZ3pIZGZLY0FTLU5qeXJEOA?oc=5"
+      "publishedAt": "2026-11-09T20:37+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM214UXJscDF6cHp4VG02bzViYkw4a1phcGNXTTBmMFI0b2VobWZhSTRZQnNQODVzM3ZNOEhXQ09rZURMS2pSNlNrNUVHM2RkWFFBalZXU0tPbWpsZkVPNXIzVEdNTWZFREY0N0Zoanh5OENDYzJmVjVGUDBGcnJ3YU1RMk1HWnVzZ29qZDBHSFQtOHpLejdib2hacWNScml1N1N6UHN1UnNYTTBGTFdtd0FQVFI3MDNSZEt4S9IBwgFBVV95cUxQNVYwNURsWjFYQ2wyTnB5NE1KUFNBVzc2QWVia3ZweTVfQk1yMFZiZktKalc4Qjc5UFF2WXBHTHZCc0FRMXdyUTBBYzBPUTVCdWVjQmplZl91YTZKZTFHbUR5WDJJWTRUN0w5a2tJeVM1b1NJdTlJSjlaX04tV3g0MXF5WHVnZktrT0hTeExnWmFOWmp5blRfRmg1aWpUOVFGT3NqT3ZiSTE1SVhkSmVaOTBMOUs0cGk0eU4xSDBWeXN1QQ?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "El coro de Luis Rivero y la comparsa de Jona abrirán el COAC 2027 del Carnaval de Cádiz - Diario de Cádiz",
-      "summary": "El coro de Luis Rivero y la comparsa de Jona serán las primeras agrupaciones en actuar en el COAC 2027 del Carnaval de Cádiz.",
+      "title": "Derechos Humanos se suma a la acampada de las personas sin hogar en Cádiz - Diario de Cádiz",
+      "summary": "Una organización de derechos humanos se ha sumado a la acampada de personas sin hogar en Cádiz.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-08T16:51+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMHBES0JxMlYzdG83U2owV2kxZUpRYTMtUXZBYjRaNEIwdlk0UU05cTBnMnZqVlRKVkVOLVZpSmFIVG1oOHVWYjJUNmphelJHckJsUjZpSERIWHo0SXA1TW1Da2t4VFUxMndXM2lHOFUzZGpLcHlTVEFhMk1SVnhyZmpfc3BWZER0LUV3NkNKY0ZqODJuTVZ1ZjlRMklfVmZ1elpqQUlnV3lPZFo4c3NKQ2pZd9IBuAFBVV95cUxQRktXLUVxUkdUR0xHT1l2U2FuejFuVk1ycDNwRENXQkRnUjVWSEJuUFBBcDNDeXF3MlFUM2JnVlBDUjMzcEVtOTJWVkdkai01aDAtY0JWOElZOWtGQjRZNkVTaWdPOGFSNFkwX0JWYTE4dnB6Nk4xRjZkaGZOeDVKZTZVaGZPYWJUdDdJeXpzeUh6WmV0V2dSYlF4SXZFeFhScFVWMVZrV2NQNFVncFNNMjJsNEJHdVNQ?oc=5"
+      "publishedAt": "2026-11-09T19:06+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTRVbWNVOHkxTVQxVzF6NGtFTGpxWjVHY0NDWlNlTzBPQzZySVJ4LW1OOHdtcHZ3VUpzbW9va3pjUjNnUjIxb3ZIdlJnY0hwbENTXzJDSmxZM2xWa2gzc0hCSS1OS21xSlNqYS1aY0JTaU9wSEMzWmNmLXZwX3d1U2RJbm1QLWo5WWdjaUwzS0o3MGdNcGdjMkw1ejZaMkNLWVV3UzZ4b20zd3ps0gGyAUFVX3lxTFBmaE1yak5jdVBKQ1YtLXNLMjFCdDNmNDVnQ0Q5dFhFSTQ0VHhhYVIxcU5USEZUMTRwZl91eXRMTV81VTNkQjlDS3liUUgxQUd4LWthS1BnNFItMXlTSWpzb2syY1RsRGczRXVKSDBPTmdKVDh1eDhJbEJha2EwbDFiTGs5UWlWay04VHgyLUhOaHRiLW50THNDT0txWTVKMnJoeE10LUhFZ3A0UkthT01MWmc?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "AIG exige a Bruno García \"medidas urgentes\" para las personas sin hogar ante las lluvias en Cádiz - Diario de Cádiz",
+      "summary": "AIG ha pedido al alcalde Bruno García medidas urgentes para las personas sin hogar ante las lluvias previstas en Cádiz.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-09T18:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHJza1NhSnJTdWQ5NHhSb09EcDNuc25KQ0p5aUQ0RXZaM1dtckEyb0VTWkYtRHRLdG9hS3c1ZGFXcTFBTkpSNEZNZkxCbGo5LXRDX0FQRkJ1LVptdTJ3TE9ZX2t3bmR1WkN1NnRVWDZYLTNZTE9EWHFxdl9uNDVOUV94S2hfV1dKbVpHNnE2Y2JVTXRJbjE4VFBTenUzUXhEVF9Sd0NOd09aQdIBrwFBVV95cUxPSkp5YXd5VF85aGtfaFpwQlFyc2p6TFdiVUF2VWo3ajM0NDdfNHFvQWRuSEJJVDQ1Q3VfaUNZN3E0S2pZQlJidUlZakNmcU5PRW5pdXBNdmhiWWtYcHFqNXJxejRSeUhpOUFROFd0eWozcWhuTE9hX2hfdzRTMm1UMHcxRUw2LVVhYUZaQjVfZUNuSVlCeFRYaWt3YmpjTlo0UUNxTTdSdm44ZHd0OFpF?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "IU Cádiz sobre el nuevo hospital: “Poco se espera de un Bruno García sumiso frente a su partido” - Diario de Cádiz",
+      "summary": "IU Cádiz ha criticado la posición del alcalde Bruno García respecto al proyecto del nuevo hospital de la ciudad.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-09T19:21+01:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ01VOFBubFNxbHRfQndmUGdoYm9vdFdxcWc1XzBkanVGYk1qSVJDaWNQdjA2eWRRLU55RkVEV3k1WThkOUpyRHlqanI5aUgtREVMaWJWbnBnZ0dQNWNidVhCY2JYU2pBZnJXUEo5bE9pd3NyVXFsUlVkaF9nOGZZeElmT19OOXZDV0FVc0R5d3lkTzI1NVBuN1RPV0FBdWt4YWlDVUd2RWJyUU9sN1RlOdIBtgFBVV95cUxQLWpRN2lPR2RWMTQwaXpZTkFTc0dFN243N2NRNGpEMFlraHNramNjZVZlbkdJNElmMEt1TXdSQnNFTzBaLUZ4M3FVdlIyWGR6VENncWJGUFVza2RwUVdBbkNYXzFmNTQ0aWpYNzFna011MGhEZjlyakhGRDVfUGlQOHA4LVUzNHVzM2xqRk1jSjBYUm52TjJFWEhuTV9CRXlRbUVqVU5ZZDRQSmUtRmloZHg5bkNEUQ?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "Apoyo de UGT en el Puerta del Mar al personal de administración y oficios del SAS - Diario de Cádiz",
+      "summary": "UGT ha expresado en el hospital Puerta del Mar su apoyo al personal de administración y oficios del Servicio Andaluz de Salud.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-09T19:27+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1BNWVZ0MDcwdTV0VjRCaXdHbzQzVnJFc2EtOHkzTzlIWGJxQnZ5ZS0zamVubTVCb2VIVThxY0VVcTVCanhQMjVvUEFuOGdfTHNOeHBDbGFvS0JmRlRmM3c1cUc4eThjaFRnRWJYRlZfTnFqb2JCRUNJRm9CSVkyTVpWQ29BZTh3MWfSAY8BQVVfeXFMT2cyckhWTDAwbEkyQnpnLVE3bkRScEgyMVNxODhTZmNDZXFKQk1PRUtJOEQ3QXd0WjJNTjlhWEtpNGVtZWUtWUpheGg5NjZwRkhwY1Z0dGk4QTBsLXctekxweFNsczhMcGFZYURJQjJSV2pVbWlUNDZmaUhOX084a05IUjFhS2hyMEdVeXYzOXM?oc=5"
     },
     {
       "section": "España",
-      "title": "El jefe antinarco de Segovia que se 'vendió' a una red",
-      "summary": "Asuntos Internos de la Guardia Civil atribuye al jefe antinarco detenido en Segovia influencia en una red criminal.",
+      "title": "El Gobierno pide a la Fiscalía estudiar el bloqueo de TikTok en España por vulnerar los derechos de la infancia - El Mundo",
+      "summary": "El Gobierno ha pedido a la Fiscalía que estudie un posible bloqueo de TikTok en España por presuntas vulneraciones de los derechos de la infancia.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-09T02:19+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html"
+      "publishedAt": "2026-11-09T17:42+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3JXM1Y1d29taXJ3ZElUMFJhTmdlanYtS2xETW9jeXEyU1RBbDAwc1JpRUlBMVQ3eElhanZMcFlYdHd5S3dtNFU2WVVoN0xkR21ocGpUakpfVVEyeFhaRWw1b01SMmJIY05VVHRxTlBLT1dVQWprajg4amo2c0p6MmFn0gGCAUFVX3lxTE1PclczVjV3b21pcndkSVQwUmFOZ2Vqdi1LbERNb2N5cTJTVEFsMDBzUmlFSUExVDd4SWFqdkxwWVh0d3lLd200VTZZVWg3TGRHbWhwalRqSl9VUTJ4WFpFbDVvTVIyYkhjTlVUdHFOUEtPV1VBamtqODhqajZzSnoyYWc?oc=5"
     },
     {
       "section": "España",
-      "title": "El Tribunal de Cuentas inicia la instrucción para recuperar el dinero de concursos amañados de Adif",
-      "summary": "El Tribunal de Cuentas ha abierto una instrucción para recuperar dinero de contratos presuntamente amañados en Adif.",
+      "title": "El 'SOS' de El Hierro tras las 4.500 llegadas en siete días: \"Nos tachaban de alarmistas, no se ha escuchado a Canarias\" - El Mundo",
+      "summary": "El Hierro reclama atención tras registrar 4.500 llegadas de personas en siete días, según la información recogida en el titular.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-09T01:05+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af0a574fc6c83f83b8b457c.html"
+      "publishedAt": "2026-11-09T17:03+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fbDdOUlpiX2Nnb2FMMmdNMnNQZGtuekZJa255QlhVM2s1cTJ6TVNEdElEWk85Qi1MWVExMVBQQUowNHlvZ0tjVzRTbFlZcUttaVE5RExBM1Z2X3J0ZmcwcHNJUzFyeFJINDJvM2xxaFJSRzNyVl9EX1VB0gF6QVVfeXFMUGJlajFkcmdkLWsySDd5ai0tRUdXZVhQTzI1U0tyTG04LTVNdmZjLWNPTm9OMXNYQUVHa3d6bXVPN0NGallnaWR6Qm5Obm1EUng3NHJDVkFtZjRsaGllVkxtQVQwZ2g1RG9KSng1YkxIdEo4TWc5YTgxRmc?oc=5"
     },
     {
       "section": "España",
-      "title": "La factura millonaria del último año de Puente: 100 millones menos en billetes, pérdidas históricas en Adif y un plan de seguridad sin presupuesto",
-      "summary": "La crisis ferroviaria ha reducido en 3,4 millones los viajeros de alta velocidad en seis meses y un 20 % los ingresos de Adif, según los datos citados. La financiación de ocho medidas del plan de seguridad sigue sin conocerse.",
+      "title": "Los alumnos no podrán pasar de curso con suspensos en la ESO y habrá nota mínima para estudiar Magisterio: así es el programa de Feijóo en Educación",
+      "summary": "El programa electoral de Feijóo propone impedir el paso de curso con asignaturas suspensas en la ESO y exigir una nota mínima para estudiar Magisterio. También plantea sustituir la Lomloe.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-08T22:43+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/08/6aeda249fdddffd7708b4585.html"
+      "publishedAt": "2026-11-09T22:42+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af1dc48fc6c835f188b4575.html"
     },
     {
       "section": "España",
-      "title": "El Gobierno bate récords este año de manipulación presupuestaria al modificar ya 40.000 millones en las cuentas prorrogadas",
-      "summary": "El Gobierno ha modificado ya 40.000 millones de euros en las cuentas prorrogadas. La AIReF advierte de falta de transparencia en esas modificaciones.",
+      "title": "\"Llevamos dos meses sin cobrar\": los 38 trabajadores del polideportivo Espartales de Alcalá intensifican las protestas",
+      "summary": "Los 38 trabajadores del polideportivo Espartales de Alcalá de Henares intensifican sus protestas tras denunciar que no han cobrado los salarios de septiembre y octubre.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-09T00:50+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/09/6af0a741e9cf4a21328b456d.html"
+      "publishedAt": "2026-11-10T01:26+01:00",
+      "url": "https://www.elmundo.es/madrid/2026/11/10/6af1b65ce9cf4af75e8b456d.html"
     },
     {
       "section": "España",
-      "title": "Más de 600 personas en cuatro cayucos desembarcan en El Hierro este domingo, en un fin de semana en el que han llegado a las costas canarias más de 1.300 - El Mundo",
-      "summary": "Más de 600 personas llegaron en cuatro cayucos a El Hierro el domingo. Durante el fin de semana, las llegadas a las costas canarias superaron las 1.300.",
+      "title": "El Gobierno eleva el \"optimismo\" con Hernández de Cos para presidir el BCE y el ex gobernador acelera sus reuniones: \"Creo que Pablo se lo va a llevar\"",
+      "summary": "El Gobierno se muestra optimista sobre la candidatura de Pablo Hernández de Cos para presidir el BCE. El PP también trabaja para recabar apoyos europeos a favor del exgobernador.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-08T19:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hM09MMW01bE5STlZqdllRSDR1dllkTi1lNktnbWxmZ2ZyS3A3dnQxMnVxX09mVXpYVVVWWk1kdGxNUHV0TDlGZWZYa29kOWMzUDdpYTFfTzhMWnFGRzUtNl8wTFZhNjJNYWpfblVwMWVRaGZWZldQU3NB0gF6QVVfeXFMTS0zbmRxTzk5Z2FfVFhXS0htQWZ6bmY4eEZiX25tSGVzcVh3bTgwQkI1ZFlIYXlPcUR5czhtMVVRMWw4b21oZnFhSmFvM3Y3VWszRkdsWDFkeER4bS1Zd0lwUFN0amxEZnpRMWhVT3RRZ2p5WWh0V05aZlE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Sánchez se compromete a blindar en la Constitución la subida de las pensiones conforme al IPC - El Mundo",
-      "summary": "Pedro Sánchez se ha comprometido a incluir en la Constitución la revalorización de las pensiones conforme al IPC.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-08T14:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU25mX2JEeG1GS01ZQV9yem1TQnRZN1VKYXBQYk1qOVNuSXBpVXp3UmhnNzFEbDBHWUpaZVlTSGhnN3c5QVBGMWN4eEkyVWVhRnc1U1h5eGFQdmc4V21HWWlabmwxcXVYaWc3bENkVTRKM1BmQU1tS1lZOFA1bDZwemF30gGCAUFVX3lxTE4ybjVuRDNXUzJlZ2ticF9qdWc1QXJicEtFdFFuempuVWJhRE1Pb3diaGpOdnNvUjRPMm45eUhER2dkTjNiZzFzVXRMajZ2MWFfN2FEVkltNFlHNVJHUEN6SEVtV1JNWWJrdm1GV3FTSEVrTE0teTYyWGV5ZERMLTk4OVE?oc=5"
+      "publishedAt": "2026-11-10T00:53+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/10/6af1e473e4d4d805368b458b.html"
     },
     {
       "section": "Mundo",
-      "title": "Las tormentas agravan la pesadilla de los desplazados en Gaza: más de 70.000 tiendas destrozadas y millón y medio de personas están afectadas - LaSexta",
-      "summary": "Las tormentas han destrozado más de 70.000 tiendas de desplazados en Gaza y afectan a cerca de un millón y medio de personas.",
-      "source": "LaSexta",
-      "publishedAt": "2026-11-08T21:17+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNFM5NnA2X0p1M0lEZ3d1bElXT3JJZ3ZhUU00T3g1cWozcUppZGIycWNudm9XdUtMVm9tRU9kTHJXdXNDazBQa1B3aDFXZUpUR0xIRG82ZDFNYUxMS3NtTkI2SHlXNnMwLXhIUHd0LUdDZDdYOG9MY3VCLVV4YnNZbVlGZlliU3F5NVVmbWpKelJScC1QajNnWG96X1F3cm02dHgtMHowQ01TbW84V0RTb1A1eFM2TlFsRkNkaE9qTTZKeENZYXFzRVpSZ0pDSmUtSXJFbDZwd0xkLXN1a19LVEhCcG1PVXFQRmx3YkdoeUNtTkhWNTJ5UVI5R1c3SGhzNThPZlVFOE8wemJqdHRlYjZHejd1UU9WbDR5c3NEZXMyN0nSAaMCQVVfeXFMUFRyUDhRZ3JnM0dGRnlNUkgxMk1hZjhDOERQX1gwaUFDVXBZN1FMRXpNYzBxOGFTc3hSbUtOdC1KSVFBQVNYa3VOQW42cU1WTmtoQjVmbDdzcEphZUc2VjVQdlRtR25oMndiSGJNc2c5VkRNWVF6LVRUX2RaUTl3N2ZaNXhYUVRTRmRHMl9oSWFyR0dOZTRXNXlQQTBjWFQ5eThHVmpTRThKaWFnMmVtUGxDcFNlbXlYTms0eTMxSm1fbVg1SjZWbEJZc1F5VjE2TGhUSEVjVHhmT3UzcThMU3JGTHdvV3FOa0JDYTVnRy0xNHZkbmdZampzS0pqbEhPSXhFeGRZWS16dmdTajI1SWhNdTdKTnVmQ1BXeXRBUWpYRV9Z?oc=5"
+      "title": "La lluvia anega los campos de refugiados de Gaza y EE.UU. pide a Israel que deje entrar ayuda - La Voz de Galicia",
+      "summary": "Las lluvias han anegado campos de refugiados en Gaza. Estados Unidos ha pedido a Israel que permita la entrada de ayuda.",
+      "source": "La Voz de Galicia",
+      "publishedAt": "2026-11-09T21:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM21rbkxWR0ZhS3VKQ0lZLURmLTVuSG81WVpqTFQtYlhyZnNhcVJxdE44VHlYYmlZMks1bUgzeTZHRFpueVVSaUR1SGdjRWNPVS16WWhpS2FuY1NxVmJYWWlDcEtRSEFPM0FEcXdvcmR3anZTY2JrNkd1V3dvQkx1RURlTWxSc1pCdjktQjdxeGd5WXdwX3BUUnJJT2Jqc3FtN0JDdnM5Smk3bnBKdHUtSmY4VjVqQzhoekxVY2duNUFaNngtWHBNQnpUTlVPLVAtWktvajVCaDBGajFxVHd5MFEzd1NQRHAtRXpYSkFaY1Z0S3fSAY8CQVVfeXFMUDVYSDFBekVnNlNQUENCeWltNS1JLVo5cERld2EtRHA5dTV4SFdoWlhOSmlFcWhEUDl4Wkt4WjRmUDgzcnVWbzJWa2YyUmR2Y2pmUlBiRnM2VHIyQzRYV2JfN1owdFVEM1RqXzZlakt1SEx1VFV6ZmRFT2UxSDQxSUhvTGlqUWpoVEp5djF1MzBsZ3VvVjBCWnp4Sk5kUlU3RHhxeFlQTkFGcklSR2VvS0JkdnA4MnpYNlI4VWNpeUxNbWp3Qm83T1p1Ni0yTVZ1VzZ4RFo3R3NLMkhNN3lsU0VnWXhfSzg0S2xNNnVrSWVVdlZOTUhLNmtyS21BdnFQUmF2cmZRTnJONVRFMHJTNA?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "La central nuclear de Zaporiyia, en manos de Rusia, activa sus generadores de emergencia tras perder el suministro eléctrico - El Economista",
-      "summary": "La central nuclear de Zaporiyia, bajo control ruso, ha activado sus generadores de emergencia tras perder el suministro eléctrico externo.",
-      "source": "El Economista",
-      "publishedAt": "2026-11-08T14:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTlk5YjRQUDZEZ2tSXzRFM0JCM2hIQjRZU0dKMnc4cDI4Y0ZhSnpTemZqNWhqRG9rWkRzZGpob0xTeDh3YVlUZFptVTlKSW5CTUJqb3BTSHl0d3NaZjNOdndqOG1mb1VaVGEzMTl6dkF2ZUhCVldpUUtpdXhxSVFPNVdoZGR5ZU1hY1cxTEJzZFdhd3J3RFlvWHgtN3RpUmJRQjFRN3Qxd2xUSFJoR1QxZGFiaVE0ajJUcW1mVklPVDhvVG5JX0JtS09sdkk0aXJaRG5naTFXQ3kwQ2Y1eS1SYnlKLWIxdG9mcXFaLW9LZFhjM0dEclJTSFdXZndZdTVrME9SekVWQW9ZMm9CdDlxX1hsam1rUdIBgAJBVV95cUxOMW5JUk5nVWFYcjV6SXd4S01BSWdVWXhKcmVmNTktaXBsa29VUVFfZl8wZ05zUlBzZUZiNjk2ZDViejZtUmlUNGJLZFp6Rjc0N0VJSldGWG9sSFVUaVRBaTR0cDRsV1FueE8zdlowU1drclBLeGJ5VklaaThCWVdPVW5OMm1BamF1VHQ0U3dIODR1TUhVbUlabjZFdGhMUzFIWWNodm9EVE0wVTd3LU1zT3VTRTJWRkF4UFhJWm14UV8yMDZKbGJzWHF1dnZvWXpNVGFsZmZVX1UtREtIQTB6dGowQ3NaeVZZMzNNal9yMVg5UnNQNU1KaWxsLS1Va3Fk?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Los hutíes atacan un edificio de Aramco en Riad y agravan la escalada bélica entre Arabia Saudita y Yemen - France 24",
-      "summary": "Un proyectil lanzado por los hutíes ha causado daños en un edificio de Saudi Aramco en Riad, en medio de la escalada entre Arabia Saudí y Yemen.",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T19:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVDQtYTZVbDZOUVlTX2tqYi1peFZBX3pKcXVOTXZKa3RiZUtVZ0MtN2NLLXA4a3R0QVhNMFRod2lodUJjMzBxdHdYX2pDRlpkekJIaGxva1ZydVpzTTJSbTJQaVg1cFRnVVVKRjVCWndtMklUakNtUEZWVy00R005MjVOb2dZRHhkQkxfcG9kVVZ5d3lDRVZJcG9obTZLZzVhbmRXbUI2czNONkg0TFBGcUlzUkJ6dFZ5aHlWQlo4ZFRVTU9tR0dmME15Z0NoUEJlcHFlWk5uN2xsV1BUeVVxZXA1em5PTU9HMEFROHJxX2xxTG1U?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Al menos siete muertos y 112 heridos tras descarrilar un tren en Guiza, Egipto - ABC",
-      "summary": "Polonia ha calificado de ataque terrorista el tiroteo ocurrido en Cracovia.",
-      "source": "ABC",
-      "publishedAt": "2026-11-08T16:39+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFB4X1BfVzd0emdLRHd0d2hjUzFKd1RpRlQyWi1VRV8zOVJlSEt0UmxCRmpMYXRxN25lUml2SjQ2WEg2bkxhbHkyZEFvU2VaWDFhYzZ4c0dEQll1M2cxUUdOdW5VYUR4aV9sMmcxS0xqY0Qxa25oaWtWRXhiSzgxa2c3Ti1kTUpWZlhXMDJVbFN2Q3dXLXlEb3pydWEwdm1pVW5jMVU5OTRhZ9IBrwFBVV95cUxPcWxwNkxEdkd4cmMweTAzcmJVVUJmWU5EcHhkOW1STTRWMzdlc2VHWjlLdXhyTFg4ZkZKWVhJV09GUFRicE9nUUduVVA0QWRZVlVCRmEzWGFid1plQUF2YWk1MVVQVjFJbGpOMzJraE1VM09DV18xVnh5WDVKUk15WkdrcXY3MlhWb2RIUlgybzVZNXZPWU9xczBLRWxhWmNkZzRjVWlLRXVDbzNzbUZR?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La Justicia de Paraguay ordena prisión preventiva para el expresidente Santiago Peña por el caso Ueno Bank - Euronews.com",
-      "summary": "La Justicia paraguaya ha ordenado prisión preventiva para el expresidente Santiago Peña en el caso Ueno Bank.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-11-08T11:50+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxQ3lKQVFheUZPVFNUUlVLNFlMTGFYRmlFal9XQkwtUWNTYmFHR3BidE5rWHdSaUMxWlRaVzJYMGVOSzJjOWkybnAza0FmeDZ3MkltVXdlYmRkM2R6S08zTjJDZW5ibVQ5ZlVXYnV6M1dCQk5Kc3Z4elU5dF90OF8wNWE4V0Zmb2Z6RHJ5NnMtRTRuVWc?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Irán ejecuta a otros tres hombres en relación con las protestas antigubernamentales - DW.com",
-      "summary": "Irán ha ejecutado a otros tres hombres en relación con las protestas antigubernamentales.",
+      "title": "Choque de trenes en Egipto deja siete muertos y 112 heridos - DW.com",
+      "summary": "Una colisión de trenes en Egipto ha dejado siete muertos y 112 heridos, según la información recogida en el titular.",
       "source": "DW.com",
-      "publishedAt": "2026-11-08T12:09+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVJQdENnbnJISzRhbTRyU2tSM2FyY3pCb0kwdFIxX2hDYjd5S0FUb1lycUstdEdPMDN3dWVuazFHby1sTXRNSi1helYwUU5PMFBTMmVGSVlKSTUxcUd4SkhnX3NQdlhSaUNTbjVtS1UzNEZlaEtEUjBrVjlpZmYwTHdMaW9IRFhob20tYldXaDA4eVhPc084WExvYU1ydjJNZ1FqTUhWaUd0bDZUMGYyZ3Z4YlJ3NXVMMm9Qd0tFWHZGY1NZ0gHEAUFVX3lxTFA2Y294YjFIX00wVjZkWVJaTG5FLUkyVHVWZWwzQUI4dFZfZEhCUno1WGZnT0J5VGxzZFhqc3dheE5QbmFLaG5fZEdoVTVyYWJXcTM2VzdVenN1azNHdXVqMGFUWlVtODJpV2FMWE9COWI4NjZaVkRINUtuWE1nRVlHcnBSQnZMRjk2b0g5YTI0bTBCZVY0ZHR6aTRXYzJ0MjBUWTI1ZkF4T1hUNXFIZFBjX3pwSDFWM01Qd251WUNKRlFBb1o?oc=5"
+      "publishedAt": "2026-11-09T16:02+01:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2tNX2Jmdy04TVVFVlZOdGZiSzdXLWoyZF9uOTFCbzAtc1QzWjRPMjF5SXBSYzNoYXRwUXhGOEdWQXMwZ1Z6VGpwcUVxa29tZFBORnhPTHJvX3dzZWZMQlAwXzNzMC1YWVpYRUJ2QW5adDU2X0FpdjE4Y0NtaVFnR21tbFJ0YjlqX3RDNVB2YXhSY05wLVN2UdIBmAFBVV95cUxPdWVsaHVONGU0cXdDREJKWWRKeXV1UV9GOUZNYTNTeVk3OEpxQ1U0blJuYlc4WjdqUHgyTmRzYmtsc3dOZ0phVG1CcWdyN2x5ZEktVVc5OGlQSVliMmRHSWRBc1lTQmtZdEV4WGZXeHIzcHlOajVCUWk0Si1mV1dtZ3JSX3FkbGlkb3RNWU94V0lJU0swXzlOZA?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "El partido de Mandela, el Congreso Nacional Africano, enfrenta sus peores resultados electorales - DW.com",
-      "summary": "El Congreso Nacional Africano afronta sus peores resultados electorales en las elecciones municipales de Sudáfrica.",
+      "title": "Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori y cómo quedan las víctimas - BBC",
+      "summary": "En Perú se ha archivado la causa por las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori.",
+      "source": "BBC",
+      "publishedAt": "2026-11-09T16:06+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcUZxRVlVQmxIa2dSd0hneUptQWNuYUNLUW44TmdPS2FOVWgxWFgwUVNlbVVNUUNBZXY1dGwtRFNMWm02UDRXTDNMRDZ4OTc3SGxzNEdKX2JsQnQw0gFiQVVfeXFMUHlzaEU0U09UUXdSbUM5aVU4UGNzT0hKUmxPdG9pd1hQQy1tTkJuWmRZRXFaSXhtRkFNakNILXdiM0RhYWtIYkpZeHdETW9ucjZpSXF3MVY5T1dxV2lhQ0duaGc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Exxon llega a un acuerdo preliminar para regresar a Venezuela - The New York Times",
+      "summary": "ExxonMobil ha alcanzado un acuerdo preliminar para evaluar oportunidades petroleras en Venezuela con vistas a un posible regreso al país.",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-10T02:53+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmRoZXp5V2t5c2VXaloxTkVLMlBPNlNCdFNmRnhwTWxiY25hU2Y4T0YtdlR5ZEs0VkQyZUVtY0RIZVpoRTI1WHlUUVc3M1V4NVJ4c3BtU05seFlhUDhPZjI3R2JRdzZHOXM2TXVpUkZTTzh5Z1M1WlJlc3M5S0hDaVZfSEJWZDVnZHNJ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un congresista republicano inicia el proceso para el \"impeachment\" del secretario de Defensa de EE.UU. por la guerra en Irán - BBC",
+      "summary": "Un congresista republicano ha iniciado el proceso para someter al secretario de Defensa de Estados Unidos, Pete Hegseth, a un juicio político por la guerra en Irán.",
+      "source": "BBC",
+      "publishedAt": "2026-11-09T23:56+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSEtJQVllT1Bpc0haTU0yU3dUTGRqM2k1RGk3SG9MM3NBZWhkd2sxUjNOZkN0a0dIalNhR2JHM0NRNHdFdmpDZjhLUlVSUXFCVUlLU1Q4dkxqbzNt0gFiQVVfeXFMTVFBUElTX1U4aFdwMi1sdHdpZTV6eXFNU0FVWG5EVlNydkhGQmphYzBiU0w4VzNNU0pQREUzVGRmREFFMXRNLWJJcDdFc2c1MGF5cTEwNF9nQlItWXZoc0lXWGc?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Corea del Norte prueba un torpedo de alta velocidad en el mar de Japón - DW.com",
+      "summary": "Corea del Norte ha probado un torpedo de alta velocidad en el mar de Japón. Según la información recogida, prevé desplegar un nuevo modelo a principios de 2027.",
       "source": "DW.com",
-      "publishedAt": "2026-11-09T02:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVXJwVmtGbTduYXZXZDJIQXNaMF8xcE5fUVFicEM5M2trRkNOdEwyRVJ6OFE5Yy03RlZFS2U4ZklDNThNU1BiSHVXX2d3VmFwXzc5RkRzZW5qQkxQZkVRYWZ5Z3RxUU9wVWx4ZHh6bW1uT3BKUVJJMDZJdld5cldHbjUwRXJzUUVySloxYTVLZ3VyT0FJTTM0SEE0VkpFM0lRNEYzVDRxU2V4SW5YVnhVU01kYVNSLUJubmU0U0VpRFlNbWlLOENzd295Z1U1YVZkVkFtZVAwQmFteHo4Q2fSAd4BQVVfeXFMUFFNNmMwdV9lanNkYTc0LTA2V1RSaFYwZ1hyNkpoMXg1OElmZ19tdjZMS2VnZzBFWmVGU3RweVBOU2x3eXJaZXpDM1ZzZldrLXl2SEIwaGVTcmJOdlpuZU93all6RlRXd21zYi12QlZ5YVAtX1VZUGNBcnZ3Yk5MMjdWZTJqV1UzRUdrQ3NKNjBCSTlTaVQ5YlZQdEtpVjJjYTdzWTBuX1pjTmhQOV9KWXoxUjZhWGE4cjh1VTZQZTVhem42WUlNWHBScmhVNU1DS0FUNXVlUlhKbjNOa3BB?oc=5"
+      "publishedAt": "2026-11-10T02:17+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVQ1TzlMZU9OY2dENTdCU3dvOUJLTWtHWnZHaWhmdDU1RjdCUHkweVlJNWlEVHF2QVdEeVZELVhUUlFOdFpGeGhRTHFfTzItYXB4SnFoSkVKRUZhSnpwSWh2X0cyUFZyN2F1VzBuRDNfdlp3LTFuUC1tbFMwem9UT09MdkliVVp5anNWUkE2eHd3UmxXV25jS2pUTEhVV1d0TGliTExLM19ia1FT0gGsAUFVX3lxTE5McFlzTGlGa2VqSkVIVHF2SUttYTFMV3R3Uks0T3BMWlJ4R0h2TGJUNk1VdUZKa1p2UmlabHRCdkI4cHBZQ1NZeU40bFpuODRFcmJMOW1wM1hfMWxwMDJKRGo2Vl9tMDR1WkR3TjdWODBSdXYxNzN3cUNkc1hMTmk0YU05YlZ6WEFLSE9RVXpkSUd6ZGtfM2duWUFINWg5NHpUY0pFa2tPT25veVQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Trump admite que su política de deportaciones fue \"demasiado dura\" - DW.com",
-      "summary": "Donald Trump ha reconocido que su política de deportaciones fue demasiado dura y perjudicó a los republicanos.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-09T02:41+01:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2NIZG5lalhwcWE1bU1SQTVtS2wzM3RNWG1PQWtsdS1JN281cEloZTZ0WE92dWk0WWFMaE1kaTdTYXZTOE42aE1hZkVtdjg2Z1YyWjZ2WWRHS0FyNTZBU1hTTnZndWRmNVRQSUR0Rjgtd0ZUamtkTTAxbEhWR2FmSDZSZGhqMVBPekt3eC1YQVJRc1VDdUdNWUYyOVdMSFpJdlhRRtIBpAFBVV95cUxQc1NsUC1GMG9YUkpIUkFEN3VEV05pMnBURy1FaWpwd0RlRzQ4b191V2d5ZFJMWHVaOTg4VS04dWk0MmkzT3hXNDZvS0J3SWdHQm5SNlh0azdDWURCaHgyUW5Md0VUb0dkLU5wWldCMXNWOFZ6el9kU205eUM0X3ZQZmZZYWFNOWN3bjZ4dE5uMy1DMWJzU1BQUndpQlhUS3JzSUdlbg?oc=5"
+      "title": "Las emisiones de los combustibles fósiles descenderán en 2026 por la guerra de Irán y la expansión de las renovables - RTVE.es",
+      "summary": "Las emisiones procedentes de combustibles fósiles descenderán en 2026, según la información recogida, por la guerra de Irán y la expansión de las energías renovables.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-10T02:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTno1Tnc2QzJTN0xxcjdPWHRJM1hBSUpSOVVacFVWaTVNanVlUFVDTl9faE04R01sNHAxM0hxQ3lUc01kRUN4Sk5hUzRQQ2ZWdGZUTWpXQmIwLW5hRmFQeXM4MnlzQjU2ZHVsMTRjbDNrTTBJbW1iT2xuTHpJSld3SXFzdHVzVzNYQWpsVlVWLS1HaU1qNHBiVTdzenc2aThfbHpVTVZIb1gtbEJkQUxFbFdmTXVBZ0RVdEdITlZJSzlpOEJwaEh4SFVyZ1B1Zw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Donald Trump considera “altamente improbable” que se reanude la guerra con Irán - DW.com",
-      "summary": "Donald Trump considera muy improbable que se reanude la guerra con Irán si avanzan las negociaciones.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-09T00:23+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY0JCa3YzRTA5X2Q3NFdzWUhKYjFvNkdMZlFtcHpja2JpQzBaWmtzVU53SF9sWFotZkgxMkM0cWNoN2tMRjgzTWYyUzVlVFA3N2lnQXZZMkRmLTZ3ZmVpZ2R3dEtONy1rQlpxN0xvUnRXMDRqLTAyVHJiQ3QzQTFiWUhKVVNuYTNEM2hnY0Q3aWJnaGlJWWlJTzNQdnVCNkFIcjFGYTJ1SlNhc0hK0gGsAUFVX3lxTE1WZ2ZIaFFhclBwSmI0TWhXWXNPZndVVmZ5QnZVbFVuM0xKVnkxcThjTjFFNnVmblpza1o4cW9GWUlDaXRLQVFpcEdiaTdWSExXYmRQQUZnak9fQXl5Q3plNFNHLWxIc2lnSE5yRUotXzZpLXNyTEplWWx0bmtQWG5hN2I5M1Z3dTFxR25PdWJSSlVGam5BajR0eUVkb3g4aW9rdXktZGlJRThRamg?oc=5"
+      "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene - UN News",
+      "summary": "La ONU advierte de que las temperaturas extremas excepcionales continuarán el próximo año.",
+      "source": "UN News",
+      "publishedAt": "2026-11-09T15:52+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhaWJWOVFiTzM1SnFsSkdfZFdVQ0VTMjV5SVFiUEx6YW5Fd2VZZjJ1bVEwZDJZbm1WVDcxd19lYVpBVld5blpQU190NGxsVHJsU2ZoN0FIQQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "La guerra de los petroestados y los electroestados en la cumbre del clima de Antalya",
-      "summary": "Cerca de 200 países participarán en la cumbre climática COP31 en Antalya, con el papel de los países productores de petróleo y de los que impulsan la electrificación como eje de debate.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-09T00:50+01:00",
-      "url": "https://www.elmundo.es/ciencia/2026/11/09/6af0703bfc6c83d8528b4577.html"
+      "title": "Francia acusa a Irán del ciberataque sufrido contra los frigoríficos de los supermercados - RTVE.es",
+      "summary": "Francia acusa a Irán de estar detrás de un ciberataque contra los sistemas de refrigeración de supermercados.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-09T18:55+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEtTczFrUEJqU25pdWh6WkNsZHpjU00yejZ0YVhRcWZfYVhtZWJLWXBoTTVhM01UMU5qcWV5QVNpM1hpWFI4eU5EbDZrdGRDNVdPYkprOTJEd3daUC1naVVHd1l2ZHdaVkFQVFAtM0trRk12R0x3ZzRLaDQ2M1puNHZibklNNVo3VHFnb3ZWa2RWc0RNVl9DWS1WbzZnT3lMWC1ra2xFaDdtOGVjTGg4?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La CDU designa a Ilse Aigner como candidata a la presidencia de Alemania - El Correo",
+      "summary": "La CDU ha designado a Ilse Aigner como candidata a la presidencia de Alemania.",
+      "source": "El Correo",
+      "publishedAt": "2026-11-09T21:16+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXhWYk1kWnZoZ3JLSnJUY3VuTlIxX21lYnFJVnhmRk9veVl6U0hEQnhQU2pkZUJVLXZBNWdqZW8zQ1BuLXJBMk9aSU5zelA0MHpfenp1UmxvQmR6Z2RSdGdUV3NqM2gxTUdkZVZHQUl1TUNqSGJIZGxOSEgzY2c3OHZzSTRHOWRvWGNQRklQWFN5SkVNeGY3YmR6T2VBNTQyMzU2eFBMSExMYzVtU1ROLXp6MFpVdV9fa3NoR1pzdnFYbmPSAcgBQVVfeXFMTTBxZG5LNXYwajZXTkloQ0NvVDFBVjdPeDMzVl85VGlZTF9ueWJnSU1WS1JBS2Q0QUNiS2liSVFKbXFBQXJhY0hFSjFnWUhfVDNTdngtMjRJTE1NSkZCd2pQUHNEN1hPUHJ3STdyZFdLQ0VZX2RJX0FLdkw4V3JmT3dMS0hsem95Nnpnd3pWNjFROXNjRzJvcHFXM0VGSTlvS3pYTk9LSHgzcEpIaVE5eGFTU2o5bW5vbElSdmZndFFWdGNyOEY5UGY?oc=5"
     }
   ]
 }
