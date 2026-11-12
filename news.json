@@ -1,168 +1,136 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T06:30+01:00",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "La Junta suspende las clases este miércoles en todos los municipios del litoral de Cádiz por la borrasca Charles - Diario de Cádiz",
-      "summary": "La Junta suspende las clases este miércoles en todos los municipios del litoral gaditano por la borrasca Charles.",
+      "title": "Día del Flamenco en San Fernando: todos los actos - Diario de Cádiz",
+      "summary": "San Fernando ha organizado actos para celebrar el Día del Flamenco.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-10T20:11+01:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmRrdDU4SWRLeHRzdEhIQmZoR0owTmluckFiUVl6QlplOU9oc3VwTjRTMEFQdFN6eUpTWXdUeUJFdVA1Zk91NU9KOW9YaE04NVZCa3lmZ05MS1N1TV9QUEJid2FrVHNESWRIVFo3UmtNMldlY05mMjFZcGZYWGgzN2Q1NFdKbHdRMDBIaVFBMGo0U0w4dlBWUU1fQVVDaW9z0gGmAUFVX3lxTE5MT2hJWXBtek1EZnlQdExLdHhYcG9WU3F3T29JTmFIcFNVS180S201dDhXb1Z6V1Z2SmVWX2xZZkFTTnpqMzcwakdyN3FmamROZ3R4dTVWZUNtUkpQZFVvZTlCRUpmNE1TenVQbDRjNlBDMVBqX05reGx1UFJUdllOM3VUTExXTXhzSjRJUWd2M1pSSjhtRTh5MlJDSjJVdWlrbmthSFE?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "La UCA suspende la actividad lectiva en todos sus campus - Diario de Cádiz",
-      "summary": "La Universidad de Cádiz suspende la actividad lectiva en todos sus campus.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-10T18:39+01:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUZPb1Nob0R3UWhRNDJubkQ5ZldWeFgwNTV5MGIyWkhtYnE2WWpvLXQ3Z0d1UnlOYnVmbjJHWEsyMzhLX18wRWE3OVNxSjN5M2hUcVdfWUpMY3FQU0VHQnlCSldrbGpqUS1CQmJvVFhjTFk5emFaY0d3ZWpYT29hWjltUjIzNGp5MkNWdmFSaXFkeDQ2OUQzaXEwQ0FDTmhZV2tiMGU2c3k4OEFDRkE3TNIBtgFBVV95cUxNWW5kQ1VPb0xIcENneTYwNkczR3VSYlBTWUI5bzEyQ255SU5iWXA3ZmtESkd2cmhWNGFNdER1djVxZkVhc1o3Yng4YTluckdFdGxuUVpOX25HTjFOeGFUckZPMVk1bFVfU0RTOGRtTUNqQUlLWTM2TndPRzFVSENpQVpmSU9NRVJodWhWSnExdi1tUVIwR25VdGh5Rm1NX2VVLXpTZGhLUFpnaW1IaXBBMUdYSXd6UQ?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Huelga general del 11-N en Cádiz: recorrido, horario y calles cortadas por la manifestación - Diario de Cádiz",
-      "summary": "La manifestación de la huelga general del 11 de noviembre provocará cortes de calles en Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-10T22:38+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3RFVnB2c2owWHR0MHR2LTBxSjJ0alhuVGpoMzJUaGUybEUzNXZBR2J0SC1FZWFIbHQtWG1WaFcyMTBiV2E4V1dpZ0haaHRyanVzVVdoSFIxVlZHeFNJSWZNb05aVmctZ0liVkUwY2duU3NFcE9VX2tyZFgzSDRwbHIxUGpJdTd0bEdGektDOFBWTmZrYUhDMmhzQ0lNS251N2V5Uk1fM0pLMUZ0M240MC1aM04xWS1L0gG-AUFVX3lxTE9xVXBqal9HOTN6aWxGTHVEWkx0T3NLTDAzUnJBWmxMSUpVc3YyS1poczg1RldwdnpWZ0U3WUdiZDVIa21BNnNFM09PZk0zNVdLUi1GY2xGS3dFVU5kdEdxWFdfbEpqUkFBcllzSW1RV3FwWTNyaHFVSHZHRHh5MXo1UFlyVFhVNkRZQ25CbzRvbERHVktUNTZWMWJwbmhOU1I4OWxyRDBXV3F5NUdIdXJ1RXlzT0NieFFVa2VmTlE?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Derechos Humanos insiste en exigir alojamientos estables para todas las personas sin hogar en Cádiz - Diario de Cádiz",
-      "summary": "Derechos Humanos reclama alojamientos estables para todas las personas sin hogar en Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-10T20:13+01:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2QyUDBmcVZ3VWVKSmlOdVBxUW9XY1FmZDA4VHhWT0JzS2tYdWEyTFA2SUJfVTk0WEM5U2ZVZkY5VlpMR0hGZWZjRC1hUXFUZFFLcUw4d1NIQ0I1Qm5DWUhCRmZZUnJyMllxNlI4am8xQzYwcWdsUEtJRXliZlpHcW5RbzJpSDhlMmZ6elA2LTNfT3g4Z3FvT3FfeERCV1ZSQXFkTUk0U3BKRk9HWndjb2NBYkZLTW_SAbwBQVVfeXFMTW45d09CYy1hamZ6QXBvSjhidEpCX19BTm5CanBKTUpoWUp1UEFybmhNRm10Mkw2aXlYaUVZS0ppbjZSbmZrMEhSczMtekFyVnpYbXV1ZnAwNWpxSDB1d3ZQaEptazNaR1U4bUdMNGdkQ2kydFFzY0loamx2TnVQcXFpaTQ0Q3JPanZuaUZjaW5RbUgwQlM0UzVkR1BVSnViZl9OQjlNZEk3OWhuWWx4NDZwSWxoUl9IZXJTY0I?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "La Feria del Empleo de Cádiz arrancará con 125 ofertas de trabajo y 80 entidades participantes - Diario de Cádiz",
-      "summary": "La Feria del Empleo de Cádiz arrancará con 125 ofertas de trabajo y la participación de 80 entidades.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-10T18:26+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkVVbUhoTEFIay01ZnhaVVBrd2o5MWZwZE44LXNEc2JieFRka3JRNGdpQ3ZaSlRTREMzVlBZeWlkeXBVUUluUGNLWUxDVXdPM29aNnFfWW1PLUZBYngza0ZnOV9CZWJlTmFBbXRrMTk5SmloS2IyN3RlRWxMWXhib2FpVGpKRG5tNjV3UFFzZ2pfN3pGdXNFU3NRUGFucVYtaEZjUFBlQTM1VGhVOWNsU2stTVZSOWtlWWp6azVfU2JDRDRjZ0ow0gHMAUFVX3lxTE5nQ3FicUN3bHkzcklqNnMxRk5aWUhiU2NCZ19jdlNxMUpRUEFDb3hTdGF6VVB2TjVCblo3dlU3MG5DXzZON0RuTEVZT2IwRFR0bk12dWVHelphVnFLWDBTNDQ0eVR2NzJmQW5qRHZDLV9mSTM4WWVNbEdEYWdGS2ZjMDlIaGktMVZiQWYwX2I5VlItWVplVHFWS2NBWE9nZ0dUWUJvZllOa1U3cTNRV1ZEQUM1R09qNzVrNG1nLUNDS2dpR0MyQy1wWml1Yg?oc=5"
+      "publishedAt": "2026-11-12T06:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbElKWTJpcUdRSjQwcWdqaWZIQXFtWXVYeGw1LW9YdjlwOFJVRHZwZjBDTzhNRzZFM3JMNzZheUtSRVZwOFMwNktRM3RuLUJJRGxDU1lkT1hTa3ltdDQ4RGN0VzZjZVJhUHM0aEd6dnk4LWlVZEh2NlJKem5kczJkM3MwYThhRUxQVlVlX1dsdmtNQzBO0gGaAUFVX3lxTE53b05XblB6Z09yX21kekxHZkU5T21ydEUxMWg0T01Gb3lfOFI1TjBXRWsxRkVUUUd2cWtxazlyNk1XUlVYbWN2bGw2N2xSVnQyUXBMcWgwOWJzQWZMOWJwWGxPQ3Vzb2lWQ2ZWMW00MS04SGd1Mmp3dWJzOG0xckp2dm1ZRU9mMDJxSDMtay10Ykp4U0dOaldCRkE?oc=5"
     },
     {
       "section": "España",
-      "title": "Cuerpo recicla las promesas de Puente tras Adamuz y las lleva al BOE para desactivar la huelga ferroviaria en campaña electoral",
-      "summary": "Un real decreto recoge más autonomía operativa para los maquinistas y jubilaciones anticipadas para conductores de Ouigo e Iryo, en el contexto de la huelga ferroviaria.",
+      "title": "Eliance reconoce dificultades para mantener los helicópteros y la DGT ordena el retorno de toda la flota a Madrid",
+      "summary": "Eliance reconoce dificultades para mantener los helicópteros de vigilancia del tráfico. La DGT ha ordenado que toda la flota regrese a Madrid.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T01:39+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/11/6af36a96e4d4d8787d8b4581.html"
+      "publishedAt": "2026-11-12T00:02+01:00",
+      "url": "https://www.elmundo.es/madrid/2026/11/12/6af4b8c6fc6c83df6d8b4594.html"
     },
     {
       "section": "España",
-      "title": "Muere un policía y otro resulta herido por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado - El Mundo",
-      "summary": "La explosión de una mochila en Oviedo ha causado la muerte de un policía y heridas a otro tras un tiroteo. El presunto autor permanece huido y armado.",
+      "title": "La clave de la mochila letal del 'Ruso' en Oviedo: la dejó sobre los buzones fuera del alcance del perro Deny",
+      "summary": "Una mochila dejada sobre unos buzones en Oviedo detonó cuando los agentes la movieron para que pudiera examinarla un perro. La explosión mató a un policía y causó graves lesiones a otro y al animal.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-10T18:40+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90TmcyWVVGMmlSWFF3alpkS1BTTjcySHg4LTE4WlhiY0dmTHJxT095THRQZTBrQkhCZW9jWGFDLXVOZ3prbEFsUHlycTlVeFRWcUl0RkdYdlpCWnp6V091d0E5eklPc2szeUZSN3M3WklqQXF3MV9FOEJB0gF6QVVfeXFMTVJYWF9Oak5MREhQYUZTTnNBRkJWamloQnpoc3lQVVo1YVc5NnM1N3k0d1gyT3VEU194WVlrX29PUHVQMHI0LUxhS3ZsTE15NmhLZTlBVkxHT3RUdE90VVh2d2ZqT0QtMzVWZmVMZTNNX0dNdnVWaWp4SWc?oc=5"
+      "publishedAt": "2026-11-11T23:51+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af4d12efc6c83b46f8b4572.html"
     },
     {
       "section": "España",
-      "title": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
-      "summary": "Ordenan evacuar Piedralaves, en Ávila, por el riesgo de que rebose la presa de Horcajo tras las lluvias. La localidad tiene 2.200 vecinos.",
+      "title": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
+      "summary": "El final de la huelga general estuvo marcado por saqueos y barricadas en Barcelona y cargas policiales en Madrid. El balance de detenciones difiere entre el titular y el fragmento, por lo que no se precisa una cifra.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-10T14:33+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html"
+      "publishedAt": "2026-11-11T22:27+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html"
     },
     {
       "section": "España",
-      "title": "El PP establecerá un \"cupo\" con el tope de inmigrantes que podrán entrar a España cada año",
-      "summary": "El PP propone fijar un cupo anual de entrada de inmigrantes a España. Su programa también plantea remodelar Hacienda y eliminar los dispositivos de traducción en el Congreso.",
+      "title": "La borrasca Charles provoca vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones marítimas - El Mundo",
+      "summary": "La borrasca Charles ha dejado rachas de viento de hasta 124 km/h y ha obligado a suspender clases, vuelos y conexiones marítimas.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-10T22:43+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af36a00fc6c833b5f8b4575.html"
+      "publishedAt": "2026-11-11T18:12+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xS0k5Mk92RXB2RkdMY05hOGFmLVRnUnVHMGh3eUlQWWJZSWcyZTF4MnpOQ0ozZ1c2cWZnUXpXc3U5WVNVSWlkN3FVY0FsQ3NrblZtQXlfOFZ1S1c4REdmTk5LenhJZXJmZ2I5WXpwTFNYa2JBXzhhTV9B0gF6QVVfeXFMTkg0b2VOQVFuZTNGMy1SY2JGYzJXSWR5a05sWjR2YW5LSVJXejQ3WXNtZ1MyOWRWeWVXQmJ0QTU2QXB1SHpJZlZkN2Q1cXEyUlpZWDdFamNSUzZJNjc5Y0drSnJqbDdMYS1JcFYzU09RUVhTMmI1UDlKWEE?oc=5"
     },
     {
       "section": "España",
-      "title": "Sira Rego pide a TikTok que pare su actividad en España y, si no lo hace, insta a Protección de Datos a bloquearla: \"Vamos a ir con todo, esto tiene que terminar\" - El Mundo",
-      "summary": "Sira Rego pide a TikTok que cese su actividad en España y plantea instar a Protección de Datos a bloquearla si no lo hace.",
+      "title": "La crisis migratoria costó a Ceuta entre el 3,5 y el 4% del PIB y 198 millones en pérdida de imagen de la ciudad, según la Cámara de Comercio - El Mundo",
+      "summary": "La Cámara de Comercio estima que la crisis migratoria supuso para Ceuta un coste de entre el 3,5 % y el 4 % de su PIB y 198 millones de euros en pérdida de imagen.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-10T17:45+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9adVpCaWdQTHllczBoRWlhTG1xRlRKT3M3NDhqc002cWFYMmhuMEtVd09TODJIb3QzVEM0RXJzS3FDRFdXR0pqTkgwVTFKVjZSaEVqQUpOZGEyd3B0UUV0UVR2RGt0NWstSW9RRE95VkN6NDBmMjlrcmxn0gF6QVVfeXFMUHozTjJuclA4dDdrVWFxWVpZQnpFVFJSbVh2cjZMNmVJbFg5cFJmU3lCcVJVZzVGei1ZSW8wOWZ0UjJhTm1SYTVtc3lER1lrUUhZWUFzTHlUMkhKYjd4UFVfamczSXJjY2VqTVVqd3dPUDBsN21zem9TUkE?oc=5"
+      "publishedAt": "2026-11-11T19:04+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wZnhPUzFjdk5WZGhTS2dwR1FLb1pMZTRnRGFBVW9FMjJaMXh3WFlSVVMzaTNTYTNWMUdrOENEbm9zV1hUWS1JVGRsbGY3YzJGcGpjZ2UxOTZKOHVaTjlHc2lVXzVDSV9aZGM4R1VpX2Nud2VFM0x1LW9R0gF6QVVfeXFMTjFscmh6NHc1SjNubm5PSkJmOW9QMzI1WEdBQ3V1cEpSbk9uOHl4bE5PYVBQSnpRaGxILV9reUVzRGR1OE5paWdCOU5YcVRFMjZoSG5WRWpyNEJBd1J5VWJRRDZDUHZnUXVRY2h2enRXNVRuMENZWXM0NFE?oc=5"
     },
     {
       "section": "España",
-      "title": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
-      "summary": "Los Reyes asistieron en Toledo a la despedida de las víctimas del accidente de Urda, donde se reclamó que se esclarezcan sus causas.",
+      "title": "La lucha de Carmen para salvar a su hija de la enfermedad que mató a su madre y a su abuela: \"Esa línea se corta aquí\"",
+      "summary": "Un diagnóstico previo a la reproducción asistida ha permitido a una familia evitar la transmisión de la enfermedad de Huntington a su hija.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-10T21:50+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html"
+      "publishedAt": "2026-11-11T23:53+01:00",
+      "url": "https://www.elmundo.es/salud/2026/11/11/6af44516fdddffdf418b457d.html"
     },
     {
       "section": "Mundo",
-      "title": "Ucrania y Rusia, lejos del acuerdo en el comienzo de las conversaciones de paz en Abu Dabi - ABC",
-      "summary": "Las conversaciones de paz entre Ucrania y Rusia comenzaron en Abu Dabi sin acuerdo. Los contactos también abordan un posible intercambio de prisioneros.",
-      "source": "ABC",
-      "publishedAt": "2026-11-10T20:17+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUdfeWJKTk9mUTNEYVV0MGxYazVQNlBicUNYYUg2XzJYNEVBQ1hoWVVWMldoM1l2UEhHYlA3cG5jWExYNzZDYVZ6N09Xb2xLeTNMeTE4NlBmRENZNW52aDdNc2FfOEowTGNXcUt5aVhZUUprQ0lqQng1S0F2anFLUEU4LTQ5QW8zM1VyUTFhQXJUWkEzR1VZY1A3SHVCRjFyRzJLN1Z5VzfSAa4BQVVfeXFMT0tjc1FaYTBBTnQ4YjJoZWRiNjVFMmp2Rm5ZSzZERkZmXzF5QVV4T09tNjFMYXVqQURqWGY3OVI3TXd3SnVKMjFvdG9ZOTNDQzBZUXZScWpOelROT0d3T1FnVXNTdmttZ0ZkRFlXaW1yVElNckR0VzJseEJGRDV4VzhIMDRteFZHbG82bmdmQzBOZ0lPNU9rSGhUYTVKVF9ycnhuYlR1R25yMkkwcy1n?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Mar Negro y Danubio, la ruta marítima más peligrosa del mundo: \"Es una nueva fase de la guerra\"",
-      "summary": "Las fuerzas rusas han intensificado los ataques contra buques mercantes en el mar Negro y contra puertos ucranianos del Danubio.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-10T22:43+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/10/6af2e0aee9cf4a67248b4570.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "El Frente Polisario declara una \"movilización general\" contra Marruecos - La Rioja",
-      "summary": "El Frente Polisario ha declarado una «movilización general» contra Marruecos en medio de la tensión por el Sáhara Occidental.",
-      "source": "La Rioja",
-      "publishedAt": "2026-11-10T20:40+01:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHpOUzZWdGlIZjNsUV9ZRy1pR0hoeW1kM0NHRGxSU2VQLXZjY25LbU5GVXprMEFjVUU5aHFLTDRVVlRZMGF5SEZienhqT1ZjQ3pvbWJROTY0SUpIYktUN2w5d1RxdDBidkx5aUVqalN3TWZIUDlPUjI4cDNTT2NvVmRFU2FLSkIwUXJFZzFSZzk0MWpRLVczRG1JUE12Um5mLUtPQXZUX2NDVGlBMVotMGJSV3dhQdIBuwFBVV95cUxPVXVKeHZ1U251YXVMX0JONks1elhEV0lCaTgxSDc0VjZIQ25KSkp1Qlg4MVRaQ2ZCV3pfTHR3aWhMdUxhdWlVZFctYTJXRV9uZ256NlV6ZnZDb2x0VGNaTXJEMXY3UGhwRVdtQnpBaGpCc1M2bnlUckJBU2hoWHhPd21MN05oQ3NsSWliMEU5RjJFbXgzZTI5Zlk2WkJIOEt4ZGdOSm1yM3VCMWQtbEwyT2xtZ1BxS1ZtTXo4?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Justicia brasileña multa a Meta por incumplir órdenes sobre trato igualitario en elecciones - DW.com",
-      "summary": "La justicia brasileña ha multado a Meta por incumplir órdenes relativas al trato igualitario de candidatos electorales.",
+      "title": "Un ataque israelí mata a seis personas en un hospital del sur de Gaza - DW.com",
+      "summary": "Un ataque israelí contra un hospital del sur de Gaza ha causado al menos seis muertos. El fragmento también recoge un balance de 20 heridos.",
       "source": "DW.com",
-      "publishedAt": "2026-11-11T04:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVzdsX2dYQTV2OU1ObE96cXVfMlNid0tIQmRxMGJmMW5LclY2OFByVEJraUtIYWozVXk3cFhLNWc1bm0zdDMwdXNFbkpVQ3A3WVAteXBLTW9yT2VOMVlxQmJueWEzeWVIZzJDVWdXVUp6NHEwZ19reGtfSzZ5dHdyVlBmbDZXY29YSklhang1M0xlX0VoczZ1VkRuLWVlMk1FTGNURVA5NW9NOEVLNzFzUmV0QWVOc1l6dVJNSDdBNzV6QXVJWjhiUkxFeXVfQkVwQmwzTEV3akJjaXZ4Ry1FT3VPVHBfVDd60gHoAUFVX3lxTFBTeHlFa3o1c1g5enVXVEpCOE9tbmlBUzB3QUgwUXRjd2g4UkxmNG5XcjhIY0ZkZG8tcTVqdnc0N0c3R3JyamtweEprcWxNcXF6dkFHZFVydk9qWDA5UmR5VlpXblBOV0dOOHN0V1hnWXVHQV91cF84NmdLSnM0MTBORzU0QllXOENuQ1p6RWJZX3ItUXd0c21pQXpQTkNtUkZ5TVF5U1VyOFU1TE9hZWxzTlJieldndVN2SEdyUC1vZUJIYjliTFQ4Y1NHZnJYbDZ4ZFpkTDd5QkF0ajZidlVYNEkweGg3enY?oc=5"
+      "publishedAt": "2026-11-12T03:21+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGItV08wU1BQcXJlbFFZLUFid0piMktvaU9lTllzNkJMcDdYQ1ZBc29HNFo4LTNMa0NGeG9KV1Ziakx4V1lMWnNtVDg4c3NldGVQZ1Q3WUZxV2x6SVRDeTNZQjJTQ29LS0k3Q2hKQWowaDFPU3BQcXZyUllySVNNTlFqUTY5Tk1tU0h0dU5rYmVabGFnR1VSOGhtMUFJdERnUzdubUJXdUtKQkXSAasBQVVfeXFMTkRBZ1dMTDllbUFqa0FrdEM1UnhZSk81dTNEenhiVS02TjdFYkU4SUtPbDYzVUk0UVIxM3ViM2xNQVpfSTRkRkp6azdyMUR2VmhZOWt3LWR2X2dOVWVTa1EzRUJ5Y0Z4b0NLVUNfZ2dYTGR6bnlxZWNoazJkcERmam5KOHJUZVdvaUpvRmh1aUVHSzlrS1RQNkRiTU1BNkZ5Q2V6V3RwY3NfSWk0?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití - BBC",
-      "summary": "Bukele afirma que fuerzas salvadoreñas destruyeron mediante un ataque aéreo en Haití el cuartel de la banda 400 Mawozo.",
-      "source": "BBC",
-      "publishedAt": "2026-11-11T02:09+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EYkZvSDlwM3pRaFpTTG1WbWtybkpyTndUckpIalZ0QW9uek8xQS1KNFk5Uk1oVEFWbWxRVHJwQlRja09kT2xaMEFXYTY3Q2UtSGVuYkJveUdJN2Zn0gFiQVVfeXFMUFdKZ2s5RnJ0NjlCTEJBZVF5aHRxVG0wZVlCM2s2S21hTGJvM3ZZZmd0QXlWTVlNeXJIOUhKTXlTU2pPQ0o0MXd6aUVReTVJSnNlVGNCakRyMVM1NlBiUlcyOUE?oc=5"
+      "title": "Al menos un muerto y diez heridos tras derrumbarse un edificio de tres plantas en Nueva York - RTVE.es",
+      "summary": "El derrumbe de un edificio de tres plantas en Nueva York ha dejado al menos una persona muerta y diez heridas.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-12T01:31+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEc2MVpIVHA3TmtXTnV1QTRCV19jWW1td0Nfaks0NmJXa0xTaFF6YVczQUFGNmU5MXp5dlpFeTZXQ2VQOHI2Zkc1b2dXNlJsWDNaRVlrNVU5RFNxTXBzMnZiaW5La0NBMnpTdG5pS2o0STFNTXYtOFQwUVlTcFBFWHE3cVRwR1B4?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "\"Tolerancia cero\": Alemania destapa el acoso sexual en su Ejército y solo se denuncia 1 de cada 6 casos - DW.com",
+      "summary": "Un estudio sobre el Ejército alemán señala que el acoso sexual está extendido entre sus integrantes y que solo se denuncia uno de cada seis casos.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-12T00:16+01:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOF9vMC00V1NOYTA2b1RiaVRCNHQ4eFo3TGFvRFRFS19RRnotRjlBaDhCdkJyTi00ODB5OEhndU5zelA1SDNNSFg1djlxejhMdFJpT2g4ZUF0SnkyZ3o2VnNYcEJEOC1hbXpfaFdPLUJKZ3dLZW1xdnREYWhOb011enQ2bHc3Um4wQUFhUjI1dzlLTGtjNURsVm43cjFMQdIBngFBVV95cUxNc3RhanBUdkJBWDZRM3RYVGJTV3dXQnp5cTZfcnpSd3pjcF9nZWx3TmlPU3Fxc250UnhmQlBXZ2xIWHdWS2poXzN2Zkg0SzRYUmdpX2F4eGRmOHg5ekZOWXZHM0ktQjd2ODd3RDJVaVAxaUg3VHpqdTRnc2FsLVZob2psdElJcXVUTTdBVXlGR21LS0VZeko3clY4R0cxUQ?oc=5"
     },
     {
       "section": "Mundo",
       "title": "Eisenkot cancela reunión con Likud para negociar un Gobierno tras discurso de Netanyahu - DW.com",
-      "summary": "Eisenkot canceló una reunión con el Likud para negociar un Gobierno tras un discurso de Netanyahu, mientras se constituye el nuevo Parlamento israelí.",
+      "summary": "Eisenkot ha cancelado una reunión con el Likud para negociar la formación de un Gobierno en Israel tras un discurso de Netanyahu.",
       "source": "DW.com",
-      "publishedAt": "2026-11-11T04:05+01:00",
+      "publishedAt": "2026-11-11T22:16+01:00",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnFjZTU1OXRTNm0zQU1IeDB4dllKNTZ2Y3dpNmR0TE0tSEFEbkdDcG9oSVBnWnI5a2JDN3RLVk0za2NXZzRmOU9WT2dDUDV1WUcwTTRqUWNaeEpLQWNocHZzYmduZFhtQm5lbDlUeUZ0bk9yYW1WLWRiX0lScU90ckFwRzlnODBHSWxoeDlqTXFobDMtVlQyYVlmby1YU3Z5SUF0cEgxeFBxYjY2bUFDaTBKLWtHY2dNVHdMWXdNUHNVMGPSAcMBQVVfeXFMTWNrSlpKQ1lXOEQ3dUFQUmJIbHJ0c0F4OTlwUDI5NGNjcFA5WFQ1NWZaWmprZWlKcFpjQUc4RmhFOHl4dFBjbnRnOFlyRGZBU3ZtSi05RGJubW5rdE9nRVV0MTNYRDRUT2Y5SkQtNTQ5dGd4ZGQ4dEZfaVBvUjRqUTNxb2wzclFCU2Fwc1YwVm1yZG85UWt3clhyWFJFczVwUnJ6cjMwbnBQeVJpQVRjQXBzajRpRThJWlNFSS00YW85ZTNB?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia - BBC",
-      "summary": "Un militar estadounidense de alto rango ha sido detenido en Reino Unido bajo sospecha de espiar para Rusia.",
-      "source": "BBC",
-      "publishedAt": "2026-11-10T23:14+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CY3lrWF9haDdub2V3X0ZITXF2WXhjQ2lWY3JXMWlIZ0lFRWZYWENRdWMzQmlNSS1sdVkxOU5tRHJHTlh3T3I2VER1OWdRaXlvX1F0aGVvZFNYLU5R0gFiQVVfeXFMTmpQdzBEUjRvZUJVaDdUejJteFotS3kyX2hhMmpGcko4cklUbzF1djRlM2ZBWXR0RTNfLXByZUZralpZLUkwaDBWenBuLWJIUUZYRGhZS282SElxLXdEam15NlE?oc=5"
+      "title": "Enviados estadounidenses se reunirán con Putin en Moscú y con Zelenski en Dublín tras las conversaciones en Abu Dabi - France 24",
+      "summary": "Tras las conversaciones sobre Ucrania en Abu Dabi, enviados estadounidenses tienen previsto reunirse con Putin en Moscú y con Zelenski en Dublín.",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T18:05+01:00",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQd1IzUDZ0Umt1eTRHU1JzM1Q3bUJyT0JBY2dhU3lZenVobUJOU25sWTFmVlBmazN1VHhvdVhrZHQzNTRDOF9YX2FSMmRJQWVyY0ZZbE1JWEYzS2lneTlyYmJjeWx4aFF6cmIwSWJwSEp0LUxxNVdzdXdmbHk5Q2wydm9kczBzLWJNMjRSZWJuSkh3WXRjeVF5dkZlSVMyWTB4QkRmMTdCTjZuMVdUS1UwQ0QyMmluTEFZWTZTOVhudEdCQy0xRmQ0LTdPUHFyN1lLdEM3OE5lZGEwem5QSF9lX0lhczg3ak5lejFtRGUzR2RDREJPd0htSENrWFA1NWI5czQ1TmFMVmk2WFp1OEIwU2ZR?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Los depósitos de gas alemanes no están llenos: Italia culpa a Berlín de disparar los precios en Europa - DW.com",
-      "summary": "Italia responsabiliza a Alemania de la subida de los precios del gas en Europa por el bajo nivel de sus reservas. Bruselas reconoce que las reservas son bajas, pero no prevé medidas de urgencia.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-10T19:37+01:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlZ3eGcxenloUVZpUXR1eUU0cjhGYzVwTEtoS0NfTl9fdDI2RzRRNDF3LUVKN2s2SjB0TW56SHpLNWxYcFBheXgxSXA0YWhMS0xKeTZBckRtbTVfVmRIU3dxeWtvNGI2UEtPMVFsTF94LXJ2NVdPOGt0S1ZBNk42eElxVVp2cXRYdFpIMWN1bnZiNFXSAZMBQVVfeXFMUDRkaDlMYlR4XzVQUmJTc3VDcFVlM0tUTC1lOGxNc2U3MlhLcG5iYWYtckFXTE9RMzlIRHZUOGNjMk1sNVo1NzhoSVUtRFJPaDg4aHpUWnVlei1HMGdfWlVfWDN0aHl0LXNpSjRoRlBhTjRPUGlzVzhTUV9mSWVkODZwSGhHclYtVl83YUV5MGtwQkRB?oc=5"
+      "title": "Guterres alerta en la COP31 de que la crisis climática avanza más rápido que la respuesta mundial - RTVE.es",
+      "summary": "António Guterres ha advertido en la COP31 de que la crisis climática avanza más deprisa que la respuesta internacional.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-11T12:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2s2TTJVRXRWZk5pZmNCT3lRYnNqLXpIWUs3STFnc3hDU0hZWDg5TTZKZURwaFQ0UEw3anNRdlNlejJScjg3VUM2TmZuNnUwZjRSVXlreDQ3WkhoUloxcUpaZ2dpT2thYm16U1J2VmlmcXRqQkJaS0g2MDh5VTltdGkzelJOQnhGbS1kQ3dHNDBEWmtMSXAzaUxXcC1IRUkzd3hlY0ljNndKNEkxMmg0TkJfME5NNVZ6NG1leFhKaVY?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Los sistemas como Nutri-Score solo identifican como ‘insanos’ a la mitad de los ultraprocesados - SINC",
-      "summary": "Los sistemas de clasificación nutricional como Nutri-Score identifican como insanos solo a la mitad de los alimentos ultraprocesados, según la información difundida por SINC.",
-      "source": "SINC",
-      "publishedAt": "2026-11-11T00:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXFPd0cxbjBBNkNXb3Z5VDBOdVcxeGhlRWk1NjZKTW1CUnRRdTR3NlFtU3ZaTU5weFE3d2dTZ1dsRUtXVEtfT29fQVphcXdzUktFems1MmdXaXUwZm9WOVBEenlrVTJ0LVBjNzNSYnZ6emlQcnVnaHg0MWZGdjlPaURSV3BRM05pZEpvNkNHRUc5SEt1U0F5UFhDVDJXREJsQW1aa0QxX0FPWld5aFpzZkpoM0hlSjFjcFVCZldmSmFrVVdxRDNaQQ?oc=5"
+      "title": "Bruselas advierte de que los ciberataques a supermercados deben servir de \"llamada de atención\" para Europa - 20Minutos",
+      "summary": "Bruselas considera que los ciberataques a supermercados deben servir de aviso a Europa sobre su vulnerabilidad digital.",
+      "source": "20Minutos",
+      "publishedAt": "2026-11-11T20:52+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQjc5MXBHdV9OMjJ0ZXY0bGhnUk9XTFIwYnM1LWl3cXU2RFlkOGdOSXBfVlhuaTVOR0ViVm5yNy01azhIajF4ZlU0SGhxNzJzLW1hZG1MckpPWFZJRjdPZDdEaEJObTBMWElGQnNqNmRCUHd2MHRueThtdWppMEZrZEpzQnZMOUlqaWpPRmJ2RGhjdVI2enJENzhkRnZhR1pSdjBnZUdJMm03Y243NnZqWng1VGRNMHROMDZXS2Nna2MyOFczVzNUN0YzUWFRZnpfSGtnSlJiUTJGS1VUbmZNY3l30gHnAUFVX3lxTE9wRWozWGlzZ0JFdUp4a2dPdGRKUHBEVVpQUzdQOWxpRE53NmhhaTg5eTJ4cjlkRlltWTV1MG1OMmstT3YwYVBaSWhvME9NajZZQVBwMkktRWpiVkRvdnBrX2FQWWhEaEFjdmpxdzYyRElyTnBVMDc3UWdlWW9HWFVqREE4OTRXOUNaUXlIWlQyNTE1X0RxckJNS0JGb0lMVl8tZlVTYlpIWThpNWt2djl1Z19hSE9YMHQzY29mWE8teGVfLUxhd1lYLWVqSmhxN2lwRGwwS0VkTVdpb0NKUHlVU3BEZnlLdw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Paraguay devuelve parte de sus ahorros a todos los clientes de Ueno Bank con fondos garantizados",
+      "summary": "Paraguay ha devuelto parte de sus ahorros a clientes de Ueno Bank cuyos fondos estaban garantizados. La mayor parte del dinero sigue pendiente de recuperación.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-12T00:12+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/11/12/6af4f63ae9cf4a9c698b456e.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Muere repentinamente el embajador de Rusia en EE.UU., informa el Ministerio de Relaciones Exteriores - CNN en Español",
+      "summary": "El Ministerio de Exteriores ruso ha anunciado la muerte repentina de su embajador en Estados Unidos.",
+      "source": "CNN en Español",
+      "publishedAt": "2026-11-11T19:18+01:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzNvQ1JFX0dObWVGN2JTNDZSWGNPZTFUWnhsSEo5WF9FX1MxbkwycUZJdVhncnFfeHNwdjJsZ1F0ZW45S1hEcC1YNmttcHJOSjdiMDM5eVdvcHVQeVlLcVpnekY0Q0N3V01vMndNSHRTV0RjS29NRTFTVVZYQkpEYklxZWZCeFhhM1o0SnB3?oc=5"
     }
   ]
 }
