@@ -1,136 +1,168 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T06:30+01:00",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Día del Flamenco en San Fernando: todos los actos - Diario de Cádiz",
-      "summary": "San Fernando ha organizado actos para celebrar el Día del Flamenco.",
+      "title": "SATSE alerta de una saturación crónica en el Hospital de Puerto Real - Diario de Cádiz",
+      "summary": "El sindicato de enfermería SATSE alerta de que el Hospital de Puerto Real sufre una saturación crónica.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-12T06:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbElKWTJpcUdRSjQwcWdqaWZIQXFtWXVYeGw1LW9YdjlwOFJVRHZwZjBDTzhNRzZFM3JMNzZheUtSRVZwOFMwNktRM3RuLUJJRGxDU1lkT1hTa3ltdDQ4RGN0VzZjZVJhUHM0aEd6dnk4LWlVZEh2NlJKem5kczJkM3MwYThhRUxQVlVlX1dsdmtNQzBO0gGaAUFVX3lxTE53b05XblB6Z09yX21kekxHZkU5T21ydEUxMWg0T01Gb3lfOFI1TjBXRWsxRkVUUUd2cWtxazlyNk1XUlVYbWN2bGw2N2xSVnQyUXBMcWgwOWJzQWZMOWJwWGxPQ3Vzb2lWQ2ZWMW00MS04SGd1Mmp3dWJzOG0xckp2dm1ZRU9mMDJxSDMtay10Ykp4U0dOaldCRkE?oc=5"
+      "publishedAt": "2026-11-12T17:43+01:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzJrbk9aQzEzVjdhVUdHeXI3VTJUQThsQi1HamJjSlU0MTNPZmJIQWZPQkpWYl9BR3FDbHNrME5BU0ZiQ0ZuY21nQ3Y4ZGl0NXRRNWVoMzQtRk5TbGZkVXdoMGhxdFp3RkRmSjYwWVRDUXRiZG1Qd1llRjZIRWtLNFVsM1dYX2FfSlNUSE8wdjNuYk5lU3JyS3E4Q3hxazRR0gGmAUFVX3lxTFBzd001TFhpbkRKelVJWHo3d0w1ekJwTFh6eklwZ2NwYmlsRXYybENzYjV6WTZWTkdVamxlZlZVMnZUS3RjZTE4TGFDTEtHQTlJVUx5a1B3QjUyUTRaczVCVUVBMV9wMkJOSjFBd0hZZjY3QXZZTUY2aUVScjZhN1VtU3hkcHpraWNDalRvbERyUFpVOG9fc3ZSZF9UYmRlYVFPOWlCbmc?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "La UCA llevará talleres de inteligencia artificial y emprendimiento a sus cuatro campus - Diario de Cádiz",
+      "summary": "La Universidad de Cádiz llevará talleres de inteligencia artificial y emprendimiento a sus cuatro campus.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-12T17:56+01:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXVXek5oVXF2UWdSN0RwdlNjbE05M0ZqUGhyd0gyNnJyRXdKYnNTak5XUjdTNk5XTGtKQlhRT2pzLU1YYTJVUXRYbmRQaUZlWWpiTmh2SXRLbUd1QWlCRkoxbGZnTUhFQlFld0NRcXZRbHRlZUJxTUJWX3B4eUZNT2tvLUlsNjFhS1haTTNFNzlCWkhwQm1WX1NkWXozd9IBowFBVV95cUxNQUJBYnJjR0VYYW1pTjZUa2xUeXRFTHhSeWJqY3QzX3RGSUg4TGdpSlFVU3V2aVh6NlhxZzlzYkxPdnA3WE1HU0hSMkJHWUY3Yl9Kc1NYS0l4b0VtMkFROVJidmdycHB5WXdTVk1PWU95WG01cmZjMGdhWHJEdjRqVFJLZlQ3bmFMakxyZURxcGdxcmZGWDJuQXg0bVVGV0NpanlN?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "El 'spoofer' gaditano que perdía el acento al timar y su 'relay attack': la última operación de la Policía desvela inquietantes métodos de estafa telefónica",
+      "summary": "Una operación policial sobre estafas telefónicas revela métodos de suplantación de entidades bancarias. Entre los investigados figura un presunto estafador gaditano.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-13T00:40+01:00",
+      "url": "https://www.elmundo.es/madrid/2026/11/12/6af61594fc6c83fc088b459e.html"
     },
     {
       "section": "España",
-      "title": "Eliance reconoce dificultades para mantener los helicópteros y la DGT ordena el retorno de toda la flota a Madrid",
-      "summary": "Eliance reconoce dificultades para mantener los helicópteros de vigilancia del tráfico. La DGT ha ordenado que toda la flota regrese a Madrid.",
+      "title": "Red Eléctrica saldará la deuda con las centrales que levantaron el apagón en diciembre de 2027, más de dos años y medio después",
+      "summary": "Red Eléctrica prevé terminar en diciembre de 2027 el pago a las centrales que ayudaron a restablecer el suministro tras el apagón. Los casi 30 millones de euros se abonarán en doce cuotas y correrán a cargo de los consumidores.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-12T00:02+01:00",
-      "url": "https://www.elmundo.es/madrid/2026/11/12/6af4b8c6fc6c83df6d8b4594.html"
+      "publishedAt": "2026-11-13T01:08+01:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6ae2244fe9cf4ae95d8b4591.html"
     },
     {
       "section": "España",
-      "title": "La clave de la mochila letal del 'Ruso' en Oviedo: la dejó sobre los buzones fuera del alcance del perro Deny",
-      "summary": "Una mochila dejada sobre unos buzones en Oviedo detonó cuando los agentes la movieron para que pudiera examinarla un perro. La explosión mató a un policía y causó graves lesiones a otro y al animal.",
+      "title": "Plus Ultra prepara un ERE que amenaza a sus 679 trabajadores y recorta flota y rutas tras el polémico rescate de 53 millones del Gobierno",
+      "summary": "Plus Ultra prepara un expediente de regulación de empleo que podría afectar a sus 679 trabajadores, junto con recortes de flota y rutas. La compañía atribuye la medida a un agravamiento de su situación económica y operativa.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T23:51+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4d12efc6c83b46f8b4572.html"
+      "publishedAt": "2026-11-13T01:08+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/13/6af60b8221efa045068b457e.html"
     },
     {
       "section": "España",
-      "title": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
-      "summary": "El final de la huelga general estuvo marcado por saqueos y barricadas en Barcelona y cargas policiales en Madrid. El balance de detenciones difiere entre el titular y el fragmento, por lo que no se precisa una cifra.",
+      "title": "Radiografía de la España (a las puertas) de los 50 millones: \"Crecer está muy bien cuando tienes un país preparado, pero...\"",
+      "summary": "España alcanzó en octubre los 49,9 millones de habitantes, su máximo histórico. El aumento de la población nacida en el extranjero, el descenso de los nacimientos y el envejecimiento marcan el cambio demográfico descrito en la información.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T22:27+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html"
+      "publishedAt": "2026-11-12T23:14+01:00",
+      "url": "https://www.elmundo.es/papel/historias/2026/11/12/6af60ccbe9cf4a0f118b459d.html"
     },
     {
       "section": "España",
-      "title": "La borrasca Charles provoca vientos de hasta 124 km/h y obliga a suspender clases, vuelos y conexiones marítimas - El Mundo",
-      "summary": "La borrasca Charles ha dejado rachas de viento de hasta 124 km/h y ha obligado a suspender clases, vuelos y conexiones marítimas.",
+      "title": "La Policía envía expertos al puerto de Ceuta para detectar documentación falsa o robada para entrar en España",
+      "summary": "La Policía ha enviado especialistas al puerto de Ceuta para detectar documentos falsos o robados usados para entrar en España. Según la información, 85 personas han sido detenidas por intentar embarcar con documentación falsa o ajena.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T18:12+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xS0k5Mk92RXB2RkdMY05hOGFmLVRnUnVHMGh3eUlQWWJZSWcyZTF4MnpOQ0ozZ1c2cWZnUXpXc3U5WVNVSWlkN3FVY0FsQ3NrblZtQXlfOFZ1S1c4REdmTk5LenhJZXJmZ2I5WXpwTFNYa2JBXzhhTV9B0gF6QVVfeXFMTkg0b2VOQVFuZTNGMy1SY2JGYzJXSWR5a05sWjR2YW5LSVJXejQ3WXNtZ1MyOWRWeWVXQmJ0QTU2QXB1SHpJZlZkN2Q1cXEyUlpZWDdFamNSUzZJNjc5Y0drSnJqbDdMYS1JcFYzU09RUVhTMmI1UDlKWEE?oc=5"
+      "publishedAt": "2026-11-12T23:14+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/12/6af61fa1e4d4d8845c8b4586.html"
     },
     {
       "section": "España",
-      "title": "La crisis migratoria costó a Ceuta entre el 3,5 y el 4% del PIB y 198 millones en pérdida de imagen de la ciudad, según la Cámara de Comercio - El Mundo",
-      "summary": "La Cámara de Comercio estima que la crisis migratoria supuso para Ceuta un coste de entre el 3,5 % y el 4 % de su PIB y 198 millones de euros en pérdida de imagen.",
+      "title": "El juez da 10 días al Tribunal de Cuentas para emitir un nuevo informe sobre las donaciones del PSOE que aclare los descuadres bancarios",
+      "summary": "Un juez ha dado diez días al Tribunal de Cuentas para emitir otro informe sobre las donaciones al PSOE y aclarar discrepancias bancarias.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T19:04+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wZnhPUzFjdk5WZGhTS2dwR1FLb1pMZTRnRGFBVW9FMjJaMXh3WFlSVVMzaTNTYTNWMUdrOENEbm9zV1hUWS1JVGRsbGY3YzJGcGpjZ2UxOTZKOHVaTjlHc2lVXzVDSV9aZGM4R1VpX2Nud2VFM0x1LW9R0gF6QVVfeXFMTjFscmh6NHc1SjNubm5PSkJmOW9QMzI1WEdBQ3V1cEpSbk9uOHl4bE5PYVBQSnpRaGxILV9reUVzRGR1OE5paWdCOU5YcVRFMjZoSG5WRWpyNEJBd1J5VWJRRDZDUHZnUXVRY2h2enRXNVRuMENZWXM0NFE?oc=5"
+      "publishedAt": "2026-11-12T22:49+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/12/6af62498e85ece93128b45a9.html"
     },
     {
       "section": "España",
-      "title": "La lucha de Carmen para salvar a su hija de la enfermedad que mató a su madre y a su abuela: \"Esa línea se corta aquí\"",
-      "summary": "Un diagnóstico previo a la reproducción asistida ha permitido a una familia evitar la transmisión de la enfermedad de Huntington a su hija.",
+      "title": "Óscar López impulsó desde Moncloa la reunión de Sánchez con su chófer que dejó asombrada a la trama: \"Yo qué sé. Todo es raro\"",
+      "summary": "Según la información publicada, Pedro Sánchez se reunió durante 35 minutos en Córdoba con Cristian Corvillo, chófer investigado en la trama Koldo. El presidente había negado conocerlo.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-11T23:53+01:00",
-      "url": "https://www.elmundo.es/salud/2026/11/11/6af44516fdddffdf418b457d.html"
+      "publishedAt": "2026-11-12T22:49+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html"
+    },
+    {
+      "section": "España",
+      "title": "La justicia ordena el cese total de las actividades de los neonazis de Núcleo Nacional, el cierre de sus sedes y el bloqueo de sus perfiles en redes sociales - El Mundo",
+      "summary": "La justicia ha ordenado el cese de las actividades de Núcleo Nacional, el cierre de sus sedes y el bloqueo de sus perfiles en redes sociales.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-12T20:42+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wUjllQU05cEt3bWJheXcyTkRRTXN3SlgxWGx3UlBrQmQ5dDlnQUE5eTFubXhRRWw5VmhYWTZpYnhZTnBic3BZY3V6QVdVdFgwdG90QThOMUdaS1NoOHl0WkZxZ2tQNEtORkZ2VExuOTF1TGVsM3JBY3l30gF6QVVfeXFMT1F3WUNuNUFEU283UVdrVjZsejU3c25NTTY2U0hwdVVXNTJzdkFsbEttQndlZ1E1SEJ3aFI3bjFaekM5MEdyd25rYXl2NUZSSEZ2ZHZtTGtxdnkwclFLdG1PdHpTSXJGWFQxZExzQW9kSk1DWEIxZmpSb1E?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar de detenidos en toda España - El Mundo",
+      "summary": "El final de la huelga dejó saqueos y barricadas en Barcelona y cargas policiales en Madrid. La información cifra en al menos un centenar los detenidos en toda España.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-12T18:48+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaFlDUEpiNWRWbHFkUEs1OTBISVF2VkR6NnotdjJ4WFk5dWpxOWxRSnJiTmxOTkxFaGtJMnZ2dlNfVHRFandlN2stQVktREZKeVFyeXF1MTJjRExnTVE5ZnRYS3czN3AtbkNaTlNHampITDVGN2JHWjl30gF6QVVfeXFMTThpM0M2T2Z2MV9aUmo3ekpEWDBxT1V1SEZINkxMQ1dPb1dGYUxtYS0yRWp5S0pkaU9lUTV5WWNMS2ItSGdYTU9XTDZMR3Q1LXhQUTV2TmJMN0tfNV9tNVI3MVJuQXp5STZIQjdUQ05xbUJDTkVvczkyUnc?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Un ataque israelí mata a seis personas en un hospital del sur de Gaza - DW.com",
-      "summary": "Un ataque israelí contra un hospital del sur de Gaza ha causado al menos seis muertos. El fragmento también recoge un balance de 20 heridos.",
+      "title": "Fuerzas de Haití recuperan estadio bajo control de pandilleros - DW.com",
+      "summary": "Fuerzas de Haití han recuperado un estadio que estaba bajo control de pandillas.",
       "source": "DW.com",
-      "publishedAt": "2026-11-12T03:21+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGItV08wU1BQcXJlbFFZLUFid0piMktvaU9lTllzNkJMcDdYQ1ZBc29HNFo4LTNMa0NGeG9KV1Ziakx4V1lMWnNtVDg4c3NldGVQZ1Q3WUZxV2x6SVRDeTNZQjJTQ29LS0k3Q2hKQWowaDFPU3BQcXZyUllySVNNTlFqUTY5Tk1tU0h0dU5rYmVabGFnR1VSOGhtMUFJdERnUzdubUJXdUtKQkXSAasBQVVfeXFMTkRBZ1dMTDllbUFqa0FrdEM1UnhZSk81dTNEenhiVS02TjdFYkU4SUtPbDYzVUk0UVIxM3ViM2xNQVpfSTRkRkp6azdyMUR2VmhZOWt3LWR2X2dOVWVTa1EzRUJ5Y0Z4b0NLVUNfZ2dYTGR6bnlxZWNoazJkcERmam5KOHJUZVdvaUpvRmh1aUVHSzlrS1RQNkRiTU1BNkZ5Q2V6V3RwY3NfSWk0?oc=5"
+      "publishedAt": "2026-11-13T03:47+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzJzOVBXaHhBSWJHc1N0amQ5TklSdE4wYXc2QlVnVHJOTk5fMzlRZjJrV3FtbUJfNEsyN0dNUDhKLVZoVDlXN09ZaVFRNXJiZnVrNVpwVEJBZnpxRVFRcmU3dXpMQVkyT01zZlhReFl2Z0RJTHpuZTM1MHQ1bzBfZHpvUmh4Q0RQLWdGSzlBQTU4eUY5c3JDOUIza2ZMdl9USkHSAaIBQVVfeXFMUDM1cUVfakhRY3B2d21Oczk0Z1R2TkNJeVNJVTM4a1Jza1hjRUZxUm5OeHF5alZJdFJJTnBBSDd3SWctb280akpiMVhwWjhYVmdKdzcwV0hnYlo2dkNLRTNCRkJrQVJZa1h4Vnl4U1drVF81czQzTmg4R3Y2M3FGMmdDaG0tSDhqS3Z6WDZGNXZCdlNkenVJNEJUYUNRVEUxRjJn?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Al menos un muerto y diez heridos tras derrumbarse un edificio de tres plantas en Nueva York - RTVE.es",
-      "summary": "El derrumbe de un edificio de tres plantas en Nueva York ha dejado al menos una persona muerta y diez heridas.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-11-12T01:31+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEc2MVpIVHA3TmtXTnV1QTRCV19jWW1td0Nfaks0NmJXa0xTaFF6YVczQUFGNmU5MXp5dlpFeTZXQ2VQOHI2Zkc1b2dXNlJsWDNaRVlrNVU5RFNxTXBzMnZiaW5La0NBMnpTdG5pS2o0STFNTXYtOFQwUVlTcFBFWHE3cVRwR1B4?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "\"Tolerancia cero\": Alemania destapa el acoso sexual en su Ejército y solo se denuncia 1 de cada 6 casos - DW.com",
-      "summary": "Un estudio sobre el Ejército alemán señala que el acoso sexual está extendido entre sus integrantes y que solo se denuncia uno de cada seis casos.",
+      "title": "Donald Trump ve innecesario un pacto de Estados Unidos con Irán - DW.com",
+      "summary": "Donald Trump considera innecesario un acuerdo entre Estados Unidos e Irán, según la información publicada.",
       "source": "DW.com",
-      "publishedAt": "2026-11-12T00:16+01:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOF9vMC00V1NOYTA2b1RiaVRCNHQ4eFo3TGFvRFRFS19RRnotRjlBaDhCdkJyTi00ODB5OEhndU5zelA1SDNNSFg1djlxejhMdFJpT2g4ZUF0SnkyZ3o2VnNYcEJEOC1hbXpfaFdPLUJKZ3dLZW1xdnREYWhOb011enQ2bHc3Um4wQUFhUjI1dzlLTGtjNURsVm43cjFMQdIBngFBVV95cUxNc3RhanBUdkJBWDZRM3RYVGJTV3dXQnp5cTZfcnpSd3pjcF9nZWx3TmlPU3Fxc250UnhmQlBXZ2xIWHdWS2poXzN2Zkg0SzRYUmdpX2F4eGRmOHg5ekZOWXZHM0ktQjd2ODd3RDJVaVAxaUg3VHpqdTRnc2FsLVZob2psdElJcXVUTTdBVXlGR21LS0VZeko3clY4R0cxUQ?oc=5"
+      "publishedAt": "2026-11-13T03:28+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnA4MUItQjlxb3V6UUJTeUZMQ25JLUk5V250UFAydHRaTlkwOTFTSDU4ZTBqTjVKSFpGMzh2bGdmQnBUVGdoY0R5WWtJNDZoWjMwQm1xSjI3dV8wLWJTMmZ6dWhaMzduYk9rTVZ4TlBEeVdVVXZ1bEV1blE5d01BRzFvV1hqcWQ0TDdSQ0FtUDRfZUxxZTJGYjhrdzNMckZxNjNn0gGjAUFVX3lxTE10UUZGS1M1VEZmV0UxTXhhalJzVE92S3hjN2s4QzRqa0dTTVRIQWxWd1lqeHgxRDNmRkVFcFFTQ3BBVld5V3ZQaFBWLXdDbjJjNHItV1NLMks5SnlBLXdnN3I1TGMyeWZGMmdCN1ZqcE5ydWc5RWs5OUZTY1VadmhkTVJaekxnV0g0U0Noa2RMZTJ1Y1otUmNQV1BnVDRDWGhrT1U?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Eisenkot cancela reunión con Likud para negociar un Gobierno tras discurso de Netanyahu - DW.com",
-      "summary": "Eisenkot ha cancelado una reunión con el Likud para negociar la formación de un Gobierno en Israel tras un discurso de Netanyahu.",
+      "title": "Hutíes reivindican ataques contra el gigante petrolero Aramco en Arabia Saudita - DW.com",
+      "summary": "Los hutíes han reivindicado ataques contra la petrolera Aramco en Arabia Saudí.",
       "source": "DW.com",
-      "publishedAt": "2026-11-11T22:16+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnFjZTU1OXRTNm0zQU1IeDB4dllKNTZ2Y3dpNmR0TE0tSEFEbkdDcG9oSVBnWnI5a2JDN3RLVk0za2NXZzRmOU9WT2dDUDV1WUcwTTRqUWNaeEpLQWNocHZzYmduZFhtQm5lbDlUeUZ0bk9yYW1WLWRiX0lScU90ckFwRzlnODBHSWxoeDlqTXFobDMtVlQyYVlmby1YU3Z5SUF0cEgxeFBxYjY2bUFDaTBKLWtHY2dNVHdMWXdNUHNVMGPSAcMBQVVfeXFMTWNrSlpKQ1lXOEQ3dUFQUmJIbHJ0c0F4OTlwUDI5NGNjcFA5WFQ1NWZaWmprZWlKcFpjQUc4RmhFOHl4dFBjbnRnOFlyRGZBU3ZtSi05RGJubW5rdE9nRVV0MTNYRDRUT2Y5SkQtNTQ5dGd4ZGQ4dEZfaVBvUjRqUTNxb2wzclFCU2Fwc1YwVm1yZG85UWt3clhyWFJFczVwUnJ6cjMwbnBQeVJpQVRjQXBzajRpRThJWlNFSS00YW85ZTNB?oc=5"
+      "publishedAt": "2026-11-13T02:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWNlOHdfNklGZUlyU0xFNC1VeTU1RmtfRDZGUnFxUHUzWDdWaHI2ZmNUZnp0c3g3OFI5R25mLWJOWDBqUjNrVVV6SXZJV04xSFlzQ0ZtZDVuTmstbDlRYWFYV1pjNm1iU1piN3hKNlNYN1RReF9haVdyQW5wc1gwS2h1cHRfVGFVWEt0Q25PdGFhdFNJYVBadUN1ODdkSUdYZGJGa0Q3SmVUaXRlOFh2MHVBbjhBbVAy0gG4AUFVX3lxTFBOQXJaSlR1ZTRGdFI4Z2J4RHB5NkY3bHY3N0x2d3RWZmotWHlrQkVEYW43WkFZWmRIaHBFME5yTHA1akd2MVEwVFVMXzZhYXNfa240LW5KLVhkRDZXekk3cXFrSHBZNlp0aDFZV0p4Zm5uWV9vYS1zV2ZzNU1jTGNnTUplTzF0cEgxVlBHbTN6M0xsWC1JQ0tmdG1EM01FWURUZjdOQVBDdkcwT3FZbW9mcl9GeVJyQ1o?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Enviados estadounidenses se reunirán con Putin en Moscú y con Zelenski en Dublín tras las conversaciones en Abu Dabi - France 24",
-      "summary": "Tras las conversaciones sobre Ucrania en Abu Dabi, enviados estadounidenses tienen previsto reunirse con Putin en Moscú y con Zelenski en Dublín.",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T18:05+01:00",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQd1IzUDZ0Umt1eTRHU1JzM1Q3bUJyT0JBY2dhU3lZenVobUJOU25sWTFmVlBmazN1VHhvdVhrZHQzNTRDOF9YX2FSMmRJQWVyY0ZZbE1JWEYzS2lneTlyYmJjeWx4aFF6cmIwSWJwSEp0LUxxNVdzdXdmbHk5Q2wydm9kczBzLWJNMjRSZWJuSkh3WXRjeVF5dkZlSVMyWTB4QkRmMTdCTjZuMVdUS1UwQ0QyMmluTEFZWTZTOVhudEdCQy0xRmQ0LTdPUHFyN1lLdEM3OE5lZGEwem5QSF9lX0lhczg3ak5lejFtRGUzR2RDREJPd0htSENrWFA1NWI5czQ1TmFMVmk2WFp1OEIwU2ZR?oc=5"
+      "title": "Zelenski celebra participación de la Unión Europea en las negociaciones por la paz en Ucrania - DW.com",
+      "summary": "Volodímir Zelenski ha celebrado la participación de la Unión Europea en las negociaciones de paz sobre Ucrania.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-13T01:27+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmV5N0pKbm1uNVpUV1pFMEZhZURObXdNZ2JWc2p5Vk9YaS1JX0tjYXR5N1R5dHo5d2o1N21qeUo5azl1MU00QmVTVVF3bnc2SjdlNF84N2ZSOGMxdWlxZElwMHZ3emtid0dTV21vMTMyWGxkMUowRVdueDR3c2k5aTJjZm5BcWR2bVlzYWVyMG1rQlZaUFpNeDJNVTU2NVhJRnNsd0NmdzIwMjYzTmlNYTFoZUVZRDJYU01vazBycklrZDc2eDFwUU9uNVNhcVJxNWfSAdIBQVVfeXFMUGhhaFBRVDBFaVZLRkdKY3M5Z3RjQlI4dW5kd3luVTA4c3B2S2FRZUtWUXpMY3JJOXNtTTlTb3g4dFRDTHlEOEhxaXNwZmFnSnliYWNwYWlFUk9ka3dLNTVrb3NCdzVxWVJPRlNaeW5MRlZkT0ZPekJYRnhfeFJ3YURqZVozeEVaTHIwNTFkaWlVVXY1OFFlUnhEN3UyOVZUZ1JRamhPMHdoTkktdGM0MnZRbGJGSjVod1ZZYmk1akhoRllvNEdRSm5SWEIxekxscEdn?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Guterres alerta en la COP31 de que la crisis climática avanza más rápido que la respuesta mundial - RTVE.es",
-      "summary": "António Guterres ha advertido en la COP31 de que la crisis climática avanza más deprisa que la respuesta internacional.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-11-11T12:46+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2s2TTJVRXRWZk5pZmNCT3lRYnNqLXpIWUs3STFnc3hDU0hZWDg5TTZKZURwaFQ0UEw3anNRdlNlejJScjg3VUM2TmZuNnUwZjRSVXlreDQ3WkhoUloxcUpaZ2dpT2thYm16U1J2VmlmcXRqQkJaS0g2MDh5VTltdGkzelJOQnhGbS1kQ3dHNDBEWmtMSXAzaUxXcC1IRUkzd3hlY0ljNndKNEkxMmg0TkJfME5NNVZ6NG1leFhKaVY?oc=5"
+      "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo - UN News",
+      "summary": "Enviados estadounidenses viajan a Dublín para reunirse con Zelenski tras conversar con Putin en Moscú.",
+      "source": "UN News",
+      "publishedAt": "2026-11-12T21:57+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lTEZwdVBaX1NOeWZNcXdheUNUTFpERW1WcUpTTXhKU2RCZ2RiYVZ6SmRQWU1pTkxLUjdTdk1ZeDJ3TUNZdDQ0dnJhVy1nQTdGdXJkSDZJbw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Bruselas advierte de que los ciberataques a supermercados deben servir de \"llamada de atención\" para Europa - 20Minutos",
-      "summary": "Bruselas considera que los ciberataques a supermercados deben servir de aviso a Europa sobre su vulnerabilidad digital.",
-      "source": "20Minutos",
-      "publishedAt": "2026-11-11T20:52+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQjc5MXBHdV9OMjJ0ZXY0bGhnUk9XTFIwYnM1LWl3cXU2RFlkOGdOSXBfVlhuaTVOR0ViVm5yNy01azhIajF4ZlU0SGhxNzJzLW1hZG1MckpPWFZJRjdPZDdEaEJObTBMWElGQnNqNmRCUHd2MHRueThtdWppMEZrZEpzQnZMOUlqaWpPRmJ2RGhjdVI2enJENzhkRnZhR1pSdjBnZUdJMm03Y243NnZqWng1VGRNMHROMDZXS2Nna2MyOFczVzNUN0YzUWFRZnpfSGtnSlJiUTJGS1VUbmZNY3l30gHnAUFVX3lxTE9wRWozWGlzZ0JFdUp4a2dPdGRKUHBEVVpQUzdQOWxpRE53NmhhaTg5eTJ4cjlkRlltWTV1MG1OMmstT3YwYVBaSWhvME9NajZZQVBwMkktRWpiVkRvdnBrX2FQWWhEaEFjdmpxdzYyRElyTnBVMDc3UWdlWW9HWFVqREE4OTRXOUNaUXlIWlQyNTE1X0RxckJNS0JGb0lMVl8tZlVTYlpIWThpNWt2djl1Z19hSE9YMHQzY29mWE8teGVfLUxhd1lYLWVqSmhxN2lwRGwwS0VkTVdpb0NKUHlVU3BEZnlLdw?oc=5"
+      "title": "Enviados de EEUU viajan a Dublín para reunirse con Zelenskyy tras hablar con Putin en Moscú - Los Angeles Times",
+      "summary": "La ONU denuncia bloqueos israelíes en Gaza mientras las inclemencias del tiempo agravan la situación de la población.",
+      "source": "Los Angeles Times",
+      "publishedAt": "2026-11-13T00:49+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFl4bWRuVDhmSEJZcDNnREpwNFJlWlp4SG05ZDhlVUNWN1VhY0ZJb0xwREV4VVd6WC1JUE1wbTFBcjNLZWRlT0RFOGtlajhtQXdiNkQ2b2RiaFlwWXYzeEs5Mm1uVzZGMlQydVVUSm9QamlCWldXNnJ4NnEtNkJhQUJiT1lGcTVqR1RsclBCNUlQUGk1OGttWk13QlRneHdJVHhhTXU3RXh5NkdIYUZVODBHekxNeWZLMlhXUmlaakpEX2NIZU1odnkyeEtMR2xlMkJKc3g2ek9Db0N3OXdldWZ6MVh2ZTROdVlz?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Paraguay devuelve parte de sus ahorros a todos los clientes de Ueno Bank con fondos garantizados",
-      "summary": "Paraguay ha devuelto parte de sus ahorros a clientes de Ueno Bank cuyos fondos estaban garantizados. La mayor parte del dinero sigue pendiente de recuperación.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-12T00:12+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/12/6af4f63ae9cf4a9c698b456e.html"
+      "title": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera - BBC",
+      "summary": "Donald Trump ha amenazado con duplicar los aranceles a México si el país no detiene las caravanas de migrantes que se dirigen a la frontera estadounidense.",
+      "source": "BBC",
+      "publishedAt": "2026-11-12T20:16+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UZWhiTGZTdlpvMjVnaHA0TmdpWGJ4azMwWUVsZHVCMWpFVHpFbFZFOWpuLW9KUmVMQnJ6NWdJenVlYktub3E4Y19rNlV4RUdBbkFBZUp4aWlHSk1J0gFiQVVfeXFMT29fRG05MFg1NW1kMi1XOUFVVGl0Ym13eF8tMkFmRmdKMzhGNkpleHl2eFpLeVhUeDV0QTVVdU9GLXlxcFpzVHVzT282SDk1cHVId25yYnlKY1htUldyeHFyY2c?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Muere repentinamente el embajador de Rusia en EE.UU., informa el Ministerio de Relaciones Exteriores - CNN en Español",
-      "summary": "El Ministerio de Exteriores ruso ha anunciado la muerte repentina de su embajador en Estados Unidos.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-11T19:18+01:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzNvQ1JFX0dObWVGN2JTNDZSWGNPZTFUWnhsSEo5WF9FX1MxbkwycUZJdVhncnFfeHNwdjJsZ1F0ZW45S1hEcC1YNmttcHJOSjdiMDM5eVdvcHVQeVlLcVpnekY0Q0N3V01vMndNSHRTV0RjS29NRTFTVVZYQkpEYklxZWZCeFhhM1o0SnB3?oc=5"
+      "title": "La OMS denuncia que \"la situación es preocupante\" en la RDC por el fallecimiento de \"demasiadas personas\" de ébola - ABC",
+      "summary": "La OMS ha expresado su preocupación por las muertes causadas por el brote de ébola en la República Democrática del Congo.",
+      "source": "ABC",
+      "publishedAt": "2026-11-12T18:01+01:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlAzWlNSM1BVVFF2aFhfWkJxWHdDbGRaNVB1U1VOZkVWbXhrQWJRZml6RTdGREZoVVF6bkJCU2phRXpZb09wQ0VTc2ZkYkxXaEZkN1FIZ3hDZl94QmtXNWk2dmpmbUxjMHRlZkxiblhTNTFvUmpBR2pPSnMzWWdLQThHeEtWYXNfSFdGc3QydVBJbl8wVTI2ekZWX0g0NFo0UEpyWWJKSFU0dl9fNzNlMNIBtgFBVV95cUxQVHE2Qkg3MERZZVNISnJPS0M4OXJfcXI1MjJ1LVdJZEF0QmFqb2p6cWZPN2hkdDFES1QweUlNVXF2aWdIQVIzYmJwYjFiSjVjSVA5OXBJSGVaNGtwekFZcDExTkNUelo0Vms0ZG51U2xINGlacDdLS0ROLVFmME1WQm9iSVl2U2hLZVFBeWtQMThsUUZmTnpYT3Y4RHVCSFR0NWRscVczY09MaktybEx4RTJoSURndw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Inglaterra ordena el confinamiento de todas las aves de corral por el creciente riesgo de gripe aviar - Animalshealth.es",
+      "summary": "Inglaterra ha ordenado confinar todas las aves de corral ante el aumento del riesgo de gripe aviar.",
+      "source": "Animalshealth.es",
+      "publishedAt": "2026-11-12T15:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmV0WEtKc0VtcWdnLWctTXVmS1Qya0docVhrRjc2bkllUXdjaXdfem9TblNUQ29UcXZkNDljSVpKSUZydmZFX3J1TWE2QmhrcFRDb05kMkhMTnk0NUc5QjlOLVdtZVdyZkkxZVZnTGV1cTZOblY0bUpvZzFFNWdnbXMtMWdDanJuQW9aT2FoWG4xVXJYQjk3M3loZTFxVDRJa2IzajB5YzJUQkU4cmFBZ0JTMzFkd3N3QUJHXzI0ONIBxAFBVV95cUxQQ0FqSWNxQjBxWEhlRmJrQ1BUV0pDMDdKQTJadlUtRWRRSGowT2dUcU5ZTHZhcTJhY1JaT2lhbmVJTVNwTGlMZHRoYi02RG9lbUFRblg0YUJjamVMU1pUS3gyU1Q2eEZpcFI3Unc0UmFnT2h5aEg3TEVUY0xHTjdRMlM1N0JCaEg3dV96NjBFWFlEWC1hMS1LdnpKaGhlZEhWTzY0V1B0TTBtNUU3SVpyUWpoQTRnQkVZZ0Vab0pMdTN2Y2tX?oc=5"
     }
   ]
 }
