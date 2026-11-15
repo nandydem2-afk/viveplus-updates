@@ -1,160 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T06:30+01:00",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Derribo del puente de la Zona Franca - Diario de Cádiz",
-      "summary": "El derribo del puente de la Zona Franca centra una noticia sobre esta infraestructura de Cádiz. El titular no precisa cuándo se hará ni cómo afectará a la circulación.",
+      "title": "Licitado el contrato para una nueva relación de puestos de trabajo en el Ayuntamiento de San Fernando: más de 100.000 euros y 12 meses de plazo - Diario de Cádiz",
+      "summary": "El Ayuntamiento de San Fernando ha licitado la elaboración de una nueva relación de puestos de trabajo. El contrato supera los 100.000 euros y fija un plazo de 12 meses.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-14T04:59+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0VaZ092MEZDdEpOdDk4alFlTzR3V29kcTNsMmtLZ0xUZkpwRnVUelpKN1NNc3NvUFBHWU92bmpHZnAxSTdEc3EtcGRrb2gtQ2pRSERlLXlialZGQ1k1QlZJOE5wdXhZMHlKWjZrOWdNMGR6LU1UZnNkNmt1cXlnbWx2aEdQVGJ5cldUT090bWJTS1ZvTkYw0gGcAUFVX3lxTE9abmgwMF96QXdmSE13enZnNWE0cTU3a3ViMWxaclNsWUlPbUR6UnBEeUMtall0Wk1KdEQtMjlRVHloV3ZYUEZMYnZXOHBDbWtQaXhVWUlnbjBLVTVpeDF5YkFxY05VVUhJaG1KOXptWHZhbE9scTh4TUxrdElFdDRYbGZsOUpUTk80bWFZV2FPZkJnZUN3RWFMRUZuRg?oc=5"
+      "publishedAt": "2026-11-15T06:01+01:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1BSN2VRb3VOeElSYzhfVW5NOUpxbV9Kd1VJaU9NcDF3TjIyb2tEZVQtUXVGSHN3ZTFhN25lQXlURUJaWXhQNGk0OGhQN1UyYjF3d0NPZ0hZUHpqT1VNaXhTOVRrUjZuQm9YS3VfM3RiTTMxXzY1MVpGOTEtNFdFS3NteWNOSUcta2gzWVc2TEdvX2pHV3dETENkbXlJcVVzNFp2VndUN1dxVUVoTmJtMWdmRXo2aVVXR3VDZWszVXdNdUw3T3lfcXdfU1djQdIB0wFBVV95cUxQanBjN3REZlVMZHFrY0JZZ1JPWHR4djFITnlvUzdYX3dlR2FkVFlIa1AyWlg5aWstVk80Q0dCUzFyMDdiYU9BWVY2OTVIbEt1Y210OXVTUXVXZmlZUjhWWGZxUjBHdVhLT0x6aTN2ZUZzaVVrclFQR1dBTkR1V21pc0xiUUcxYVBMT2NCY2JqdE1wRUkyckhKYndMaHFuM0w3Ni1PNFhNSW04YWMtcldNWHVfOFN6OXlTYURqMm0xYzhweElFVGxmSHFucjBnc3hlaTlF?oc=5"
     },
     {
-      "section": "Mundo",
-      "title": "Buque choca contra crucero en puerto de Nuevo Orleans - DW.com",
-      "summary": "Un buque chocó contra un crucero en el puerto de Nueva Orleans. Los fragmentos indican que se rescató a los pasajeros, aunque ofrecen cifras distintas.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-14T06:15+01:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2NIQjdzaVNQemxDSGV0XzN4NTRWSFVubXY0aEFPcGN3aTdOSmgxNUMzRWQ3N1BnT2VwRldrWURTTXg1OTFtMHI5OV9ha3hOVmJSMVJLUEFUeV9FZW9Gc1cyRmxIcWdQdlRlRlItNXAycl93MEpSWmRMMlQzS2o5RGJQclJidEJpY19qMDhtc9IBjwFBVV95cUxOb2lXZFYzR25lTndrbndVQkthQXdxNG81RFpSZ2NiNmhpamt3eERmV3BYOGpTQ3Q4TG52NUhjMVRVYUVmVHNLOXdZOWVDNnlxZDNoTldGQnhUZ0NrZHRPdW5QRVFMWHdxWkZkQXQ4VnBENl9XeURuWnhCZC00NXZFTmZrUm9IN1AyYzlkVVEwaw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Starship de SpaceX entra en órbita terrestre pero descarta captura del propulsor - DW.com",
-      "summary": "La Starship de SpaceX alcanzó la órbita terrestre en su decimoquinto vuelo de prueba. La compañía descartó capturar el propulsor y lo desvió hacia el mar.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-14T03:04+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnR5Ti1fckE1MkVfLU9aNUNVaUtwNEdlYk1zMHI5WkFPU19sMXdtWmVkU0IxZFpmQS03ZGM0YWxrbmZFQXNmQlhHOE5GTnZuQ3otTGM1UlZOalVCNFhvZ0piczRfZUYxeHVqRTNQR21KRS1xOUhVUkhJbVdwRUdHbzN1Y0ZjN0JheVFBSF8tNl9ZaGwxM1dXcW9YWExYNXJNcnJTa1VjMGlyT3RwUktxWHUyWlhCOFd5ZlHSAboBQVVfeXFMT0ltLUVDaUZDLXRqWjF1eXh6RGxndXg4WGtaUjhUa1ZpVXNQall5NGdaZGI5NTB3OWhYTkxQQzdYYVg4eVloLWYtVWdIQ3ZoM2Z4Q01fOXhFOFJCQjNhRF9mR215YUpkQTZfQnRWWTBhTjVBQzZ1WHpMblZKWWpZYVpEdjFhLVpnOWkzRC1kZFBIMHBrd280N2tjUW5xTkhnVzVfU3ZaS0ZmZW9fSkgwOFRTX3duUmRmR0Zn?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Chavismo y oposición abren cuarto ciclo de diálogo sobre reformas en Venezuela y el camino a futuras elecciones - CNN en Español",
-      "summary": "El chavismo y la oposición iniciaron una cuarta ronda de diálogo sobre reformas y futuras elecciones en Venezuela.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-14T02:41+01:00",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVF81UFhvN1dILXVIMVhHN3pjSWppUTZUSGpRN0l0eHRKUEp3YW9WTmo1NklpWURWanRGbWttLXluemRCSDFCbEIxejdLLXo1ZDlvVTVvSXc5SUZNZXZxRUx6YkZUOEw3RHVpT19TdGlNTzM2bzFiMmd2eU9POXNEMUlHTHUxN3VHcWI2dXNR?oc=5"
+      "section": "Cádiz",
+      "title": "El Cádiz CF ya sabe que saldrá del descenso si gana en Eibar - Diario de Cádiz",
+      "summary": "El Cádiz CF saldrá de los puestos de descenso si consigue ganar en Eibar.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-14T20:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzk4ZW9SZE9tWUFsM1pOQklUc21jQUswaXQ1dlRwTUt4LXJYeFU0V0VHeEpJTzdFMWp2UGQ5cWd3MHBFWDJfTHRvMlBHay0tVVQ2clBSVFQyTjNMUjE3LTVFVFdVdWFGbmd2UTQzU3ZrLU5HQ2ZlcjV3a2h5V0ozYkpCeDRLcE5POHc?oc=5"
     },
     {
       "section": "España",
-      "title": "Cuerpo entierra la herencia de Puente en Renfe y Adif",
-      "summary": "Joaquim Hortalà regresa al sector ferroviario como presidente de Adif, cuatro meses después de salir de Renfe por discrepancias con su dirección.",
+      "title": "PP y Vox se aferran al 51% de los votos y hasta 199 escaños con un PSOE estancado",
+      "summary": "Un sondeo sitúa a PP y Vox en el 51 % de los votos y les atribuye hasta 199 escaños, mientras el PSOE permanece estancado.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-14T01:04+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/14/6af756e321efa0c94b8b458f.html"
+      "publishedAt": "2026-11-15T01:10+01:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af8afeae9cf4ab47b8b4586.html"
     },
     {
       "section": "España",
-      "title": "Vox también se quiere parecer al PP: modera sus metas en aborto, eutanasia, autonomías y LGTBI",
-      "summary": "Vox ha moderado sus objetivos en aborto, eutanasia, autonomías y derechos LGTBI al inicio de la campaña electoral.",
+      "title": "El coste de legislar mal: Hacienda reserva 13.618 millones para indemnizar por litigios perdidos",
+      "summary": "Hacienda ha reservado 13.618 millones de euros para posibles indemnizaciones derivadas de litigios perdidos, según las provisiones de la Cuenta General de 2025.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-14T01:11+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af72340e4d4d8ce338b459d.html"
+      "publishedAt": "2026-11-15T00:54+01:00",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/15/6af5f19fe85eceed7a8b4588.html"
     },
     {
       "section": "España",
-      "title": "La IA renueva el interés por volver a las oficinas y apuntala la demanda: la inversión se dispara un 21% en España",
-      "summary": "La inversión en oficinas en los principales mercados españoles alcanzó 1.962 millones de euros hasta septiembre, un 21 % más y su mejor registro en siete años.",
+      "title": "Un alumno de 13 años, herido tras ser apuñalado por un trinitario de 12 años a la salida de un instituto de Madrid al grito de \"baja patria\"",
+      "summary": "Un alumno de 13 años resultó herido tras ser apuñalado a la salida de un instituto de Madrid. El presunto agresor, de 12 años, fue entregado a sus padres al ser inimputable.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-14T00:52+01:00",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/14/6af7298dfc6c83cf188b45aa.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Muere una persona y treinta resultan heridas en una explosión por un escape de gas en Argentina",
-      "summary": "Una explosión causada por un escape de gas en Argentina dejó una persona muerta y treinta heridas. La fiscal del caso solicitó detener a dos directivos de la empresa.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-13T22:55+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/13/6af78660e9cf4ad0798b459b.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Estados Unidos reabre sus aeropuertos cinco horas después tras cancelar miles de vuelos por un fallo en los sistemas de control",
-      "summary": "Estados Unidos reabrió sus aeropuertos tras cinco horas de interrupción y miles de vuelos cancelados por un fallo en los sistemas de control. Los vuelos internacionales se gestionarán caso por caso.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-13T22:40+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/13/6af7806bfc6c83c8238b456e.html"
+      "publishedAt": "2026-11-15T01:02+01:00",
+      "url": "https://www.elmundo.es/madrid/2026/11/15/6af8f4b7e9cf4a5c798b4572.html"
     },
     {
       "section": "España",
-      "title": "La Federación sanciona con 12 partidos a Owono por la acción que acabó con la muerte de Jesús de Miguel",
-      "summary": "La Federación sancionó con 12 partidos al portero del Andorra Owono por la acción que acabó con la muerte del futbolista del Tenerife Jesús de Miguel.",
+      "title": "Llegan a El Hierro otros dos cayucos con 834 personas, entre ellas 21 posibles menores - El Mundo",
+      "summary": "Dos cayucos llegaron a El Hierro con 834 personas a bordo, entre ellas 21 posibles menores.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-13T21:57+01:00",
-      "url": "https://www.elmundo.es/deportes/futbol/segunda-division/2026/11/13/6af778ee21efa0c94b8b45a5.html"
+      "publishedAt": "2026-11-14T20:24+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FUERrR1NHbDk1dUhFbm5GQkIzc3IwOEMzanBQLUIzdGo2anNsaVJPOWJCY1REWG9FSHpJcHRvUnpyM3B1WVlsNzNaNkpWNUlqQTlOR2JYSzN0OFd6T0VFWm15YkljS1RmUFlDSUQ2bTVrakpValQ4RkRn0gF6QVVfeXFMTmMxNFVwTjBCNDlHdzZSdjktcWVuTUVHY0NKejNkOFd6bEFtQ2lKekUzV05pakFJcnR6YnFBMUpxX0hYUDVxWnRoZTVmdl9WcXBiSmREOFJyQk9CWlhiV0t5cTdGUjBueTNGWkx3MXlZY3RDeVlhRzNreUE?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "El candidato del PP en Gipuzkoa, Jon Echeverría, es apedreado en un acto electoral en Hernani",
+      "summary": "El candidato del PP en Gipuzkoa, Jon Echeverría, fue apedreado durante un acto electoral en Hernani. El partido anunció la suspensión de la gira que tenía prevista en la provincia.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-14T15:48+01:00",
+      "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af874bfe9cf4a75228b456f-video.html"
+    },
+    {
+      "section": "España",
+      "title": "Un frente atlántico dejará lluvias persistentes en Galicia este domingo con rachas muy fuertes de viento - El Mundo",
+      "summary": "Un frente atlántico dejará este domingo lluvias persistentes en Galicia y rachas de viento muy fuertes.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-14T16:40+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10YVBsYXhnaGoyYlZFWTBuTUtJTzB1NUxNaDk5YW91ZkQtZ2JsVGNCWVRlWkNPYXBWTC05d0ZOYTc4YXJiSnF0aWpEczBwRFJWTmdTOUdlcUFoSzJWWExxWnp4eDdSMHJ4M3psZGd1T0NWMVc5VU5ac2dR0gF6QVVfeXFMUHVRWjdyVHd3cDMxakVWcFNHeVlzOHdXZGlvdHBJT1Y1VlBkd1ZaWGEtZzJzRXVXbmM2TmRGOWRiN0o3Yk9taXJjWHZ3cGdvdmJkQWxXQTVHN0hVc194Z3ptZmxsUXBNOUlpOTl6MGNhMUFoRlBndTc2dVE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Yemen: más de 333.000 nuevos desplazados - Vatican News",
-      "summary": "La guerra en Yemen ha provocado más de 333.000 nuevos desplazamientos, según el titular. Los fragmentos citan cifras superiores a 340.000, por lo que el total exacto no queda claro.",
-      "source": "Vatican News",
-      "publishedAt": "2026-11-13T20:58+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlZjLW41aUJVYVgwd2FwczNocDVHSTVCeTFZMERicVRsbzRjWVc4bXVlN3VQa01LdWl1WWljYlNiZENxRi0xRnV6Q1dEZ0x3NkNSQ1plUVhCUzE1RWVPbGhNc3JVdUhzU0lrRHd2T2tITFJkZlNiQUpmckpaRHd6UnpJOUE0OHVkaVJjOXQtOEU4cVdlWnBRMg?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La UE enviará representantes de 5 países a las conversaciones de paz - Euronews.com",
-      "summary": "La Unión Europea enviará representantes de cinco países a las conversaciones de paz sobre Ucrania.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-11-13T20:23+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUG9rb1hPZVA0N3JKbVBERl9FbGFaWjFLTWZ6VGxJVHJxWWpxNkFDcDRNeUxXOE40WUdqWDJVWTlvbEFTRUNmMUp2b05rdzB1U2FmQjgyc1NqYjVXb0Y1SFo0bXB1aEUxaVMydlEyZEgtQl9vVzNmNlNSRkFJaVV3TGp0U3FkSW5YYkFEWWRSZTZ6cGVQNy1ld2xKYUtKN3d3NUVVZUhRSWlDQU5fSG5nZk55M3YzWTRNTFdadGxsSQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Alemania refuerza sus servicios secretos ante el temor al espionaje, terrorismo y amenazas de Rusia - DW.com",
-      "summary": "Alemania refuerza sus servicios de inteligencia ante el temor al espionaje, el terrorismo y las amenazas de Rusia.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-13T16:38+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblNVMldidEtMb2R6QzZxNmFNazNjSl9tOXp6cGFMbjVLN1FvcDRVeU5XTDY2aWljVEVja1ZOaXJoNmZLU2tBVFh5ekM3dmNZWThlUGg4T2NHOVBkYmNzeS15SjljQU9FWTRkdDZjQkhNejZHeVdhM002OWkxdXJremcyV3RDZXNtYnp6UElHUmliN1I1UTJDZ9IBmAFBVV95cUxPWHZGMG50MFVSSWF0UU1ka0Y5M2wyVjFvQTMxRkpQaTVWc1Z4X0RuREJDc1FLQmJpa2ZSbUxZdU9KN09xc1pMTFhIVTFxTzgwZGpkZHktSS1WQ3BjVU4yMWhJb0ZyVFN4c25TRWNHUUd0bTBTWHdvbzNUYjA5R211bXp1YVdxamRrZHhjQkhUVWVNdDZ4NTVmVg?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos - BBC",
-      "summary": "Estados Unidos afirma que transfirió a Venezuela más de 12.000 millones de dólares procedentes de exportaciones petroleras y de otros recursos.",
+      "title": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN - BBC",
+      "summary": "Zelenski afirma que Estados Unidos planteó a Ucrania ceder el Donbás a Rusia a cambio de entrar en la OTAN.",
       "source": "BBC",
-      "publishedAt": "2026-11-13T16:31+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yRTc0U0dBb2xudjdrejgyT1Q1QkVMb0hNM2tiNWcxbkZ3ekJTd3ZNemNjMHFzTFNOV1p6cVA1UEZaRU9EYnhfTzF5UXFyNWFSSW4tM2hjcjdkenk40gFiQVVfeXFMTWk0RE1MNVZQLU9OVEZwV3hyeHlUeDladFBpTUJjT2VxblF6M3BiMnN3aEdPNjNyQUhDRnFYNW5TREt6NkVweW11X1VWX2hGeWNCZWR4dkZQLVQyMTdSc3dVN3c?oc=5"
+      "publishedAt": "2026-11-14T17:35+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93UjlTTDBhMEJySGVtcVozMlFTMExHUS1fQnp5S3dDQ1g3elVXVTZLZ2dpWlluckFFZ2RnZVpBWGtzSGwyazdmTG11eDdCYVVSangzeFlJLUVvbHRP0gFiQVVfeXFMUEhMdzM4Szc4ckhQSm95dkZldEZ0b1l1YXZhOWJwSERzSEhNY0szWVpMVjRHTFhJYW9WTmZZQV9HTTlRQjRheEFHdUFxc3NHWDdYT3Rtd293TnhWUDlQUmFraVE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Las primeras reflexiones de la COP31 exhiben diferencias entre los países sobre la acción climática - France 24",
-      "summary": "Las primeras conversaciones de la COP31 muestran diferencias entre los países sobre cómo actuar frente al cambio climático.",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T16:14+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcVNMSEdXY3VJcVRBa3dlYk5hRjNETzZaUnR5TW9wU0xCNzg1S3dCR01qUmxLSUc1ZnU0UDZFbXFFamY1eXpRT2lGUFRYSnpFekNQX1BBQkFVdlBYem92NExXLTAtRGhVYzdwN19Qc2VHUzFPTEhtd2hwWEJUZURSVHFfc3d3MXpRYTlOV0RSZEdTSWZCT1VqR0M3U3BiWXhWN2RiWmpDdnhJUlo4SHRfaHdqN2F1UDh5aWw1cjlBWTZxSEpVVTVlRnRlNmVUOWpxdDVZUEs0ZDRoTHVPT1pJemozbEU1dEVscmRjU3ZzYmdIMnc3WlJQa2NB?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "La Fiscalía denuncia a TikTok por la elaboración y difusión de contenidos de abuso sexual infantil - El Mundo",
-      "summary": "La Fiscalía denunció a TikTok por la elaboración y difusión de contenidos de abuso sexual infantil.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-13T15:57+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBON0U4d0dSSjhobHQ1Vm96anpVMTZZZ0FHeWFfQ3RMWGhiTG5kbVctQjI0WGZxejVjWHg3d2tDY1dMM1hFTHZENjJwUU1iOUYwNE5rXzlaN3ZPZFZ3dFVia2oyMjVXOWNIMU9JbDNlcU1PMXJpRUZ4bklB0gF6QVVfeXFMUE43RTh3R1JKOGhsdDVWb3pqelUxNllnQUd5YV9DdExYaGJMbmRtVy1CMjRYZnF6NWNYeDd3a0NjV0wzWEVMdkQ2MnBRTWI5RjA0TmtfOVo3dk9kVnd0VWJrajIyNVc5Y0gxT0lsM2VxTU8xcmlFRnhuSUE?oc=5"
+      "title": "Rusia condiciona la paz en Ucrania a que la OTAN se retire del este de Europa - La Vanguardia",
+      "summary": "Rusia condiciona la paz en Ucrania a la retirada de la OTAN del este de Europa.",
+      "source": "La Vanguardia",
+      "publishedAt": "2026-11-14T13:57+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWnV1Z2xXVUF3bHY1aTFVcF9OUnEyazVvMHE4NDgtT0NCOG1aQ3dQbzJ1Z0FROWJIT0xWYkxLVWtDaUpidnZPenN6UENmRnBVbVZRTWN5dklRYzFQUWZ5WlQyZW5wU1RNMGttaVRNYmI3dXFQOVVZVm0zZEtoLXQ5MExjeVJUWEpqUDlVdjdwYVBWdkRUQTNlUUFyaDJPcHNMVXpnMHRVLWxiWjFBZVFqQWJQbWp5UVZwT1Z2ekY2T20zb2ZCNXdMZkh1NjJrWUNCSl83MlBfQ3pNdWPSAeABQVVfeXFMTjE0OXFSd0ZnUXhRQWcxZUlMTVp3X09fTnc2SzRNVWl1TTRMdHBlc2FCbGpkdGRBSTNHaWZSMGtZeUxRRXNHN29GWkY0bzNsS2tONWZsTFdVNUxnSFNnWkpEWmpQX09HM1NPeHZVM01rRzl4bENKMzJDNHhqXzdWY3pBVV84cGY1c0xyQ1FjbTdXQTd6ejdIeUtKS2hFUzBXRWh5aUZlZm1wM0dhaXc4NEZjdFdUUXhuZDhXWG1hOXpRUGdkaHJBenlFMVVvbGVBcWVKQW02QmZQVzZ6NGxvMDI?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Rusia propone que Finlandia salga de la OTAN para acordar la paz en Ucrania y Helsinki tilda de \"indignante\" esa posibilidad - 20Minutos",
-      "summary": "Rusia planteó que Finlandia abandone la OTAN como condición para un acuerdo de paz en Ucrania. Helsinki calificó esa posibilidad de indignante.",
-      "source": "20Minutos",
-      "publishedAt": "2026-11-13T14:45+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOTN1SEtnaG5BR3k5SHJQbVI4YkhVaWpuX3lzQU1FT0RTbDJuN3lGdTlrc2NHZ0xzamRzQXF0VFptT0xrbHBpdjR6aHJEMHVJVWsxQ1liU1ZvNHh5U2JGaUJkNFhUcEpzVDItTlJaZEtnZTJYbG5WYzdBb3ZLZ1dNcUo2QjBseGhNcWZucEtuQVY4T1AtTTZkWFVHejZzTXNNV1h4UWh2NjQ3QmNESkNORDhPNkEzRFlHeTB5QlZqQ1luaDdiTmxIZUFzUFpqelpDMWRDODNJTUl0QWlXT0RoOUdiV01QOGMwREhMdVEtNHrSAfYBQVVfeXFMTzV5dnA5V1V6SkVxUFZGQW92ZmhQamxnM09HNzYyTnVlT2NFY0l3bnRUQ0ViclJPal9KZFlJQkNPODhCWUd2cFQxeUxvMUk2aUxrWGwzQ002bExhdHMtZ1RydkNZUTNaZ21PeThoeWZReTF2Q3Ftbk9NUWRqX3pCNGN1UjJ2cXV2d2M5RF9sanJPNWVyTHJrTW9UdTlWd3RCWGVyWFhtLVdDZVNLZ0lMcTJzZVJ2OHZILUd3Y1ZNZ3hnNW1sUE5xQU00TkRvQjl3a09DdDJFdFNwUTFLT2FtVFJXbWNneWxuVHVpSXJqYVFpYmpCNVJn?oc=5"
+      "title": "Coalición saudí intercepta 2 misiles balísticos disparados hacia Riad - DW.com",
+      "summary": "La coalición saudí interceptó dos misiles balísticos dirigidos hacia Riad, en medio de un intercambio de ataques con los hutíes de Yemen.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-15T05:05+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1dDOVVrNHAzRGJnZklPcks5dUtoelg3dTBsQU1qX3JXREY1UTJtMXBJTmFCcnlaSmg3VGttcVM5N1pDOTRlc2t3X2xTcFZ1NHdJTmxuR1FEeVJXeGlsTVBlUXpUWEtOTXF3ZXdCZ0FPVjJEZllsbXFoU3pJNFFMSUxDSXc5MWZHMHVUTHlreGxqdlNjMXVDZjF4Y2h5UVJDcUlBYjRIQ3pOTFdYVzZ0UHJ2WnMySkhWQ0M40gG7AUFVX3lxTE0xSklYeThRVlNFU1Z3YXBrMk9fM1ZaMk5ScTM3YlZNcVJWUFFYRVZBbnVlU3hjeWdiSlV3S1EtZmRicWc1SVptTXRtMW5IS2tOcWZzaURWOXRTZHFhTWdMTWhWM0prejJKT1doY3Rmb0J0RG5pUEtLdlNQa1V5SUY1WjUxai1abHVNTGNVM3VWTlVDbU1Ob2hocVdnSVJCaGpPOUc2QnBYOVZ0X3FsWXBEelNkcUFmU1hhX0k?oc=5"
     },
     {
-      "section": "España",
-      "title": "Oleada de avisos de bomba falsos en Madrid: se registran 30 en el último día y medio, y las autoridades investigan las causas - El Mundo",
-      "summary": "Las autoridades investigan una oleada de avisos falsos de bomba en Madrid: se registraron 30 en un día y medio.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-13T14:38+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QOTFfUEdwZlB1ZVloQWduYUxmQ0pvalhCYXVwSl93TlJmV1V5NkQydmZQUFNJQ1VhdFM0NmVTM0s3RFdseTItajdRRUF3S1ZzX055MlhmSFlwMlVUTXZEZzQtZkNGbU52WnhpWXBTLU1saTBGdVl0ckRB0gF6QVVfeXFMUGE2UWNmS0pTMndvSjg0aGJBRnlFYzVnY2FMdGd5blpHTXhrVWFWeUFGakxNVV9vT1pWNGtOZWdNM05oQWRqZHZIV1p6N2VETWFRaVZ5R1h5T3BnQmd3M1ZVcnVUUHZ3MVIzUFJZdzJKdC1RRXl3RGNHNHc?oc=5"
+      "section": "Mundo",
+      "title": "Miles de personas exigen en las calles de Antalya más ambición climática a la COP31 - ABC",
+      "summary": "Miles de personas salieron a las calles de Antalya para reclamar más ambición climática a la COP31.",
+      "source": "ABC",
+      "publishedAt": "2026-11-15T01:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3RTNEMxeGZYM0VINFY4cVdMdE9YRFltaW43R2lRSFhlU2R3TDZJYkJkeFZraE1INmt0ZTR2ZktkbGM3cll2RnJrTVlhck92bUpaYWZSZDB1QktCa2dPQnBUaFFVeXctR2NSQjhLN1h2aU1CU01FV3l2Tm9uUUxpWk10MTg3aDUwQXFQQTBQdXJYUHhQalBUT3M1QUJBRko2aFRsN0lxNnRvaXPSAbABQVVfeXFMT0JLNTNKSHhlRGtLbHptQ1FNTDF3UXZ4VER6eUpCZzhNb2lkQXNqRl9FUGJDSkxWS3pMeXZNOS1WVzh5TFJOeTFHY2RkbnNSdENRUTlwSktkbDBfYy1SWFhDRExTNGFUMDl1WjhteE5ibGE0YzlpeEZLQTJJMTlubVpjOTZfZUNkOF82T2hiU2R1bnVjMElyRXBRc3I0M2I5bW1fTVlxMWlhdWJ0SVZEUFg?oc=5"
     },
     {
-      "section": "España",
-      "title": "El tiempo este fin de semana: lluvias abundantes y temperaturas suaves con máximas de 25º en el Mediterráneo - El Mundo",
-      "summary": "Se prevén lluvias abundantes durante el fin de semana en España, con temperaturas suaves y máximas de 25 grados en el Mediterráneo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-13T12:48+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtTzNGSVc2UWhQZTZ3LW4wSmFwMjRsaFIxYlh0TUFwNnNrYXlnQmxxQmdKZENLYUljblFpVGVOaVFlVnpxeFVvOGxWaVZQT0E5cXJhRlROR0VMek9aaVJDRXlzazlRSEN4MlR6Uk03dW5Fc1VNaVNGWnRn0gF6QVVfeXFMUEVwNjFESUFNaFEtTWhTNVZ2YnpCcWF4MmQzOTZZaVBJQUN0RFc4UTM4RjdxcXVHYmRQZng4Y2JVcWU4d1lfRmlDM3JtS1daZGgzMVRheGo1c3pQcjRnQzdHVFowclNxb21lZzBDRlpoQl9DZGRtd0tkb3c?oc=5"
+      "section": "Mundo",
+      "title": "SpaceX recupera por primera vez la nave Starship con los brazos mecánicos de la plataforma de lanzamiento - RTVE.es",
+      "summary": "SpaceX recuperó por primera vez la nave Starship mediante los brazos mecánicos de su plataforma de lanzamiento durante un vuelo de prueba.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-14T23:13+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWk9rTEU0cnR4c2hkeGczdXZSRXFBSDV4b2FqQUY1UUN6eFhIeFA2eGdTbldDSllYZWR4WVZPZ3NDWGJVa1Zpb0dDWF81OHA5Q3MwUE9HMy05dzRCdkxubzdnZHd2bGpFN1lhS3NVLXJ5eUxkOGh1dWhrY2NORjdqa3dHRFkxS1NwSXJFSE90WGVwd1h5VU1UcnlRdFNuQzR3TGRZMkYtOW1HR1drWUVWdGdET2k4UGZVT0xjU2xhd3hjdWFkX25XbFBDMUpXZzFJSlQtSzdieW9IZw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S - BBC",
+      "summary": "Una suspensión masiva de vuelos en Estados Unidos, descrita como la mayor desde el 11-S, se relaciona con trabajos sobre un antiguo cable de cobre. La causa exacta sigue bajo investigación.",
+      "source": "BBC",
+      "publishedAt": "2026-11-14T20:23+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dS11OHFhUWJzakxoQVZVVXhWeU5rcTUzb3NZTlpFYS1XYlYtRGRIMHFUZ0llbFlhVkxPWEd0UmRFbFdtN1RKOE84QkdvVWg4VkJpTjdGOWpXaVEy0gFiQVVfeXFMUHpRekVZV3pOejVTekJ4VGtUUmNlTFkxbkFjSkplNUlGbzRLeEduS0pHRFVCQ1lCbkJHSzNNTXFZZEl1RnJUTXNZOTdFRjVEenNQcG55ZmN6ZUladWNqUk11N0E?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un buque choca contra un crucero y obliga a rescatar a pasajeros en el río Misisipi - SWI swissinfo.ch",
+      "summary": "Un buque chocó contra un crucero en el río Misisipi, a la altura de Nueva Orleans, y obligó a rescatar a sus pasajeros.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-11-14T18:41+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekpnOEJBczVjR2diU1VjcUNweWJMRlBXZVN5Z3NQdDVLaFZZLVBtV2EzZTRRemxrU1M4cjMyTzVYd3FWUTZSZUZqYUhCa01WRXh0c0RxY0pYX3NzVFV4SDQ3TFRNNnRHS1ViYUFzMUNGWmxacENpdFp0cFdkdFlFczlRYWxObmpKMkNYeWlxVnY4UUdHa2c1T01QU200VFNHMEo5a2VuZnVnM0ZzQXVLWkNxakRIWjJzeDd4c3JLbkYzcVVF?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Bangladés suspende la actividad en 59 fábricas textiles mientras los trabajadores piden al menos 218 euros al mes - El Economista",
+      "summary": "Bangladés suspendió la actividad en 59 fábricas textiles mientras sus trabajadores reclaman un salario mensual de al menos 218 euros.",
+      "source": "El Economista",
+      "publishedAt": "2026-11-14T16:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdnFDc0o0WGtLUFdiVmxhNzRoTHk5cXRCMEM3S1R6Y1dUM3NWX3EzWWE4TWlaZWRGWXRoTUo4eUdaOXFGLThHQlY5OWVkWkJ0ZWRlQkpaM1JSdmR3b0d1ZzUyTGoxUmo0dFd5eldTcWlLbzJiM2VSb0ljLWJzTV9Xejl5LTRnOW1lb24yLXZDaHVwclFfN3g0RkhFZDdnSW91dTVHN2hjR0o5eTRKaUJqSURIRkJfVWRBbFJNMzJFU2dHTWU1Zjd1TkVSUUJXWDh3LW1uTGI0SUVxZlozTklkVTVueHdjMW01YkZ4Mnl1MlJjR0Y2ZTg0NFhjLS1xbDFDS3JxdE1HRzBfZC0yUDlwWEZEY9IB_gFBVV95cUxPbGxpNk5KNGdVbHZ2REFKMUZxZDN3REFTeFVUUEg2b1NJMWNIZHBrdTlPQVZ4aUNmdE92WTF2MEJpUWFrbmJyeWZITlB3VGE1M1p6YWlQOTViY0t4NklNZldmZGZEeS1tSm1OYTZHbEdRLVEtU2QwYUZCR2JHZlVERGlDZUZtWUpaR0E5cUlFaUVVQkhhRnZ3SGhxNGdyVnVMTFh1TklEZkRHclk2TWhTRXlkTjN5cnJaeDJmaXRZS3MydktJNnAtcjNvOGtkTzh1amZfcmJ4Z3BCTFFJN3BzSUdoTU96UXlINDlscFlCY0NwSWpNbS1QQU1MNm5HUQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Atentan con explosivo contra casa de periodista en Panamá - DW.com",
+      "summary": "La vivienda de un periodista que investiga casos de corrupción en Panamá sufrió un atentado con explosivos.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-15T01:38+01:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXRmTFotTjBTUTR5TW1CRGI3bFhRWU8wMVB6WHBnZ1hiQlB6eWNFRnYzbXlDS21pZjY0bUwzYjZ1QVRRTVo3V0htSjMzX0RKSzJjSXprZWI4U01ObTFENDluR3ZPYTVjQ1V0elFXVkZsZVBhUlluYkZHX0psRTdOX1hDMzFkU1Y3Y21QYVEwZjF4dWM4U2Z1dDd2b9IBmwFBVV95cUxPR1NZdlA2dnJTMDhvRE5HMWNHamREamZvZk00cGU1dDdVb1pIRGxJQ3FRdFZvWVZlQ3RtbUhGNTdHamxXeVRCZ09kT1IzNzJjdkNCR1JkOVJDZlFaTVZ3WHBkZ3VpZTNSQ1IwV1VWQ2x0WjNJTFlnRUwyZzNtcW5ValpKbzdNM01TdTZIdG4yYU4wNXplR3hySEQycw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Rusia reporta nueve muertos y Ucrania tres tras una ola de ataques cruzados - SWI swissinfo.ch",
+      "summary": "Rusia informó de nueve muertos y Ucrania de tres tras una ola de ataques cruzados.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-11-14T15:38+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1hyRmplOEZoaXFQQ0hPaktmZ2tpRTktQ1FYTW5oenNIdHlVRUlqV0ZHeVVac1NJb0h2WWNtM2t5ZFdIRjFoN0U3NXE0VkJrQ2x0anM5VThIWUNqVm1IVWZ5N0JyeEZTM0tsR040cVB6dEZPaExHNHNITGdmNzFobnRfTGVMeEZLOHpzWXNDVE5GRGVmQW8xdFdQUkUxRHZfNHp6Sllrc243YXgybVNRR2xZYw?oc=5"
     }
   ]
 }
