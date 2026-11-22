@@ -1,144 +1,144 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T06:30+01:00",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
-      "section": "Cádiz",
-      "title": "El \"supersábado\" de vacunación llega al Mercado de Abastos de Cádiz - Diario de Cádiz",
-      "summary": "El Mercado de Abastos de Cádiz acoge una jornada especial de vacunación este sábado.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-21T02:16+01:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdm9lMnhDZFVIRmdYMWh6NjB2dG1PSnBLM3ozaktNUTliQllpWEQtaDBNS29XY1BLTklEd1ZHc2xIV0UtM3g3WVdMeHNfMEhoUXNQYVhmZkgtdU52SjNFcHJyTjRRWTZHSFkzTVRkSS1UTGZFV2NwZVozRlFSRnhYYjd4cU5pRFAxcmxoSlI1YTZlcWFJZzZJR0RYaUlJd9IBowFBVV95cUxONHlwc2NhN0FPX1dxNmNZVkFwLS03Z2RDaGtxZnk3OTRzM1Q2S2JpeGlUT1pmM0NJOWRRUTJFMFE5SEY0cVR0Vzc1T1hLX0tsalRYN196RGdCdnpQOTVCUmxqRTdEbWw5MUdFT2ZjQXRxS3BONXppcFFPR0NOd1NYTHA0YjNadWJDVXV0S1FickpoeUU2LU9PLXFpRnBnMzV2VE9z?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Personas sin hogar expulsadas inician una nueva acampada de protesta en Cádiz - Diario de Cádiz",
-      "summary": "Un grupo de personas sin hogar expulsadas ha iniciado una nueva acampada de protesta en Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-20T22:07+01:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjZiYThOck9xcVd4NHgzUFFwQ0pRMDFsRkw0aGY5YXVTa2l0ZzNtSlhsOEUxTy1kc0VHcldwSlUxSVRqdm51ZjFCcUlMVndmdG1HNEl3RGJCVmFxeHVBZlEtODAtZ2MyWE96cnAwakhqUDV3NVBkbGJFNk1iSGVIS3p4Tk52TUp2RFIzNmtmbGJYOE9rM3M40gGcAUFVX3lxTE1kU1VZSlhsLTRTeUlLTzN3OG1QM2IyY2w5bC10aGNtN19lWVNmSjh3Vjlfc3hvd1RJa2MwN0RBNFZOMkVGTi0ycFp3VVU5MG1EU2htd25oSXQ0OVBtRUpvRXZWS08zSllaUU0xMUE0UXBGeWRXdC10dmg4UGJUb1k1NHlLTWNqVTlYUXc4Mmx0UWdEZFhRM0VJdEE4Yw?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Así ha desactivado Cuerpo la ira del sector ferroviario ante el 29-N: \"Ha demostrado autoridad, sabíamos que con Puente no se cumplirían las promesas hechas tras Adamuz \"",
-      "summary": "El vicepresidente Cuerpo ha cesado a las cúpulas de Adif y Renfe y ha llevado al BOE medidas reclamadas por maquinistas y trabajadores ferroviarios, según la información publicada.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-21T02:04+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/21/6b0094cfe9cf4a374d8b45a7.html"
-    },
-    {
-      "section": "España",
-      "title": "No hay vivienda suficiente... ni personas que las construyan: \"Las casas no hay que anunciarlas, hay que hacerlas\"",
-      "summary": "El Banco de España estima que faltará un millón de viviendas en 2028. El sector de la construcción advierte de que la escasez de mano de obra cualificada dificulta levantarlas.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-20T22:40+01:00",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/11/20/6afc6e8ee85ece665f8b4591.html"
-    },
-    {
-      "section": "España",
-      "title": "Tragsa ancló el barco que construye el nuevo espigón de Ceuta en suelo marroquí y provocó un conflicto de frontera - El Mundo",
-      "summary": "El anclaje en suelo marroquí de un barco de Tragsa empleado en las obras del nuevo espigón de Ceuta provocó un conflicto fronterizo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-21T02:04+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pbGt0X1BwdHlrX2pTemxpQ0lJeHZkdGd0OWlua25keW85d1BmR2sxSHZiZWJ4RERpRUl6ek13OEJUbExiLTdidGtpNXM2WTNaWmkxeU41UU9INTFOUm1Od0FHWmFvSnZNaWJoN1RFbjFhWHBBQUEza05B0gF6QVVfeXFMT0M0cXpaNHVEMklIc19kUzVzdnFIc3ZNbFZuRjBNRXQ5VjZ6YWdXM0tJSFN1QTQwZDluakxxdGxFLUFHRWdOODY0ZW5mTUlWcmdDLU9WOUFDMVlHNXlKV1A3SHVma3JrVDBQaEVBR1JvVGlVTGJuTERyNFE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "La Defensora del Pueblo cambia el organigrama tras asumir el cargo en funciones: Igualdad deja de tener una sección propia y Migraciones se une a Seguridad - El Mundo",
-      "summary": "La Defensora del Pueblo en funciones ha reorganizado la institución: Igualdad pierde su sección propia y Migraciones pasa a integrarse con Seguridad.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-20T10:04+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rVXJYc283Z1dsNUpnYXVXVGREeGwzQ0F5amxuUjY1b0xnV1N6Y0xQWU1UY3d3b0o2eDJqTnROeFE4Ykp6aG1UeHZ3Ujd0c3N4c1RFMHZld3BvUjhCSExQdU9wZFJienNtX0liZW9ZMlRMMnRER0YxZ2VB0gF6QVVfeXFMT0RvT21pNERxaUIxYUctdGFpMHk0WWVyT1lONXBFRF8tUVJ2YnZUWTJSckItZTV1RkRlS3BEdnpSQWNOczd2Z2tOUDN0WHFkcDhROVFaSDVESXU0djlQUExqdEZRU1B6dEQwaUk5ajJPdWFzYmR0Yk1CaUE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "El debate rompe las trincheras y mueve hasta 1,2 millones de votos",
-      "summary": "Según la información publicada, el 7,5 % de los 15,9 millones de espectadores del debate entre Sánchez y Feijóo ha decidido cambiar su voto o estudia hacerlo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-20T22:42+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b0081aee9cf4af82d8b45b4.html"
+      "section": "Mundo",
+      "title": "Baréin reporta ataque contra sitio industrial civil y acusa a Irán - DW.com",
+      "summary": "Baréin denuncia un ataque contra una instalación industrial civil y acusa a Irán de haberlo perpetrado.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-22T06:17+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMDRkbHZMRDhCZDR6RzFNc1g4NmljRnhsZkNJOWVmWm5lZmxwUVhVek9uelJJT2paLWxvTDVJeE1URlMzQUpQbFhZRTRWMHhQQTdxYlQ5NXJDN1F1NDUzcFdBSFJ0VFI4d3F4MjdpRlpydlczNlkzYUNCU2MwRllUYzBra29UeG1zVTZYRkUwVVVhTlJjWGVHNFFnMXhRX1hKMzJ3YWdHc0xSVGthMlRBUFNUVGt6OTQyU0pjNDNB0gG-AUFVX3lxTE9qMFNRQjdaN2FyT29fZGNYLVdrUFJFTXkxdWp5NW5mcW40MU9lb1pobGVITmU5N0J4dm14MTdtSHJyY0tTaGs2X2ticzJ2SjE3WThTVC1PQzFRT0tXMWgyZXFIX0J2TnB0QnNOMGFzLW1HRjR4MEpwbE04T2ZqY25vM0JDM0dqZlJ3djNzUlBoZkFRbDNwMGcwbU1aQ0JTVXJzbnZ2elBtMzF4azJJRVNHRDhRMkttaGxFRzRnc2c?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "ONU prolonga complejas negociaciones sobre la regulación de los \"robots asesinos\" - DW.com",
-      "summary": "La ONU prolonga las negociaciones para regular el uso de armas autónomas, conocidas como «robots asesinos».",
+      "title": "Rutte promete la defensa de Polonia por parte de la OTAN tras la incursión de misiles rusos - DW.com",
+      "summary": "El secretario general de la OTAN, Mark Rutte, promete defender a Polonia tras una incursión de misiles rusos.",
       "source": "DW.com",
-      "publishedAt": "2026-11-21T04:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPekszMGlZVWVjU29VY3c0aTJPU1NMbEdYVlp5V2llaVNjQW9ZQnBlNlRKR1pEWVhaVHpQS3RBU0ZTQlhKM1dkclh0Vy1jQzM2VTlOMU1ubG1YZW5Dc19DYnBtYTJuenZxbkk5alVsRlR1ZncwRmJWTkxQZ2czSXhaaFN4NzJnQWJ0Q2hVYWZkb3pTWmF3OHF0MVo0ZUYzczNrazZKVURldXgtYzRoTDNhc250WXJuTEJVakNCQ3F5ZzRFWTk5RHprUUNKbErSAcwBQVVfeXFMTlo3ZUxYM0M2N2xNb1BMQW5KUWM1cC1RYzVFeXUwcVZNTGNXdndHRnRNWkxkcElfa3hGNEVoTTlzZzJfQWZ5T19jWVFVNDR4M1JlZnY4T2ppdzRoR3ZMMl91Zk9fWlV0dDNZWTRHSDFfRDM5WVZnZEZhVVl6OG1TQ3pqR25xR01Uc2pJQlg1Z1lYWEJFMU9tam4wRklXRThpUTh2UkJfZlVJNHFKYklJSElhUS1fWEFKU09fUkR6dURobXBHOXBMVkpyVkVW?oc=5"
+      "publishedAt": "2026-11-22T03:42+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEtweEVRTjVHdFpjbHVWaW93Z21FSU5yXy1fSGVVcHR0ZXBpMEpMU194N0gzaDFRT3RnbHFDUk53UXV4amJjRFdzZk5SR205TFlsX3hPOUpkbGw3SXpOQzVvOEZ3Ul9kT3l5WHRBb0VjbWQ5d2JHaTNzRUFxLUNYYkpuMTVjSllLalFya1NsLU84Nl9ZemxhMzdILURMNzc2RmlNa1hFQWV5dGEzbkhuVmJ1N3AzTVNONVhVNG9xcFI2cGpM0gHEAUFVX3lxTE01b01LWXpYeVJfUlg4YW5jT3hpdnRsZVhMXzM2d0VfZkpseWNxTWltTHhYNll3NnlwTi0wbVh3LVZPSFBKN01LbkdzZUhVSDRYTW81RXRqX1hycUJhbllXWm81dTA2N0RjaXJ0VUJOQS04VWhxeW1NcEtvX3RLdUhrcllEWHRaZWwyWHVMUWRLUEh4aFdPX1lLRjFMcjhKRTExbm94c0Q2YS1QUUZoS3p0eXk4RGN4a2UxQmRHXzUzSHNNVkw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Suman tres los militares salvadoreños muertos en Haití al manipular explosivos - DW.com",
-      "summary": "Tres militares salvadoreños han muerto en Haití en un incidente ocurrido mientras manipulaban explosivos.",
+      "title": "Una huelga nacional paralizará el lunes el tráfico aéreo en Bélgica - DW.com",
+      "summary": "Una huelga nacional en Bélgica amenaza con paralizar el tráfico aéreo el lunes. El aeropuerto de Bruselas ha cancelado la mayoría de sus vuelos previstos para ese día.",
       "source": "DW.com",
-      "publishedAt": "2026-11-21T05:41+01:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFg5ckx3bWJYcmlKSi1JdmlmX0JUSEg3TXhVV1NpSGtiMHVIdnFFUmtYUnozZ096b0EzTWR3ZEdpckM4ek84c1o0bE5wWm1ZSzBvS2dHRzhhX1NwRzZxLWJJS3p3NmxmOUtmVlVUSm9hQlBwMHFva1Y4Z0RWLUcwZ0lOZnpQUWJZTGc4QWNiaXZ1UDVYLVJVeUJuNmZzS0hmOThpV2t6MmhmY3VkNWtRSzBR0gGyAUFVX3lxTE1iaTJBekZvYzhUb19NVE9GREdDT0JhcEhWb09qX3p0YWdWcGdsUmJZSC1PX3U1ZTBPVTRfYmtiZl9HdGhmbGhmT0dzblJTa3NqSTZBN2lIZlplelR3eTRtZnBOV3ZQdWk4MGpCVFlVc1FMOHVMRzZjbnFJeUZyYm5memxBS3oyUGVpcnA1OFNnQ29oYzBELUlsSFVIaWp5OUpGX1NkUkdfeE42a3E0SGxEOUE?oc=5"
+      "publishedAt": "2026-11-22T04:36+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcE5BMkpWLW8zOGFhWXBhdVdmTFg0aG1MZzJDbTFOd3ZfU3ZlUVdXVlVKQndiNnY0OW1iT2FEd05kS1IxdjRpLXZJR1Y1RkY1eG02T3g0bVNMNm0tS2p3TFJpMWFwY1ZRa0oyR08xYV9HSVJacVYtNjg4b2J6N2pJWG9BSjM0aUR2RUNLcXFhaXlWRTVfcTRtc1hBZi1wcjdlWC1tZ1Y4ay16bF82bEE3MVdUNUFPR2gzQVZ4OHYzazcyc0RJQ3BuZnZNMnRTaHRmM21IX0w1a0JvLVY2YWpONHVwOTVNTEdfWE1udUhUcmhndDdjU3fSAfYBQVVfeXFMT21QVjhfMURVOUkxVmRjdjNGLThXcmp0UmpnUTU5Qi05TDZfUGNER1RRRzAyQ3dsd1NLR2lHd3FPOXVpOF9NZE44VUF2bjNweWl2MjNyUG1aSVJKM2JoeDdqQUhiM2VmUVhuWmVQSGdWelRqRlk0SXdwMTZIVXRKVWtEUDctX3ZtRUpBQUpGeVlwbkE0empBakNDWWVJc3h4ZlN4c2p1SEdyLTF1ejBxOXFkQ1FyS0IwUThVcFEzcnNibHY5X0ZBMDFOU05ic3I5RTNxN2RIMkswZHAyZVJIblBmSXhLNlJIeG5qQ052bk9jU0I0UG5R?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Trump confirma ciberataque al FBI y teme se destapen \"engaños\" contra él - DW.com",
+      "summary": "Trump confirma un ciberataque al FBI y expresa su preocupación por la posible divulgación de información que, según él, se habría usado para engañarlo.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-22T02:28+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzJEWUJUSExIelQ0NGNyZ2tUZ1RxNWZlN1k1TWw5MWxIVUdvdFU3NUdGRHRudGtwa29OZ1NlRzNPMmE4WVViODFLdi1rWExkZTJ6cmNaQjJrc2Ntb0R2eXRGMGM1Q21GY0dvNTNwa21ibHNOcUE5ZkRfZ25UN0pPaGxQeXUweWdxeFJ3amFEY1Z6UURSX3ZtQVJ0VFp2YUx6YjFNVG1ibG1aV3dZNnZNeFlNdUU0Uk9Vd1UyZTVnbjlYYnB4SjJDNk9UamtfR2RsTEHSAdIBQVVfeXFMT09YRkc5bnh4NlZMSE93cm9CRzdNRmZ6Z3pCR25vWW1uV1F3cXI0UzN0ZEExUGJWQXBxeHVEUkRCS3JwWFNfQkQ5ZzVDMDY2NG9HXzVXbVJ4MTVJTHJrNEJ2ck1KT2N1WlI5Q29aWGNuV1Z6M3VMWk5vMjR5UzJRNVMxY2JDM1ctZmlWZ1g2bHdSM01PaVY1VGNCOXdOclJKMFdfYW9ScjdZdG1EczJhNlVwYXdILXJrZEUwM1pXbHFBeXpDUGdKRkVXbFlaLXdkQ2pn?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Trump y Xi acuerdan mantener a los humanos al mando de la IA militar",
+      "summary": "Trump y Xi acuerdan mantener el control humano sobre la inteligencia artificial utilizada con fines militares, ante el temor de que un error pueda desencadenar un conflicto.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-22T01:02+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/11/22/6b016f05fc6c833b4d8b456e.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Un ataque con drones atribuido a Ucrania incendia un carguero ruso en el golfo de Finlandia - France 24",
+      "summary": "Un carguero ruso se incendia en el golfo de Finlandia tras un ataque con drones atribuido a Ucrania.",
+      "source": "France 24",
+      "publishedAt": "2026-11-21T20:35+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSjdNVERrSjJHTFkyNElQSzZHaU0xSVpRZUV5TGxFRUkwVFA1VGNhMWlkcElRc0ZOTVFlMjFoMjdNaFF5MVU1UDFJVXVUX2lwblFFU3FGdVJpVFJnVC1NaXg2M3FiVXF2ZTVLYzZEa09ubk1aSXJBbENJR05fdmpLWDdibzVoTVY0M1cySzJoUzBMbVdRNVFnUHl5T25oLVRHQ3o5OVVWeEFKM01pMHpnUTVQbEtBbVJFZEl2ZGhCSTY1REI0Nk15cm90NTdmNFhk?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Dos muertos y decenas de heridos en ataque a ciudad natal de Zelenskyy en centro de Ucrania - Los Angeles Times",
+      "summary": "Un ataque contra Krivói Rog, la ciudad natal de Zelenski en el centro de Ucrania, deja dos muertos y decenas de heridos.",
+      "source": "Los Angeles Times",
+      "publishedAt": "2026-11-21T18:33+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVJwMVVsNF9MYzJqQ1UybG1UVFNadGMxT0J0Q2pFbU9TUE5ab1Vfb2NZUTVlZlIzdnJob0puU05HYmtyT1N0SXlyTUV1RGw2MFE0ZDBEbXRrVXpBWmZSYUoxUHo3NG5PVTI1MVJKWHZ5OHhoV2loZks0OVhaUXJERnRJTEw4QjcwamRBQ0I5SElNaFBha3ZFZHJxR25ReWE3bWNZZU11T2h5bG5XVjhjN3JzTW5IU1EwelFSdm4xUUNlVVEzdmYwU3d0eklKM3ZDa3pCNGhEbmdHX3ZXNzg4?oc=5"
     },
     {
       "section": "Mundo",
       "title": "Ataques israelíes en Gaza dejan seis muertos, según autoridades locales de salud - DW.com",
-      "summary": "Los ataques israelíes en Gaza han dejado seis muertos, según las autoridades sanitarias locales.",
+      "summary": "Las autoridades sanitarias locales de Gaza cifran en seis los muertos por ataques israelíes.",
       "source": "DW.com",
-      "publishedAt": "2026-11-20T22:52+01:00",
+      "publishedAt": "2026-11-21T12:41+01:00",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnotaGtsdEp2alc1RnNQOUxpMjRuRjJ3S3VJc21lYkI0eFNTZGdsenc1S29qaEk0eXVwQlRTM1dmRkNHZFpGSHc2bmpZaG9CdWk5SjRZcjcxU0FDdlBnQVZ4cUI1aXVTUnlsZmRCZ1gyTHlhZmpCX0NpUUZDdFhFbmNCd2ZXYkxMZ1BFaG5ObTdKWXNGaXFjRXNCMGJmXzFSRk1NQ9IBpAFBVV95cUxOazh1WjBzY1FDMG04Vll6NWc2VS1lUV80TC1qRXZ4ZHhtYVhMX1NiS3dUSkRJNDhBMjRvVzVjMWhWMTNsb2dlRjF2NktsazQ1WTdqLVpnQXNBVThZQVVuZ2NneU03b1dtSnc1elRVWEExdWhSc1RKTUNHcmhWMHNFZER2akRZVXo2dWR4a0dGb1VRYlFmQjFyNUNYSDc3QVdJR2ZOWA?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Quiénes son los rohinyás y qué significa la condena por genocidio - BBC",
-      "summary": "La Corte Internacional de Justicia ha declarado a Birmania responsable de genocidio contra los rohinyás y ha ordenado indemnizar a las víctimas.",
-      "source": "BBC",
-      "publishedAt": "2026-11-20T21:22+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13N0dFLXJteDNoY1Ytd3lQTEctN0V3U0VNT2xwcTkycWlIdHprTWp2RGcxT25zdzFPaVR3d0RwQ3VNcnUwS2F0Q29IQVpMQWlOSUN1R3RhTnQ5LXJo0gFiQVVfeXFMTXI5VlZKWkdNeVh3SGhTeXlhWEJCeGFvTmNTVmV0WlpiRUIxRTZSTW1ONzM4R0lHQjBRcTlWYk1YWk1ySU1oZGxFMk5jdVBqeXhDbXNHQ2J5LWRYVlQ5SlA1bkE?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La COP31 posterga su decisión en medio de una creciente presión para abandonar la energía fósil - ABC",
-      "summary": "La COP31 ha aplazado una decisión mientras crece la presión para incluir el abandono de los combustibles fósiles en sus acuerdos.",
-      "source": "ABC",
-      "publishedAt": "2026-11-20T17:18+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREdRdG5wdnFnZ0tUSkRLNHczNnV1eExRSExxZkhmdWRCWWZpYzJWeDVKVzF5OUFDemxKV2R0RU9yNFBiSExUSTVxX3BBRFNHZmlmQjFsY0ZkNjFabHFrQm9lNlBZYi1LUVV2Q2x2ZUtCSUtId1ExRmh2SllnWV9kemUwYWpkVkRJLWxScVI1MkJLV2t1MTlSc08xQ1VoSUNidkhZaTg5VFdkMWpxSlHSAbMBQVVfeXFMTUxxbS05cVJVb1hUTkYtTTE3eHdaTHBrSVNzT3BsX0N2SE1XWk13aEJRYlpZUUdWVmlzZXRkXzlhSy1mMnNxZEd0aXJ0SlhRMVRiU0Ita3NlUDJzb3dCN0lWSzNaeHRaRlpRdnE4UHdJZjZqY3ZMU2VjVHZrTU80UnY1ek5VTWRvU3pRdl9jS2VoSVhMRWtoVThEZGs3Umg1VGJGZDI3cGFYekc0SGR3QXJjblU?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Rusia ataca Ucrania horas después de que Trump dijera que un Putin “cansado” está dispuesto a un acuerdo - CNN en Español",
-      "summary": "Rusia ha lanzado nuevos ataques contra Ucrania horas después de que Trump afirmara que Putin estaba dispuesto a alcanzar un acuerdo.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-20T17:05+01:00",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOG5qWWxldVBwRDJrVUVSNW9wSzhUUFROcVJvYmtqTHpUOWh3aWRPeFlydTFMRkk3ZUJFQXBMTzBqbE02LUE3RHRzNVNDWkZNdExPWjZuc1Qzb2hXRk9aSkplQjFvVGlYRW1jZVlPdzNnTWhlbk45bXRWSUEwNHhTczh1RUNON3M?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Coalición saudita lanza una «operación especial» contra hutíes en Yemen - SWI swissinfo.ch",
-      "summary": "La coalición encabezada por Arabia Saudí ha lanzado una operación militar contra posiciones hutíes en Yemen.",
-      "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-11-20T20:14+01:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObGpLOGV5aVkzM3BrX1lpRW5TS09aMUNMRDhmVVQtbmV3N0J1aE52cW1CS1dPMjg3M3psMUZTZThDMW5WWUxpOE9fMXpMTzllZHJtOGdmWEJWUFVwNGZXb29QVlpWN0Y0VlQwQnUyOUhBY0s1WmZDTnpSWTFjQnJ4UU9FR09SUzM3d3lFZVZ3YnAwSHd6OUh3ZG42WU1mOVB1Y3M0eVFZSDBxb09TcVVpZ1NraVdpQmFuRGxERm9vNG5qT29JMTJr?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Italia: jornada de protestas contra los salarios, el costo de vida y las políticas de Giorgia Meloni - France 24",
-      "summary": "Italia ha vivido una jornada de huelga y protestas por los salarios, el coste de la vida y las políticas del Gobierno de Giorgia Meloni.",
-      "source": "France 24",
-      "publishedAt": "2026-11-20T23:39+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemdLemdfVHQteXhMYVdsNnRoSTdsU281VTNzaGFYbDBoT204Qk84MGkzYThWSDN2YS1rNE4yM0dBQ0ZMV2F6M1ZCN2VLakUyRUZ5SGRlUVEyLXBEZXI1Z204bG1Rb18wRUFTc0lpUl9uOEtVeHhvbHEwX25LbWhLZ3VSMUVJbVJVS1U2VHJ1YjZhOVF4aE5NNEdwNDR6S2NCTkw5aTBFem03VjNQTURmbDlNcTJLRWZkYVpHWEdUV2hrZU1NdEoybkdZTEF6bldrLVhrenZTSS04TGo1Ulc3WlduTUZROHEyRllhODV3?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Dinamarca expulsa a diplomático ruso tras un intento de asesinato - DW.com",
-      "summary": "Dinamarca ha expulsado a un diplomático ruso tras acusar a Rusia de estar detrás de un intento de asesinato en su territorio.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-20T22:11+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGI4ZnVJeXd6N0ExRjJzWjRlMTQyWFBpSDRld0VBc25Xc3ZwbVZvWVhUNzlrRXptaDZMeGxFUGRQOWhCWkdnX2dYS0g3ODAxaV9oSWQ0QnpWN1FTSzFyV1BCRE53ME1ZeDMxTHFYb2ExV3dLcDFteWZCT2V4dVlyeV9RZHI1Z2FiNFdSMmdkWkJkTklaZVZKc0VmZ0ozaTNQeHZHcFl4ZURNZ1NkRngzeWNXWnVrUjY0clNROU10LXJNZ3hvYlQ0dEpZRmlIMUZLMlVESzB6cE1SelRC0gHcAUFVX3lxTFBTSE1VZXVfMzJ2N2VrbTNzTHVwMUg4aVFUNFNtNmVRWlBmeFN1ZVVRckNJdDhTNUFvelZ3dUhjNFF1R3VremJDRU40YXhkaUFpYklhYnJya2ZaaVV1VkJ6ckZLcTQ5dnMtcWRrTkg4V09aNE5TMnVNM19GckNnTndrdWY5cmlmRWdFVGRvV01Gdlh6MG52bk42bkVJSjE0RnEzVTROdjFOakRZSnRPWm4tR3lMQUViRVMtV0ZkMWM0RWswVXdFSmRwTy1FcGFyalI1QjAtQVhGX0QzVC0?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Una cámara capta el momento en el que un edificio se derrumba en Nueva York matando a 8 personas",
-      "summary": "Ocho personas han muerto en el derrumbe de un edificio en Nueva York. Una cámara instalada en un autobús registró el momento del desplome.",
+      "title": "Los países productores de petróleo bloquean un acuerdo final en la cumbre del clima",
+      "summary": "Los países productores de petróleo bloquean un acuerdo final en la cumbre del clima. Más de 30 países, entre ellos España, piden incluir un compromiso para abandonar los combustibles fósiles.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-20T14:52+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/20/6b0050a2e85ece74228b458d-video.html"
+      "publishedAt": "2026-11-21T20:34+01:00",
+      "url": "https://www.elmundo.es/ciencia/2026/11/21/6b0172e9fdddfffa058b4588.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Decepción en la sociedad civil por resultado de negociación sobre armas autónomas letales - SWI swissinfo.ch",
+      "summary": "Las negociaciones internacionales sobre armas autónomas letales concluyen sin un acuerdo vinculante y generan decepción entre organizaciones de la sociedad civil.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-11-21T13:38+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMk5Yc0RmUkQzbFNGam9fSGR4blB5OFcwZEJvQkZlMjYtYUhPSXdNVmNVbEtNc2FxYjVDQlgtcGdtYTRuR1I0ellHa1ZQV1JsM0NYWV9IMUVoSk1tckd5WVRBRXlNYkJ1OXZrUnZRQmVidEVHUUJEUGpRWFNRcnIwT3c3YWNqeTVvcGt2UllHeU1iQ0JDdXJMWERXdVVtTHIyX3UzSTRMVHktQ3FBVDA4WUI4a1otbzJCeEZnZ2VuU1d6Z3EtRm5hcVYwakpzckFES1ozNXlWNTgzQQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Miles de personas se manifiestan en Lisboa contra el aumento del coste de la vida y la crisis de la vivienda - RTVE.es",
+      "summary": "Miles de personas se manifiestan en Lisboa contra el aumento del coste de la vida y la crisis de la vivienda.",
+      "source": "RTVE.es",
+      "publishedAt": "2026-11-21T19:57+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGF4eHlNUWlHX0dyV2NQb1hBWEJRd2NVUmgxLURGMTlFR09LNUpUdGNTUGhtX05SWENlZjNFRWZiWmtNMjRad3hhLUdiTG0zRVNqaWNsbjhGMW5LNE1UdGtYWU15OG00VXUyVlBVVlIzWDRjRmZlV2EzNHZSbWVDQ2RhNlNINUlsenlOVHhzdFhpRzZGQkVsMzF4M0NXdHJ5bkhoTmtuNE90ODk4ekxwUnJNM1dBNlNROE5IXzRzb3M3TWdCS0pUQTBueXoyVXg5?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "La trampa de la ventanilla 'online': más de 3.300 millones de inversión europea mientras \"se traslada toda la carga de trabajo al ciudadano\"",
+      "summary": "Un proyecto de ventanilla única digital financiado con más de 3.300 millones de euros europeos presenta resultados parciales pese a que ya se ha ejecutado el 74 % de su presupuesto.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-22T01:02+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/22/6ad78f0be85ece69198b4591.html"
+    },
+    {
+      "section": "España",
+      "title": "PP y PSOE ganan apoyos y la derecha ancla su ventaja a una semana de votar",
+      "summary": "Un sondeo sitúa al PP en el 31,5 % de intención de voto, 3,5 puntos por delante del PSOE, a una semana de las elecciones. Vox retrocede y queda por debajo del 19 %.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-21T22:55+01:00",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/21/6b01d96dfc6c83e5298b4592.html"
+    },
+    {
+      "section": "España",
+      "title": "Vox irrumpe en el feudo socialista de García-Page en Castilla-La Mancha: \"En el campo estamos hartos de tantas trabas\"",
+      "summary": "Los sondeos prevén un empate entre tres fuerzas políticas en tres de las cinco provincias de Castilla-La Mancha y apuntan a que Vox podría duplicar sus diputados en la comunidad.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-21T22:51+01:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/21/6b01b41afdddff4a428b4578.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Europa abraza el paradigma de disuasión migratoria con los centros de retorno",
+      "summary": "Varios países europeos acuerdan con Ruanda la deportación de migrantes en situación irregular, en un giro hacia políticas migratorias de disuasión.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-21T22:51+01:00",
+      "url": "https://www.elmundo.es/internacional/2026/11/21/6b01ac60fdddffb2188b457e.html"
+    },
+    {
+      "section": "Mundo",
+      "title": "Cómo atraparon al \"Chapo Isidro\", uno de los 10 narcotraficantes de México más buscados por el FBI - BBC",
+      "summary": "México captura al narcotraficante conocido como «Chapo Isidro», incluido entre los diez más buscados por el FBI.",
+      "source": "BBC",
+      "publishedAt": "2026-11-21T18:29+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHcUpNcGYxcG1LUi1pTE52SklWS2g3LWhQeXRodk1sdm1XWENlN2hBc2pVd2ZwVTVHanZDdzVwVUIzTDJaSkVuckNYOG8xWkE4eUxVWGdMVDYxX3Nl0gFiQVVfeXFMUFF5em4xSU5mXzN3SWE4M3g2Z0I4YUtLdC1pN0pwdE1FaEU3MkdBMHVFOWNiZUt5WnNfMW9qbWFDeC1mRG9sLVVQRmtDMTBGa3FsUkZUSDFoT0dFT3FDSHg5alE?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Rusia restablece totalmente el tránsito ferroviario por el puente bombardeado en Crimea - La Vanguardia",
+      "summary": "Rusia anuncia el restablecimiento completo del tráfico ferroviario por el puente de Crimea tras el bombardeo que lo dañó.",
+      "source": "La Vanguardia",
+      "publishedAt": "2026-11-21T13:52+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDBSVnRYa0ZsV3BaVDByWXh4aERjT080V2ZJb0taa0w4TXJ5ZVJBcVN3d1l5VzBqaXViQlFvbVkydUdyWXVmbjZYVEdQZ1NTRmtzWGpJeUl6WXpjS18xdGtrTUxrX09xeFBpTHktX1hDNnJPbzA4M1VVdldiakFhQVZoN2VncEROMlljbWJmWVV0VU9KYWZpcDdlY1R4cTlVd0JOc3Fjank4RHZJd3J3dXlPekFRbENQdWt5ejNSRWQya1pwQTN2eFhWQlRjVkVlRVRKNHRoTdIB3AFBVV95cUxNNHBwSTRnVUdXazdCNlhxTU1TaWZsbVRRT1lCcGJnSWFrVU9ScUNUSF9rOHl2T3JsOHFXamNRbENKdFQxSFJXc1Bnb21DSExpWDVXczZFV0VGSkJKY0JLaXczbnIwTFV0Qi13QXBlaXFaUU9tanB0emVHZEhiSXNJUTdaREtseGZqX1NJeS1oLXRqcjZtZmpUWm9BQlYzUGhiNWpjSmhsQUNEWmpZV0pUR2JmUTBZVGRYbWhaMU9JY1d5MElhb2hyeHRuMFZHbU0tajZ1ekVWY1IyMkxi?oc=5"
     }
   ]
 }
