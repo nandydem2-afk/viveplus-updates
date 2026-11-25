@@ -1,160 +1,152 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T06:30+01:00",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "El pinar de la Breña de Barbate se queda sin piñones por la sequía y la plaga de chinches: \"Todos estos años sin llover nos dieron piñas sin piñones” - Diario de Cádiz",
-      "summary": "El pinar de la Breña, en Barbate, se ha quedado sin piñones. El titular atribuye la situación a la sequía y a una plaga de chinches.",
+      "title": "Cavada señala el siguiente hito de Bahía Sur tras la ampliación: la venta de los suelos - Diario de Cádiz",
+      "summary": "Cavada sitúa la venta de los suelos de Bahía Sur como el siguiente paso tras la ampliación.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-24T01:03+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW1WUXdGMzIzbEVjVTY1N2RRVHN6OUxDZnQ3YlJxaFRPWk1XYlN5Q29KekJYblRhUGZYSzlhMFlWT1J5SDljSlJRTDdGcTZSbmt5MlNzUVYtbmpjNGozNGhUOGo3MzJJQjZKVXVLc25GWVBBVUt1VC1jcGhGekZlS0xwOHpvc1E2WEVsbVQxRHNvQU1EbVJqbTJSVnhVbWFXWHV1QWQ0NDFYV0JIUmdWeThJNzVjcGR0V0h5U1RR0gHDAUFVX3lxTFB4REFmV0lCMGh2Zm5qa29IUi12OUV2WEl4SGNTdU9GR2ZyUGJZckZpcXV1SzdOQkxDcGhVdkFNNWh6SGJxc2tZd3dLMld0M2FOZkZuMEM4Vi1WUUJpSTQ1VHFKbllJSmNtVmx2QllSMmhHMmpUeC1GclJKSjN0S3d4VGVsU1N5Y2tJaGE2dHZIcEFhTG1OeG5NMnVURzdjU0F3bjdadGN0cFFCRUxCNkRHLXZ4SEdSenRjaFRWSGEtS3NGQQ?oc=5"
+      "publishedAt": "2026-11-25T06:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzR6c1llTS1Wb1JOYkQwajBsWDVnWURwdk9aci0wWmpKckhwbk5NamdCVmoyVUVGU2tEOENJdnRNTHV1VmRrQUxXUTBzeVlNdjFvcjJKdWE4NEVZU215VEJaMGJ2WVhuN0RnUW13OVQwY1dxdFJaMG5kN2JiNmhLMzhQSjM0VWdnWC04c29oMG9hVF9PTXFYUkZRR1A2MWZPRVh4QkhMT0dUM3BHdzRZMU9zbHRncF9qVE51WXpB0gHDAUFVX3lxTE84MGdJRjlqdE92NWVPNjRIZUhTRmZQdXBOSjNrdzRHT25ZN3RWTlhtY3ZNSXNzb2FMakhqNy1Tbm40aWVqaVdSb2pSYnZQbTd1bzRkUnRiSE9oQ0d4YUxyR0FveUZaakd4b2hTXzZ6MXlvYzQtMUVkbXN6SDhOemt3b1dDaXFrdnZYb25UaGtOdHI0aVdXTGhRSW54a0pLeF81VHZTN3U2eV9rZjFYSVBxcS1XTWE4a3oxZ0hKRDlkeGdpYw?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "Trabajadores de atención a personas sin hogar de Cádiz denuncian hacinamiento en los centros y una situación laboral insostenible - Diario de Cádiz",
+      "summary": "Trabajadores de los centros de atención a personas sin hogar de Cádiz denuncian hacinamiento y una situación laboral que consideran insostenible.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-24T18:32+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY19BcG5FSlU1Unhfc29oVldrYXdoUXBrN2kwNUdPY3N6SHVPS3BHclRteHg0Q21uSFA5TlBkbkR2Q1IwR0w0eWNnMDNwek15UXJ6bENpTUJRcDhGMXlla3ZDQWdueHl6YWNMdkgybDdCajBqYTdMdVExYlFKVWgxeTZReHI5R094Q3VQSWhiUW9uVnNNNEJiSjZoSXNKMjhRQ1dMUkdvTGltN2toNXR6Rk92anVOU283eEc1Y2lXUkx1Yk9uakVsMFM1bGdfeHJpQzgtQ3JPM0tKT3dIYlFZU2p3NHZIdHNU0gHuAUFVX3lxTE15OVlmdHdxRW91eDE1MGJRa2NYWGpPbVJSTVVGUWJBTWF5NTg3Sy1mY00zQXI1c3RsYTI1bFIwdzFGS0FtdFRBMGwwT0dfLW9aUXAzN1Bpd3lmLUdWelotZ0RITlRic2h6RGRlYmFSbkhrV0ptUGdiMHJMU3RVMVpYakhYRmhQd0IxUnIyS0VOUVFUT3J5STRJYlVVNUU5dDhSd3JDd3h4N3FHUlJieFFQU1JyM3ZKY1VoM0ZlUkp6S3dRSFg1bVk4OVFwdTNSMXFGRkg4QjNRSVh0X0x3NWtMUnkwZHFNTnlxdnJqNnc?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "Investigadoras de la UCA revelan que plantar árboles en zonas no forestales puede favorecer los incendios a escala global - Diario de Cádiz",
+      "summary": "Investigadoras de la Universidad de Cádiz señalan que plantar árboles en zonas no forestales puede favorecer los incendios a escala global.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-24T18:30+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ2ZGU082OHVWRk9JUk1sQUVHYjdmaTZHWkRxeFM4MEdLMlFHUm5uM1M4YTJVS1gyUGNrWGlNX1lBbVQtbnl4TVpzZkw5RzZtcm1MQmJBS0JNYkE5Q1FWWGMtdG1qX2tuZ3NTOEhBak9zX3cxZWRucm9PSlI3RDNtY2xBcjZsQmZBNXlCNGUxNUZlanRkYzRVMWI1LWtfVWlwT1ZTdmUxMmVxaVduRnEzT2JHc0tBTG8xQUNPdTVPWjk1Wmp6NVdSUHZkQnBtMzl6b2N6LVZkZ3VnQV9NbkhmbW5ydWlLRElNZlHSAe8BQVVfeXFMTnMxRkNJejJjNGZ0LW5pWFVLM1RWemtPQzlycE1EelhNc2ZDclQ3YWxUNkZRQll0cHVvdjVuTmdkTk1aamxNRDh1akZlTkFKeXZhQmxLQV94MUdRek1sV3gwU3dsZS1meWpaTDlzaTFSaWgtY0VpUU9VRmlNNU10ZExJX3RsWFZTMzVXdUN1bkM5elJKZDBwLU50SlgxM2JmcTY2ckk5dU5OM29ETGdRaUFSeW9feEEtbEtZYUlpVlZadE16dFFVQndRUjB2a3VDSGJPTWYzSlI2RFNlV0RhZExnYzY4bVNuS3NYRk1NMEk?oc=5"
+    },
+    {
+      "section": "Cádiz",
+      "title": "García-Pelayo y el sector constructor abordan el reto de Feijóo de un millón de viviendas - Diario de Cádiz",
+      "summary": "García-Pelayo y representantes del sector constructor abordan el objetivo de Feijóo de construir un millón de viviendas.",
+      "source": "Diario de Cádiz",
+      "publishedAt": "2026-11-24T19:05+01:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWFYQmJ0WDk1NTVqYjRST0loNkQtRUJ0NUdvdG4xcjIxNnRQLUJmOFRmMHV0dnQ0V3RMcW1xeE5hOW03Y19NamVpYTRiZG1RTERualBzcnA2dVdBUGM0OUZheWhWM09QVmFueU51TkEwQ3Vad053VlB2MHpMTUxWcjhZS2hCZmgtYkRWM3k1LXJHUVlSWVQ0VEo3MGJOVWNB0gGmAUFVX3lxTE1Id3R1T3JpZkE5NUpVUm9yaUdEd2JMYlR3cURONElyVUZhT3A2SVdMT3JhS1NHYjNmZnprWDBYb0xkNG5RTGwwcWlmYXEtNzdubkxBOWhYb3J0Uk1yV0FtVmExWHdjUUNJSm5rd0U1V3VtNzdTQzV5eXdyZmFsWF9XcTVhSndEQ0pFYUYydmVKY2VvU0hqU09WRWgwSGlubU1JdHBSVWc?oc=5"
     },
     {
       "section": "España",
-      "title": "El Supremo aplica la amnistía a Puigdemont y archiva definitivamente la causa del 'procés' nueve años después de su apertura - El Mundo",
-      "summary": "El Tribunal Supremo ha aplicado la amnistía a Puigdemont y ha archivado definitivamente la causa del procés, abierta hace nueve años.",
+      "title": "Desbordado de cayucos el puerto de El Hierro: tantos inmigrantes como habitantes en menos de un mes",
+      "summary": "El puerto de El Hierro afronta una elevada llegada de cayucos. Según la información disponible, ayer llegaron 1.282 migrantes y más de 900 menores han arribado a Canarias durante noviembre.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-23T13:29+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wRWRXZUhVTzM0X1hmNUZhYjVXVFVmM0VnTnR0VFNZWTNkQzBZWW1UMDZEeXNHaW5jX1RlNnlwS3R5VHg1ZGtDSWd0dG9OTjVGQlNZS0hoVzBmYnpsSmRSc09nWnVGb2I4MGFSamUxbjZUdTNpQ1Q5cGhn0gF6QVVfeXFMTnR3bHR6eUsxTUxMUU1odmJEZURINERCcUZfWE9qS1llUUtDa2hVUGJQQW5FUndzbzFfSExkYXpsR3YwRXlnUnRZMlJvcG9IU2F1ZUx6SFllUlBFVENwZmV1M2VScS1fWUxHVVl0NW5YSnZJQXl3QWJTM3c?oc=5"
+      "publishedAt": "2026-11-24T22:45+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/24/6b05f20121efa017398b4587.html"
     },
     {
       "section": "España",
-      "title": "Un directivo de la Sepi avisó a Bruselas de una \"triquiñuela\" en el rescate de Air Europa para \"eludir su escrutinio\"",
-      "summary": "Un directivo de la SEPI avisó por correo a la Comisión Europea de que el fraccionamiento de la ayuda pública para rescatar a Air Europa evitaba someterla a su escrutinio.",
+      "title": "Nieve, viento y olas pondrán este miércoles en aviso a más de la mitad de España, con Cantabria y País Vasco en nivel naranja - El Mundo",
+      "summary": "Más de la mitad de España estará este miércoles bajo avisos por nieve, viento u oleaje; Cantabria y el País Vasco alcanzarán el nivel naranja.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-23T22:49+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/23/6b047ec4e9cf4a38218b4592.html"
+      "publishedAt": "2026-11-24T17:39+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMXZyallGNHphV1U0bmZUV3JocmRsQ2lfRGVudlZSQWk3ejY1TlRKWkVrS0J3YnR1ZzNIWFpHUkttbG1GVVJUbG9KeWcyYWszUXhTcVIyRXU1N0tYZklLbE1WRWotclFzQ2FpazdDYnFienludmJGNzBn0gF6QVVfeXFMT19Oc2hScHNUZGp1MHNYUGZnTmZ3VjVhLUlHVmxaeFZGY3ZwWTFIYVVkNzNxM3dKVy1vTFNsRTJUN2xpbDJnTHp4dlNuTDN4bnJ0cjhYS2RaTk1EeXgydjlJRTdBN2xEeEQyLTJPQWZHYTdGUWIxMGZKY3c?oc=5"
     },
     {
       "section": "España",
-      "title": "España gastará en pensiones un 43% más de PIB que la UE en 2050 pese a disparar cotizaciones y sin los ajustes de Alemania o Suecia",
-      "summary": "Una previsión sitúa el gasto español en pensiones para 2050, medido como proporción del PIB, un 43 % por encima del de la UE. Funcas cuestiona la estrategia de elevar cotizaciones y recurrir a transferencias estatales frente al envejecimiento.",
+      "title": "El Supremo rechaza suspender el DNI electrónico como medio de identificación en las elecciones generales del 29-N - El Mundo",
+      "summary": "El Tribunal Supremo rechaza suspender el uso del DNI electrónico para identificarse en las elecciones generales del 29 de noviembre.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-24T01:38+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/24/6b04613de9cf4ac8208b45a7.html"
+      "publishedAt": "2026-11-24T16:55+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FNFFNMGFlVGVLWFBwb1pHVk9uUkRvY25kVVV2LVE4aEZCRDIxbmNIbFR5TjU0bXFxNnlVdVE5LTNYZzNPYXVUMGtadUViTHBacmo0WGJhWWFYVTVONlZNNGNfNE5tNkktT1lMN3BidWEwV0pESkluYllR0gF6QVVfeXFMTkU0UU0wYWVUZUtYUHBvWkdWT25SRG9jbmRVVXYtUThoRkJEMjFuY0hsVHlONTRtcXE2eVV1UTktM1hnM09hdVQwa1p1RWJMcFpyajRYYmFZYVhVNU42Vk00Y180Tm02SS1PWUw3cGJ1YTBXSkRKSW5iWVE?oc=5"
     },
     {
       "section": "España",
-      "title": "El PP promete acabar con la burocracia del urbanismo: externalizará servicios para tener \"licencia de obras en tres meses\"",
-      "summary": "El PP promete acelerar las licencias de obras hasta obtenerlas en tres meses mediante la externalización de servicios urbanísticos municipales.",
+      "title": "El Ministerio de Ciencia releva a un alto cargo del Ciemat tras denuncias por contratos pero no investiga: \"Esto no puede ser\"",
+      "summary": "El Ministerio de Ciencia relevó al secretario general del Ciemat días después de una denuncia sindical sobre presuntas irregularidades en contratos y dietas; según la información disponible, no abrió una investigación.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-24T01:38+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/24/6b047b7ce85ecec71c8b4586.html"
+      "publishedAt": "2026-11-25T00:12+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/25/6b05f7a3e4d4d80a2d8b45a9.html"
     },
     {
       "section": "España",
-      "title": "La última semana de noviembre se despide con lluvia, más frío y heladas desde el miércoles - El Mundo",
-      "summary": "La previsión para la última semana de noviembre apunta a lluvia y un descenso de las temperaturas, con heladas desde el miércoles.",
+      "title": "Ella incitó a su novio a darle un \"pinchazo\" a un compañero del instituto y él acabó apuñalándole mortalmente: primera condena por la muerte de Aaron en Gerena (Sevilla)",
+      "summary": "Una joven ha recibido una condena de cinco años de internamiento por inducir y cooperar en el homicidio de Aaron en Gerena, Sevilla. Es la primera condena por este caso.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-23T13:49+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ld1lXb3huMzZ0R2VtLWZsdEdGWVY3NUdVanZSSkhnTkh4TVlxVUVJbnFDZWdqWWNoc0FNM2JfZEJMc3pZMUF0TEJQU1o0czhwemlVcmhXdzl6aVNuN0o4a3JCTmRjdkdMcGhCZUNyRmZydHp0Qk5PeHN30gF6QVVfeXFMT3pkSTF4VUhxZlpXWEVSOHhMaWJydmRVRkFMam5jblIxcU1YbkVJS3l2T05qSm5SMjBBZ0owVUxrdGhQRWpqMTlVdU9paFM5VkNQYlVCbkpzQndxRlZFM0ttVmk1UGowOWQ1N0taam9XbV9oelR6SVRJV1E?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "El comandante Villalba declara que Aldama pagó gastos de la Feria de Sevilla y cacerías a miembros de la Guardia Civil - El Mundo",
-      "summary": "El comandante Villalba ha declarado que Aldama pagó gastos de la Feria de Sevilla y cacerías a miembros de la Guardia Civil.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-23T14:17+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16YldoeGNDOHFTbV9taFV3VFMwaENUckNwSXRDT19wLUpRNkRPcGlJVm1HbjVTNjU4dEhFTTRtN2UyXzZUYkM1Z2hZbzdHbUFleEFwN1pwNUJNZHlFb19sSDNoSEtqSUdYUHVGR1lpS3hjVHgxdVk0c3Jn0gF6QVVfeXFMUGRkcmF1QVctTF96RU9FMVRxNHpuSERxNWZRN3JMcVg5U09xXzVxVVZoU2V0ZnZzS3REaHVQVlJ6T3BweEhSLVp4NlNGeUIwTTRIaUN6cWc1alExWHpmclprOEpfUE9hbDU3UXVYeWRLYlUwVHRoSS1wTUE?oc=5"
-    },
-    {
-      "section": "España",
-      "title": "Cuatro detenidos por disparar a un hombre y matar a puñaladas a su pitbull en Alcalá de Henares tras una discusión vecinal",
-      "summary": "Cuatro personas, entre ellas un menor, han sido detenidas por una agresión ocurrida en octubre en Alcalá de Henares. Según el titular, dispararon a un hombre y mataron a puñaladas a su perro tras una discusión vecinal.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-24T01:37+01:00",
-      "url": "https://www.elmundo.es/madrid/2026/11/24/6b0478e7fc6c83e9438b4577.html"
+      "publishedAt": "2026-11-25T01:48+01:00",
+      "url": "https://www.elmundo.es/andalucia/2026/11/25/6b05ce06fc6c8372188b4597.html"
     },
     {
       "section": "Mundo",
-      "title": "Un universitario español permanece diez días detenido por el ICE en EE.UU. tras perder su permiso estudiantil - RTVE.es",
-      "summary": "Un universitario español lleva diez días detenido por el servicio de inmigración estadounidense tras perder su permiso de estudiante.",
-      "source": "RTVE.es",
-      "publishedAt": "2026-11-24T04:58+01:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHVIQVRNU3NkVHdObUExcUpodzIxaUJWQU93UWR2UlNrdlNCMWktZ1puU0Q4LTNEd0lfd242YVF0V2w1cFFSel8zeXI2VDhMcjRuTTBwcTBQVEJ4ampibC1ZZzZWY0NUQURRcXIyZjNkcXlTeHg4R1JzeVpBY3JhcldIalJQWWlpLWYza2h0RGNsVnM?oc=5"
+      "title": "Tidal prohíbe la música hecha solo con IA y eliminará 29 millones de canciones",
+      "summary": "Tidal anuncia que retirará 29 millones de canciones creadas íntegramente con inteligencia artificial a partir del 9 de diciembre y que rechazará nuevas propuestas de ese tipo.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-24T22:59+01:00",
+      "url": "https://www.elmundo.es/tecnologia/2026/11/24/6b060866fc6c83f85f8b4596.html"
     },
     {
       "section": "Mundo",
-      "title": "El expresidente de Paraguay Santiago Peña recurre su destitución ante el Supremo - 20 Minutos",
-      "summary": "El expresidente paraguayo Santiago Peña ha recurrido ante el Supremo su destitución y pide que se anule por inconstitucional.",
-      "source": "20 Minutos",
-      "publishedAt": "2026-11-24T03:01+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWQwbi0zU19HLVJncVhaT3VoM3RyeENidE1GcHA3c1RJSkZreTYzODJfd0tXQUc3cVlBZWZ4SXhpa2kwSEh6S29CUW5WV1BzUmE3QkJKSHNPRUx1RnFHcUhSbXZpeHozTE13bXFJS1Fqb0RFX2NpVnd2NGZZTzZrVGpSTHVPWXBnRVNXSlZtUzFpVkdaQ1BDaS1oUktwMmljTi1HQ2g0a2l6RFZpelZHaEZlcXRGSXpENE96Ym1mVUtYLU3SAcgBQVVfeXFMTlJMS05pXzEtOXhRRzZOaDAtcG1wVWdITDZHM01fU0piS3JnNkZidFFiY28xNkQ3X0NPcHJITFQweElMMW00el9BLXFDTHBsel9Kb3VLUnRWNGxqNGFnaU1CUFZIc011VzI4YWZhOEVmblZwMllfekRieDNSUEhSUXBZOWtsZ1ZUeVpLdEdmLUM0VURnTEhfajdDc2k4QU1nM3JGOWgxUER6cnhJbWdONDJZVW5nUjdTekhOZ25CYzVITTlTMVlndWs?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Arrestan en Paraguay a hermano y cuñada de expresidente Santiago Peña por caso Ueno Bank - DW.com",
-      "summary": "Las autoridades paraguayas han detenido al hermano y a la cuñada del expresidente Santiago Peña por el caso Ueno Bank.",
+      "title": "Un jurado en EE.UU. declara culpable a Huawei por robo de secretos industriales - DW.com",
+      "summary": "Un jurado estadounidense ha declarado culpable a Huawei por fraude y conspiración para robar secretos comerciales en un caso vinculado a sus negocios con Irán.",
       "source": "DW.com",
-      "publishedAt": "2026-11-24T00:21+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0daRnVZZnZGZWt6YUU5MGhDV0k2RzcxSHlEWDc2WmstdVBoNjhvQ0NWTkdrWnZhZXpBNDBrOEZwbXY2cWNRRUhaUG92YUxMUGJCOGJ5WmJXRjZBMm02U081WXJpcWlVVzd4c3gwREhUR2tCWHJlWVlNRE5sa0RvT05RZXdTekNKUWJIYkhlVU5TcWtVRkhTdXpIeklrY095MVo2dGtNbDBZTkExRWtEa3pPblpET3Jub0VmVGVMUHkzeFZMQndreHNTRUR2M0NNaXhheEwtMC0tNzRB0gHcAUFVX3lxTE9UQXhkWmFCYlVZdVdkZnVwaVZMZU5zR2lobEg1cDE5UnFkZEtxbTJwYUN0MnBuTWw1WW5vWTBHTEppWFB0RloxSG1xOFRoVFJYUTJNbTdVWVJyUDU4ZEFGd0FnT19IRTQ4SWJGMTZ1SEtKVko2SXFuWlJRd3BELWZBN21NQWxiaHJlWlVkOHl0ZjlSNXJHQmh3VTBjQW1RTnNpV3hXWXg2em1YclpHRWhOeFlYWWNON2k5SWVyZWRxbjZXZWtzbnhnZzd4NnNlZnZqcGlkUnZibG82T3g?oc=5"
+      "publishedAt": "2026-11-25T05:29+01:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeC1UUllHNWZzcEF2eDBEY01HemZTeHd0Ung4VEVudm5tVmJaa2lOWHhDc3VtTVF0QUxKU1VWRnlDZHNQU3ozOWFuMUxwWF9iNVpXb00tekVWT2tvWTRWcFNSWnh6ckhYc25uRDJ4alphZGs1dy1xUWplVUF2WDFGRkVDZlpqWGVOLTcxOFJVNXRVeTRzaEhXYWJra3AzN2haeG1qNGtMTEJ6dDh6ZUhZN0pQUW9Qcjd5NkQ3ektR0gG-AUFVX3lxTE9LNXN5R0NocmFob3VUWGF0anZ6aVl5bi1HdE9JWkdKaVJidjEtVlFWWl9fX0VpUnBjUHc4OGpHbGRUeVBxYlFnMXFDUzhqdC1wTzhfd1hLeDNMUWtYcFNaT29UeWdGMl9scVdZNVRKRTdKS0R5RmdEdWtUYzRKbWlRNXdEZVp5eEI0dVd5RkxUSlh2ZGlsdk5ybHhuczYySlpzRTVnYXl6RTdqZ0dBcER0eDQxdTlvZGYza0pPaFE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "La fiscal de México cierra la puerta, por ahora, a la extradición del Chapo Isidro a EE.UU.: “Vamos a juzgarlo en el país” - CNN en Español",
-      "summary": "La fiscal de México descarta por ahora extraditar a Estados Unidos al Chapo Isidro y afirma que será juzgado en México.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-24T00:22+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVV8tMERtdm9kYnNBelhyLTRsb3RMNE1xRlpISXZneGJqN1RtTU43OF9MQ1JvR3doTmNFUnpRVFEwUFk5Z1BlR2l3WG9vUjNLaEFyU3Y0TVhXY3Nyd1U1ZDNQMEJwMjBJaGQyTTVBVGVwRnpqeEhNUjY2Z0Z6Q0FQc2Ftcmk5blNuUmR5UUhMNERDQ1NHQUhyOEFtMGdPYXJLQ0RJ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Cinco países centroeuropeos rechazan, por distintos motivos, el presupuesto UE hasta 2034 - SWI swissinfo.ch",
-      "summary": "Cinco países centroeuropeos rechazan, por motivos distintos, la propuesta de presupuesto de la Unión Europea hasta 2034.",
+      "title": "Chen Jining, jefe del Partido Comunista en Shanghái y miembro del Politburó, investigado - SWI swissinfo.ch",
+      "summary": "Chen Jining, jefe del Partido Comunista en Shanghái y miembro del Politburó chino, está bajo investigación.",
       "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-11-23T21:43+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ0ZCWHdqMDk1RjVYc3FVTHpTMUdIZjcydkE3enozZlZaeFR1N29jdzN4Q1lNelRKMTlpM1ZjMmRvZVozRllyOUtNdTIzclA3YkFNV3RIVllHenJyV2dBZ1JqVGVOZldZMDhLUWpINDloWDRzZUpqNkJXcGdhb1M5QU9yMWRzQVJsaHVBZkc1eVd0Yl96WExXRUtVUUx1ZXlyd0xWTUVhY1BoV3h3aS10Tm9aM2NOSlBqVndpSzRXX1JmT1dFbko1cVdjc3dsWnRoVHc?oc=5"
+      "publishedAt": "2026-11-25T00:58+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTVWQlBpZTdNWGw2QWRKVXdHUlZ0LV91a1B3MndGTFdiYkd3WlJKdTZQNjE4Vnk3aFVITENUeDRXaEFOZFFhS1FQWU1tbU4xc1lPSjItbDVJU3pRc2xrYXRvbUx2QS12d0ZkcDItZV9iZkNpWEROUDdVaWVEWE4zQk9ZbVZpejVzRE5faE52cURVNFJsclM5TnlMTUVQRVZfNy1MaFpTajdzNFJfTEMzNnNyS0RubWNQckZiczE5bElveGRiQVhBelRWbHFXQXpHWTRhcmtyWQ?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Caricom critica falta de acuerdo en la COP31 sobre cómo combatir el calentamiento global - SWI swissinfo.ch",
-      "summary": "La comunidad caribeña Caricom critica que la COP31 haya terminado sin un acuerdo sobre cómo combatir el calentamiento global.",
-      "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-11-23T18:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUZwTWVJV0h1VG1GanFEU1lOVHV4bGJ0TGQ4d21BSEdXaXJwWmJISGI3R2g4dHBzQ3VSaG9obWRFZElOS09uZXhENXpLU0hfbk5KQ1k1clgxa3B6TUIydGx5ZFd6SmllcF8wU1ZRcUpqSU1XczU4cjZPVURMTHNvV3c2V1ptMFFDcS11MXNVelQxQmw4WE9YMDJOU2hsbTRBWUVVNnh2a0lBVmlwM2drVUNETnI4bjB2cVRScDR5cFZiVWNvMWV3MkRtSQ?oc=5"
+      "title": "Gobierno de Trump se dispone a anunciar nuevos aranceles tras investigación sobre exceso de capacidad industrial - Yahoo",
+      "summary": "El Gobierno de Estados Unidos prepara nuevos aranceles tras investigar el exceso de capacidad industrial. Entre las economías señaladas en la información disponible figuran China y la Unión Europea.",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-24T20:15+01:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanRZcDdPeEpucWYzX2h3Qy1zVEdiSU16MXZucU1QQVIwTlZlaGZMRFdaSGp2UHR6UHNjMG83ZzdJWnRkUTY4RHQxMkJ0Q2lGRFpwaDNaRjIwWUlBMm40Vk5oMEItb1BOUFJTWmc4aXh5TExYSV9QMjlpRnhtMjR3cl9VeHZJMDFSTklYNHhuR3NTdUFHNW9PQUlB?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Mark Rutte: retirada de la OTAN del flanco este es “inaceptable” - DW.com",
-      "summary": "El secretario general de la OTAN, Mark Rutte, considera inaceptable retirar a la alianza de su flanco oriental en un eventual acuerdo de paz para Ucrania.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-23T18:20+01:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2otNVhuVk5jOUlmZjhYRkdwWUdlNHljSXl4YWRua1NOclFhZUZxaXJrRlNqb3BEOFRoQkZzbXpfQkR1T0NWcGdpT2xrOWM2U0lZa21Hd1RvLUQ4by03VDloZU96QlVFOVc4NFZsOFdMQm5aaG52dDhiWk4xLWwyTk5RWWI3dVR4c0FaNVRJZUFULXfSAZMBQVVfeXFMTWpEdm90aEg5ZWphMjlaYkJ3aEg4UkVpbDNpM0Q0VkFpVWt6NE9QR1Vnd3NZUHljLXlfdUVzUlZpR1hhbzRxTHdXZGk5dXN0VGN1bWRNdk90N2EzVzRSN2t5NmwzdE5VMkV0WjRXSW5mVHEzdFBrVGw1aDJpdWQ1bjhrUDNGUl90RGk3eW1Fc3FiZkxR?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La Comisión Europea propone sancionar a bancos y deportistas rusos - Euronews.com",
-      "summary": "La Comisión Europea propone nuevas sanciones contra Rusia que afectarían a bancos y deportistas.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-11-23T17:16+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREFvVVZzOEJZUWU0SXhsUjF5MzNvZHJEbTFVNWgtQkN2cGRwcFRDV3dyVXRnMEtwOWxKd0JhVGU0Rl9NeXhrLUVpVE9ITG9EUlZZM3VlbTV5ckROMkRCZDktem55NEhrRW41UXlIRTE3WG8yT0ZCT1ZyRFBrU0NHckVSUUgxejkxN3cyZ0dBZ1ZBUndBOHZzejJ5cw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "El primer ministro británico asegura que volver a la UE \"no está sobre la mesa\" - DW.com",
-      "summary": "El primer ministro británico asegura que el regreso del Reino Unido a la Unión Europea no está entre las opciones que contempla.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-23T23:14+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVERkLTFSS3JHM1pJdGdBRGdFN2JTUmJQcWxCdWo3bzNxOXBZeXRJT1pTQWs3QTFMSzlpdU1VSVlOdjZmd1Y1UW1sT1VZMkdub1ROWEFUdVZCenNPV2d5TXBsMmxac1VuN0JrMlZ0YTdPTWUxX05UZ1ZhRUd4S0sxZzNmY2JtSmtCVUlSYm1zbHpUUFVFdGtkY08zdG84LTBhdTVQNEVsT1lIejhXcGJ4cWp2RnZiU1VPS0szV9IBvAFBVV95cUxNM2ttYi1URGgwekQ1Nzk3OTFVVUtSSzcwSG1YNWJqczhOR3pIa09RVmJubWh0MlYtMkZDWEVaaXB3OWctN0R0bVRFYzhTaVQwQlNuYWZwYkV4UmFNajNIY0d2d2oxSERJQ2ttaWt6N3FINU9BQlhFV0xoWWhONVU3NmtZc2lvR25weXdsV1huRElsTkxKbjdQNE9SYmxHS1VQdng0Z0VfMVFnMTNSUnctbTB5YlRkNm9vZlp5Sg?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Encuesta en Alemania: 53 % rechaza armar a Ucrania y 83 % quiere neutralidad frente a EE. UU. y China - DW.com",
-      "summary": "Una encuesta en Alemania indica que el 53 % rechaza enviar armas a Ucrania y el 83 % desea neutralidad frente a Estados Unidos y China.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-24T03:18+01:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUs2MVZkb1R3RTRnaUR0cUw2T0xUYzRBcER3NVZKQ1ZzRjB5aFB2MThiUklCTjkzendUZk93ZDdhc2YtaXBvNlNLYjZOdjk0a3BBNlNsUks1aTl3NFVYQUx0ekYxVDNpS2s1ZjdRTEM1a3hiN3JZRU1lR2hzSkV6RnlUa1JITU1yWEc2cFYwT1gzR0RXTlpzaWVTSzEwUC15X0Y0TnRjNNIBpwFBVV95cUxNdnptdUZyX292dlNmblkzelExanYxek1HVGNHNmtvZzBvQ24zVmxnelZYQkxrU0NfcmFvalRfcjJaMUU1dDY5dEpzbkN0VjRyTDZaMHdhMnhKemFnRFBBMW5RakNrcTJzS0kxcGxTdmVtMFFhNmFNNGNtdlRzc2hnOHJrWE13N0NsTHduSXYtdkxmdDFpc0R1S3IzWTJkZUFJT1Q1a3doWQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Los usuarios apenas distinguen las publicaciones políticas creadas por IA de las escritas por humanos - Infobae",
-      "summary": "Según la información disponible, los usuarios tienen dificultades para distinguir las publicaciones políticas creadas con inteligencia artificial de las escritas por personas.",
+      "title": "España, Canadá y doce países más instan a Birmania a cumplir el fallo sobre el genocidio rohinyá - Infobae",
+      "summary": "España, Canadá y otros doce países instan a Birmania a cumplir el fallo sobre el genocidio de la población rohinyá.",
       "source": "Infobae",
-      "publishedAt": "2026-11-23T21:31+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQckl4SHlJQXJXeEhLdzB6bDV1NGtLSERaOEZqNEJEVlhJWDA5d2VRNzMyWTkta09FU3lBSUExdV9lUkxGRFozTVE5X1RiNDZId0ZRZUVFMElGVW5DLTJZQmFseTlEZ0VxbUY5SjNjR2F1TVljanlJOF9JVVVUTjJMbE5nOWl3X3d4dzF6SHVJODJ4emRVdS1ab0VoWURiSkp2bWhVZ05JSVVubmppNlQyMFlKdE5MaVgwcktZS1didHZoRGdxRWIxdlMxWjRLVDlZMHBoazBzWEtiWlo1ZWs2cWVERnhENTc3ZUHSAYQCQVVfeXFMTk1Xdms1QWVDc2xKZzVTNzZZTlE0aWwyU3RzNjdiQkRVZmJ0T1lYN25pdldFeGJoQVd2Y2pDZ01oUHZreVpSZE9xNWJJUVBWdHFoQXkwM3dZSVRNRG1GWld5VEFuZ2pmZXpleFZ4UGd0NjZaQWRXcGFyQkxocXc3TG1CeUNmQ2hyNHF2TjY5SzZDUXRleVpRWVNzUUI5azBuY3NxNzRtTjRtTGdxTkx4V05XRUhoRy03REhmSE0xelpIbTdYNXo4N042c0lyVjA2VzZrWnRENDB4LWRxMUY0WnhMSDlndW8xMzg4M25XNi11MGp1dDQwUWh6VjNGRkNsa3RhR0c?oc=5"
+      "publishedAt": "2026-11-24T19:45+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUk5QV0QxaHZoYW5xRk9pQmlZaDNVLTkxNHlWVmNSQWR1UlNJWlBEUWJ6THhnWG5FTE94cDI1Mm5WMlJDekt5UldKWEd1ckVrTmp0elNKTWhIRUlXa3E1MC1HOXJvbEhQSHVad3J2MXc0YXYxSFFISDVicy1XRENBTEluR1ZfdjkyQjd2Q2xGV2NLbE85NTZlS29uX0xUNVRfZ2cwSjdXZVY0U2d0dmlPdFlEdGRtdVlhWXQ0dFNmb25tb1hMTGh0MUx2cjIzWnozTHB0Q3prSlV2aXlEQzR1Ym5B0gH8AUFVX3lxTE05NS1pSjYzNWdfaFFPazFhYWE2UFY0TUpNVThteTNjTFRiMFNCbE9XLTE0dFB6SlVXcHQwajNWRmVXdVpJQTM0cmJ1bXBOQVc4cm1vUkVVTUh5Tkp0N1BQX29ITm5zbTRNVmVSTVpXNW9EYkx3aVJZQkdaRGpsVTdIb01lUWJsbDgyVWpNYWowSmVNdjd0dlF3YjMxMjk1WnpPT3h5Wk5hUVBUaDlmeVZrNlNKVFZ5TzgwV0YxWGtGN2tkb1l6U0t5WV8wN0FWVkVzM2VWV2Nac3dyaDZLZlZCQ2prN09naTVHVF9xaXNnU0V2N1kyaVFiZUtSZQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Las autoridades del este de Libia anuncian la muerte de dos de sus militares en el ataque ucraniano a la corbeta rusa - Europa Press",
+      "summary": "Las autoridades del este de Libia informan de la muerte de dos militares propios en un ataque ucraniano contra una corbeta rusa.",
+      "source": "Europa Press",
+      "publishedAt": "2026-11-24T23:59+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSUUyTkxWSG1Ybkd2Mm5sLU9OSTBZV3RHaXdVZ1M0VWhtN1JqeF85UGVmeVRmR016UmloQU80SUpkMWo3WUlhWm43TUE2eEp5d21NVVRwUzh2cUJIVG5kc2YyRjBJRHJzbXZMUEVJbUszMER0N3loT3VoSnhHVk80NVpnaHVIdTFQUVo5STVyZVNvbDJHWnFXbU93QVU1bGFDOXNXREhLelJ2c2tJaGFBMVc4a1hfTkdkcjkxUDBSUGFSU2hOUFFBVVBpQWdzZUtTaS1PeWdRZjN3VjQ3YWJN?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Medio Oriente: ocho palestinos mueren en ataques israelíes; tres petroleros chocan con minas en Ormuz - France 24",
+      "summary": "Ocho palestinos han muerto en ataques israelíes y tres petroleros han chocado con minas en el estrecho de Ormuz, según la información publicada.",
+      "source": "France 24",
+      "publishedAt": "2026-11-24T16:53+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0lzYk5abmI1S2RyV2pXOUhRVDVuWHd2bEo4RHRPeWd4Wnh5RDZtMjR0UEZlZFk0cjVOYXJRQml1RUNnWFM1elVxbEVBZmVORlVFVUR0WWdYRTU5dU9VWDFmWGhZLW9UcUFfbHltVWVOUTBOX0RYcjFiU3h0bWlTczhjN1VjYUYxZVZBYXl0U0xtdWVkZmRIRUFlVU5zWi0xRVN5M19teVpySEprR0ljak9SMExISl8ybXVYR0tVZ2pfNDdCQ3czUU9qZlozYUxFUDVLYmI4cnlhN0JyUDAxclVTZG1qOHVJeFRv?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Al menos diez muertos y 278 intoxicados por consumir alcohol adulterado en Irán - 20 Minutos",
+      "summary": "Al menos diez personas han muerto y 278 han resultado intoxicadas por consumir alcohol adulterado en Irán.",
+      "source": "20 Minutos",
+      "publishedAt": "2026-11-24T21:18+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXduMFZoVWFpODkzN2Z0T1ZjNmpzcThkUTl4WlVQM1NrajV1OVB4dzBMSkpYd0FlbDZwZGhKZVU1di0wTFlrUXViZU11OUVpSTRJd0s4R0JFdUhhZ2IxSmZLSnhEUmtRWWUtSVV1UUlfWUlOeEhRbG1EQUo3OVZVbWMzZ3ZKMkVIdHVaVmNMMzVQLXNqN0tQaWpFck9CTDdURU1XMG02NnRUM2FILW1sdE1RZTFDckUwMGkwejI2aXJ2Wm_SAcgBQVVfeXFMT2ZIR3hFc2lpQUhOalFOZ3hFS0FXZW5Cd2d0ZmJ3Z2JFTmdaek9OVEFCSzhqdUd4VXhUTjk5ZlB3X1RIcmk3cXVpOTZxbUxoVFF3M2stLURpWmtkZjR1aUNiR1JVdzRkeGZDRjRJR2twb2laemJ0TGNNdllLcVBvT2tCWWR1cldLNGZNQ1BZNDlnQjBEY2JkTENGSjdjdUNuZHRZVk1wMGVXOXFRcy1IWEJzeUJEaUhJQ3UtNmVqajNwVXJXcEd3TGo?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La Unión Europea propone vetar a los atletas rusos en un nuevo paquete de sanciones - DW.com",
+      "summary": "La Unión Europea propone vetar a atletas rusos dentro de un nuevo paquete de sanciones contra Rusia.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-24T19:05+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXNRRTNlbDFWUkdmX0hxYXZJVkVkRDlydnlqYlpKTC1UTS04N1piV2JkRURUWGtFT2VYd1BFZTlZTmcwTDlaNFJpZzBmR2lEVEdaaF9UVC1jNTViYlFHWGVuTUVvNW5OOFNtX2pXS2pWUmp6Slk0dFNXNnhVUzJTaGxOM0Qxd2VMY0tjaUltbE00a1VyeVRmc2IwTV94WE00ZE5mYXB4SW5MLV9fa0HSAa4BQVVfeXFMTUhPTUltTW14SWtSZUcwNUJpdDlaNFU1UjM2bUVlZ0dtMUdBenUzaXJXbWJHbzlBMENfMWVZWVpTNXYxbHV2dnFsV0NUOThCY0xzVlEycVJzeW15SVR6WkdMcjBmLTJGektkVDhKZTZrUnNRZHhLUFhNeGVKNTNQQXF4b0FDUmJWVThuVWt1MUJXdnB5N3hqUW5wZ1ZpdE9DYUNQRGxzWFlydE1TMjhR?oc=5"
     }
   ]
 }
