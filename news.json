@@ -1,152 +1,168 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T06:30+01:00",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Cavada señala el siguiente hito de Bahía Sur tras la ampliación: la venta de los suelos - Diario de Cádiz",
-      "summary": "Cavada sitúa la venta de los suelos de Bahía Sur como el siguiente paso tras la ampliación.",
+      "title": "El pliego de autobuses de Cádiz se tendrá que modificar y volver a Pleno - Diario de Cádiz",
+      "summary": "El pliego del servicio de autobuses de Cádiz deberá modificarse y someterse de nuevo al Pleno.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-25T06:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzR6c1llTS1Wb1JOYkQwajBsWDVnWURwdk9aci0wWmpKckhwbk5NamdCVmoyVUVGU2tEOENJdnRNTHV1VmRrQUxXUTBzeVlNdjFvcjJKdWE4NEVZU215VEJaMGJ2WVhuN0RnUW13OVQwY1dxdFJaMG5kN2JiNmhLMzhQSjM0VWdnWC04c29oMG9hVF9PTXFYUkZRR1A2MWZPRVh4QkhMT0dUM3BHdzRZMU9zbHRncF9qVE51WXpB0gHDAUFVX3lxTE84MGdJRjlqdE92NWVPNjRIZUhTRmZQdXBOSjNrdzRHT25ZN3RWTlhtY3ZNSXNzb2FMakhqNy1Tbm40aWVqaVdSb2pSYnZQbTd1bzRkUnRiSE9oQ0d4YUxyR0FveUZaakd4b2hTXzZ6MXlvYzQtMUVkbXN6SDhOemt3b1dDaXFrdnZYb25UaGtOdHI0aVdXTGhRSW54a0pLeF81VHZTN3U2eV9rZjFYSVBxcS1XTWE4a3oxZ0hKRDlkeGdpYw?oc=5"
+      "publishedAt": "2026-11-25T17:38+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamdrSWppWGVsQndTZDFQRG1IcndINGhubFB4SW5VNkJRWUhZTjB6MG90QlFjOWswcHJFYzNPcVZpekItMXRqREFQVXZsWkZpYl96MzFnTGZRZFhBNXNXajdQRHZWaHJLdXB4WVcydEJCWGt1Mms4aG80Vko2Q1dBUmdTZ3d1UzNtNXNrWG1vQ0ZkTGpjeHfSAZsBQVVfeXFMTnMyc2RheDV1VzlQRXhDdlpMVDVuMTVSQXZncEJWelRiWEU3Yk1sMnM0cGN1bVZvUmZzcWM0MzFkVEVMbEx2NlFWa2tvX0k4bVpIdWNlZVBLSnFHcEszcThIcjFJTlNzRGQ4ZlR3dE4zNm92U2R3VXlfYkUyYU5Da2YwS193YmVobmtMQ25SZktFMTlsLS1xRzU1OHM?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "Trabajadores de atención a personas sin hogar de Cádiz denuncian hacinamiento en los centros y una situación laboral insostenible - Diario de Cádiz",
-      "summary": "Trabajadores de los centros de atención a personas sin hogar de Cádiz denuncian hacinamiento y una situación laboral que consideran insostenible.",
+      "title": "La residencia de mayores de Bornos abrirá sus puestas en los próximos meses - Diario de Cádiz",
+      "summary": "La residencia de mayores de Bornos tiene prevista su apertura en los próximos meses.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-24T18:32+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY19BcG5FSlU1Unhfc29oVldrYXdoUXBrN2kwNUdPY3N6SHVPS3BHclRteHg0Q21uSFA5TlBkbkR2Q1IwR0w0eWNnMDNwek15UXJ6bENpTUJRcDhGMXlla3ZDQWdueHl6YWNMdkgybDdCajBqYTdMdVExYlFKVWgxeTZReHI5R094Q3VQSWhiUW9uVnNNNEJiSjZoSXNKMjhRQ1dMUkdvTGltN2toNXR6Rk92anVOU283eEc1Y2lXUkx1Yk9uakVsMFM1bGdfeHJpQzgtQ3JPM0tKT3dIYlFZU2p3NHZIdHNU0gHuAUFVX3lxTE15OVlmdHdxRW91eDE1MGJRa2NYWGpPbVJSTVVGUWJBTWF5NTg3Sy1mY00zQXI1c3RsYTI1bFIwdzFGS0FtdFRBMGwwT0dfLW9aUXAzN1Bpd3lmLUdWelotZ0RITlRic2h6RGRlYmFSbkhrV0ptUGdiMHJMU3RVMVpYakhYRmhQd0IxUnIyS0VOUVFUT3J5STRJYlVVNUU5dDhSd3JDd3h4N3FHUlJieFFQU1JyM3ZKY1VoM0ZlUkp6S3dRSFg1bVk4OVFwdTNSMXFGRkg4QjNRSVh0X0x3NWtMUnkwZHFNTnlxdnJqNnc?oc=5"
+      "publishedAt": "2026-11-25T18:08+01:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU19LbHpYNlpSd2JvN0p1eGdycS1UT1lqSy1yVlpJamhGMjJpbHh3M2NDRElqcnRZUEk3YktJN2hLOVJHNGtHazdqUk9xODQ5ck1HNHJONEJPSGxuM29kVWY1SVc4S1RSY29qVnNkbWtIenM4Yl8zTXZSRW9xUEZjUHAyN0FMUFNfZmNZbVh4NTFIbkc2dThlOWU1QzNYenYycUZzUUN4Rnl1ZnY5dFRIa1p30gG3AUFVX3lxTE81aUQxaFV4T1ZtdTNheEpjUDg3NGMzd05heUw3c0hnS0lkZzZtcGlFMXNCeXB5RndsaFhmeTJha1ZremN0T0RqcFRJYWpfRDFVNzJLZDhRamRScC1SNEVHM25HcElWQWdZUG5EcnZ5WklZY2JyM2xlS1Rram9hTDh3VW5neGVrVHg5QWc3TDV0aHk5TkFCN2dJaTdoc19qX2VaM09Ib2JCcjlfdEdyN3RVQVVtZm94OA?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "Investigadoras de la UCA revelan que plantar árboles en zonas no forestales puede favorecer los incendios a escala global - Diario de Cádiz",
-      "summary": "Investigadoras de la Universidad de Cádiz señalan que plantar árboles en zonas no forestales puede favorecer los incendios a escala global.",
+      "title": "Una portuense, de inquilina a propietaria de una vivienda municipal con 41 años de retraso - Diario de Cádiz",
+      "summary": "Una vecina de El Puerto de Santa María ha pasado de inquilina a propietaria de una vivienda municipal tras 41 años de retraso.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-24T18:30+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ2ZGU082OHVWRk9JUk1sQUVHYjdmaTZHWkRxeFM4MEdLMlFHUm5uM1M4YTJVS1gyUGNrWGlNX1lBbVQtbnl4TVpzZkw5RzZtcm1MQmJBS0JNYkE5Q1FWWGMtdG1qX2tuZ3NTOEhBak9zX3cxZWRucm9PSlI3RDNtY2xBcjZsQmZBNXlCNGUxNUZlanRkYzRVMWI1LWtfVWlwT1ZTdmUxMmVxaVduRnEzT2JHc0tBTG8xQUNPdTVPWjk1Wmp6NVdSUHZkQnBtMzl6b2N6LVZkZ3VnQV9NbkhmbW5ydWlLRElNZlHSAe8BQVVfeXFMTnMxRkNJejJjNGZ0LW5pWFVLM1RWemtPQzlycE1EelhNc2ZDclQ3YWxUNkZRQll0cHVvdjVuTmdkTk1aamxNRDh1akZlTkFKeXZhQmxLQV94MUdRek1sV3gwU3dsZS1meWpaTDlzaTFSaWgtY0VpUU9VRmlNNU10ZExJX3RsWFZTMzVXdUN1bkM5elJKZDBwLU50SlgxM2JmcTY2ckk5dU5OM29ETGdRaUFSeW9feEEtbEtZYUlpVlZadE16dFFVQndRUjB2a3VDSGJPTWYzSlI2RFNlV0RhZExnYzY4bVNuS3NYRk1NMEk?oc=5"
+      "publishedAt": "2026-11-25T17:58+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHkwLVBoRGZ1cTRmMmVWV0FrZ2hyLVBKcktlV2VmOGhtekVGR0lkaE1HWTBTTWJhYXREZDNkRG04RjNIZEdFN0NGNjQ2Y0hCd3NHNnFXbUV4TTVfalV6MEhqRFVlRElwNURXUU9mdncxOFlrREhXRUJyQkVIdVQ4NjNqdmFSc2s1bThfNFpEUWduZUtRSFJqMnJhTlJoa1NxUjNLdmw2RzdMQdIBrwFBVV95cUxQX1RQOFotN2dUSXc0d3dnRE9aNUktYU9rczA4OERvamRhMGtwSlpVTWJCUHRyRUhvSDBKOVJZeUo2cTZhWW8xYk44Y2JvcHAySENnRWgzNHJ0T3FBbmoxamtFSHFWamVSTkE3blRicEViQnN5SVMtSjRWdnNDTUdBSHN1UlJEQUNaQm12SV9Bb1NHdUxjZWNSUFBRZGE1NUFkOUt1SkxvaTJKbEEzU3d3?oc=5"
     },
     {
       "section": "Cádiz",
-      "title": "García-Pelayo y el sector constructor abordan el reto de Feijóo de un millón de viviendas - Diario de Cádiz",
-      "summary": "García-Pelayo y representantes del sector constructor abordan el objetivo de Feijóo de construir un millón de viviendas.",
+      "title": "La carpa abrirá finalmente toda la semana de Carnaval 2027 en Cádiz - Diario de Cádiz",
+      "summary": "La carpa de Cádiz abrirá durante toda la semana del Carnaval de 2027.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-24T19:05+01:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWFYQmJ0WDk1NTVqYjRST0loNkQtRUJ0NUdvdG4xcjIxNnRQLUJmOFRmMHV0dnQ0V3RMcW1xeE5hOW03Y19NamVpYTRiZG1RTERualBzcnA2dVdBUGM0OUZheWhWM09QVmFueU51TkEwQ3Vad053VlB2MHpMTUxWcjhZS2hCZmgtYkRWM3k1LXJHUVlSWVQ0VEo3MGJOVWNB0gGmAUFVX3lxTE1Id3R1T3JpZkE5NUpVUm9yaUdEd2JMYlR3cURONElyVUZhT3A2SVdMT3JhS1NHYjNmZnprWDBYb0xkNG5RTGwwcWlmYXEtNzdubkxBOWhYb3J0Uk1yV0FtVmExWHdjUUNJSm5rd0U1V3VtNzdTQzV5eXdyZmFsWF9XcTVhSndEQ0pFYUYydmVKY2VvU0hqU09WRWgwSGlubU1JdHBSVWc?oc=5"
+      "publishedAt": "2026-11-25T19:00+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczZhaVp4LXljVWh1Y1FSMUhpYlFva0lHczZMREFkcmxzZmk5anFIN2VfVlFDZEE2eEhkbVc2alBxOXNTMkxhVkduYVZSYUNsMU5sQnp0ZHh2OFNjeF9CbXZwd25DS2YyNEYxRTNXc3VMeGFPVWF2aWZYOUNiS01fSVlNNHZRLWVtZXI0N0tkaGd6cE5RNWxlMjFlY0RkU0I0ZVpocmJfblc5Z9IBrwFBVV95cUxNVXMzcTUwdER4ZDBOTy05bkxwT2N4ZUppZ01wZnQ0UXJjV2I0WHp0aU85UzJhUnRHMWZsWE53ZDR4WlI0QmdrY091Q1VJR2Y5NzFHYmZSN2d1MWlSY3AwWnNLemxYZm5nTHhBZmNxZ09aalFuOFcwVU9aVlZhLU81aG53QmQ2dUNlelZkQm9DTTRFZ1RacUJ3SkVpeVloZDhkTjRnOE94RXpPNm9xeExR?oc=5"
     },
     {
       "section": "España",
-      "title": "Desbordado de cayucos el puerto de El Hierro: tantos inmigrantes como habitantes en menos de un mes",
-      "summary": "El puerto de El Hierro afronta una elevada llegada de cayucos. Según la información disponible, ayer llegaron 1.282 migrantes y más de 900 menores han arribado a Canarias durante noviembre.",
+      "title": "Adif validó en 2020 el sistema que no detectó la rotura de la vía de Adamuz que dejó 46 muertos",
+      "summary": "Adif validó en 2020 el sistema que no detectó la rotura de la vía en el accidente de Adamuz, que dejó 46 muertos. Un borrador de los investigadores advierte de que podría repetirse y recomienda medidas urgentes.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-24T22:45+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/24/6b05f20121efa017398b4587.html"
+      "publishedAt": "2026-11-25T22:56+01:00",
+      "url": "https://www.elmundo.es/andalucia/2026/11/25/6b06d406fdddffe3308b45b0.html"
     },
     {
       "section": "España",
-      "title": "Nieve, viento y olas pondrán este miércoles en aviso a más de la mitad de España, con Cantabria y País Vasco en nivel naranja - El Mundo",
-      "summary": "Más de la mitad de España estará este miércoles bajo avisos por nieve, viento u oleaje; Cantabria y el País Vasco alcanzarán el nivel naranja.",
+      "title": "Faltar hasta tres días por enfermedad sin ir al médico: la propuesta de los facultativos de familia a través de la declaración responsable",
+      "summary": "Los médicos de familia proponen que las ausencias leves por enfermedad de hasta tres días puedan justificarse mediante una declaración responsable, sin acudir a consulta, para reducir la carga burocrática en atención primaria.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-24T17:39+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEMXZyallGNHphV1U0bmZUV3JocmRsQ2lfRGVudlZSQWk3ejY1TlRKWkVrS0J3YnR1ZzNIWFpHUkttbG1GVVJUbG9KeWcyYWszUXhTcVIyRXU1N0tYZklLbE1WRWotclFzQ2FpazdDYnFienludmJGNzBn0gF6QVVfeXFMT19Oc2hScHNUZGp1MHNYUGZnTmZ3VjVhLUlHVmxaeFZGY3ZwWTFIYVVkNzNxM3dKVy1vTFNsRTJUN2xpbDJnTHp4dlNuTDN4bnJ0cjhYS2RaTk1EeXgydjlJRTdBN2xEeEQyLTJPQWZHYTdGUWIxMGZKY3c?oc=5"
+      "publishedAt": "2026-11-26T00:01+01:00",
+      "url": "https://www.elmundo.es/salud/2026/11/26/6b06f5c8fc6c8304418b45b2.html"
     },
     {
       "section": "España",
-      "title": "El Supremo rechaza suspender el DNI electrónico como medio de identificación en las elecciones generales del 29-N - El Mundo",
-      "summary": "El Tribunal Supremo rechaza suspender el uso del DNI electrónico para identificarse en las elecciones generales del 29 de noviembre.",
+      "title": "La realidad detrás del aumento de las hipotecas: no solo hay más compradores, sino viviendas más caras y hogares que no pueden pagarlas",
+      "summary": "Los importes de las hipotecas aumentan junto con el precio de la vivienda, lo que obliga a las familias a endeudarse más para comprar una casa.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-24T16:55+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FNFFNMGFlVGVLWFBwb1pHVk9uUkRvY25kVVV2LVE4aEZCRDIxbmNIbFR5TjU0bXFxNnlVdVE5LTNYZzNPYXVUMGtadUViTHBacmo0WGJhWWFYVTVONlZNNGNfNE5tNkktT1lMN3BidWEwV0pESkluYllR0gF6QVVfeXFMTkU0UU0wYWVUZUtYUHBvWkdWT25SRG9jbmRVVXYtUThoRkJEMjFuY0hsVHlONTRtcXE2eVV1UTktM1hnM09hdVQwa1p1RWJMcFpyajRYYmFZYVhVNU42Vk00Y180Tm02SS1PWUw3cGJ1YTBXSkRKSW5iWVE?oc=5"
+      "publishedAt": "2026-11-26T00:59+01:00",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/11/26/6b06f8d121efa04c238b456e.html"
     },
     {
       "section": "España",
-      "title": "El Ministerio de Ciencia releva a un alto cargo del Ciemat tras denuncias por contratos pero no investiga: \"Esto no puede ser\"",
-      "summary": "El Ministerio de Ciencia relevó al secretario general del Ciemat días después de una denuncia sindical sobre presuntas irregularidades en contratos y dietas; según la información disponible, no abrió una investigación.",
+      "title": "España pide a Frontex desplegar un avión en Senegal aunque no ha logrado firmar un convenio tras años de crisis migratoria",
+      "summary": "España ha pedido a Frontex un avión para Senegal, pero aún no ha firmado el convenio necesario. Según el entorno de la agencia europea, las condiciones jurídicas actuales impiden materializar la petición.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-25T00:12+01:00",
-      "url": "https://www.elmundo.es/espana/2026/11/25/6b05f7a3e4d4d80a2d8b45a9.html"
+      "publishedAt": "2026-11-25T22:45+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/25/6b0727e2e85ecea7758b45a4.html"
     },
     {
       "section": "España",
-      "title": "Ella incitó a su novio a darle un \"pinchazo\" a un compañero del instituto y él acabó apuñalándole mortalmente: primera condena por la muerte de Aaron en Gerena (Sevilla)",
-      "summary": "Una joven ha recibido una condena de cinco años de internamiento por inducir y cooperar en el homicidio de Aaron en Gerena, Sevilla. Es la primera condena por este caso.",
+      "title": "Sorpresas e irregularidades en el voto por correo: crece la participación en América y sobres que no llegan a París y Milán",
+      "summary": "La participación en el voto por correo crece entre españoles residentes en América, mientras electores en París y Milán denuncian que no les llegan los sobres.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-25T01:48+01:00",
-      "url": "https://www.elmundo.es/andalucia/2026/11/25/6b05ce06fc6c8372188b4597.html"
+      "publishedAt": "2026-11-25T22:45+01:00",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b07109bfc6c837f368b45b2.html"
+    },
+    {
+      "section": "España",
+      "title": "El Gobierno eleva a 6 años la duración de la carrera de Veterinaria porque 5 años \"ya no son suficientes\" para adquirir el nivel profesional exigido - El Mundo",
+      "summary": "El Gobierno eleva de cinco a seis años la duración de la carrera de Veterinaria al considerar insuficiente la formación actual para alcanzar el nivel profesional exigido.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-25T16:53+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42dklwRjRmU1dNbzZ2LTk0ZHcxQV9nZEhRTFhodTFoWUNsd1o0cGlpVVl5VVozV3pfZ0NHZ1ZuSVRvOTR2ZGhPcGdJSnU3NFlDQXJXX0NWTUVHc1NBc2VmTncxVnE3Y21qaVRnS3EwbktQTEU1RTk2WW1B0gF6QVVfeXFMTlFLWGJGYldSdWZUX19NLVlMMDEzWEVSMW9UZWszcmFJUTlzZzF0Vlp3STZuc3NvOGQ0alZJMlZ3S2RVSlA2cWxSb2N0U1hzTk9WcW1qcU93X0VIazBZVDVQUVZ5R3hhZEZmT0NZN1VEZzRRSURQeF90N3c?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Clavijo pide desplegar a la UME en El Hierro para garantizar la seguridad sanitaria - El Mundo",
+      "summary": "Clavijo ha pedido el despliegue de la UME en El Hierro para garantizar la seguridad sanitaria.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-25T17:34+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mbWNPLU9BUUpKanVITWxIZTVJSC03LVkzQm5KUHlJQ0JualJFcUtsR0F4MjY1TExTaDR5UVlQbDgycmJTT1NiSVNocnYxVjBYQmhHckJxaDhZamJNSXUtdDBLSjdTU0xNN2ZBeU1VSlpYSmMyZGNIRlpn0gF6QVVfeXFMT2ZtY08tT0FRSkpqdUhNbEhlNUlILTctWTNCbkpQeUlDQm5qUkVxS2xHQXgyNjVMTFNoNHlRWVBsODJyYlNPU2JJU2hydjFWMFhCaEdyQnFoOFlqYk1JdS10MEtKN1NTTE03ZkF5TVVKWlhKYzJkY0hGWmc?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Más de 1 millón 600.000 jóvenes votarán por primera vez el 29-N - El Mundo",
+      "summary": "Más de 1,6 millones de jóvenes podrán votar por primera vez en las elecciones del 29 de noviembre.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-25T21:34+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT2wzcldCT0JrRmZmZ2dCQ09hZExXYmJsb1Awd2xjbGwySUtERnl1dlAzeVJTTzJ2TFVwS0xqQndyTE9vSDNTLVI1Vk5LVDI4X0VTU045emZGVVQyQml5Q0YyM1JHSDhJVU4zVGJhY3dJMU05bDRaQkphc1Jzd291cjdn0gGCAUFVX3lxTE9fMlI0QW16aE5hLVo2eVNkMG1xOEstdVhnV3lmUmJfdF9tVGt3aEdYQWRES2FhOXZiRGI1U1B5U2NETUpCMy1DSHVNaTBMaWNnV2F5SkZVX3lfdDR4SVk5N1hzbi1RcXE5ZGJ6eWpqTHlIMjV2UDVvdC1oUU5LNHFBLVE?oc=5"
+    },
+    {
+      "section": "España",
+      "title": "Coordinada por EUROPOL: La Policía Nacional participa en una operación internacional que desmantela 57 servicios de IPTV ilegal y rastrea más de 26 millones de euros en criptomonedas - ministerio-interior",
+      "summary": "La Policía Nacional ha participado en una operación internacional coordinada por Europol que desmanteló 57 servicios ilegales de televisión por internet y rastreó más de 26 millones de euros en criptomonedas.",
+      "source": "ministerio-interior",
+      "publishedAt": "2026-11-25T16:09+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTGhwWlJaZVBGTXAwNTFhRlRhdkYyM2lDd2xDclVzYkdiMGF2cmFpejlFMExSOXFwemdObk5xblozYUNPWXZZMHFQNjVFLUNBNEt5Nk9YcGJiOWx3T3JEeVl2T3ZqTFBHTnBmWVk0b19oZlBBd2tBa3NaMEp5VGdDZENzVHVTSDRSR2c0eUZIMHhvUjBnTlJHdzJxTGd4MnJ0TEU5bE56N2hSUlliSzRiNTlvNEtJSlhXQmlCMkQ4VlJoRWhxV3lRNUpTLWJXQ0l1bTVjcmx2U0NVR251NklSZy1YckJJUGFxVDU3OWtzdk1zamN1V2Z1V2szX0pYd0dRSU5DSkxvVnhxdEVJZWVlUXNwUXZYUEFCeEM2TEluMUZiVi1nb2FVd1ZocDN5YmxvWTRvbkE0YTIyQVFGQ1hsbg?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Tidal prohíbe la música hecha solo con IA y eliminará 29 millones de canciones",
-      "summary": "Tidal anuncia que retirará 29 millones de canciones creadas íntegramente con inteligencia artificial a partir del 9 de diciembre y que rechazará nuevas propuestas de ese tipo.",
-      "source": "El Mundo",
-      "publishedAt": "2026-11-24T22:59+01:00",
-      "url": "https://www.elmundo.es/tecnologia/2026/11/24/6b060866fc6c83f85f8b4596.html"
-    },
-    {
-      "section": "Mundo",
-      "title": "Un jurado en EE.UU. declara culpable a Huawei por robo de secretos industriales - DW.com",
-      "summary": "Un jurado estadounidense ha declarado culpable a Huawei por fraude y conspiración para robar secretos comerciales en un caso vinculado a sus negocios con Irán.",
+      "title": "Arabia Saudita intercepta y derriba más misiles hutíes dirigidos a Riad - DW.com",
+      "summary": "Arabia Saudí ha interceptado y derribado misiles hutíes dirigidos a Riad.",
       "source": "DW.com",
-      "publishedAt": "2026-11-25T05:29+01:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeC1UUllHNWZzcEF2eDBEY01HemZTeHd0Ung4VEVudm5tVmJaa2lOWHhDc3VtTVF0QUxKU1VWRnlDZHNQU3ozOWFuMUxwWF9iNVpXb00tekVWT2tvWTRWcFNSWnh6ckhYc25uRDJ4alphZGs1dy1xUWplVUF2WDFGRkVDZlpqWGVOLTcxOFJVNXRVeTRzaEhXYWJra3AzN2haeG1qNGtMTEJ6dDh6ZUhZN0pQUW9Qcjd5NkQ3ektR0gG-AUFVX3lxTE9LNXN5R0NocmFob3VUWGF0anZ6aVl5bi1HdE9JWkdKaVJidjEtVlFWWl9fX0VpUnBjUHc4OGpHbGRUeVBxYlFnMXFDUzhqdC1wTzhfd1hLeDNMUWtYcFNaT29UeWdGMl9scVdZNVRKRTdKS0R5RmdEdWtUYzRKbWlRNXdEZVp5eEI0dVd5RkxUSlh2ZGlsdk5ybHhuczYySlpzRTVnYXl6RTdqZ0dBcER0eDQxdTlvZGYza0pPaFE?oc=5"
+      "publishedAt": "2026-11-26T05:20+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDlIVnpvdndvY0cyX09jdjhXemo4UGJQdzNDcmczcFRmS1BqbjA4TlluRThzcmlRYnpFSEhabWQ5aDZPaFpIdVFiczN2LVl2SURXeWNrdndGS2VMck5yR2kybE92dmJsR2RUdWY3RHBrVDFDZ0xnaklvcjJxdTAxdTlubVJ6YktoVnNDQkE1UXFnR3Q0NmtFNWZZc0p5cFdMR05wV1JIWUtTbjJHbjNPdlBjQzRjMDFyZ2dleWNuTXZWcFRoS2tmMtIByAFBVV95cUxNX25GOWZxczl1T0dGTkdweXRCMkctSEZuY1lmTGJ5N1pBN0ZPSTFQWEc5R2pQRGNCXzJGMjRsZjVjZXViMGlZZ3NlMm5YZ3VNM0w0MDJBaVlkamltY2lpVXJILVhvTVdJNjR4aDhZMTVGay1LWlVVWmszSWo3S0hfdVVhWjRuSVB3Y08tWS0yZWRQeTlUMXJKYXdhdWVxRjdCYjZPd0pwLWhvMTNwM0VhMGRuZ21RWnZRalBleDI1ZmZIcHJoVkczRg?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Chen Jining, jefe del Partido Comunista en Shanghái y miembro del Politburó, investigado - SWI swissinfo.ch",
-      "summary": "Chen Jining, jefe del Partido Comunista en Shanghái y miembro del Politburó chino, está bajo investigación.",
+      "title": "Suben a 31 los muertos por la explosión de un camión con bombonas de gas en El Cairo - SWI swissinfo.ch",
+      "summary": "La cifra de muertos por la explosión de un camión cargado con bombonas de gas en El Cairo ha subido a 31.",
       "source": "SWI swissinfo.ch",
-      "publishedAt": "2026-11-25T00:58+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTVWQlBpZTdNWGw2QWRKVXdHUlZ0LV91a1B3MndGTFdiYkd3WlJKdTZQNjE4Vnk3aFVITENUeDRXaEFOZFFhS1FQWU1tbU4xc1lPSjItbDVJU3pRc2xrYXRvbUx2QS12d0ZkcDItZV9iZkNpWEROUDdVaWVEWE4zQk9ZbVZpejVzRE5faE52cURVNFJsclM5TnlMTUVQRVZfNy1MaFpTajdzNFJfTEMzNnNyS0RubWNQckZiczE5bElveGRiQVhBelRWbHFXQXpHWTRhcmtyWQ?oc=5"
+      "publishedAt": "2026-11-25T22:37+01:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORzV1VFFlWjVFSk5zQm9taHp2VUZzZGF1VDROOHFmSHBmMFdnUnR3VGpQZHBUTDdMVmNLOWp4R0k4QVhUVGZsMlp0ZDY0RjlWQ2xuWkxvSnBtM3ZNRkpuOWJWSzcxUExZYk5sT2NYOFlidmg2MjFqbE94ZXJlMk9oaHBBLTdKLXZnWWt3VWVqRHNXcjRHRm9PRkYzYUxSZGhHT1pSWnVoWmdlZjBGcjRfQU8yaFRTdGpFXzFxTS1VcWtWUnluR05pUC1nZmw?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Gobierno de Trump se dispone a anunciar nuevos aranceles tras investigación sobre exceso de capacidad industrial - Yahoo",
-      "summary": "El Gobierno de Estados Unidos prepara nuevos aranceles tras investigar el exceso de capacidad industrial. Entre las economías señaladas en la información disponible figuran China y la Unión Europea.",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-24T20:15+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanRZcDdPeEpucWYzX2h3Qy1zVEdiSU16MXZucU1QQVIwTlZlaGZMRFdaSGp2UHR6UHNjMG83ZzdJWnRkUTY4RHQxMkJ0Q2lGRFpwaDNaRjIwWUlBMm40Vk5oMEItb1BOUFJTWmc4aXh5TExYSV9QMjlpRnhtMjR3cl9VeHZJMDFSTklYNHhuR3NTdUFHNW9PQUlB?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "España, Canadá y doce países más instan a Birmania a cumplir el fallo sobre el genocidio rohinyá - Infobae",
-      "summary": "España, Canadá y otros doce países instan a Birmania a cumplir el fallo sobre el genocidio de la población rohinyá.",
-      "source": "Infobae",
-      "publishedAt": "2026-11-24T19:45+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUk5QV0QxaHZoYW5xRk9pQmlZaDNVLTkxNHlWVmNSQWR1UlNJWlBEUWJ6THhnWG5FTE94cDI1Mm5WMlJDekt5UldKWEd1ckVrTmp0elNKTWhIRUlXa3E1MC1HOXJvbEhQSHVad3J2MXc0YXYxSFFISDVicy1XRENBTEluR1ZfdjkyQjd2Q2xGV2NLbE85NTZlS29uX0xUNVRfZ2cwSjdXZVY0U2d0dmlPdFlEdGRtdVlhWXQ0dFNmb25tb1hMTGh0MUx2cjIzWnozTHB0Q3prSlV2aXlEQzR1Ym5B0gH8AUFVX3lxTE05NS1pSjYzNWdfaFFPazFhYWE2UFY0TUpNVThteTNjTFRiMFNCbE9XLTE0dFB6SlVXcHQwajNWRmVXdVpJQTM0cmJ1bXBOQVc4cm1vUkVVTUh5Tkp0N1BQX29ITm5zbTRNVmVSTVpXNW9EYkx3aVJZQkdaRGpsVTdIb01lUWJsbDgyVWpNYWowSmVNdjd0dlF3YjMxMjk1WnpPT3h5Wk5hUVBUaDlmeVZrNlNKVFZ5TzgwV0YxWGtGN2tkb1l6U0t5WV8wN0FWVkVzM2VWV2Nac3dyaDZLZlZCQ2prN09naTVHVF9xaXNnU0V2N1kyaVFiZUtSZQ?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Las autoridades del este de Libia anuncian la muerte de dos de sus militares en el ataque ucraniano a la corbeta rusa - Europa Press",
-      "summary": "Las autoridades del este de Libia informan de la muerte de dos militares propios en un ataque ucraniano contra una corbeta rusa.",
-      "source": "Europa Press",
-      "publishedAt": "2026-11-24T23:59+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSUUyTkxWSG1Ybkd2Mm5sLU9OSTBZV3RHaXdVZ1M0VWhtN1JqeF85UGVmeVRmR016UmloQU80SUpkMWo3WUlhWm43TUE2eEp5d21NVVRwUzh2cUJIVG5kc2YyRjBJRHJzbXZMUEVJbUszMER0N3loT3VoSnhHVk80NVpnaHVIdTFQUVo5STVyZVNvbDJHWnFXbU93QVU1bGFDOXNXREhLelJ2c2tJaGFBMVc4a1hfTkdkcjkxUDBSUGFSU2hOUFFBVVBpQWdzZUtTaS1PeWdRZjN3VjQ3YWJN?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Medio Oriente: ocho palestinos mueren en ataques israelíes; tres petroleros chocan con minas en Ormuz - France 24",
-      "summary": "Ocho palestinos han muerto en ataques israelíes y tres petroleros han chocado con minas en el estrecho de Ormuz, según la información publicada.",
-      "source": "France 24",
-      "publishedAt": "2026-11-24T16:53+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0lzYk5abmI1S2RyV2pXOUhRVDVuWHd2bEo4RHRPeWd4Wnh5RDZtMjR0UEZlZFk0cjVOYXJRQml1RUNnWFM1elVxbEVBZmVORlVFVUR0WWdYRTU5dU9VWDFmWGhZLW9UcUFfbHltVWVOUTBOX0RYcjFiU3h0bWlTczhjN1VjYUYxZVZBYXl0U0xtdWVkZmRIRUFlVU5zWi0xRVN5M19teVpySEprR0ljak9SMExISl8ybXVYR0tVZ2pfNDdCQ3czUU9qZlozYUxFUDVLYmI4cnlhN0JyUDAxclVTZG1qOHVJeFRv?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "Al menos diez muertos y 278 intoxicados por consumir alcohol adulterado en Irán - 20 Minutos",
-      "summary": "Al menos diez personas han muerto y 278 han resultado intoxicadas por consumir alcohol adulterado en Irán.",
-      "source": "20 Minutos",
-      "publishedAt": "2026-11-24T21:18+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXduMFZoVWFpODkzN2Z0T1ZjNmpzcThkUTl4WlVQM1NrajV1OVB4dzBMSkpYd0FlbDZwZGhKZVU1di0wTFlrUXViZU11OUVpSTRJd0s4R0JFdUhhZ2IxSmZLSnhEUmtRWWUtSVV1UUlfWUlOeEhRbG1EQUo3OVZVbWMzZ3ZKMkVIdHVaVmNMMzVQLXNqN0tQaWpFck9CTDdURU1XMG02NnRUM2FILW1sdE1RZTFDckUwMGkwejI2aXJ2Wm_SAcgBQVVfeXFMT2ZIR3hFc2lpQUhOalFOZ3hFS0FXZW5Cd2d0ZmJ3Z2JFTmdaek9OVEFCSzhqdUd4VXhUTjk5ZlB3X1RIcmk3cXVpOTZxbUxoVFF3M2stLURpWmtkZjR1aUNiR1JVdzRkeGZDRjRJR2twb2laemJ0TGNNdllLcVBvT2tCWWR1cldLNGZNQ1BZNDlnQjBEY2JkTENGSjdjdUNuZHRZVk1wMGVXOXFRcy1IWEJzeUJEaUhJQ3UtNmVqajNwVXJXcEd3TGo?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "La Unión Europea propone vetar a los atletas rusos en un nuevo paquete de sanciones - DW.com",
-      "summary": "La Unión Europea propone vetar a atletas rusos dentro de un nuevo paquete de sanciones contra Rusia.",
+      "title": "Polonia anuncia creación de zona de exclusión aérea en la frontera con Ucrania - DW.com",
+      "summary": "Polonia ha anunciado una zona de exclusión aérea en su frontera con Ucrania.",
       "source": "DW.com",
-      "publishedAt": "2026-11-24T19:05+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXNRRTNlbDFWUkdmX0hxYXZJVkVkRDlydnlqYlpKTC1UTS04N1piV2JkRURUWGtFT2VYd1BFZTlZTmcwTDlaNFJpZzBmR2lEVEdaaF9UVC1jNTViYlFHWGVuTUVvNW5OOFNtX2pXS2pWUmp6Slk0dFNXNnhVUzJTaGxOM0Qxd2VMY0tjaUltbE00a1VyeVRmc2IwTV94WE00ZE5mYXB4SW5MLV9fa0HSAa4BQVVfeXFMTUhPTUltTW14SWtSZUcwNUJpdDlaNFU1UjM2bUVlZ0dtMUdBenUzaXJXbWJHbzlBMENfMWVZWVpTNXYxbHV2dnFsV0NUOThCY0xzVlEycVJzeW15SVR6WkdMcjBmLTJGektkVDhKZTZrUnNRZHhLUFhNeGVKNTNQQXF4b0FDUmJWVThuVWt1MUJXdnB5N3hqUW5wZ1ZpdE9DYUNQRGxzWFlydE1TMjhR?oc=5"
+      "publishedAt": "2026-11-25T22:53+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbXhHUzVNem5LMWRGN3J4SXhlX1JDalhDWjdESDBwbnFEaFZSWVhmbHkySy1lMUM4Q2hhZTNuWnc4S3JpeWZtWnVWenNhTDhQMXJ5TDNsVGxacGdIZnhUMFg1dURvLW1mcnczVS1SanNXSDNKeFJReDUxTFZBd1diYi1DcnkxU3ZZeHhwckljUTBjalhUaUQteUMwSS1pSTdrWTR5WkNsOGNUUE9sQ3ZKemNyOFRTZE5jcjVSZ1loSUdPLVVH0gHEAUFVX3lxTE45b1VYMXduMXVwVUJ3TVI3WWxRd2V4VmtFZTNnRHRTdTF4TXd1VzlvcmpTQl9NcFM2X2FxejhUWVl4YUNuVGczYmM2OUVpeDVES2xtbjRCeThPblRIdmprQU00bENscUFETEhUYkQxQk9KeWJxdXlOVWVCTkxrRnd4aWxtd01sTzVtRFlGVTVaQTNNd2ZpZS1DOTlDLWl4UzBuX0dDQ1F4V3N3NnczX1pxdi1zcG5QTVAzdUJnTlgzWnlhc0Q?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El gobierno de Trump revela nuevos aranceles para China, la UE y otros países - The New York Times",
+      "summary": "El Gobierno de Estados Unidos ha anunciado nuevos aranceles para China, la Unión Europea y otros países.",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-25T19:34+01:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHJHUkdDcl83N09mVWFma3ZteXpjYkRPUkVQbVFSRkhiV3Q0cDl6anhHX25jajlCRTU1cDJMM3ZnNTlQNWlIYkxpaW53MTdXNGxaaDVUQWlLaVVsbXVsQUpxVUoxN0ZCelpHYU9aZXgtTzBIV3hyYXpENWh5dEpQd2NIQ1RnU1BGXzdWRWtkOF9adlhX?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Brasil considera “inaceptable” propuesta de nuevos aranceles de Estados Unidos - DW.com",
+      "summary": "Brasil considera inaceptable la propuesta estadounidense de nuevos aranceles, que podría afectar a sus aviones.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-26T00:34+01:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkFJNFg0RUZPWnVXU3JOYWhJUGhiR1R4T2tIOTF2WWJ2cHpydVRqRU04TUliN2x4M19XTnl2bDd6d0ZUU2ZlSkl2c2R6clAySVNkWmVWSHVFMXhVRHpvbmZYYmVLZ25faExTSHFtLTZ0ZUtrY3llWnpjMTlpRk5tejlOTG5tMmZIS0Z3dFpKSTMyT01LRGJPRU93eHlDNmc30gGgAUFVX3lxTE9CY1BzTERYTGVCOXhOaG1sdkpNUEhra09ORS1lcTJ4QkN5OTJRTXBmNE5SdGY3Nzl0U2dwbHJnM2wwcV81Y1hpb1BxNFBMOUg4eE9Pa1lJeWl2SDQ4SFNJWGNOSzNRR01LY1BSMnNoaExuQmZTbm84OHNwU3NiZXJlbWRNWS1aSV9YSDRvUTlHaWI1QkUxU3NlUEpONTZhTHQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "COMPUTACION CUÁNTICA: la UE propone el Quantum Act, Ley Europea de Tecnologías Cuánticas, con la vista puesta en el liderazgo mundial, la traslación de I+D+i al mercado y la soberanía tecnológica - Gobierno Vasco - Euska",
+      "summary": "La Unión Europea ha propuesto una ley sobre tecnologías cuánticas para impulsar su desarrollo comercial y reforzar su autonomía tecnológica.",
+      "source": "Euskadi.eus",
+      "publishedAt": "2026-11-25T18:11+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPYU5QR3RBYWFUS1Fia1BhODZRRXVYQURkRmJpdHNpUHhJODNFOWtPZ3M4d29oNXl4SjVEcTJ2Nkg5TGFyZ2JocEdXY1ZoT2xEMDBMNE80OWxjR3A3bW1LQ0tiYjB1R0ZTeHFJMUZ2OFY5RWFsRTBEY1daOXIzQzNZWGZZbWpza0cwVW50dWVFUG9WRU9kcHRCZndZYUNId1dzUENIZ3lhckl1NXJ0NWFKSGRrSTRQMkFxX2JYeE1lcnhfdHFRM0NiUjhzbkFRU1BvY0pPdU5hRGVqTFM1TXdDTkhTV3NrWVdCWms0c1JnMVRaNXE3NjRIOTZULXVBSVZBTVZMaVREcDRDSmg4amNXcGlpUE5NaUVxcWxIUUZWYU1GdlYxRHlyS2xYYk8xeUtkSmFIRkswN2VnWVl6SFd1TVg0a2tEUnBFdktabUFkbTRzZGNWZ2lTVEdyU3QtTktPVXRuTlRGSDEzQQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "El mayor endeudamiento desde la pandemia: tensión en Alemania durante el debate presupuestario 2027 - DW.com",
+      "summary": "Alemania debate sus presupuestos de 2027 con una previsión de endeudamiento que sería la mayor desde la pandemia.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-25T22:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlpMUlRZNVhqc0VjRUdsSjZ0Vk5nM0t1WE1ZaUg3c2NxaERtcDJVa29HTXYzSjhOVmp0eExBTjRmS2traTRqZUdPd1VZNndsQ3UzaHduOXM5VTF5SVFQOHRlcWF0SFdSdzJRU2RSWmlVWnE5U3k3ckJXaVJyTjZGQ2MwR1hqT3Rubmt1MTBTNVhyZExwNkFhU2NNZm51LXBX0gGgAUFVX3lxTFAzVVlZTDhOVXdWZVpKV09XamQ1anNub1IzbXpwek1lUnNNQ2tBNlNKdi1zMEtPbTJHcWpPOEMxbXhTWU5LMThaRXJsbzctUG5QREVlbVpnN2thQzFVVFdqX0pPR05zSHVyUnBCM0RwWDA5UTY4UHpybV9DaEpfcVFsRkozd0xnUEY2YlJNWTZnVkVGN2JsUVRUdk9QTnpxMmc?oc=5"
     }
   ]
 }
