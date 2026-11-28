@@ -1,152 +1,160 @@
 {
   "schema": "viveplus.news.v1",
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T06:30+01:00",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T06:30+01:00",
   "timezone": "Europe/Madrid",
   "items": [
     {
       "section": "Cádiz",
-      "title": "Incendio en una nave de la Zona Franca en Cádiz - Diario de Cádiz",
-      "summary": "Se ha producido un incendio en una nave de la Zona Franca de Cádiz.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-26T21:06+01:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1hWZGFCOFRHUFI3TEhnbVBKVU5NakduN2VOdDJ1WDM3ZmJxQWhTMGFXWlBHRld2TEg5TC1pSC13MjhMSkE4VS1ENmVqMHF5WmxyS1Y1cUZmd1FjN1A5VkpEWWVaVW9RMzU1RFJ1YThxUTVBa2ExUmpxTmFBeVpQMHNXNlpYMWlDY1lUVtIBkgFBVV95cUxPc1dwWENZOWxPdGNvWTZhTTRfQ0tCc2VHQ0Jiemlhb1hpVWdVd3N5dGFRc0RtRzJXbEQ4NnVnXzlENXp4Q19BMU9TWHNCTGY3Q1c3VGc3aF84UGFuLUx6Y2ZQWUJ6eUdUMEJZM2VpUnNUamh1WVVieDI5NTJyNjlMYURDZXM3c0VlUFd3aVJOVTBjQQ?oc=5"
+      "title": "Pulso agónico por el escaño 'debutante' de Madrid: menos de 5.000 votos (y el CERA) decidirán la 'foto finish' del diputado 38",
+      "summary": "Cuatro partidos se disputan el nuevo escaño de Madrid, asignado a esa comunidad por peso poblacional en detrimento de Cádiz. Los sondeos apuntan a una diferencia muy estrecha que podría decidir el voto exterior.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-28T00:10+01:00",
+      "url": "https://www.elmundo.es/madrid/2026/11/28/6b096563e4d4d852058b457e.html"
     },
     {
       "section": "Cádiz",
-      "title": "Detenida una mujer en Cádiz capital por empujar a su pareja desde un tercer piso - Diario de Cádiz",
-      "summary": "Una mujer ha sido detenida en Cádiz capital por empujar a su pareja desde un tercer piso.",
+      "title": "El PSOE cierra la campaña en San Fernando con el ministro Albares: \"El domingo nos lo jugamos todo\" - Diario de Cádiz",
+      "summary": "El PSOE cerró su campaña electoral en San Fernando con la participación del ministro José Manuel Albares.",
       "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-26T19:00+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3ZLX05CMnFmVGxENkhiSGY0U3YtVFd0NU5PTEJIcDdvdFJma0FBcUpoUkg2eF9PSDlTOFFGQWU2UVNfd0Jsem1CU1ItVkdoZmtHV3BVT1hVMzBxbGprOWhuT0pwcWlJcldhTVdBX0lFZDJiZ09BeTNzR3QzWGJLdWtLNEFxX2NIUEstdnhZMVdrLXZWcVAxNUxya2J4aG5nS0VBWXdUeDItUdIBrwFBVV95cUxNV3FnczZOOTFOMVY5Y04wLU5lWXR3OEsxNlBlMGN1UzYzaEo5bGxjV0swYS1xQkhpWUdEajhaeXJUV0M1YS1ydEdGSUs2LXJQcmI5cmZxa21reC1pWHluNkduRGdBTHZTVmg4QXZvNUw4MUYxMi0zR1ZqaU5OZmNxTmhSbE1HMkN1NUJBbktzRG5rS3lybDVEVENVTXJYMHloMHNkV1JDOElfVEt5RXNB?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Lolo Picardo insta a Cavada a priorizar la vivienda para frenar la pérdida de población en San Fernando - Diario de Cádiz",
-      "summary": "Lolo Picardo ha pedido a Cavada que dé prioridad a la vivienda para frenar la pérdida de población en San Fernando.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-26T19:43+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEgydkxkREZqTXRrakRLQjIzN1NMdG5pU0ZYUVlqbUhBRExueG9pY0FJT2Zhb3ZILUV1VVh5c0dsd0w5a3JvVmZFWjZFdWtUcmIxaUp3R1dDeUZRNS1MSkZkS2dXcERXZE4xMzdVNVU2cHQyXzJzZWlUdk8zRjg2Z2pqMG1udkp5WUhUanY1QUhZTFNQMVNiM2F3dEcwZFhKVjh0UWtvSzVoOWMxRXZ1MWJmZkRucUpLMFHSAb8BQVVfeXFMTkcwSmtua2lBZlFCWU1RMkt0NHFzUFBhbTZRSElSaFBMdUFneHZ4X3NjZVZmbHoyUkhXNTAyNy1lbjNpS1lWSnVBNlVBb3BRNlpBTU45YTVOVGZ0ZmpJdmN5Z3JLWGZvcFJxZ0RmUnhlZ1dncHgxM3NDLTZFa09WSkl0WjZXWmhLbmtyOHhFZGMzT0hnWXRGTWlobVVoamwzaXJoV2oycmVoY3I3b0lFanJXeWhVM2NpSHZFOHJ0OFE?oc=5"
-    },
-    {
-      "section": "Cádiz",
-      "title": "Sube 3.000 euros la subvención del Ayuntamiento a la Federación Local de AMPAS en San Fernando - Diario de Cádiz",
-      "summary": "El Ayuntamiento de San Fernando aumenta en 3.000 euros la subvención a la Federación Local de AMPAS.",
-      "source": "Diario de Cádiz",
-      "publishedAt": "2026-11-26T19:09+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU4xVWlpb2gwOE9PeGRmSlM4SnRVb3pPak5TNy1lSnRpYWFqVjBMcVlvTVlObjBlZTlGUE5TNG5aYnIwWTlGRXBTWkFzdjdyS1YzNlNSc2ZJbGtROTRzRjZzeUFyUnVnY2lQT19NREZnNkF2Y2hnWmdEdTFYeVh3VGRibklUYnZLVkV1clZ3ZVkwVlR1ZmZfdm9wMUx2SG92empTNzdMN3VsRnROeVBZVTUySERqNFZB0gG-AUFVX3lxTE1aYWdQVWZ5Z254djd2QXd1RW13c1E2dndvT09UT3p4a0VEVzlfcmhYYzZLcTRnOUFBLTNzT2F4Z1lZaVpJT0duNjZKMjNpSkcwUjBpcVNpUXVUTlF5VFZERGdLTmhpdExxQjB0WVNHdktGMDF4NE83YldBdzdRcEdqbGs4dlVmNVZBTllBb1Y1TGswZkV0Sm5fRUo0d0NSb2VwdWtBV1h1d2Jza21XOW82OVc5aFROUE9YR012WHc?oc=5"
+      "publishedAt": "2026-11-27T21:21+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3JlV0s0Z0hrbVI3VGVpaGtWYlVOU25mWXhEN3JiaEpweDJvTTBXeXNpenlnVU40ekM0MkV0ZUtsYXpiR0daUk4ydm5DdTJ0VU02Tmx4RHdvaE9yS1pPVjdzbUFHU1IwR0phc2dZMFlHWUpINGFuS1JvbU01N0N6ZGtCRndUSWlON2JDOGRsNmx3aHRLODBDQTREc1JwQ3VKSTRHNEh2YnZELUFm0gGyAUFVX3lxTE1YNTFsSEhOS1I0VUJZVUxTMGlCa2xYVGladk5TVWFKTkl6VjVCUkJFaFVCbVFfdjJjWkV6a3FUaFA1M0pTZmc5QURQOVNaRDAyMlNpeFo2QXlMRUxUWmYyS2ZiSmVrbHpfbG92M2xPVXZfenNNbVF3S0pKNFB5bURrdnB5bHA1ME93SGJtUWNYeUwyWVlDOU91d0Y3VXpPRlY5Y0Q4UHRjN0p1MDh5SkJ2TGc?oc=5"
     },
     {
       "section": "España",
-      "title": "La amenaza del buque turco naufragado frente a Ibiza: volcó en sólo media hora tras una entrada masiva de agua en pleno temporal",
-      "summary": "El buque turco naufragado frente a Ibiza permanece volcado y a flote con 7.000 toneladas de gasóleo en su depósito. Salvamento Marítimo lo ha amarrado al Clara Campoamor y prevé remolcarlo a puerto para vaciar su carga.",
+      "title": "Renfe fue advertida hace un año del desgaste de las ruedas de sus trenes",
+      "summary": "Las empresas encargadas del mantenimiento de trenes de Cercanías advirtieron hace un año a Renfe de que el desgaste de las ruedas estaba al límite. El operador ha reajustado servicios para reforzar el mantenimiento.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-27T00:49+01:00",
-      "url": "https://www.elmundo.es/baleares/2026/11/27/6b089132e4d4d82d528b458d.html"
+      "publishedAt": "2026-11-28T01:36+01:00",
+      "url": "https://www.elmundo.es/economia/2026/11/28/6b09cebbe9cf4a055a8b457a.html"
     },
     {
       "section": "España",
-      "title": "Cae una banda de 'caseros de quita y pon': alquilaban pisos vacacionales para estafar a quienes buscaban casa en Madrid",
-      "summary": "Desarticulada en Madrid una banda acusada de alquilar pisos vacacionales para estafar a personas que buscaban vivienda. Se atribuye a tres sospechosos un fraude de 80.000 euros a 36 víctimas.",
+      "title": "La polémica de los 'nietos' no acaba el 29-N: sus votos serán guardados en las juntas provinciales pero no se contabilizarán por el orden del Supremo",
+      "summary": "Los votos de 163.355 ciudadanos afectados por una orden del Supremo se guardarán en las juntas provinciales, pero no se contabilizarán en las elecciones del domingo.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-27T00:01+01:00",
-      "url": "https://www.elmundo.es/madrid/2026/11/27/6b0872ecfc6c83744c8b45b3.html"
+      "publishedAt": "2026-11-27T22:45+01:00",
+      "url": "https://www.elmundo.es/espana/2026/11/27/6b09e625fc6c83cf3e8b458c.html"
     },
     {
       "section": "España",
-      "title": "Koldo y familia permanecen imputados: la Audiencia Nacional rechaza sus peticiones de sobreseimiento - El Mundo",
-      "summary": "La Audiencia Nacional ha rechazado las peticiones de sobreseimiento de Koldo y sus familiares, que continúan imputados.",
+      "title": "Sánchez deja en un mes una mochila de más 6.000 millones en gasto en Defensa para la próxima legislatura y deja sin margen al Ministerio",
+      "summary": "El Gobierno ha comprometido más de 6.000 millones de euros en créditos para Defensa que recaerán sobre la próxima legislatura, dentro de un plan de casi 20.000 millones.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-26T20:13+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HNGt0cHk3RDNtQzRFYnlnX1FtTVJTSEl6Y0ctenRJRjlzXzdFakhKeTNjcGN6UDJNSDd2aDA0RUlfSXFUaTVhWlZXNkhKcDZGeUE2OTRhaENpVjZoSngxb3RIMW9Gdk4wRGJ2eHlBQ0ZPakNTS3BiYW9n0gF6QVVfeXFMTVNrdWJtV2RBcExPX20ydzB4Rk5nX1o4Zmh5Uzk2aG92TlBYbHUxMFZqMGEydmJBTWhfekMzRzVaeWtWbTBwMlh5N2FlYTVrQUhHdEo2QUtpWUJjbzgwSzk4UGFJM1BPNHJLbGlmaUhPVGxIc3Z3LWZEN3c?oc=5"
+      "publishedAt": "2026-11-28T01:36+01:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/28/6b09a17ce9cf4a3f3c8b45b0.html"
     },
     {
       "section": "España",
-      "title": "Así convenció Hernández de Cos incluso a los halcones del norte para presidir el BCE: el Gobierno no le apoyó desde el principio y \"la mayor parte del trabajo la hizo él\"",
-      "summary": "Hernández de Cos ha sido nombrado presidente del Banco Central Europeo. Según la información publicada, el Gobierno español no apoyó su candidatura desde el principio.",
+      "title": "Salvamento Marítimo halla varios fallecidos en un cayuco rescatado a 62 kilómetros de El Hierro - El Mundo",
+      "summary": "Salvamento Marítimo encontró varios fallecidos en un cayuco rescatado a 62 kilómetros de El Hierro.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-26T22:02+01:00",
-      "url": "https://www.elmundo.es/economia/2026/11/26/6b085e9ae4d4d8580a8b45ae.html"
+      "publishedAt": "2026-11-27T13:56+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTDVQTkxObzhDdFI2cnoyWDRIWllmOVNqcXJNRzRUMnlqNEoyZGFvcXF1X0RPV3YxVHZSNmlWY0p5UFMxUG5UUFAxaG9XbVJBTnhNY29RRUdKSWRqVWh3Y096aHAydEFGcC0wVVN2NkJ5VVF4X25PWWZ30gF6QVVfeXFMTjhsdVlmdk54R2Jyd1J5b0ZaZkxIYWxxQ2UyeUwtMzJIWE9kT1BaNS10SkFXWnp6WEV4TXR1bmJJWHdkZ2JRdGtFUE41ZUJnQ01STHQ5UFpZVEM4b2hjNUxXc2ZfV2FCUEtFUkR3cXgyYUI0d1hjVWdYYlE?oc=5"
     },
     {
       "section": "España",
-      "title": "Feijóo resiste los ataques de la pinza de Sánchez y Colau con Abascal por libre",
-      "summary": "Sánchez, Feijóo, Abascal y Colau participaron en un debate a cuatro marcado por el enfrentamiento entre bloques. Sánchez y Colau dirigieron sus críticas a Feijóo, mientras Abascal mantuvo una posición propia.",
+      "title": "Condenado a dos penas de prisión permanente el hombre que mató a su mujer y sus dos hijos en Las Pedroñeras (Cuenca) - El Mundo",
+      "summary": "Un hombre ha sido condenado a dos penas de prisión permanente por matar a su mujer y a sus dos hijos en Las Pedroñeras, Cuenca.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-27T00:37+01:00",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b0881cae85eced65b8b45a2.html"
+      "publishedAt": "2026-11-27T12:46+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXa08zazVhMHkzYnY2dF9TRkIyM2VzQjNrdkhhNVZwQXpLSGo0TmJiNm1vbXJtN2JWZXN1ZFZEYk11S0NVc2U2QlF4V1JrVTZfakdqWldwUWUzWmNWS2g5Y3VrMWxfQ3ZmQ1BLNmlBTGVKRThGTE44cmRR0gF6QVVfeXFMTkhDR0dCbWFmTHBzeldON2VKQ01IT1pvMi01SGI3TktXLWd6YXBYV2JJT1RJamI1QlBITkd5Sno3VDZKWlhDS1JsVjJXdjhmTmlCT0VzbXVBTFFRcWtYb281YUQ1ZGdrMDUxdnVmSGdKaFZIWHRSeklZT1E?oc=5"
     },
     {
       "section": "España",
-      "title": "Suben todos los cereales en la lonja de León - Asaja Castilla y León",
-      "summary": "Todos los cereales suben en la lonja de León; el maíz vuelve a cotizar con un precio de 252 euros por tonelada.",
-      "source": "Asaja Castilla y León",
-      "publishedAt": "2026-11-26T23:25+01:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmVURFN4RzBGaDZ6cldGMk5VQl92d24ySFZLOXZDVU1uRkVzcEs1WXdkOG1IYmJrRkYwX3g1VVZZLXo0cGtVVkdpd3o4c1haTFROcGNmZE54elFtaWVFTUR3Mnd0S3BCLWYxV1AwRGhlQktwaVRlbVFNdXM5NkpPeVp0MHl2V3pmaGNicFV0TldrQXRqRlZQTzU5S0NHNkZ0STFF?oc=5"
+      "title": "Cuando se baja la guardia frente al sarampión: la pérdida del estatus de eliminación en España, EEUU y Reino Unido",
+      "summary": "España ha perdido el estatus de país libre de sarampión. La OMS alerta de brotes y de brechas en la cobertura de vacunación.",
+      "source": "El Mundo",
+      "publishedAt": "2026-11-27T18:23+01:00",
+      "url": "https://www.elmundo.es/salud/2026/11/27/6b09a3b5fdddff4f258b45a1.html"
     },
     {
       "section": "Mundo",
-      "title": "Al menos un muerto y tres desaparecidos en el naufragio de un buque de mercancías en la costa de Cuba - RTVE.es",
-      "summary": "El naufragio de un buque de mercancías frente a la costa de Cuba ha dejado al menos un muerto y tres desaparecidos. El barco, de bandera panameña, transportaba 208 contenedores.",
+      "title": "Taiwán inicia elecciones locales con reñida disputa por la capital Taipéi - DW.com",
+      "summary": "Taiwán celebra elecciones locales con una disputa reñida por Taipéi, en un contexto de creciente presión de China sobre la isla.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-28T06:03+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObTZ4ZHlDWnJ5TFFicXc2MERrckVEMjR1Wk9kQ0x5WTk5NFd1SDZXcmIzRE96YWgxbDVwcjFTdEk3VmM4U2ZVczFfZjFqb3VIZzJQX1NwTXctZ2VHcWN2ZEV0TTY4MmNOYy1KWjMxTmJJdFlPTllfb2llc1UtWDVXdjl0NllPb3ItRUJqSXpkUm1jbTBWMkYyOTBRQWlBSUtuOVRUd2dQZDJJSG53YkEySXoxN0VFdk9CWE03RmFCTlliS1lZVVBvVdIByAFBVV95cUxPRF9Xc08zeG5mSzBOcWFEa1BCazNwWld1aU0wY1Z0QVo5RnhBZWRqdE9lYXZMalc4ZVNKVUs0T19jX0RJcDNVamZzcENuSkdmNW1DWWNGdFZEZ0FMR1FuY2tNeF95dFBUNDlpc3ozNy1YR3pHX1ZEX0pWUTdZWVBETFBJTWdZdkh6TGcyRm1pWTdOdXRPTHNmVXRFc2tOdVVHdHJOTExUWjM2ZkQwSmlNcHFxUG1vdmJwWlBzdU5fd1pBTWR4R1d0TQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Israel afirma que mató a dos \"terroristas\" que trabajaban para MSF en Gaza - DW.com",
+      "summary": "Dos empleados palestinos de Médicos Sin Fronteras murieron en un bombardeo israelí en Gaza. Israel afirma que eran miembros de grupos terroristas.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-28T05:24+01:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnNGLW5fQzdLTU16WTR0Qk42TlZkb05FT3JRQ1VsM3c4dldGSnFmWFU1UURsdXdVN3UxdW9MRERhU0JRRF9lLU9IN2hxZS1GR20zamVLcWFRMDdaM090U0FrYklFRkZaS2I1c0o3THB5UjBFaHE1M0JFbDdvOFFLMXVLUDk4dWNnZkRDczlSR21ZLXBaMllrd2VzUEI2Y19acTdpVDlPb3AzRGUtNzBkbHFTWlVhTjFtV1N3eDhsZE5qT3QtaWxwc2RnSkl4UdIBzgFBVV95cUxOckJHWm5LWWhHb1BjV2F0NVFrT2NKQ1lsbkZ5QVZEcG9xTF9oNkRZWnJIeUVfYTdseHc2UElvbG9oT1NfZXZnYWlzZlE5cmJYRko4RWJXdDBHcXRtV1djSUo0djk0cGFGNHZUOURxUUFwMFQxeEdlc0x1eURWQVIxYmRCTTk0SlJOMTJPVWNmd1BzQktvc1FaYjhWVEVyRzBmVDFRc2RLWjAwZWVzWkZFLWxrS2dDeWtWZ2pBaHFQb0lpZkdFZWR3M3V0ckp0dw?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Putin pone en servicio el submarino de propulsión nuclear Perm - DW.com",
+      "summary": "Rusia ha puesto en servicio el submarino de propulsión nuclear Perm, una nueva incorporación a su capacidad militar.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-28T02:45+01:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRjBFWm9jMGRTdEQyTHd2WXgzVUttLWMxa1NQRUxzN2hJS2s5LXJKNmxYSVRseGE2bTA0ZTYyVWk3SDNVQ2dvTDhrc1BLcXpHOTN5Um1QVjN1TkxYczZaeklVVFZBWTE0MVc3NFF2anRBTS1fS2NzX3RzU3JzUm_SAX9BVV95cUxQeVR3Y0tySDNzZjBmRmRHZERDVWhvdDZ4Q1lUZkhZTzdfQ2stWEE5QUs4RDBXR1JVdkROeU9oaU5zVzI5MG1KUkk0TURQakZycVh6VER5Nm1BaHFyRURkUmVDUUQzUDVPazBtNm1pVDdLNUdCcER5NzVPLWNrSWZN?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "La Fuerza Aérea de EE.UU. sufrió un hackeo según PBS y NBC - RTVE.es",
+      "summary": "La Fuerza Aérea de Estados Unidos sufrió un ataque informático, según informaciones de PBS y NBC. El acceso afectó a una de sus plataformas digitales.",
       "source": "RTVE.es",
-      "publishedAt": "2026-11-27T04:42+01:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTEyOE5yN281b2g2c3ZBTVFFV1lZUm42LWZkRUU3dm5LYlNKNWNpdkoxSEFsSmR4MFRDbzRlcnF3ODZxX3h6SW03QnBwRkk1SDZCMGtSclpKcjY3UlVXYU5ueERTQnQwN1pFbmVVOGZiMlgxS2lPYmc5emYtVDhuNmdsX1d5Sm13Y3d4aw?oc=5"
+      "publishedAt": "2026-11-28T02:34+01:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3dzcEFOcm56SDNMbW5tUzZaaENHTHhDdGdWQ2ZxQWhGeDhNV2FmODBiQ1FlSmRzSWZSUUtpWWZ5YXV3b0s0MllxYkRTZlFzbFFxRTBWYUZ2Q0d5eGtJa0ROc0JEWEtPX2ZBMkYzNEZySTlZTDBEVGctWXJjVTlHdFR0cTMycUUzX2xhMVVRX3JoekVMaVVtZXV2NDc5elE?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Alemania fabricará drones ucranianos mientras Kiev amplía su cooperación militar con Europa - DW.com",
-      "summary": "Alemania fabricará drones ucranianos en el marco de una ampliación de la cooperación militar entre Kiev y países europeos.",
-      "source": "DW.com",
-      "publishedAt": "2026-11-27T02:36+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUxmbW5feWxkbUpSVVRsajZ4UUF5ekxLOF9zVXVnWW1odWF0aUZxdndpWEREZGRTb0g5Q0xXbVRCZEZnS0lXbXNYMGl6aUI1d2tqbFh4bnVJbDl2ZnhMaVFVNzZ4YmlabkhYMTB1RFFVX1NnRlhSd3dTV3pMYUZFWHpLRmtWdmduSEFwalR2VlVKelpHdUNkeNIBmAFBVV95cUxPX2YzMUNocXZzMGhCR19uc1FYT0o3M2VkMTl3ai1YZG5GZkpWc1d4ZFNlVnM1WVB3N29SN2J2QWF4ZFE5cUpRX2tKNzc5UGpuQllKX2hCMHNJWTNrdXpOaENkYVllcTM1NENjR081QmVEaEpudnVUVFJJOEczZkxGZEc1eDQ1azk5VU1LUXlNVlNwVGo4OWJyUA?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "title": "El bloqueo estadounidense empuja a Irán hacia el frío, la inflación y la calle",
-      "summary": "Los cortes de luz, la escasez de gas y una inflación cercana al 90 % alimentan el descontento en Irán en medio del bloqueo estadounidense.",
+      "title": "Trump resucita la guerra comercial contra China: una ofensiva de aranceles y chips que golpea también a sus aliados",
+      "summary": "Washington amenaza a China con nuevos aranceles y restricciones sobre los chips de inteligencia artificial. Pekín advierte de posibles represalias.",
       "source": "El Mundo",
-      "publishedAt": "2026-11-26T22:00+01:00",
-      "url": "https://www.elmundo.es/internacional/2026/11/26/6b07f2d021efa060698b4596.html"
+      "publishedAt": "2026-11-28T01:36+01:00",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/28/6b080af9fc6c833c0c8b45a9.html"
     },
     {
       "section": "Mundo",
-      "title": "Israel intensifica los asesinatos en Gaza mientras EE.UU. insta a Netanyahu a avanzar con el plan de alto el fuego - CNN en Español",
-      "summary": "Israel intensifica sus ataques en Gaza mientras Estados Unidos pide a Netanyahu que avance en el plan de alto el fuego.",
-      "source": "CNN en Español",
-      "publishedAt": "2026-11-26T20:01+01:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjI2Q2x0al9ab3kxNFdWME9maW1vODJXSnN2ZzVWdXZsNHptT1RVZ0JoajZHMG10YjdsOXp3THI3ZTVoWVpxUFRwTUZxbXJnQUFfRGlVVlhWNW54RmVEcHZGcjE2cVoxUFczbXQySnIwdm1mR2Q3NkFCN3dqT2p4RVlEdw?oc=5"
+      "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos - BBC",
+      "summary": "Costa Rica impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos.",
+      "source": "BBC",
+      "publishedAt": "2026-11-28T01:22+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kR2haSlB4ZDQzMTlBRkdpcnE4emJhd2UzUmlwSEhKUVBkT2FYVGg3NU0xc1ZaR1dHbUtYMThTY1hBZmdMLUdxUHFma3JOVXFJRXROU0lDWl9zWFRZ0gFiQVVfeXFMTUVvZUVXSUVOaDBLRDZnUmlHcmVzMjl3WjdyUTBONUtZbmtrQzg1cTJCT1hKSC0xcEtCSmpRR19LaUJqMWRuaWhDT3ZVUEJRamtSeXpNclI5UUtwdWRrdHZQWnc?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "La UE debate cómo financiar el préstamo de 45.000 millones a Ucrania - Euronews.com",
-      "summary": "La Unión Europea debate cómo financiar un préstamo de 45.000 millones de euros a Ucrania.",
-      "source": "Euronews.com",
-      "publishedAt": "2026-11-26T18:35+01:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdEo3anFnLV9Fd1Jfd3ZzaWozOElFOWpjR0E2cTczVnBCRUNhRlNlSXo0enBSa01LYlRIWWV5cmVxRFREV2JxRS1oS0M1UGFVV1VEaWhMYlVRSFFGWFZpbUlSUjRNVmEyN0lHQ2c3UUFIOWFFWDY4aHhzdk5tZC1DQ05fUHJnNF9QeF93dnoxTVRqSDVwdWxxclFaVzZObm1jeElrZmpmd1FwalFM?oc=5"
+      "title": "Meloni expresa su preocupación a Zelenski por ataque en Libia al amenazar el Mediterráneo - SWI swissinfo.ch",
+      "summary": "La primera ministra italiana expresó a Zelenski su preocupación por un ataque cerca de Libia y por sus posibles consecuencias para el Mediterráneo.",
+      "source": "SWI swissinfo.ch",
+      "publishedAt": "2026-11-27T19:54+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVBMcDRSaVpFNGNDS2NSSXc1MVJvQXdIRmdyeW82djRMbElxMXY0bHJBR0hUUDd6Z3Z5TlR2NmozSmg2blFFQVU0a0dST3VxWnJVcUVJT0pDcFV1bnFwRVZvY2JGcGZkTzlXdV9fVi1ZYVZGcUlLMy1vdkk3WDd3SGoxdkk1Z0l4NTNqSS0wbXFzdTBraUM0V2NVbXRaa25vUkxqdV9yZ1QxSksteF9DMVBiUlEzTUppdUlxSGNIQlBjMkRsc256OHhmbG9qcUxnaWtB?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "Rusia envía los cuerpos de 250 soldados ucranianos y recibe 22 en canje - DW.com",
-      "summary": "Rusia y Ucrania han intercambiado restos de soldados fallecidos: Moscú ha entregado los cuerpos de 250 militares ucranianos y ha recibido 22.",
+      "title": "Un robot halla en la fosa de las Marianas erupciones explosivas que la ciencia daba por imposibles - DW.com",
+      "summary": "Un robot halló indicios de erupciones volcánicas explosivas a más de 6.000 metros de profundidad en la fosa de las Marianas, un fenómeno que se consideraba imposible a esa profundidad.",
       "source": "DW.com",
-      "publishedAt": "2026-11-26T17:33+01:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSS1OSjU3SE9tS2s3enUyX2JkbWpwcTRFNFBsX0QzUEh1QkUzdTFCSFNxRkJVSWZadVA0XzVwZWhXMzk2emxONkozLWNsTTQ4alRjQ2l1THl6ZnFHaWY3RDJEczJfZDFYSlNKS0V0X3o5dzV0dWZ1d3l1Rlk4R21fQjNfUzR3MF9qbW5MbWltQnVlQ0o5WmM3TtIBmAFBVV95cUxOVTJPbG5RQ2tQYWtpbjhNTTlJUkJqOUN2Vi1rUDh0UVk4TGtNUzJndHc0N3Q2NjhtM0tmcUdGOWdnbUtkWno4Mk92RkJjcWc1dmRRejNMd2MyQmdFN2ZpbEhKazdWTXNYT0k1NEMxZVBPMVZHZlQtQU9NdFd4cExaaHoyenMyZ2NpSU5ZR3ZsOXl1WktqNVJzOQ?oc=5"
+      "publishedAt": "2026-11-27T19:08+01:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWM1UjJmUmpsaVB0OThLbFViSlhYMG9OOHNRaVIwN21iMWF4RjVXZ2NrRG1jLVhra2xiN3I3TXJjREl3TFhyTjd0V0tvOHFELVVZTmNjX2hGejhBRTkzSUFnczZ6bFVZSm1CT2YtR1Q4Vy1iZ2ZzeUcyamRpc0FJNUl5bWJreER6VVdFYXF2MWtqdUV6WE1nM2FveFp6N0dEWkVBTTdLOWRQOV9hMlR6QjJkbUJkcWtfNEMwVWMwbzhucUnSAcMBQVVfeXFMUDF0NW5WWEVldmZQS1RKc0kzcmRVM0JPX1JzN2NONm10Sno4V2RVWi1DRFp5eXhoaW02ZDlSai0zTEs2YzJqYmtzZVdLczRMRGh3SzFYUDh4UDh3bS1ibWZONkhCNmRzTDN3dG4xT094UXRYMGhFM1A5RmdnUWhXUUE0Uzh3V1hyc3hGRDV5TzNadTNwU0FKU0EzMUs5Vjl2U2xJdUFWdk1fZHVxVm5xZ3hXekVKWlB4QlVXek1odWI1blFN?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "El blindaje «antibrexiters» del nuevo acuerdo comercial entre el Reino Unido y la UE - La Voz de Galicia",
-      "summary": "Un nuevo acuerdo comercial entre el Reino Unido y la Unión Europea incorpora medidas para protegerlo frente a futuros cambios políticos, según la información publicada.",
-      "source": "La Voz de Galicia",
-      "publishedAt": "2026-11-26T21:23+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSm5sY3Jqa2llQUktVnRXNFdrTDVTVzNsOVI4cDNwNjJMQXlZN25MZjVjaWpZNUpFLWtDeGVFcW1Bd1I1OW9ENFVicjJsejUxWHhpaG9sNTJtbzhaemxOTkY1a1JkaHBDVldVcUN0czFISzFLN3NXLTQ3Y3Fhb2lXVTRvbzRPVTdOYUZpVzdac2tpY2d0SnJreENzTUV6RHhkbWVMM2tIYnlQQjRxdjFFVXg3T0x5UGFpX2ZhYWlLbmVnTGltb0hPT0dORjBSNnV6ek9BZE1PQQ?oc=5"
+      "title": "Alemania aprueba el presupuesto para 2027 y da luz verde a un mayor gasto y endeudamiento - DW.com",
+      "summary": "Alemania aprobó su presupuesto para 2027, que contempla un aumento del gasto y del endeudamiento.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-27T18:03+01:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOazdXYkN2MlVTSERYYzhOT2ZtTTdoV3Y1TUZDOXRIQmZ3LS0tQTBzdXVDbk5iUGw3ejk0eVR6NGczRWZTbjVWWGFqLXZYNFNQbnBfUmJvU3FVTmNtSHpZV0FXZnhpYUNwSDB0Yk15U0xnX1R2U0lqbTJKQ1JGTWJvSGtFNVlTMVFRUnhxT21DR1NJdEtOZHdoNjMtSFRoVzJEbHd6ZERJRGtpSmFGYi1rT2NjQXpMS3N6UUd4TVlnSWhCdVAzdEc4S1oyU0h5LWd5RXJ4Z3ZCTVlsdUnSAdsBQVVfeXFMTUI0UVhTdTEtWTk4NGMtM0FTVzhZZnA4VTVoNF9BZ19ZV25pUllEM2Z6cWdTMUMtY0IzWWZLMk45OEUwUFJkTzg3cWFnc18xcVFTM2JHdmtPUGVvT0x0UUF6RVZUemtILXZrRVVBMmtNUHVXcDQ0dkI3Y2R0WXRoWkFWaTh3emRRWmdfcWFDdnBEbTkzcldHUFhOUGlKUjVIZkx2bVdlU2d4R2ZKX1IzbXVXc3JpTWNWaWNSVVZIYXBvNFRQYXI0WjFGZkg2UFktMExNTHY1aEZ1UHpF?oc=5"
     },
     {
       "section": "Mundo",
-      "title": "'Olga', una tuneladora de 2.600 toneladas y 183 metros de longitud, completa el último tramo del túnel ferroviario más ambicioso de Europa - Xataka",
-      "summary": "Una tuneladora ha completado el último tramo de excavación del túnel ferroviario de base del Brennero, bajo los Alpes.",
-      "source": "Xataka",
-      "publishedAt": "2026-11-26T17:07+01:00",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlF6blJ1aENYYjN5MEZNaE5yR0lVdHVLdThKeGZXNGZUaDR1VUxPZmZVbV9VTjdjQVBMOWFqZUJicm9CSFlPcm91RVA2V2xiZFhla2NTUWVLMFhxMno0ZEpXY3VjaklOOXdmRmdudkpEQjllNFFMSkF5ZnRZbGExcms5Q20wYmJNdHRwUXl2STR2YkgwRVVucVI5SnFoVHlHaW1aa3oydGpMRy1VSEFUanIzdDNzd0hEU3ExRUcyMFl1THRuVTRRM2p4bUJVWG43Nll3MFJ5Yll2dzl3c0s2amthVlhpcFdQLTg0MGNBMlRpOFR3X3fSAfsBQVVfeXFMUGxOWDlodG8zYzJvNHhNQkdTenNCdWdRU2o2Q1A4VFZqWDRySlpacWRad0h1V1l3OGJpcFJRa0MtQVdtNlZNZmZmU2dHMEhWX2ttSnRkaGtCdW00Vl9TZkxnQWxGT1ZQM2N2RWtpQWdrOFNxLXQxdGpRVHlPbllTbnh2ZVpPSThlZW1nZmhRZjJBa0tfTXMtZlBwX1FhREpmMmtBNHdITlFKaTBHRVlQTk9EMFR0NTVfUWV4SHI2djAzMDF1UU13ZUhYRDJOdGEyc2JhUzd5Tl8wRHNhR3JXOTVTMS1Fam1sOFVybHo1bURhTmxpMmpCVGs5SDA?oc=5"
+      "title": "Brasil celebra el nacimiento de un guacamayo de Spix en cautiverio, una especie al borde de la extinción - DW.com",
+      "summary": "Ha nacido en cautividad en Brasil un guacamayo de Spix, especie al borde de la extinción. El nacimiento ofrece una nueva oportunidad para su conservación.",
+      "source": "DW.com",
+      "publishedAt": "2026-11-27T17:27+01:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFF5RF95eVNhRDFnbG1UWDZMdVY2VUI5TTFacXBUUjB3YUJjMXRYMm9XbFZDRVRaYVY3ZFRVUDh5OS05WFZzNmZ1bnhRVTFuYWpQdmJWcEpvYWlJTl8yNzdKWjUyNndQTmZLQUFzZFlKRWl2NzAxQk53d2RUZFVXSkRkdm9tb2hFaE14N2ZBeEpjWk1rSVFReHRIQVpkeUlpRE4zMy1ibDVCY3Exd0RZ0gGvAUFVX3lxTE56QWZTSlF5TVRRczZ3S2dILUFXQnpwVmxEZjJVc0ZTMUF0dVJhUDc2LVZ2X1Q4NWIxcXlheFh1X1dFd2hwYjNfb0dhYVBBeVQxcnNJaDcwRGRWel9uT0RFMUtiQ3BHMVIwd211TnU1QnpCTmtxRmtXbjlta1A5ajU2RGxFQlpvcmcyaTIyVm90NFhNMFNqQkVCOFdZa05Pb3RvYl9nTFREb2J2U3k4VDQ?oc=5"
+    },
+    {
+      "section": "Mundo",
+      "title": "Los conflictos y El Niño agravan el hambre en el mundo, advierte la ONU - France 24",
+      "summary": "La ONU advierte de que los conflictos y el fenómeno de El Niño están agravando el hambre en el mundo.",
+      "source": "France 24",
+      "publishedAt": "2026-11-27T15:49+01:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzNoTXUxaW9kMFZBSGRyeHhyOWNfQmdaNks2MjBrdTJ6YmZDV29aSTNKWEw2SldkTExaMVdyMk9OM2VZT19GT0NsMHIwcUc3dDRUZUJRTGg3UlFRRmt6Ul81T0g2bGhuYnliS2thbzRqVEo5NGZlNzFubHRhUFJlZFhCU2JsTUk5TVZISzJETEJEZ1Y3RFBDOXpXM2UyUW82UkVDdkJlbURDcEVxYzZkX0xrMmgyWjEya1ExNE5wUGpVN2gzMll3?oc=5"
     }
   ]
 }
